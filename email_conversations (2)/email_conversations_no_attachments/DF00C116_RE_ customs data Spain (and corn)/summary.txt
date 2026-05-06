@@ -1,0 +1,5 @@
+**Problem**: The customer reported discrepancies in corn data between the downloadable Excel file and the viewer in the tradematrix section, with the Excel showing 179,541 and the viewer showing 179,512. Additionally, the soybean and soybean meal forward projections were not displaying correctly.
+
+**Context**: The customer is an external user from a management company. The issue involves the tradematrix feature of a data service provided by a service provider. The customer previously experienced issues with data refresh scheduling, which has now been resolved, but new discrepancies have arisen.
+
+**Solution**: The support team confirmed that the soybean and soybean meal forward projections are now correctly displayed in the tradematrix. They are still investigating the corn data discrepancies. The customer was advised to remain patient while the issue is being resolved.

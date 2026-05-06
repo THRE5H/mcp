@@ -1,0 +1,5 @@
+**Problem**: The customer reported issues with the Indonesia lineup feature, specifically that selecting only China did not filter the graph correctly. They also questioned the clarity of the time display in the legend when viewing the last six months.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team regarding a data visualization feature. The issue involves the functionality of a graph that aggregates data from multiple regions.
+
+**Solution**: The Support Agent confirmed that the issue should be resolved. It is recommended to verify the graph's filtering capabilities and to ensure that the time display format meets user expectations for clarity.

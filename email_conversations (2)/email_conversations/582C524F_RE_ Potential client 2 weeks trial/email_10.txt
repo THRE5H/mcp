@@ -1,0 +1,24 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-08-20 10:30:45.838000+00:00
+Subject: Potential client 2 weeks trial
+Message-ID: GVAP278MB024670C1D428B0875C9632959433A@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Saber, 
+
+Can you setup one of the demo accounts for a trial for the following user: acsing1980@gmail.com (Name: Anuj)
+
+Here are the resources to share with him:
+
+
+1.	
+	Freight prices from Jun 2025 until the end of the trial so 2 weeks in the future from the start date (Only soft wheat product)
+2.	
+	SRW Wheat and HRW Wheat FOB prices Rouen and US Gulf (Data is in the dashboard under Economics -> Wheat -> Cash) (since Jun 2025 until 2 weeks in the future, just the underlying dataset not the dashboards)
+
+
+    
+Best, 
+Asfoury 

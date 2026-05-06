@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new team member to the email distribution list for weekly reports.
+
+**Context**: The user is an external user from a Customer Organization. The product involved is an email distribution list related to weekly reports. The new team member is set to join the Customer Organization the following week.
+
+**Solution**: The Support Team confirmed that the new team member was added to the distribution list and a user account was created for him on the platform. They also offered a platform demo session to familiarize him with its features, ensuring he has the necessary support moving forward.

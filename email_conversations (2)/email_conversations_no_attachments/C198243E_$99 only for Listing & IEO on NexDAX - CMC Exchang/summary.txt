@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the listing and Initial Exchange Offering (IEO) services offered by a cryptocurrency exchange, specifically seeking details about pricing and the process involved.
+
+**Context**: The user is an external user interested in listing a token on a cryptocurrency exchange (NexDAX). The email outlines various pricing packages and promotional offers for listing and IEO services, targeting a broad audience of potential investors.
+
+**Solution**: The support team provided detailed pricing information and package descriptions for listing and IEO services. The customer was advised to submit a request via the exchange's website for further assistance and to ensure they meet the necessary requirements for listing their token.

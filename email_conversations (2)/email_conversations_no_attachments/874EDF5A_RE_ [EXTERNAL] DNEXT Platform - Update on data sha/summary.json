@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experienced issues accessing aggregated trade flow data via API using new resource codes after a platform update changed dataset and trade flow UIDs.",
+    "solution": "To correctly access aggregated TradeMatrix data via the DNEXT API after the update, use the provided Python script which: 1) Authenticates with the API using email, password, and environment name to obtain a token; 2) Submits a POST request to the aggregation download endpoint with the new trade flow code; 3) Polls the task status until the data is ready; 4) Downloads the CSV data from the returned URL; 5) Loads the data into a pandas DataFrame. Replace placeholders for email, password, and environment in the script accordingly. This method handles the changed URL structure for aggregated data downloads and ensures successful data retrieval.",
+    "keywords": [
+      "DNEXT",
+      "API",
+      "TradeMatrix",
+      "trade flow",
+      "aggregation",
+      "download",
+      "Python script",
+      "authentication",
+      "token",
+      "task polling",
+      "CSV",
+      "data retrieval",
+      "resource code update",
+      "UID change"
+    ],
+    "category": "How-to Guide"
+  }
+}

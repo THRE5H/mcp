@@ -1,0 +1,92 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-09-04 14:29:32.700000+00:00
+Subject: RE: New Client: TERUVA
+Message-ID: GVAP278MB067747CE6DD80242171B255F8800A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12269A42E91DB4858B96C441F506A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Here are the two users to create in Teruva environment:
+
+ 
+
+Omar
+
+Dbab
+
+omdb@teruva-trading.com
+
+Leandro 
+
+Racedo
+
+lera@teruva-trading.com
+
+ 
+
+I need to check the setup before sending this profiles to the users. This can be done tomorrow (Friday).
+
+ 
+
+Thanks
+
+Sami
+
+ 
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: mardi, 2 septembre 2025 18:58
+To: Sami Jaballah <sami.jaballah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: New Client: TERUVA
+
+ 
+
+Hello Sami, 
+
+ 
+
+Do we already have the list of users ? If so, we can proceed with creating them.
+
+ 
+
+Thanks, 
+
+Jebrane.
+
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: 02 September 2025 15:18
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: New Client: TERUVA 
+
+ 
+
+Hello,
+
+ 
+
+The DevOps team created the environment: TERUVA.
+
+
+Could you please setup the environment:
+
+*	Commodities:  corn, soy, soybeans, soybean meal and wheat  -> Same as PACIFICOR
+*	Start date: 03.09.2025
+*	End Date: 31.12.2099
+
+ 
+
+ 
+
+Many thanks
+
+Sami

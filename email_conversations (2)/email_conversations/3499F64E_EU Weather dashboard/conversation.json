@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "EU Weather dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2025-03-24 10:44:27.520000+00:00",
+      "sent_time": "2025-03-24 10:44:23+00:00",
+      "body_text": " \r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<span style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\"><img size=\"243223\" contenttype=\"image/png\" style=\"max-width: 790px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:a0d34337-51ac-4405-b08f-88d7cd4be9e8\"></span>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "3499F64E58A5C54197E42E762B2A8FC5",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900028B5F29FC0000",
+      "size": 547400,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB07175DF243392227D7694DB6EBA42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "EU Weather dashboard"
+}

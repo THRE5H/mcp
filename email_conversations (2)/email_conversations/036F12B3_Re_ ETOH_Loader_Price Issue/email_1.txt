@@ -1,0 +1,27 @@
+From: Rama <arorajatin795@gmail.com>
+To: Support Dnext
+Date: 2026-01-12 18:39:17.880000+00:00
+Subject: Re: ETOH_Loader_Price Issue
+Message-ID: CALmVwErH9rBDi9=Cdp-Us6JnS9wzZG+_eABOrG8CeiGQJszW2w@mail.gmail.com
+In-Reply-To: CALmVwEr98-bZ+=RxLaU6Xidb5bC54MbTfJ1bpdtkvTNJJxM3jw@mail.gmail.com
+
+================================================================================
+
+Hi Team,
+
+The issue has been resolved. Thank you very much, Saber, for your help.
+
+Best Regards,
+
+On Mon, 12 Jan 2026 at 22:24, Rama <arorajatin795@gmail.com <mailto:arorajatin795@gmail.com> > wrote:
+
+
+	Hi Team,
+
+	Hope you all are doing well.
+
+	Could you please assist me with the ETOH_loader as I am currently unable to upload the prices.
+	I have attached the error message.
+
+	Thank you
+	Rama

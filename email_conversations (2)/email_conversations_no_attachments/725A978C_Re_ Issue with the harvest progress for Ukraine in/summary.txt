@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the harvest progress data for Ukraine, specifically regarding the percentage not displaying correctly.
+
+**Context**: The user is an external user and CEO of a Customer Organization. The issue involved the DNEXR platform, which is used for tracking agricultural data. The problem arose during a critical reporting period for harvest statistics.
+
+**Solution**: The Support Agent confirmed that the issue was resolved and the corrected data would be published on the DNEXR platform shortly. It is recommended to monitor the platform for updates and ensure data accuracy during peak reporting times.

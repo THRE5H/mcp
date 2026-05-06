@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the end of some entity names was hidden in the MATIF COT application, which was causing issues with visibility and usability.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance with the MATIF COT feature of a software product provided by the Service Provider. The issue arose while interacting with entity names that were not displaying correctly.
+
+**Solution**: The Support Agent confirmed that the entity names were fixed to align with the slicers, resolving the visibility issue. The customer was advised to check for any further discrepancies and ensure that all settings were correctly configured to prevent similar issues in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that a dashboard was not updating, expressing confusion over the issue and a lack of tool usage among the team.
+
+**Context**: The user is an external user from Customer Organization seeking support from Service Provider. The issue involves a dashboard feature that is critical for monitoring and reporting, and there appears to be a communication gap regarding tool utilization.
+
+**Solution**: The Support Agent identified a mapping problem as the cause of the dashboard not updating, which is currently being addressed. It is recommended that the team regularly check the functionality of the dashboard and ensure proper mapping to prevent similar issues in the future.

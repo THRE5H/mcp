@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing issues with the DNEXT Excel add-in, specifically that the trade flow matrix does not refresh when the refresh button is pressed, requiring them to restart the process.
+
+**Context**: The customer is an external user (Grains Trader) from a Customer Organization. They are using the DNEXT Excel add-in to manage trade flow data. The issue arose after the customer created a trade flow matrix based on the DNEXT module's worksheet.
+
+**Solution**: The Support Agent acknowledged the issue and confirmed that a new version of the Excel add-in, which includes a fix for the reported bug, has been released. A Teams call was proposed to assist with the setup of the new add-in. The customer confirmed their availability for the meeting.

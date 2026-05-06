@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a contract for a new client, Qcore Fund Management AG, including specific details about the environment, commodity, and user addition.
+
+**Context**: The user is an external user from a Customer Organization requesting assistance from a Service Provider. The setup involves the environment qcore.dnext.io and pertains to a contract for the commodity Sugar.
+
+**Solution**: The Support Agent confirmed the receipt of the request and proceeded to set up the contract with the provided details. The user was successfully added, and the contract was scheduled to start on 15.07.2025 and end on 31.12.2030. It is recommended to verify all contract details prior to finalization to avoid discrepancies.

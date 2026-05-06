@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the price updates for wheat and corn in the dashboard were not reflecting the latest prices, showing only data from April 30th despite updates being pushed on May 1st and 2nd.
+
+**Context**: The user is an external user from Customer Organization contacting Customer Support of Service Provider. The issue involves the price update feature in the dashboard, which is critical for accurate data representation. The customer mentioned that a colleague from MLP also experienced the same problem.
+
+**Solution**: The Support Agent identified that the latest data available was for May 1st and suggested that the issue might be related to the Excel add-in used for uploads. The customer was advised to check if the dashboard updates were set correctly and to consider changing the update frequency. Further investigation into the Excel add-in's functionality was recommended due to ongoing issues with data visibility.

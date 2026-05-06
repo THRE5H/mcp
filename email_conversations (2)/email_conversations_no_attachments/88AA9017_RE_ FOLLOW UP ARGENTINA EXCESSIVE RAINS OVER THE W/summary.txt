@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new email address to the AGD distribution list to ensure that all relevant emails are received by the user.
+
+**Context**: The customer is an external user from a Customer Organization communicating with a Support Team from a Service Provider. The request is related to managing email distribution lists following excessive rains in Argentina that have impacted crop forecasts.
+
+**Solution**: The Support Agent confirmed that the email address was successfully added to the AGD distribution list. The customer was advised to reach out if further assistance was needed. It is recommended to regularly review distribution lists to ensure all necessary parties receive important updates.

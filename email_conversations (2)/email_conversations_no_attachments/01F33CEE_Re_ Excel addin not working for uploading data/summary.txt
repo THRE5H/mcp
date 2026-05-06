@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing issues with an Excel add-in that is not allowing them to upload data after downloading a new version. They also noted confusion regarding template names and menu options.
+
+**Context**: The user is an external user from a Customer Organization using a data upload feature of an Excel add-in provided by a Service Provider. The issue arose after updating to a new version of the add-in, leading to multiple failed upload attempts.
+
+**Solution**: A support ticket was created by the Support Agent to investigate the upload issue. The customer was informed that they would be updated once the problem is resolved. It is recommended that the user clarify template naming conventions to avoid confusion in the future.

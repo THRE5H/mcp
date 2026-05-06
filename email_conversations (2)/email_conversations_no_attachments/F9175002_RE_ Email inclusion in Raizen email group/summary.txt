@@ -1,0 +1,5 @@
+**Problem**: The customer, a sugar analyst at a partner company, requested to be added to an email group to receive presentation PPTs and daily line-up emails.
+
+**Context**: The user is an external user from a Partner Company. The product involved is an email distribution list for sharing presentation materials. The request was initiated through an internal support channel at the Service Provider.
+
+**Solution**: The Support Agent confirmed the inclusion of the user's email in the distribution list for both PPTs and daily line-ups. It is recommended to ensure that all relevant stakeholders are informed of such requests to streamline the process.

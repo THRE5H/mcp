@@ -1,0 +1,5 @@
+**Problem**: The customer requested a demo of the platform for a specific user and inquired about the absence of supply and demand data for the years 2033/34 on the Baseline dashboard.
+
+**Context**: The customer is an external user from a Customer Organization seeking assistance from a Service Provider. The inquiry involves a platform demo and a specific feature of the Baseline supply and demand dashboard.
+
+**Solution**: The Support Agent confirmed that a demo would be scheduled for the specified user. Regarding the dashboard issue, the Team Member investigated and found that the data for 2033/34 was not yet available due to ongoing updates. It is recommended to check for updates periodically and ensure data settings are correctly configured.

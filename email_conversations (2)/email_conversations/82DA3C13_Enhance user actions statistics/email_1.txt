@@ -1,0 +1,39 @@
+From: Farouk Jaziri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=56EB0DDE3BEB4C54A071554F6047B7E1-5FA702FC-B0>
+To: Support Dnext
+Date: 2025-12-09 12:56:22.734000+00:00
+Subject: Enhance user actions statistics
+Message-ID: ZR0P278MB1074F449157AE81343E6BD84FCA3A@ZR0P278MB1074.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello support,
+
+I noticed that when clicking on dashboards, by default the first dashboard shown is "France" for compound feed production. I believe this action is missing up with the user activity statistics
+As you can see here, I filtered out only to the most 7 active clients, and the France dashboard is the 2nd most viewed dashboard
+
+I suggest when clicking on dashboards, the output should be none, unless the user clicks on the final dashboard name.
+
+The issue is repeated to every first dashboard that exists in the main dashboards categories tab
+
+Best regards,
+
+FAROUK JAZIRI
+
+DATA ANALYST
+
+                                                                                                    farouk.djaziri@dnext.io <mailto:farouk.djaziri@dnext.io> 
+
++216 25 992 985
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+

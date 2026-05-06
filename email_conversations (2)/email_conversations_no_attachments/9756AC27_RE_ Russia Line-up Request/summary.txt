@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access the Russia export numbers in the Dnext Line-up section and requested assistance in retrieving this data.
+
+**Context**: The customer is an external user from a Market Research role at a Customer Organization. They were seeking specific export data for Russia for the dates 25/26, which they could not find on the Service Provider's platform.
+
+**Solution**: The Support Agent provided a link to the Russia Line-ups dataset. However, the customer later reported a technical issue preventing access to the data. The Support Agent confirmed that the development team is working on resolving the issue and will provide updates once the section is available again.

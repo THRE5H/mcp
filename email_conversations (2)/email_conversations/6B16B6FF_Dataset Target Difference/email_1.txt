@@ -1,0 +1,20 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-12-01 13:34:35.875000+00:00
+Subject: Dataset Target Difference
+Message-ID: ZR3P278MB135356C280B7EE7C195DD7D8F6DBA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Support Team,
+
+I mapped a product to "ETOHDENA", however, the "Dataset Target" column shows "ETOH". May you explain to me why that is, please?
+
+https://dnexr.dnext.io/workflows/f89b0984-7ec1-4ac2-a438-faa578f6986d/edit/valuemapping
+
+
+
+Best,
+
+Enea

@@ -1,0 +1,16 @@
+From: Mohamed Chabbouh </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7D5F89C7D49D410D87ECAA4751735A1C-52E4A2EA-48>
+To: Support Dnext
+Date: 2025-08-28 11:46:30.374000+00:00
+Subject: Delete Dataset
+Message-ID: GV0P278MB18475D2ED71715FB147A60A5E03BA@GV0P278MB1847.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Support team ,
+
+Please delete this dataset:
+
+dnexr-agrocomp-ags-moz-tf-lineups-vessel-weekly
+
+
+Warm Regards,

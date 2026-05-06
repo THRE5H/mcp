@@ -1,0 +1,115 @@
+From: Yi Zhen Sim <yizhen.sim@eneselgroup.com>
+To: Saber Khalfallah
+Date: 2025-12-19 04:08:26.860000+00:00
+Subject: Re: DNEXT - Login Credentials
+Message-ID: DU0P195MB1652FBE93A587C9A5E89079E8EA9A@DU0P195MB1652.EURP195.PROD.OUTLOOK.COM
+In-Reply-To: DU0P195MB165259D703812089E8123E7E8EABA@DU0P195MB1652.EURP195.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber,
+
+How are you?
+
+I am trying to access the comparison view on the trade matrix but could not view the previous trade matrix. Under snapshot 2 it says no data. Could you kindly assist.
+
+
+
+I also have a few questions on the platform and thought an onboarding session might be the best forum to address them. Would you be able to propose some dates and times that works on your end? Thanks!
+
+Rgds,
+Yi Zhen
+________________________________
+
+From: Yi Zhen Sim <yizhen.sim@eneselgroup.com>
+Sent: Wednesday, 17 December 2025 2:10 pm
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: DNEXT - Login Credentials 
+ 
+Hi Saber, 
+
+Thank you for sending the access credentials. 
+
+I have managed to log in and also changed PW successfully. 
+
+Rgds,
+Yi Zhen
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Monday, 15 December 2025 10:22 pm
+To: Yi Zhen Sim <yizhen.sim@eneselgroup.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: DNEXT - Login Credentials 
+ 
+	You don't often get email from saber.khalfallah@dnext.io. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+	
+
+Hello Yizhen, 
+
+ 
+
+Hope you are doing well.
+
+ 
+
+You may access our platform through this URL: https://demo6.dnext.io/
+
+Using these credentials :
+
+ 
+
+Email: yizhen.sim@eneselgroup.com <mailto:yizhen.sim@eneselgroup.com> 
+
+Password : NaFpKG2i8h5cnEFR
+
+ 
+
+ Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+ First, put your credentials to the login page and press Log in.
+
+After that, go to your profile
+
+ 
+
+
+
+Press “change my password”:
+
+
+
+ 
+
+And follow the instructions: 
+
+ 
+
+
+
+ 
+
+Best Regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

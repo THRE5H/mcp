@@ -1,0 +1,72 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-09-24 10:01:42.867000+00:00
+Subject: Add-In Deletes Templates
+Message-ID: ZR3P278MB135320A1364C04CF9F44B231F61CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353367BFA7924B2AFD6DE0CF611A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Team,
+
+ 
+
+The Add-In deletred the templates:
+
+
+
+ 
+
+ 
+
+ 
+
+From: Enea Albertoli 
+Sent: Friday, September 19, 2025 1:22 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: RE: Add-In shifts Columns, Changes Filter
+
+ 
+
+Hello guys,
+
+ 
+
+Any feedback on how to fix this issue, please?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Enea Albertoli 
+Sent: Thursday, September 18, 2025 11:34 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Add-In shifts Columns, Changes Filter
+
+ 
+
+Hello,
+
+ 
+
+I had an add-in query filtering RSO and CPO, however, now only CPO shows and, what is more, the columns have changed location. As you can see in the screenshot, they are not aligned anymore.
+
+ 
+
+Sending you the file in the attachments.
+
+ 
+
+The dataset is this one: verbio-biof-eur-cash-daily
+
+ 
+
+

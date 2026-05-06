@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in creating a custom dataset triggered by an email sent to the CFG environment. They needed confirmation that the workflow was established using the provided file.
+
+**Context**: The user is an external user from Customer Organization reaching out to the Service Provider's support team. The issue involves setting up a workflow in the CFG environment to process data sent via email.
+
+**Solution**: The support team successfully set up the workflow and created the dataset as requested. A link to the dataset was provided to the customer, and they were encouraged to reach out with any further questions. It is recommended to send additional files to the specified email to enhance the workflow setup.

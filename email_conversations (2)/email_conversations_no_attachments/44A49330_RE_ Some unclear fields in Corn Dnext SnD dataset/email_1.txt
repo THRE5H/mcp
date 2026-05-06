@@ -1,0 +1,143 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Charlie Quaradeghini; Guillaume Goudy; Pablo Figueroa; Support Dnext
+Date: 2025-02-21 18:37:54.397000+00:00
+Subject: RE: Some unclear fields in Corn Dnext SnD dataset
+Message-ID: GV0P278MB1320C3F4851EA2DCAB156D3AF8C72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132056FAE852E18418655B36F8C52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Charlie 
+
+Regarding the ‘use_floor’ the corn usage for flour is official statistics from Ukraine. 
+
+The volumes are minimal, but it’s for food use. 
+
+Similarly, what is labelled Protein use is what we call ‘use_groat’ in the SND. 
+
+It is also minimum use.
+
+ 
+
+Those 2 were data which were officially published by Ukraine before the war.
+
+ 
+
+As for the not available rows it’s a technical issue from our side that should be fixed soon but they are also use_groat values
+
+ 
+
+If you have any other questions or if you need further clarification please let us know
+
+ 
+
+We thank you for your patience and understanding
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, February 19, 2025 17:50
+To: Charlie Quaradeghini <charlie.quaradeghini@mlp.com>; Guillaume Goudy <guillaume.goudy@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com>
+Subject: RE: Some unclear fields in Corn Dnext SnD dataset
+
+ 
+
+Hi Charlie,
+
+ 
+
+Thanks for reaching out. 
+
+ 
+
+We’re looking into these fields and will check with the team to get the necessary clarification. 
+
+ 
+
+We’ll get back to you with more details.
+
+ 
+
+We thank you for your understanding and appreciate your patience
+
+ 
+
+Best regards.
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> > 
+Sent: Wednesday, February 19, 2025 11:46
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Some unclear fields in Corn Dnext SnD dataset
+
+ 
+
+Hello Guillaume/Pablo, 
+
+ 
+
+I am looking through the Corn SND dataset (thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674) and notice some fields that do not make sense to me, so just hoping you can clarify.
+
+ 
+
+I am not clear on what the following items with Item_MappedName ‘Protein Use’, ‘use_flour’ and ‘Not_Available’ (which are all values linked to Ukraine) are representing. Not_Available is a nan Item but does have values. ‘use_flour’ seems like it should be for wheat? ‘Protein_Use’, what does this represent, some aggregation? 
+
+ 
+
+Thanks in advance for clarifying!
+
+Charlie
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

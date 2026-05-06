@@ -1,0 +1,5 @@
+**Problem**: The customer is seeking assistance with onboarding to the DNEXT platform and has requested a demo session to understand the key features better.
+
+**Context**: The user is an external user from a Customer Organization that has recently set up accounts on the DNEXT platform. The communication is initiated by a Customer Support representative from the Service Provider.
+
+**Solution**: The Customer Support representative has successfully set up user accounts and sent login credentials. They proposed a demo session to guide the users through the platform's features, awaiting confirmation on a convenient time for the session.

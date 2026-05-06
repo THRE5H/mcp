@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access their account due to an expired Microsoft access token and requested assistance in refreshing it.
+
+**Context**: The user is an external user from Customer Organization, utilizing the DNEXT service. The issue arose from an expired token affecting access to a specific dataset and workflow.
+
+**Solution**: The Support Team provided guidance on refreshing the token through the account settings link. The customer was advised to follow the instructions sent via WhatsApp by a Team Member. No further resolution was confirmed in the email thread.

@@ -1,0 +1,23 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext; Saber Khalfallah
+Date: 2026-01-08 14:34:47.688000+00:00
+Subject: Avere sugar lineups request
+Message-ID: GVAP278MB024622E63482ED84B976F8BA9485A@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello @Saber Khalfallah <mailto:saber.khalfallah@dnext.io> , 
+
+Digby at Avere requested to access the sugar lineups of the following countries:
+
+*	
+	Thai: dnexr-dnexr-sug-thai-tf-lineups-vessel
+*	
+	Centrals: dnexr-dnexr-sug-central--america-tf-lineups-vessel
+*	
+	India: dnexr-dnexr-sug-ind-tf-lineups-vessel-weekly-clone
+*	
+	Aus: dnexr-sug-aus-tf_lineups_vessel-bidaily
+
+
+Could you check that we are sharing with their environment and then contact him to setup a call so that you show him how to access the data from the platform?

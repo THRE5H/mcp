@@ -1,0 +1,26 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-11-26 11:39:46.837000+00:00
+Subject: Correct Seasonal Axis
+Message-ID: ZR3P278MB13530B52F521061379AC0F18F6DEA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Support Team,
+
+I hope that this email finds you well.
+
+May you please correct the axis, if it is seasonal data it should show the month, not the year.
+
+https://dnexr.dnext.io/dashboard/*/GnO%20Economics/Canada/8114775a-c209-4eba-b3c5-6741ff9442b1
+
+
+
+
+
+
+
+Best,
+
+Enea

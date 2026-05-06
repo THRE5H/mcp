@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Bra dashboard had not been updated, with the last available data dated September 10.
+
+**Context**: The user is an external user from the Customer Organization. The issue involves the Bra dashboard, which relies on the IMEA API for price data. The situation is compounded by the API being down, affecting data retrieval.
+
+**Solution**: The Support Team Member identified that the IMEA API was down, preventing price data from being displayed. As a temporary measure, another Team Member manually retrieved the latest available prices from September 12 until the API issue is resolved. It is recommended to monitor the API status for timely updates.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the cumulative weather map for South Africa was not ready for the current crop year, preventing them from adjusting the seasonal date for their crops.
+
+**Context**: The user is a Senior Analyst for Grains & Oilseeds at a Customer Organization. The issue involves a weather application provided by a Service Provider, which is critical for agricultural planning.
+
+**Solution**: The Support Agent confirmed that the South Africa precipitation dashboard has been fixed, and other related issues are expected to be resolved soon. It is recommended that users regularly check for updates on the application to ensure they have the latest information.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to remove a specific email address from the mailing list, as emails sent to that address were being rejected due to a security setting.
+
+**Context**: The customer is an external user from Customer Organization, and the issue involves the email service provided by Service Provider. The email rejection was due to a security setting that blocks emails from servers not specifically allowed.
+
+**Solution**: The Support Agent confirmed that the email address was not on the mailing list and explained that the rejection was due to the recipient's mail system security settings. It was recommended that the customer contact their IT department to allow emails from the Service Provider's servers.

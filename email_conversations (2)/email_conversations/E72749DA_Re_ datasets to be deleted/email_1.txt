@@ -1,0 +1,26 @@
+From: Aya Sakli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=836A5A4166644149960A649940BB50AE-3BD080A7-42>
+To: Nader Ltaief; Support Dnext
+Date: 2025-08-11 16:17:50.151000+00:00
+Subject: Re: datasets to be deleted
+Message-ID: ZR1PPFB47A07408C64D65F4071A14CC85919A28A@ZR1PPFB47A07408.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB051433710F028B11192C540CF028A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Nader,
+
+Done.
+
+Best regards,
+________________________________
+
+From: Nader Ltaief <nader.ltaief@dnext.io>
+Sent: 11 August 2025 15:39
+To: Support Dnext <support@dnext.io>
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io>; Aya Sakli <aya.sakli@dnext.io>
+Subject: datasets to be deleted 
+ 
+dnexr-ahdb-livestock-gbr-cash-weekly-6
+dnexr-fed_statis-livestock-deu-snd_41311-0011
+dnexr-fed_statis-livestock-deu-snd_41311-0012
+dnexr-fed_statis-livestock-deu-snd_41311-0003

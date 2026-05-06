@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Conab statistics were not up to date and emphasized the importance of weekly updates to avoid missing critical data.
+
+**Context**: The user is an external user from a Customer Organization, reaching out to the Support Team of a Service Provider regarding the Conab statistics feature. The situation highlights the urgency of having accurate and timely data for operational needs.
+
+**Solution**: The Support Agent confirmed that the Conab statistics have been updated. It is recommended that the customer continues to monitor the updates weekly to ensure data accuracy and prevent future discrepancies.

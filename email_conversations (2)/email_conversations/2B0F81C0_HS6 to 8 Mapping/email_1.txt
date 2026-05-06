@@ -1,0 +1,22 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-12-09 17:05:52.588000+00:00
+Subject: HS6 to 8 Mapping
+Message-ID: ZR3P278MB1353EDE5E5C883110257E407F6A3A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello,
+
+I encountered the error that an HS8 which is meant to be mapped as HVO is not.
+It appears to be that there is no rule saying that, unless otherwise specified (e.g., HS8 specifically assigned to a product code), all HS8 should be mapped under the corresponding HS6.
+
+Would it please be possible to develop this feature?
+
+This is my specific case, where 15159011 is missing:
+ 
+
+Best, 
+
+Enea

@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing double counting issues in the tradeflow data, specifically with the dataset showing discrepancies in the amounts displayed for certain product and origin combinations.
+
+**Context**: The user is an external user from a Customer Organization utilizing the tradeflow feature of a data analysis tool. The issue involves specific product combinations, including ARG SBO and others, with data discrepancies noted from various historical dates.
+
+**Solution**: The Support Agent acknowledged the issue and escalated it to the technical team for further investigation. The customer was advised to monitor the affected datasets and report any additional discrepancies while the team works on a resolution. Best practices for data verification were also recommended to prevent similar issues in the future.

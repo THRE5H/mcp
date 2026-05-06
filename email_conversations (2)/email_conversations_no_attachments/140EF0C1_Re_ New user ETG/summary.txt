@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user, Matias, to the ETG platform.
+
+**Context**: The request was made by a Team Member from the Customer Organization to the Support Team of the Service Provider. The user needed to be added to the platform to access its features.
+
+**Solution**: The Support Agent created a user account for Matias on the ETG platform and sent the login credentials to his email. It is recommended that future user addition requests include all necessary details to expedite the process.

@@ -1,0 +1,291 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pierre-Jean Chiaradia; John Stansfield
+Date: 2025-08-04 10:47:01.146000+00:00
+Subject: RE: Access to Platform for PJ Chiaradia
+Message-ID: GV0P278MB1320B376D99E96E722F81A99F823A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: B0F38878-5414-4C4F-9573-D21E2121B516@freepoint.com
+
+================================================================================
+
+Hello Pierre-Jean,
+
+ 
+
+We would be glad to organise a demo session for you.
+
+Would Tuesday, 5 August at 16:00 (Geneva time) work for you?
+
+ 
+
+If that timing doesn’t suit, feel free to share your availability and we’ll adjust accordingly.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pierre-Jean Chiaradia <PJChiaradia@freepoint.com> 
+Sent: Monday, August 4, 2025 7:48
+To: John Stansfield <john.stansfield@dnext.io>
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Access to Platform for PJ Chiaradia
+
+ 
+
+Yes please, when can we organise the demo? Thank you
+
+Envoyé de mon iPhone
+
+
+
+
+
+	Le 4 août 2025 à 14:15, John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > a écrit :
+
+	﻿ 
+
+Caution: This email is from an external source.
+From: john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> 
+
+	
+	
+	
+
+	PJ - Might be worth organising a demo?   Our support desk in Tunisia can run you through everything?
+
+	 
+
+	The monthly data is all within a function called TradeMatrix.
+
+	 
+
+	Can you navigate there?
+
+	 
+
+	John
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Step 1  Home Page
+
+	 
+
+	<image.png>
+
+	 
+
+	 
+
+	Then Raw Sugar Trade Flow
+
+	 
+
+	 
+
+	<image.png>
+
+	 
+
+	Visualise record
+
+	 
+
+	When you load the Tradematrix for the first time it could take a couple of minutes
+
+	 
+
+	<image.png>
+
+	 
+
+	Sort by destination or by origin
+
+	 
+
+	<image.png>
+
+	 
+
+	The settings allows you to sort by sub regions
+
+	 
+
+________________________________
+
+	From: Pierre-Jean Chiaradia <PJChiaradia@freepoint.com <mailto:PJChiaradia@freepoint.com> >
+	Sent: 04 August 2025 01:54
+	To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+	Subject: RE: Access to Platform for PJ Chiaradia
+
+	 
+
+	Hello Saber,
+
+	 
+
+	Perfect, it works, thank you.
+
+	 
+
+	PJ
+
+	 
+
+	From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+	Sent: Friday, August 1, 2025 6:25 PM
+	To: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Pierre-Jean Chiaradia <PJChiaradia@freepoint.com <mailto:PJChiaradia@freepoint.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+	Subject: RE: Access to Platform for PJ Chiaradia
+
+	 
+
+Caution: This email is from an external source.
+From: saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+	 
+
+	Hello Pierre-Jean,
+
+	 
+
+	I hope this email finds you well.
+
+	 
+
+	Could you please try logging in from this url : https://freepoint.dnext.io/ <https://freepoint.dnext.io/> 
+	
+	if you don’t remember your password, you can reset it by clicking on reset password and following the instructions .
+
+	<image002.png>
+
+	 
+
+	Please let me know how it goes.
+
+	 
+
+	Best regards,
+
+	 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+<image003.png>
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+	 
+
+	 
+
+	From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+	Sent: Friday, August 1, 2025 8:23
+	To: Pierre-Jean Chiaradia <pjchiaradia@freepoint.com <mailto:pjchiaradia@freepoint.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+	Subject: Access to Platform for PJ Chiaradia
+
+	 
+
+	Can you look at why Pierre-Jean cannot get access to the Platform
+
+	 
+
+	 
+
+	Thanks in advance
+
+	 
+
+	John
+
+	
+	
+	
+	
+
+	 
+
+	 
+
+	 
+
+	 
+
+	************************************************************************************
+
+	This e-mail (and any associated files) is intended only for the use by the intended recipient and may 
+
+	contain information that is confidential, privileged, subject to copyright or constitutes a trade secret. 
+
+	No confidentiality or privilege is waived or lost by any transmission errors. If you are not the intended 
+
+	recipient you are hereby notified that any dissemination, copying or distribution of this e-mail (and 
+
+	any files associated with this e-mail) is strictly prohibited. If you have received this communication 
+
+	in error, please immediately notify us and delete the original material from your computer. 
+
+	************************************************************************************
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+************************************************************************************ 
+
+This e-mail (and any associated files) is intended only for the use by the intended recipient and may  
+
+contain information that is confidential, privileged, subject to copyright or constitutes a trade secret.  
+
+No confidentiality or privilege is waived or lost by any transmission errors. If you are not the intended  
+
+recipient you are hereby notified that any dissemination, copying or distribution of this e-mail (and  
+
+any files associated with this e-mail) is strictly prohibited. If you have received this communication  
+
+in error, please immediately notify us and delete the original material from your computer.  
+
+************************************************************************************

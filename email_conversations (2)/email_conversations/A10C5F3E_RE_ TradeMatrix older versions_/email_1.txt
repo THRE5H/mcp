@@ -1,0 +1,213 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Oscar Shi; Support Dnext
+Date: 2025-11-24 16:02:11.043000+00:00
+Subject: RE: TradeMatrix older versions?
+Message-ID: GV0P278MB1320045D18413E117D3CA620F8D0A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320312A4BE57EF8026FE1D9F8D4A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Oscar,
+
+ 
+
+I hope you’re well.
+
+ 
+
+I wanted to check in to see if you need any adjustments to the soybean and soybean meal dataset before we proceed with the corn and soft wheat datasets.
+
+ 
+
+Looking forward to your feedback!
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, November 20, 2025 22:25
+To: Oscar Shi <oshi@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Subject: RE: TradeMatrix older versions?
+
+ 
+
+Hello Oscar,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+We have completed the soybean and soybean meal dataset, and we’ve included all versions of the data, both official and forecasted. You can differentiate the official data from the forecasted by referring to the "Final" column, and you can differentiate the versions by referring to the Publication Date column.
+
+ 
+
+Please find the link to the dataset below:
+
+ 
+
+https://vam.dnext.io/datasets/vam-8b90fbc5-c5fe-11f0-9422-02abcd39fb87/data-exploration
+
+ 
+
+Let us know if you need any adjustments as we continue working on the corn and soft wheat datasets.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> > 
+Sent: Tuesday, November 18, 2025 23:16
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: TradeMatrix older versions?
+
+ 
+
+Hi Saber,
+
+ 
+
+Thank you for your fast response!
+
+ 
+
+I'm interested in (1st) Soybean and Soybean Meal and (2nd) Corn, with Soft Wheat as a distant (3rd).
+
+ 
+
+Thank you again,
+
+Oscar
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Tuesday, November 18, 2025 5:00 PM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: TradeMatrix older versions? 
+
+ 
+
+Hello Oscar,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+Unfortunately, we currently do not provide versioning for the TradeMatrix or datasets. This feature is planned for future releases of the platform.
+
+ 
+
+In the meantime, I will check internally with the team to see if we can provide a temporary solution for you. To help us explore this, could you please let me know which TradeMatrices you are interested in, and if there are multiple,which ones should be prioritized?
+
+ 
+
+Looking forward to your response.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,dpjBWVx02VNfp4EyKDCAQyPLhq6LyHQmXMP52tcHyEKXWQTkHHp5nZI6XiIRh4onD73WLOePPh9D8Mzvqw_gVylSYrK_NlHPs1NBZdzrwFSBYKEL&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Tuesday, November 18, 2025 22:51
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: TradeMatrix older versions?
+
+ 
+
+Hi Support Team,
+
+
+As is in SnD, it's often useful to see how estimates have evolved over time - for TradeMatrix. Do you currently provide a way for me to see an older version, either on the Platform or through API?
+
+
+
+Thank you very much,
+
+Oscar
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

@@ -1,0 +1,5 @@
+**Problem**: The User was unable to download crop progress data for safrinha corn planting from the Service Provider's platform.
+
+**Context**: The User is affiliated with a Partner Company and reached out to the Customer Support Team for assistance. The issue arose while attempting to access historical crop data through the platform's dashboard.
+
+**Solution**: The Support Agent provided detailed instructions on how to navigate the platform to download the required data. The User confirmed that they successfully retrieved the data using the provided links, indicating that the issue was resolved. It is recommended to follow the outlined steps for future data downloads.

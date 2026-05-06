@@ -1,0 +1,5 @@
+**Problem**: The Customer is inquiring about the absence of published Thailand customs data for April, which they believe has already been released by TDM. They need clarification on the delay and the reasons behind it.
+
+**Context**: The Customer is an external user from a Customer Organization seeking information related to customs data. The issue pertains to the data services provided by TDM, specifically regarding the timely publication of customs information.
+
+**Solution**: The Support Agent investigated the matter and confirmed that the customs data for Thailand was indeed published by TDM. They recommended the Customer to regularly check the data release schedule and set up alerts for future updates to avoid similar issues.

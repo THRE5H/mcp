@@ -1,0 +1,21 @@
+From: Ebtihel Kantaoui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=57A2C02210B14F54BCF4116C6A286E6D-783CFA9A-E8>
+To: Support Dnext
+Date: 2025-04-16 10:06:04.490000+00:00
+Subject: Dataset to be deleted
+Message-ID: GV0P278MB1241B0A0D7CDF7CA7E1969F7E6BD2@GV0P278MB1241.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Greetings,
+
+ 
+
+Please delete the following dataset :
+
+- dnexr-br-decarbonization-credit-prices-bra-cash-addin-daily
+
+ 
+
+Best, 
+
+

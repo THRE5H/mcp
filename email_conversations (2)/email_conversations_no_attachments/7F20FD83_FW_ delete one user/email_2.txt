@@ -1,0 +1,64 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-08-20 17:34:07.244000+00:00
+Subject: RE: delete one user
+Message-ID: GV0P278MB132079FE354DB18F3A6C472FF833A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01480F4C631152CC4F7772C79833A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+He was removed some time ago, but it seems he is still part of a distribution list that is included in our JBS distribution list, which is managed by them,
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Wednesday, August 20, 2025 17:33
+To: Support Dnext <support@dnext.io>
+Subject: delete one user
+
+ 
+
+Hello,
+
+ 
+
+Could you please remove Fabio from the distribution list, the emails bounce back.
+
+fabio.hirose@jbs.com.br <mailto:fabio.hirose@jbs.com.br> 
+
+ 
+
+Thanks

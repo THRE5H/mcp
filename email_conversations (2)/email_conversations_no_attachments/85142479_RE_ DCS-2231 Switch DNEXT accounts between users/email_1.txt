@@ -1,0 +1,108 @@
+From: Donker, Martijn van den <mdonker@deheus.com>
+To: Support Dnext
+Date: 2026-01-27 16:26:30.161000+00:00
+Subject: RE: DCS-2231 Switch DNEXT accounts between users
+Message-ID: AM8PR07MB7588F5D7F6A11524105145A0CB90A@AM8PR07MB7588.eurprd07.prod.outlook.com
+In-Reply-To: 0100019c000ad52c-f26997a0-4b65-4a54-88c3-85039b98983c-000000@email.amazonses.com
+
+================================================================================
+
+Hi Saber,
+
+ 
+
+Thank you for the swift action. Please also add the three new users to the distribution lists for the reports. 
+
+ 
+
+Kind regards,
+
+Martijn van den
+
+ 
+
+Donker
+
+​​​​
+
+Global Purchaser
+
+ <https://www.deheus.com/> 
+
+DE HEUS ANIMAL NUTRITION B.V.
+
+P.O. Box 396
+6710 BJ Ede
+The Netherlands
+
+Rubensstraat 175
+6717 VE Ede
+The Netherlands
+
+M: +31 6 31 004 370 <tel:+31%206%2031%20004%20370> 
+
+CoC 16011201
+
+This e‑mail message and its attachments are subject to the disclaimer
+published on the website of De Heus Animal Nutrition <https://www.deheus.com/disclaimer> .
+
+ <https://www.facebook.com/deheusanimalnutrition> 
+
+ <https://www.youtube.com/channel/UCqkrGebUlFowgumurz-abxQ> 
+
+ <https://www.linkedin.com/company/royal-de-heus/mycompany/> 
+
+ <https://www.instagram.com/de_heus_animal_nutrition/> 
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net> 
+Sent: Tuesday, January 27, 2026 4:21 PM
+To: Donker, Martijn van den <mdonker@deheus.com>
+Subject: DCS-2231 Switch DNEXT accounts between users
+
+ 
+
+	You don't often get email from jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+
+	
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Martijn,
+
+Thank you for your message.
+
+The user accounts for Ben Tacken, Wisse vd Zee, and Zach Chen have been removed. New user accounts have been created for Arie Griffioen (agriffioen@deheus.com <mailto:agriffioen@deheus.com> ), Tim van der Vegt (tvegt@deheus.com <mailto:tvegt@deheus.com> ), and Niek van der Wijst (nwijst@deheus.com <mailto:nwijst@deheus.com> ).
+
+@Griffioen, Arie <mailto:AGriffioen@deheus.com> , @Vegt, Tim van der <mailto:tvegt@deheus.com> , @Wijst, Niek van der <mailto:nwijst@deheus.com>  , your login credentials and further details have been sent privately to your respective email addresses.
+
+We would also be happy to schedule a platform demo session with you to walk you through the main features of the platform and ensure you get the most out of DNEXT.
+
+Please let us know what time works best for you, and we will arrange this accordingly.
+
+Additionally, @Donker, Martijn van den <mailto:MDonker@deheus.com>  please let us know if you would like us to add the new users to the distribution list for our reports, or if there is anything else we can assist with.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/45054/attachment/33184> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2231?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImY3M2JhYjdlNjM3NmE4YjU4ODNmY2JiNzRmNmJiNWMxMDk1OTY2MGUyZjQyODNhMWYxOTJmNzk1YWZkYWU1MTYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxNDkiLCJpc3N1ZSI6IkRDUy0yMjMxIn0sImV4cCI6MTc3MTk0NjQzNCwiaWF0IjoxNzY5NTI3MjM0fQ.boCiducz9NsrthhrsySKZGof0oFJl6HWAzo7gapDTC4&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2231/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImYyMTY3YTljMjVkMWYzZGYwYTE1ZDA3NzBhNjk1MzQ4NGVkNmFjNmI4MjFhZTY3MmFjNTI3MzVjZGMyMTdlMmIiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6MTIxNmUwNmMtZTgyYy00NDQ0LWE0NDYtYzEyNDcxMTA2YTYxIiwiaXNzdWUiOiJEQ1MtMjIzMSJ9LCJleHAiOjE3NzE5NDY0MzQsImlhdCI6MTc2OTUyNzIzNH0.UV6h92MbWVm7n0rIGh2YgyzrwzyD7gNHAZ99V-fjA9Y> 
+
+This is shared with Donker, Martijn van den, Griffioen, Arie, Vegt, Tim van der, and Wijst, Niek van der.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on January 27, 2026 4:20:34 PM CET 
+
+ <http://use1-track.atlassian.com/CI0/0100019c000ad52c-f26997a0-4b65-4a54-88c3-85039b98983c-000000/ZI6epvAR_9BpG1okYODcJZhLr7fwMI3scu8EBHwlL_4=441> 

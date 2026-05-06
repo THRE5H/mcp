@@ -1,0 +1,77 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Jebrane Ben Salem; Support Dnext
+Date: 2026-01-07 16:50:25.097000+00:00
+Subject: RE: Saving Errors
+Message-ID: ZR3P278MB1353F5DCDD8321A36A3B7BD7F684A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353FEA47AEB57D40603923DF684A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+I am also getting this recurring issue with Powerpoint
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Wednesday, January 7, 2026 4:42 PM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Saving Errors
+
+ 
+
+I can save it in local, so different location
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Wednesday, January 7, 2026 4:41 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Saving Errors
+
+ 
+
+Hello Enea, 
+
+ 
+
+Can you try to save the file with a new name / new folder ? 
+
+ 
+
+Thanks,
+
+Jebrane.
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Sent: 07 January 2026 16:37
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Saving Errors 
+
+ 
+
+Hello Support Team,
+
+ 
+
+Quick question, do you know why these errors are appearing, please?
+
+ 
+
+
+
+ 
+
+Thanks,
+
+ 
+
+Enea
+
+ 
+
+ 

@@ -1,0 +1,410 @@
+From: Oscar Shi <oshi@valentassetmgmt.com>
+To: Saber Khalfallah
+Date: 2025-09-23 14:54:20.508000+00:00
+Subject: Platform ARG SBS Crush Margin question
+Message-ID: BY3PR08MB702789366A1E793DFD4C9407CF1DA@BY3PR08MB7027.namprd08.prod.outlook.com
+In-Reply-To: ZR3P278MB1323BC1BEE6D8B4EF29AEB78F835A@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber and Support team,
+
+ARG SBS Crush Margin has become an important metric to watch after yesterday's news.
+
+Looking at the values on the Platform now, I'm surprised that ARG SBS cash price was up a whopping $60/mt yesterday (whereas both CME and FOB ARG basis were down significantly).
+
+Could you help check whether that is correct?
+
+https://vam.dnext.io/dashboard/*/GnO%20Economics/Industrial%20Margins/2a46a8d9-349c-4592-9a0e-932a36002b30
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Thursday, August 14, 2025 1:24 PM
+To: Oscar Shi <oshi@valentassetmgmt.com>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Subject: RE: FOB Soybean Price questions 
+ 
+
+Hello Oscar,
+
+ 
+
+Apologies for the delayed response.
+
+
+
+Question 2 : not having a very good definition yet in JFM, I have no FOB indication, seeing JFM 75F, 80H 81H for J, F and M respectively, but not getting indication from many sources so it is not well defined
+
+Question 3 is a typo, should be the X.
+
+ 
+
+Regarding the CNF and FOB, we get the quotes from different sources for China. Brazil is from Brazil, China CNF is not FOB+Freight, we get directly the offers and bids in the CNF market which is trading on its own.
+
+There can be some variations, see below the spread CNF Oct-25 vs FOB Oct-25.
+
+We have a range 105 – 125. It turns out the 7th August you picked was on the lows, because it seems the CNF quote had not picked the increase yet while the FOB did. The next day the gap got corrected.
+
+ 
+
+ 
+
+
+
+ 
+
+I hope this helps answer your questions. Please let me know if you have any more questions or if you need anything else.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,x7kiS8-6RL9Byhe46BMEaHiAqwyuf-BIIeuO025ykh10dTpIypGsjpngITFhWTG1_P9piA5ibMNkzclbeN2IOQQTV4FP3j58iOCFSWkUxCrw&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com> 
+Sent: Friday, August 8, 2025 19:16
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Subject: Re: FOB Soybean Price questions
+
+ 
+
+Hi Saber,
+
+ 
+
+In addition to my earlier questions below, I'd like to add this one to your plate:
+
+ 
+
+I'm trying to understand why, week-on-week, China Crush Margin is up $7 but Europe Crush Margin is down $2, according to the Platform.
+
+Looking at the breakdown, I noticed that the WoW movement in Brazil Soybean basis differed significantly between those two destinations.
+
+I always thought that CFR basis moves in lockstep with FOB, so does that mean the ocean freight changed significantly WoW?
+
+ 
+
+
+
+Thank you again,
+
+Oscar
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Thursday, July 24, 2025 12:59 PM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: FOB Soybean Price questions 
+
+ 
+
+Hello Oscar,
+
+ 
+
+It’s updated until the 23rd of July now,
+
+ 
+
+As for your second & third point I will check it and get back to you asap
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,JC9CrNDKowi_8XFqjzWHRWODsJdmMpMbSHLY1DkzmC5k4yIW06C0MNnqr2j0b-gRTECO-qHJ7JltGu13VC7Qxd8dAJ1chhFgXFqcPtbP7ziqJBPyh0sfcF_1KqVw&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Wednesday, July 23, 2025 21:56
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: FOB Soybean Price questions
+
+ 
+
+Hi Saber,
+
+ 
+
+I have a few questions regarding the FOB Soybean Price table below:
+
+ 
+
+(1) (orange) When do you think we can get another update? (The last one was last Friday's)
+
+(2) (pink) We look forward to seeing some definition of US JFM values. (I think CIF tends to be pretty well defined well into the future?)
+
+(3) (red) Which futures contract is the Oct-25 FOB Paranagua Paper priced against? (I don't think it should be V)
+
+ 
+
+
+
+https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Oilseeds/d1ca7f23-20c0-4099-b575-d30e08d2edd9 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2fdashboard%2fgrains_oilseeds%2fEconomics%2fOilseeds%2fd1ca7f23-20c0-4099-b575-d30e08d2edd9&c=E,1,qfPpkQyfJy8y-OSzLc6hvRb_TCGdVndlxb0FcYPkAVCzQ2UY5m672YO_rSjUGzfrra0ZGf-AdocDXK0phFStowv3c-chScLsua1fdVPPcabmuoKQ_r8v0qw,&typo=1> 
+
+ 
+
+Thank you very much as always,
+
+Oscar
+
+ 
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Monday, June 30, 2025 11:51 AM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: RE: CIF NOLA Corn price update lag?
+
+ 
+
+Hello Oscar,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+It has now been updated.
+
+ 
+
+
+
+ 
+
+Please let us know if you have any more questions or inquiries.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,RqFzWT2ztkfHhp8ucTM0EC3BJFMzU9gAlAEz3CXrWzdarkR8ko1ENfcZmO4VoZ5tKEkiHApxPk5qdfaNCesufA-7_RMXtiHuTwaDA47BalwFICFn&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Monday, June 30, 2025 15:59
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: Re: CIF NOLA Corn price update lag?
+
+ 
+
+Hi Saber,
+
+ 
+
+Thank you very much! I confirm that I can see the latest CIF NOLA Corn now!
+
+ 
+
+On a separate but possibly related note: I noticed that the Soybean FOB prices were last updated a week ago on 6/24 (screenshot below).
+
+Could you help check whether that one will be updated soon?
+
+ 
+
+URL: https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Oilseeds/d1ca7f23-20c0-4099-b575-d30e08d2edd9 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2fdashboard%2fgrains_oilseeds%2fEconomics%2fOilseeds%2fd1ca7f23-20c0-4099-b575-d30e08d2edd9&c=E,1,fABguBrGEP49HWFvUYrOTPWQ103Fb0KTknLpYn1xSLRQntSiuhStcnr_6_RZ1n0fCPAkW1irzam7m_bCQFYGGKg63aZ5G3bofmfcF664A4JDXkE,&typo=1> 
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Friday, June 27, 2025 9:42 AM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: RE: CIF NOLA Corn price update lag?
+
+ 
+
+Hi Oscar,
+
+ 
+
+Thank you for bringing this to our attention, and I apologize for any inconvenience this may have caused.
+
+ 
+
+The CIF NOLA Corn basis for July has now been updated on the platform.
+
+ 
+
+
+
+ 
+
+We appreciate your patience, and please don’t hesitate to reach out if you notice anything else or need further assistance.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,Rgai_eo8XRlsL_XHjVpc4PZh8zlVrEPif505A4ftgZbHshh15auadZ90Z59g-fF9E9cyEQmQUBIinV0EablE-1TmAvsfSujQ1goMQPHlznQ,&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Wednesday, June 25, 2025 20:58
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: CIF NOLA Corn price update lag?
+
+ 
+
+Hi Support team,
+
+ 
+
+I was looking for CIF NOLA Corn basis, only to find out that for July, the last update was June 18 (a week ago from today, June 25).
+
+ 
+
+So I want to check whether that is a typical lag or something happened either with your source or within your process.
+
+ 
+
+
+
+URL: https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Corn/9001d66d-2a45-4456-b379-4e04cf256b19 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2fdashboard%2fgrains_oilseeds%2fEconomics%2fCorn%2f9001d66d-2a45-4456-b379-4e04cf256b19&c=E,1,-M9KAsdR1_mnz0bTybehUz66OXN8MG5XzqjgyXiOBeDEiEOp0e9EgM3OMXpAz71G2DvrloAks0WrHP3TcKzCARSrXbwmHLCemxUtXHTC1tzsAGYgoA,,&typo=1> 
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+O
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+
+
+Disclaimer
+
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

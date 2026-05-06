@@ -1,0 +1,50 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-27 15:21:40.315000+00:00
+Subject: Re: EU weather dashboard and all of them - discussion
+Message-ID: ZR3P278MB1226F33B01527712D0AFE445F5A12@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717B813F3AF1F8EA2D26BCFEBA12@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png
+
+================================================================================
+
+Right, so I changed GEFS selected by default in all dashboards.
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 27 March 2025 14:27
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: EU weather dashboard and all of them - discussion 
+ 
+i would show an ensemble model (any), but we all need to agree and show the same in all dashboards i think as default. the operationals are very volatile and can mislead the user when opening the dashboard.
+
+
+________________________________
+
+From: Jebrane Ben Salem
+Sent: Thursday, March 27, 2025 2:17 PM
+To: Pablo Figueroa; Support Dnext
+Cc: Lucas Rosa; Guillaume Goudy; Bastien Lambert; Martin Keller
+Subject: Re: EU weather dashboard and all of them - discussion 
+
+I set GFS as the default selection for all weather dashboards because it is the first model pushed to Snowflake, as discussed with Martin.
+Regarding the second point, we currently have the RunName (Latest) column, which includes four values: 00Z, 06Z, 12Z, and 18Z. The only way to ensure 00Z or 12Z is shown by default is to eliminate 06Z and 18Z from the filter. If you have other possible solutions in mind, we can discuss them.
+To make it clearer I added notes to the dashboards:
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 27 March 2025 11:01
+To: Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: EU weather dashboard and all of them - discussion 
+ 
+
+we should show as default here the ECMWF 00Z or 12z but not the Operational
+
+
+

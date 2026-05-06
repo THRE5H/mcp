@@ -1,0 +1,5 @@
+**Problem**: The customer reported that wheat data for Brazil was missing and requested a fix, anticipating a new report due that week.
+
+**Context**: The user is a Senior Analyst at a Customer Organization focused on grains and oilseeds. The issue pertains to a data reporting feature from a Service Provider, where the customer needed to access specific agricultural data.
+
+**Solution**: The Support Agent informed the customer that the data was available but required a change in the filter settings to display the harvest year for wheat. The customer was advised to adjust the filter accordingly, and no further assistance was requested at that time.

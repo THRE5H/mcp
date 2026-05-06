@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the adjusted customs lineups for Argentina incorrectly allocated all quantities to Saudi Arabia and Yemen, which did not make sense.
+
+**Context**: The user is an external user from Customer Organization, specifically the CEO of DNEXT Intelligence SA. The issue involves the customs data and lineups feature, with a SQL dataprep being used to combine the data for adjustments.
+
+**Solution**: The Support Team investigated the issue and found that the SQL query was missing a critical condition related to the "Country Partner." The customer updated the SQL code to include this condition and requested further verification from the team. The final outcome is pending confirmation of the updated query's effectiveness.

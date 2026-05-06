@@ -1,0 +1,27 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-10-01 08:29:46.039000+00:00
+Subject: BAM Environment
+Message-ID: GVAP278MB0677AD80ABC7CD1BEAF2C07288E6A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please remove Balyasny users from the environment: bam.dnext.io. The contract has been stopped on 30.09.2025.
+
+ 
+
+Dev Team,
+
+Many thanks to archive the environment after user removal.
+
+ 
+
+Kind regards
+
+Sami
+
+ 

@@ -1,0 +1,92 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Aditya Jeripotula
+Date: 2025-10-21 18:44:02.346000+00:00
+Subject: RE: DNEXT - Login Credentials
+Message-ID: GV0P278MB1320640D55E67C1AD41AE5B1F8F2A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320C4EC16F9690B20A0FE21F8E9A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Aditya,
+
+ 
+
+Just un update that the demo access has been changed to demo2 instead of demo4 
+
+ 
+
+Meaning that you now can access from this url : https://demo2.dnext.io 
+
+ 
+
+Using the same credentials
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Thursday, October 16, 2025 14:25
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: DNEXT - Login Credentials
+
+ 
+
+Hello Aditya,
+
+ 
+
+Kindly find below your login credentials for the https://demo4.dnext.io environment.
+
+ 
+
+Username : aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> 
+
+Password : q99j0zfyw6TwvoVD
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

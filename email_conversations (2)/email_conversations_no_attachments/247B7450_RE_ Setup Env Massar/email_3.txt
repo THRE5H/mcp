@@ -1,0 +1,32 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-10-13 07:40:49.917000+00:00
+Subject: Setup Env Massar
+Message-ID: GVAP278MB06779BBA0702CE367208FDBB88EAA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677BD7818D9DE31EF400ADC88EAA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: massar.dnext.io
+
+*	Client name: Massar Capital Management
+*	Access: Platform ONLY
+*	Access limited to: “Access to DNEXT platform for the premium (basis) cash prices for grains, oilseeds, vegetable oils and bulk freight prices. No CME or futures exchanged are provided”
+*	Contract start: 15.10.2025
+*	Contract End: 14.10.2026
+
+ 
+
+The list of users will be sent later.
+
+ 
+
+Many thanks
+
+Sami
+
+ 

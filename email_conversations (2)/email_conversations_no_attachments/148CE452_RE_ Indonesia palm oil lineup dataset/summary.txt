@@ -1,0 +1,5 @@
+**Problem**: The customer reported that ETG was unable to download the Indonesia palm oil lineup dataset, indicating a potential issue with access.
+
+**Context**: The customer is an internal user from Customer Organization, inquiring about a dataset managed by another internal user. The issue appears to be a recurring bug affecting the dataset's accessibility.
+
+**Solution**: The support agent identified the issue as a bug and reported it to the development team. After initial resolution, the problem recurred, prompting further investigation by the dev team to ensure it would not happen again. The dataset is now accessible for download.

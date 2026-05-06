@@ -1,0 +1,5 @@
+**Problem**: The User needed assistance with accessing the platform and was provided with login credentials but required guidance on changing the password upon first login.
+
+**Context**: The User is an external user of the Customer Organization's platform. The issue involved accessing the platform via a specific URL and ensuring the security of their account by changing the initial password.
+
+**Solution**: The Support Agent provided the User with the login URL and credentials, along with detailed instructions on how to change the password after the first login. The User was advised to follow the outlined steps to ensure account security.

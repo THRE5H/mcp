@@ -1,0 +1,32 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Nader Ltaief; Support Dnext
+Date: 2026-01-08 21:14:14.293000+00:00
+Subject: Re: WF in error Russia Daily Prices
+Message-ID: ZR3P278MB1226FD5D9D2DA7D4D72D0938F585A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07177D47B1755CDB35463B42EB85A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_2.png, image_3.png
+
+================================================================================
+
+Hello Pablo,
+I’ve just checked the source, and they haven’t added the 2026 calendar yet. That’s why there is no new data.
+@Nader Ltaief <mailto:nader.ltaief@dnext.io>  please keep an eye on this source! 
+
+
+*	
+	2026
+
+
+
+*	
+	2025
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 08 January 2026 19:15
+To: Nader Ltaief <nader.ltaief@dnext.io>; Support Dnext <support@dnext.io>
+Subject: WF in error Russia Daily Prices 
+ 
+dnexr-zernoru-cash-dailyclone

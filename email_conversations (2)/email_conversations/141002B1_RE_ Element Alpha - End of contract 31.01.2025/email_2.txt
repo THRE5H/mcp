@@ -1,0 +1,29 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-02-03 07:47:31.174000+00:00
+Subject: Element Alpha - End of contract 31.01.2025
+Message-ID: GVAP278MB0677046D24BADB89AD29078088F52@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please remove the users from the environment element.dnext.io – contract end 31.01.2025
+
+ 
+
+Dev Team,
+
+Please archive this environment.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 

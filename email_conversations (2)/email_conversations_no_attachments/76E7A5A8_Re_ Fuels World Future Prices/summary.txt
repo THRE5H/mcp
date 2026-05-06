@@ -1,0 +1,5 @@
+**Problem**: The customer reported an extraction error in a dataset and requested assistance to check and resolve the issue.
+
+**Context**: The user is an external user from the Customer Organization, seeking support from the Service Provider regarding a specific dataset related to future fuel prices. The issue was communicated via email with a link to the dataset.
+
+**Solution**: The Support Agent addressed the issue by fixing the extraction error as requested. The customer confirmed the resolution and expressed gratitude, indicating that the problem was successfully resolved. It is recommended to regularly verify dataset integrity to prevent similar issues in the future.

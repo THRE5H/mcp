@@ -1,0 +1,5 @@
+**Problem**: The customer needed to confirm the setup of a trial environment for a data analysis platform, including additional user access and specific data requirements.
+
+**Context**: The customer is an external user from Customer Organization, seeking to utilize the DNext platform for data scraping and dashboard creation. The trial environment was prepared, and the customer success team was involved in providing log-ins and platform tours.
+
+**Solution**: The Support Agent confirmed the trial environment was ready and inquired about additional users needed for access. The customer was informed that the customer success team would provide log-ins and assistance with data scraping and dashboard creation as required. It was recommended to communicate specific data needs for optimal setup.

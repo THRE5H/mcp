@@ -1,0 +1,125 @@
+From: Oscar Shi <oshi@valentassetmgmt.com>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-06-30 15:59:20.962000+00:00
+Subject: Re: CIF NOLA Corn price update lag?
+Message-ID: BY3PR08MB7027A6460B78EF6B0969D3F6CF46A@BY3PR08MB7027.namprd08.prod.outlook.com
+In-Reply-To: GV0P278MB132096930BA5E6FFB2A79AB2F845A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: image002.png, image003.png, image.png
+
+================================================================================
+
+Hi Saber,
+
+Thank you very much! I confirm that I can see the latest CIF NOLA Corn now!
+
+On a separate but possibly related note: I noticed that the Soybean FOB prices were last updated a week ago on 6/24 (screenshot below).
+Could you help check whether that one will be updated soon?
+ 
+URL: https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Oilseeds/d1ca7f23-20c0-4099-b575-d30e08d2edd9 <https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Oilseeds/d1ca7f23-20c0-4099-b575-d30e08d2edd9> 
+
+Thank you very much,
+Oscar
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Friday, June 27, 2025 9:42 AM
+To: Oscar Shi <oshi@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>
+Subject: RE: CIF NOLA Corn price update lag? 
+
+
+Hi Oscar,
+
+ 
+
+Thank you for bringing this to our attention, and I apologize for any inconvenience this may have caused.
+
+ 
+
+The CIF NOLA Corn basis for July has now been updated on the platform.
+
+ 
+
+
+
+ 
+
+We appreciate your patience, and please don’t hesitate to reach out if you notice anything else or need further assistance.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,Rgai_eo8XRlsL_XHjVpc4PZh8zlVrEPif505A4ftgZbHshh15auadZ90Z59g-fF9E9cyEQmQUBIinV0EablE-1TmAvsfSujQ1goMQPHlznQ,&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com>
+Sent: Wednesday, June 25, 2025 20:58
+To: Support Dnext <support@dnext.io>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>
+Subject: CIF NOLA Corn price update lag?
+
+ 
+
+Hi Support team,
+
+ 
+
+I was looking for CIF NOLA Corn basis, only to find out that for July, the last update was June 18 (a week ago from today, June 25).
+
+ 
+
+So I want to check whether that is a typical lag or something happened either with your source or within your process.
+
+ 
+
+
+
+URL: https://vam.dnext.io/dashboard/grains_oilseeds/Economics/Corn/9001d66d-2a45-4456-b379-4e04cf256b19 <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2fdashboard%2fgrains_oilseeds%2fEconomics%2fCorn%2f9001d66d-2a45-4456-b379-4e04cf256b19&c=E,1,-M9KAsdR1_mnz0bTybehUz66OXN8MG5XzqjgyXiOBeDEiEOp0e9EgM3OMXpAz71G2DvrloAks0WrHP3TcKzCARSrXbwmHLCemxUtXHTC1tzsAGYgoA,,&typo=1> 
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+O 
+
+
+Disclaimer
+
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

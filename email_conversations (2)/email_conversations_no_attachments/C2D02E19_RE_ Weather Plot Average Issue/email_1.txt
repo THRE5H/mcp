@@ -1,0 +1,125 @@
+From: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-03-06 15:42:11.294000+00:00
+Subject: RE: Weather Plot Average Issue
+Message-ID: BY5PR19MB3972B35C47746D03A8C2F52E86CA2@BY5PR19MB3972.namprd19.prod.outlook.com
+In-Reply-To: GV0P278MB132041493D71C0C7BB030E6CF8CA2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thank you so much, guys.
+
+ 
+
+Regards,
+
+Marcelo Maciel
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, March 6, 2025 4:51 AM
+To: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com>; Support Dnext <support@dnext.io>
+Subject: [Ext]- RE: Weather Plot Average Issue
+
+ 
+
+CAUTION:*This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.* 
+
+ 
+
+________________________________
+
+Hello,
+
+ 
+
+It is done , crop year is now excluded from the average calculation
+
+ 
+
+
+
+ 
+
+If you have any questions or if you need any further assistance please do not hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com <mailto:Marcelo.Maciel@jbssa.com> > 
+Sent: Wednesday, March 5, 2025 16:42
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Weather Plot Average Issue
+
+ 
+
+Hello Guys,
+
+ 
+
+Is it possible to exclude this year data from the avg calculation?
+
+ 
+
+Regards,
+
+Marcelo Maciel
+
+ 
+
+From: Cox, David <David.Cox@jbssa.com <mailto:David.Cox@jbssa.com> > 
+Sent: Wednesday, March 5, 2025 7:40 AM
+To: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com <mailto:Marcelo.Maciel@jbssa.com> >
+Subject: Weather Plot Average Issue
+
+ 
+
+ 
+
+It looks to me like the black average line is including this year’s actual. That doesn’t make sense.
+
+ 
+
+
+
+ 
+
+David Cox
+
+Commodity Derivatives Trader | Risk Management
+
+David.Cox@jbssa.com <mailto:David.Cox@jbssa.com>  | jbsfoodsgroup.com <http://jbsfoodsgroup.com> 
+
+O: 970.506.7573
+
+1770 Promontory Circle | Greeley, CO 80634
+
+ 
+
+ 
+
+Disclaimer
+
+The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any computer. This email has been checked for viruses. However, JBS USA Food Company and its constituent companies cannot accept responsibility for loss or damages arising from use of this email or attachments and we recommend that you subject these to your virus checking procedures prior to use.

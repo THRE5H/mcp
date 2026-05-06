@@ -1,0 +1,5 @@
+**Problem**: The customer reported discrepancies between the daily farmer selling data received via email and the figures displayed on the platform, seeking alignment between the two sources.
+
+**Context**: The user is an external user from a Partner Company, inquiring about the daily farmer selling data for Argentina. The issue involves discrepancies in reporting figures that were previously thought to be resolved.
+
+**Solution**: The Support Agent confirmed that the issue has been fixed, and starting today, the Argentina Daily Farmer Selling data will be included in the Dnext News. It is recommended to regularly check the updates in the Dnext News for the most accurate information.

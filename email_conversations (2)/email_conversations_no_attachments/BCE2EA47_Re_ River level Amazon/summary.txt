@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the availability of daily water level data for the Amazon River, expressing a preference for this data format.
+
+**Context**: The user is an external user from a Customer Organization seeking information related to a data service provided by a Service Provider. The inquiry pertains to the historical availability of daily data for the Amazon River level.
+
+**Solution**: The Support Agent confirmed that daily data for the Amazon River level had been added for internal use and provided a link to access this information. It is recommended that the user regularly check the provided dashboard for updates on data availability.

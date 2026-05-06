@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unable to download historical cash prices and premiums data from the portal despite being able to view the data and price charts.",
+    "solution": "To download the historical cash prices and premiums data from the portal, hover over the line chart visual, click on the three dots menu, then select 'Export data'. Choose the 'xlsx (Excel 150,000-row max)' format and click on Export. Additionally, the dataset including CNF, FOB, and Freight historical data can be accessed and downloaded from the provided platform link which is regularly updated.",
+    "keywords": [
+      "historical data download",
+      "cash prices",
+      "premiums data",
+      "export data",
+      "line chart",
+      "xlsx export",
+      "CNF",
+      "FOB",
+      "Freight",
+      "data portal",
+      "data export"
+    ],
+    "category": "How-to Guide"
+  }
+}

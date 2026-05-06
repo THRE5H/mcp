@@ -1,0 +1,1717 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sami Jaballah; Patricia Medel; Chelsea Scala
+Date: 2025-08-07 14:15:30.080000+00:00
+Subject: RE: DNEXT service
+Message-ID: GV0P278MB132017A835B972BAF693985CF82CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13203F4AE6F315B8169F6527F827A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Chelsea,
+
+ 
+
+Just checking in to see if everything is working smoothly with the user accounts and access. Please don’t hesitate to let us know if you’ve run into any issues or need any assistance.
+
+ 
+
+We’d also be glad to arrange a short demo session to walk through how to use our APIs effectively, if that would be helpful. Just let us know what works best for your team.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, July 31, 2025 20:27
+To: Sami Jaballah <sami.jaballah@dnext.io>; Patricia Medel <Patricia.Medel@tudor.com>
+Cc: John Stansfield <john.stansfield@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Chelsea Scala <Chelsea.Scala@tudor.com>
+Subject: RE: DNEXT service
+
+ 
+
+Hello Everyone,
+
+ 
+
+Just to confirm, the user accounts have been created, and the login details were sent privately to each user's email address.
+
+ 
+
+We’d also be happy to schedule a short demo session to walk through how to use our APIs effectively.
+
+ 
+
+Please let us know what availability works best for your team, and we’ll arrange it accordingly.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> > 
+Sent: Thursday, July 31, 2025 19:45
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Chelsea Scala <Chelsea.Scala@tudor.com <mailto:Chelsea.Scala@tudor.com> >
+Subject: Re: DNEXT service
+
+ 
+
+Yes, the users will receive directly the access.
+
+ 
+
+Sami
+
+ 
+
+________________________________
+
+De : Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Envoyé : jeudi, juillet 31, 2025 8:36 PM
+À : Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc : John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Chelsea Scala <Chelsea.Scala@tudor.com <mailto:Chelsea.Scala@tudor.com> >
+Objet : RE: DNEXT service
+
+ 
+
+To confirm, they’ll reach out to the users below right?  I’ll be out tomorrow and into next week, but I’ve copied in Chelsea should there be any issues.
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Thursday, July 31, 2025 2:34 PM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+Yes, the profiles will be ready by  tomorrow.
+
+ 
+
+Our support team will contact you for a short demo and how to use our APIs.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+________________________________
+
+De : Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Envoyé : jeudi, juillet 31, 2025 2:21 PM
+À : Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc : Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Objet : RE: DNEXT service
+
+ 
+
+Great!
+
+ 
+
+Can we set up the below users?
+
+ 
+
+Patrick.Doherty@xantium.com <mailto:Patrick.Doherty@xantium.com> 
+
+Brandon.Bates@xantium.com <mailto:Brandon.Bates@xantium.com> 
+
+data-external@xantium.com <mailto:data-external@xantium.com> 
+
+ 
+
+Let me know if they’ll all get access tomorrow.
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Thursday, July 31, 2025 2:13 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+For the contract, Guillaume will sign the contract. No need to send it to someone else.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: mercredi, 30 juillet 2025 21:49
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Sami,
+
+ 
+
+Perfect.  I’m double checking who the 2-3 users should be.
+
+ 
+
+And yes, the contract was signed by Tudor and automatically sent to Guillaume.  Should we send it to someone else?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Wednesday, July 30, 2025 11:46 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+Your environment will be ready as planned by Friday, August 1st, 2025. You will have access to the dataset with the Daily Brazilian Lineups. You can access it via APIs.
+
+May I ask you to send me the 2 /3 users (first name, last name, email) who will have access to the platform to see / download directly the dataset + access via APIs?
+
+ 
+
+For the contract, did you sent it already to Guillaume? – he is off this week.
+
+ 
+
+Many thanks for your feedback.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: mercredi, 23 juillet 2025 19:20
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Sami,
+
+ 
+
+In regards to the storage limit, how frequently would clients hit the limit and then have to purchase additional storage?
+
+ 
+
+Can you confirm if you accept docusign and who we should be sending it to for signature?  Also, do you require two signatures from Tudor?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Wednesday, July 23, 2025 4:55 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+Thank you for your feedback on the contract. Here is our comments:
+
+*	Order Form
+
+	*	Contact Person Email should be changed to market-services@tudor.com <mailto:market-services@tudor.com> ? : OK
+	*	D. can we remove the autorenewal clause? OK – renewal discussion before the renewal
+
+*	GTC
+
+	*	10.4: typically want 30 days to pay. - OK
+	*	12.1.1: please remove autorenewal clause – OK – changed to refer to the Order Form
+	*	13: we don’t allow publicity, this must be addressed.: OK
+	*	16.5-6: prefer English law/courts to Swiss: this is not Ok for us: we are a small company and will be hard to defend ourselves. Swiss is a very international with a developed law system so you are very safe. We do not have the resources to hire someone in London for legal aspects
+
+ 
+
+Please find enclosed the two documents updated with these changes.
+
+ 
+
+Many thanks for you feedback.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: mardi, 22 juillet 2025 20:20
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Sami,
+
+ 
+
+We heard back form legal and below are their comments on the order form and t&c:
+
+ 
+
+*	Order Form
+
+	*	Contact Person Email should be changed to market-services@tudor.com <mailto:market-services@tudor.com> ?
+	*	D. can we remove the autorenewal clause?
+
+*	GTC
+
+	*	10.4: typically want 30 days to pay.
+	*	12.1.1: please remove autorenewal clause
+	*	13: we don’t allow publicity, this must be addressed.
+	*	16.5-6: prefer English law/courts to Swiss
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Monday, July 14, 2025 2:44 PM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+Thank you for the feedback.
+
+ 
+
+Please find enclosed:
+
+*	Dnext Order Form for the access to Daily Brazilian Lineups dataset
+*	Our General Terms & Conditions
+
+ 
+
+We set the start date to: August 1st , 2025. Time to finalize the agreement and prepare the environment.
+
+ 
+
+Many thanks for your feedback.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+SAMI JABALLAH
+
+COO & CO-FOUNDER
+
+                                                                                                     sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.iom> 
+
++41 79 224 48 80
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!P0v-41A!0qiOzy0MKSJO29zNxzVz4LdPVTPWKzDBi0xcUhLaXdSTnNa2RdBj7h1h_XSS5i30E4CGBk5gNEedUhBwkgVVqtHqY_ze$> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: lundi, 14 juillet 2025 19:39
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Sami,
+
+ 
+
+The team confirmed that API access is much more important than a daily excel file.
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Friday, July 11, 2025 6:37 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+Thank you for this positive feedback. We will prepare the agreement.
+
+ 
+
+One question about the delivery of our data: is it enough to receive the daily Brazilian sugar lineups Excel file prepared by John or do you plan also to access data via APIs through our platform.
+
+ 
+
+Many thanks for your confirmation.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: jeudi, 10 juillet 2025 18:45
+To: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi John/Guillaume,
+
+ 
+
+Thanks again for your time on the call.  We’ve received compliance approval and are ready to proceed with this subscription.  To confirm, they would like the Brazilian lineups daily dataset for CHF 5K/year and this includes all history.  Can you forward over the agreement so that we can have it reviewed by legal?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >
+Sent: Wednesday, July 9, 2025 4:54 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Guillaume,
+
+ 
+
+I work in Tudor’s Legal and Compliance department – unfortunately I wasn’t included in any calls you may have had with the traders to discuss this product.  There’s also a possibility you’re confusing me with Chelsea Scala who works on our market services team.  As an SEC registrant, Tudor is required to perform due diligence on all external data and research providers to rule out the possibility that we are ingesting content that could violate securities laws, privacy laws, could infringe on another party’s IP, among other concerns.
+
+ 
+
+I’m asking you these questions because if we were to be examined by our regulators (namely the SEC) they would expect us to demonstrate a clear understanding of the content we’re buying, as well as how it is derived. 
+
+ 
+
+I think it might make sense to have a short call to tie up the loose ends around how your product is derived.  Are you free between 10am-5pm ET tomorrow (Thursday 7/10) or 9:30am-3pm ET on Friday 7/11?
+
+ 
+
+Thank you and kind regards,
+
+Chelsea L.
+
+ 
+
+ 
+
+Chelsea Lein
+
+VP, Data & Research Compliance
+
+Tudor Investment Corporation
+
+Tel:  (203) 863-6238
+
+Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> 
+
+ 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, July 9, 2025 4:35 PM
+To: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+In a way yes, except that between agents and firms like Tudor, we make a significant work tracking all vessels, cross checking with destination and correcting all information. We cross check information between different sources.
+
+However, I am not sure on the purpose of these last details. Your traders that were interested in this information know about this. We explained it already.
+
+Thank you in advance to let us know if you are still interested in this data.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >
+Sent: Wednesday, 9 July 2025 20:17
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+So is the data supply chain: Vessels exporting sugar from Brazil to other countries → Brazil-based port agents → Dnext → Firms like Tudor?
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, July 9, 2025 1:03 PM
+To: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+See our answer in blue
+
+ 
+
+From: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >
+Sent: Wednesday, 9 July 2025 18:39
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Thank you, Sami.  This was very helpful.  As a last step, can you please provide more detail around Dnext’s interaction with the port agents?  For example:
+
+ 
+
+1.	Are they exclusively Brazilian ports (vs. receiving ports)?
+
+You made the request to get Bra sugar lineups from us. Therefore, yes, it is only about Brazil. Bra ports can be receiving ports as much as an export hub. It depends on the product. We cover other countries and other products but it is not the purpose of this service. Again, I am bit confused as if the question is about the service we will provide to you only or is it about Dnext lineups in general? I assume it is the first one.
+
+2.	Are port agents compensated for their participation?
+
+Service against service. We help them with information and our platform in exchange to use the data after it is being anonymized.
+
+3.	What authority, if any, do port agents have to share this information?
+
+They do not have to. It is a service they render.
+
+4.	Do the port agents consent for you to share this information (or derived content)?
+
+Yes, the derived content which is what we will share.  
+
+5.	How many ports does this represent? A raw number, along with an estimate of the % of total ports in Brazil would be most helpful.
+
+21 ports approximately. It will cover 100% of bulk sugar flow.
+
+ 
+
+Thanks again and kind regards,
+
+Chelsea L.
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Friday, July 4, 2025 9:52 AM
+To: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Chelsea,
+
+ 
+
+Thank you for your feedback on our questionnaire.
+
+ 
+
+Please find enclosed the following documents:
+
+*	Answers to your additional questions
+*	Sample data of our Daily Brazilian lineups
+*	Data Dictionary of the Brazilian lineups file
+*	MNPI Policy
+
+ 
+
+A clarification related to the MNPI. We have clients publicly quoted – we have interactions in the frame of our service. We clearly do not have access to any MNPI.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+SAMI JABALLAH
+
+COO & CO-FOUNDER
+
+                                                                                                     sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.iom> 
+
++41 79 224 48 80
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!P0v-41A!3GXiA0Hlls2G2ZOzcYN3jLR2W6PFH4Tf8WAri0Ug5AXO8LhNBSkZrt-_YYXnbMZbnCOBEfjou_h8NlqM7cMXfxpKa8A$> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Chelsea Lein <Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> >
+Sent: mercredi, 2 juillet 2025 20:51
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >; Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Sami,
+
+ 
+
+I’m one of Tricia’s colleagues in Tudor’s Compliance department – pleasure to meet you via email.  I have reviewed your questionnaire and have some follow-up questions for DNext listed down below.
+
+ 
+
+Can you please also send me sample data and a data dictionary?
+
+ 
+
+Thank you and kind regards,
+
+Chelsea L.
+
+ 
+
+ 
+
+*****************************
+
+ 
+
+1.	Can you please provide a description of the dataset in layman’s terms?  (“Daily Brazilian sugar lineups tracked to destination. John and sugar team works daily checking vessel by vessel to destination.”)
+2.	Can you please list all the underlying data sources used in this dataset? We note government/NGO statistics, the internet, and satellite/aerial data from your completed intake form.
+3.	Can Dnext please clarify whether exchange data is being used in this product?
+
+
+
+4.	Roughly how old are the underlying inputs by the time your clients see the derived data?
+5.	Can Dnext please explain the nature of the interactions its personnel are having with employees of publicly traded companies who are likely exposed to MNPI?
+6.	Can Dnext please send us a copy of their MNPI policy?
+7.	Can Dnext please explain what type of content they are web scraping?
+8.	Can Dnext please explain the situations in which they are scraping behind a paywall or login?
+9.	When Dnext scrapes behind a paywall or login, are the website Terms of Use reviewed and complied with?
+10.	When Dnext scrapes behind a paywall or login, is it doing so with an accurate login (i.e. your email domain)?
+11.	Is Dnext’s scraping activity traceable back to the company, either directly or via a proxy server?
+12.	Has Dnext ever received a cease & desist (or similar) related to its scraping activity?
+13.	In what way does Dnext consider this dataset issuer-specific?
+14.	Does Dnext have any of the following as part of its compliance program? Yes/No to each please:
+
+	1.	In-house counsel
+	2.	In-house compliance team
+	3.	Outside counsel for compliance matters
+	4.	Policies on compliance topics like MNPI, confidentiality, privacy
+	5.	Employee training on compliance topics like MNPI, confidentiality, privacy
+	6.	Restrictions on employee trading (personal trading)
+
+ 
+
+ 
+
+Chelsea Lein
+
+VP, Data & Research Compliance
+
+Tudor Investment Corporation
+
+Tel:  (203) 863-6238
+
+Chelsea.Lein@tudor.com <mailto:Chelsea.Lein@tudor.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Sent: Monday, June 30, 2025 3:30 PM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Hello Patricia,
+
+ 
+
+Please find enclosed the questionnaire with our answers.
+
+ 
+
+At your disposal for any additional information.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+SAMI JABALLAH
+
+COO & CO-FOUNDER
+
+                                                                                                     sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.iom> 
+
++41 79 224 48 80
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!P0v-41A!3GATii_SsxqnEikwsCIn5X7D1FFmHyAQnxKrUy-Sv2DyJka5UbHf7R47fgiRXWykA0HzPWzwDd6f-GBttwdapS5FcYJkREAVhsB2Y_Wm$> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Friday, 27 June 2025 16:27
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Here you go, much appreciated.  We’ll need to get this product reviewed by compliance before we proceed.  So once you’re able to get the questionnaire filled, we’ll be able to review.
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Friday, June 27, 2025 9:54 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Yes, it includes the history.
+
+Would you mind resending the questionnaire? Sami who reads us on cc is back on Monday and will take care of it and create after an order form
+
+Thank you in advance,
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Wednesday, 25 June 2025 20:21
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Guillaume,
+
+ 
+
+The team is interested in moving forward. To confirm, if we proceed with the daily BRA lineups, the cost you provided was CHF 5K/year subscription - does that include all history?
+
+ 
+
+Additionally, for due diligence, I sent over the initial questionnaire – can you please fill this out at your earliest convenience so that compliance can review?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, June 16, 2025 5:06 PM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+What do you guys prefer?
+
+1 month at 5000/12 = 417 CHF with no history.
+
+If you like, you take a year subscription and you have access to historical data.
+
+Would that work?
+
+gg
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Monday, 16 June 2025 16:27
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Guillaume
+
+ 
+
+To confirm, would it be a month to month subscription or we’d have to sign up or a min of 3 months (no history)?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, June 16, 2025 6:03 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+We can offer monthly subscription but without any historical but just on-going data for 3 months if you want. Then, we can go back to a yearly subscription and historical will be available. We could do something like this if you are interested. It is an idea. Let me know if this proposal would work for you.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Friday, 13 June 2025 17:07
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Just following up on this
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Monday, June 9, 2025 3:24 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Guillaume,
+
+ 
+
+While you don’t offer trials, would you be opposed to allowing monthly subscriptions instead?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Thursday, June 5, 2025 9:11 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Daily Brazilian sugar lineups tracked to destination. John and sugar team works daily checking vessel by vessel to destination. I thought that was what you were interested in?
+
+Let me know if it is not the case.
+
+Guillaume
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Thursday, 5 June 2025 14:57
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Got it, and what does the Brazil lineups daily tracked include?
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Thursday, June 5, 2025 8:28 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+For trial, we do not offer unless you want a simple access to the platform and see if our API works? Or a demo account where you cannot extract the data. However, we will not provide historical data. Let me know if we should start working on the questionnaire and do the onboarding.
+
+I hope we can work together soon.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Thursday, 5 June 2025 13:44
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Were you able to take a look at the initial questionnaire I sent you?
+
+And do you provide trials?
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Thursday, June 5, 2025 6:31 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hello Patricia,
+
+ 
+
+For Bra lineups daily tracked = CHF 5k/year.
+
+Let me know if it works for your team.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Tuesday, 3 June 2025 21:09
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Just following up on this.
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Monday, June 2, 2025 9:55 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Guillaume,
+
+ 
+
+For the trial, the team is interested in Brazilian export data, specifically sugar.  Can you provide your price breakdown for the data that they’re interested in?  In your email to the team, you said the platform was CHF 50k/year for the whole platform, so perhaps it’d be less for just the Brazilian export data.  And for trials, are they fee liable?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Thursday, May 29, 2025 12:21 PM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hi Patricia,
+
+ 
+
+I am the right person to respond here. I am traveling and you sent me a few docs that i need to review.
+
+We have never given a trial in terms of data transfer. We have given trial in terms of platform but client is unable to download any data (just view). You are asking for a trial of how long, for which data and at what price? Also, we did not agree on any price yet for trial or after. I had given price indication but you came back that it was too expensive and we did not go further. If you do not mind, would you mind giving me more information.
+
+ 
+
+Thank you
+
+FYI, I am traveling tomorrow again. Will respond on Monday if ok with you.
+
+Best Regards,
+
+Guillaume  
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Thursday, 29 May 2025 16:39
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Realized John is still away, but Guillaume – are you able to take a look as the team is interested in a  trial.
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Wednesday, May 28, 2025 1:25 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
++ John
+
+ 
+
+Just wanted to follow up on a possible trial.
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Tuesday, May 27, 2025 12:25 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Data Acquisition Operations <data-acquisition-operations@tudor.com <mailto:data-acquisition-operations@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+HI Guillaume,
+
+ 
+
+The team would like to start a trial.  Can you confirm if you offer this?  And if so, do you accept the attached trial agreement?
+
+ 
+
+Also, before we proceed with any trial/subscription, can you have both the initial questionnaire and DDQ filled out for compliance review?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+From: Patricia Medel
+Sent: Tuesday, May 20, 2025 11:06 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+I sent over the invite – if you can forward over to John, that’d be great!
+
+ 
+
+From: Patricia Medel <patricia.medel@tudor.com <mailto:patricia.medel@tudor.com> >
+Sent: Monday, May 19, 2025 1:34 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Let’s schedule the call for Wednesday, 5/21 @ 11am EST.
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, May 19, 2025 12:59 PM
+To: Patricia Medel <patricia.medel@tudor.com <mailto:patricia.medel@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Unfortunately, no. John is leaving for vacation for next 10 days.  
+
+gg
+
+ 
+
+From: Patricia Medel <patricia.medel@tudor.com <mailto:patricia.medel@tudor.com> >
+Sent: Monday, 19 May 2025 17:59
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Do you have any other days/times that work next week?
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, May 19, 2025 10:55 AM
+To: Patricia Medel <patricia.medel@tudor.com <mailto:patricia.medel@tudor.com> >
+Subject: FW: DNEXT service
+
+ 
+
+Wed 5pm swiss time or 7pm swiss time
+
+Thursday 5.30pm swiss time
+
+Let me know if anything works
+
+Best Regards,
+
+Guillaume 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Monday, 19 May 2025 16:08
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Thanks again for your time.  Could you let us know a few days/times when you and your colleague are next free for another call?
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Tuesday, May 13, 2025 11:05 AM
+To: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Hello Patricia,
+
+ 
+
+I am traveling this week. Would you be free next Monday 19th? I am free from 3-5pm swiss time or Tuesday morning from 10am swiss time. Let me know if any of these times/days work.
+
+Best Regards and apology for delay in my response,
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Patricia Medel <Patricia.Medel@tudor.com <mailto:Patricia.Medel@tudor.com> >
+Sent: Friday, 9 May 2025 18:15
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: DNEXT service
+
+ 
+
+Just following up on this request
+
+ 
+
+From: Patricia Medel
+Sent: Thursday, May 8, 2025 9:35 AM
+To: guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+Subject: FW: DNEXT service
+
+ 
+
+Hi Guillaume,
+
+ 
+
+Paddy had reached out to us and would like to schedule another call.  Can you please send me over your availability, and I can coordinate on my end with his team?
+
+ 
+
+Thanks,
+
+Tricia
+
+ 
+
+ 
+
+Patricia Y. Medel
+Manager, Market Services
+____________________________________
+Tudor Investment Corporation
+51 Astor Place, 11th Floor
+
+New York, NY  10003
+
+* (203) 485-8664  |  * patricia.medel@tudor.com <mailto:patricia.medel@tudor.com> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, May 7, 2025 10:08 PM
+To: Patrick Doherty <patrick.doherty@tudor.com <mailto:patrick.doherty@tudor.com> >
+Cc: Brandon Bates <Brandon.Bates@xantium.com <mailto:Brandon.Bates@xantium.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Dear Patrick,
+
+ 
+
+Sorry for my delayed response but i was traveling and missed your email.
+
+If i understand well, you are not interested in our forecast but just historical data collection such as customs, lineups, SND? And access to them via an API?
+
+We can do things a la carte but just want to make sure i understood correctly.
+
+Thank you and look forward to hearing from you soon.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Patrick Doherty <patrick.doherty@tudor.com <mailto:patrick.doherty@tudor.com> >
+Sent: Tuesday, 29 April 2025 11:29
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Brandon Bates <Brandon.Bates@xantium.com <mailto:Brandon.Bates@xantium.com> >
+Subject: RE: DNEXT service
+
+ 
+
+Dear Guillaume,
+
+ 
+
+Thank you for the meeting yesterday, it was great to learn about what DNEXT offers and the firm itself.
+
+ 
+
+I am afraid that a package deal is not economically viable for us. We are primarily seeking API access / excel files to a limited set of historical time series data on country-level balance data, and global balance data.
+
+ 
+
+As our focus is on back-testing trading strategies, we won’t need the forecasting services included in your package. Additionally, analyst meetings, while valuable, aren’t required for our quantitative approach.
+
+ 
+
+Would you be willing to offer these specific data services on a more ‘a la carte’ basis? We would be interested in pricing for just the API access to these particular datasets.
+
+ 
+
+Thank you for your consideration,
+
+Paddy
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, April 28, 2025 5:31 PM
+To: Patrick Doherty <patrick.doherty@tudor.com <mailto:patrick.doherty@tudor.com> >
+Subject: DNEXT service
+
+ 
+
+Dear Patrick,
+
+ 
+
+Thank you for your time today. Please find below our offer.
+
+ 
+
+Sugar:
+
+1.	Platform (freight price + curve, weather, tradeflow, production, snd and forecast) + reports with historical: CHF 50k/year
+
+ 
+
+What are the benefits of working with DNEXT?
+
+a.   You can automatically collect information from websites, emails, or other formats. Data will be ingested, structured, and stored in a database for reuse, API access. This includes weather, statistics, port lineups or any information that could be of use.
+
+b.   The network we have built and continue to build will allow your traders to have access to market research as if they were sitting in a large, physical trading house with a global reach but without the overheads and assets to manage.
+
+c.   You will have access to an interactive platform with all the information you need. Your team can focus on analysis and risk management and less on data crunching.
+
+d.   You will have access to a team of experienced trade analysts covering most agriculture commodities and benefiting from the synergies among them.  
+
+ 
+
+Let me know if you need anything or if you have any questions.
+
+We look forward to hearing from you soon.
+
+Best Regards,
+
+Guillaume
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'
+
+'
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+'

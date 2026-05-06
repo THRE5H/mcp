@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in providing a login account for a user, Soe Min Tun, who may not have received his login credentials.
+
+**Context**: The request was made by an external user from a Partner Company to an internal user at the Customer Organization. The issue involves user account management for a service provided by the Customer Organization.
+
+**Solution**: The Support Agent confirmed that a user account for Soe Min Tun had been created previously, and the login credentials were sent via email. To resolve the issue, the Support Agent will resend the login details to ensure the user receives them. It is recommended to check spam folders for missed emails in the future.

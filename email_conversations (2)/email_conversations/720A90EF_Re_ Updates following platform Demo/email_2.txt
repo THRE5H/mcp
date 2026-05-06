@@ -1,0 +1,55 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Shravan Nair
+Date: 2025-04-03 18:22:52.210000+00:00
+Subject: Updates following platform Demo
+Message-ID: GV0P278MB13203B4F6F9C03CD14F0B8DEF8AE2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Shravan , 
+
+ 
+
+Hope all is well.
+
+ 
+
+I wanted to let you know that the download in the tradematrix issue has been resolved, and it’s now working as intended.
+
+ 
+
+Also concerning the error we encountered in the meeting in the Sugar Production > India  dashboard (see image below), we checked with the dev team and it happens when there is not enough memory, so if you encounter it just close some tabs on the browser then refresh  and you should have no issues visualizing it.
+
+
+
+ 
+
+I also wanted to let you know we are working on making the separation between the forecast and the actual visible , we will follow up with an email once it’s done
+
+ 
+
+Please let me know if you have any questions or concerns and thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The Customer requested assistance in sharing a specific dataset with THUL.
+
+**Context**: The Customer is an external user from the Customer Organization, seeking support from the Service Provider's Customer Support team. The request involved a dataset located at a specific URL that needed to be transferred to a partner environment.
+
+**Solution**: The Support Agent confirmed that the dataset was successfully shared with THUL and provided the corresponding code for the dataset in the THUL environment. It is recommended to verify dataset sharing processes regularly to ensure timely access for partners.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that NDVI charts were not updating as expected, indicating a potential issue with data refresh or display.
+
+**Context**: The user is an external user from a Customer Organization utilizing a data visualization tool provided by a Service Provider. The issue arose after a recent software update, which may have affected the chart functionality.
+
+**Solution**: The Support Agent investigated the issue and identified a configuration error in the data refresh settings. After correcting the settings, the NDVI charts were successfully updated. It is recommended that the user regularly check configuration settings after updates to prevent similar issues in the future.

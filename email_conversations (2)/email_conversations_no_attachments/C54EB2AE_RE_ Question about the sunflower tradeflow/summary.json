@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users are unclear about the absence of 2024/25 data for sunflower and sunflower seeds tradeflow and the meaning of the 'dark grey' and 'purple' legends which are not explained in the legends tab.",
+    "solution": "The 'dark grey' color in the summary table represents the total exports across all origins and destinations and includes a portion of forecasted data. The 'purple' color indicates fully forecasted data, which are values not officially published yet. Regarding the 2024/25 sunflower and sunflower seeds tradeflow data, confirmation about updates and publication of additional data requires internal verification with the team.",
+    "keywords": [
+      "sunflower tradeflow",
+      "sunflower seeds",
+      "tradeflow data update",
+      "forecasted data",
+      "legend colors",
+      "dark grey",
+      "purple",
+      "data visualization",
+      "forecast indication"
+    ],
+    "category": "Feature Explanation"
+  }
+}

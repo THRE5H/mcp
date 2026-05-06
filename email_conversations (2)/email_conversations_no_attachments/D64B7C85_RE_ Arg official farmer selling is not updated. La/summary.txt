@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the official farmer selling data for Argentina had not been updated since January 30th, causing confusion regarding the current data status.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue pertains to a data update feature in the dashboard, which is critical for users relying on timely information.
+
+**Solution**: The Support Agent confirmed that there was a one-week delay in data updates but assured the customer that the first week of February data would be available soon. Additionally, a note was added to the dashboard to inform users about the update schedule, preventing future confusion.

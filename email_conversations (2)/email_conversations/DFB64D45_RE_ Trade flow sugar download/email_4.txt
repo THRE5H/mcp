@@ -1,0 +1,15 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-03-27 12:08:54.213000+00:00
+Subject: Trade flow sugar download
+Message-ID: GV0P278MB02118872EF0B60775986023F98A12@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Saber,
+
+ 
+
+I just finished a call with Philippe from Avere. He wants to be able to download the sugar tradeflow from the platform but have the info what is realized and what is forecast. We have this function in the TF. However, the way the data is being updated or processed in sugar, everything is uploaded as official. There is no forecast being uploaded. Is there a way to change that and upload official and a forecast. You will need to talk with sugar team and see how is current process being done and if easy to change. Not sure that it is for you to do but please coordinate effort and keep me posted.
+
+gg

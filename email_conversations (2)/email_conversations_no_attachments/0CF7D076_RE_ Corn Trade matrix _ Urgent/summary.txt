@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to reopen and modify a saved forecast in grid view within the TradeMatrix, as the Edit and Visualize buttons redirected them to a page for renaming the forecast.
+
+**Context**: The customer is an external user from a trading organization seeking assistance with the TradeMatrix feature of a forecasting tool provided by a service provider. They reported issues with accessing and editing previously created forecasts.
+
+**Solution**: The support agent provided instructions to load the forecast into the TradeMatrix and drag it to the top layer for editing. They confirmed that changes could be saved or published as a new version. The agent also offered further assistance via a call if needed, ensuring the customer had clarity on the process.

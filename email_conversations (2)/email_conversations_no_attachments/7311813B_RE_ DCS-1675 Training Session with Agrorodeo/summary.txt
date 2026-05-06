@@ -1,0 +1,5 @@
+**Problem**: The customer requested to reschedule a training session to an hour earlier than the originally proposed time.
+
+**Context**: The customer is an external user from a Customer Organization, and the training session is related to a product feature identified as DCS-1675. The session was initially scheduled for September 10th at 15:00 (GVA time).
+
+**Solution**: The Support Agent confirmed that the training session could be moved to an hour earlier. The agent will send updated invitations reflecting the new time. It is recommended for users to communicate any scheduling conflicts as soon as possible to facilitate timely adjustments.

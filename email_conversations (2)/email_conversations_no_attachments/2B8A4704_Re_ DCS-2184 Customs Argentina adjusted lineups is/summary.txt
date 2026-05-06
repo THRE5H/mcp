@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the adjusted lineups for Customs Argentina were incorrect, with all quantities mistakenly assigned to Saudi Arabia and Yemen, which did not make sense.
+
+**Context**: The user is an external user from Customer Organization. The issue involves a data preparation task related to Customs Argentina, previously handled by a departing Team Member without a proper handover.
+
+**Solution**: The Support Agent acknowledged the confusion regarding the ownership of the data preparation task. It was suggested that the departing Team Member may not have provided a handover, which could be a point of failure. It is recommended that proper handover procedures be established to prevent similar issues in the future.

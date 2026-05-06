@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials for the staging environment of a specific service.
+
+**Context**: The user is an external user requesting access to the staging environment of a software service provided by a Customer Organization. The request was made via email to the Customer Support team.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials, including the username and password for the staging environment. The agent also offered further assistance if needed, ensuring the user had the required access to proceed.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of two specific datasets from the Agrocomp system.
+
+**Context**: The user is an external user from the Customer Organization, requesting support from the Service Provider's customer support team. The datasets in question are related to data management within the Agrocomp platform.
+
+**Solution**: The Support Agent confirmed the successful deletion of the requested datasets. It is recommended that users verify dataset deletion requests before submission to ensure accuracy and prevent potential data loss.

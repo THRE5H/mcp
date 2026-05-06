@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with duplicate access to the same dataset, indicating a potential problem with data management.
+
+**Context**: The user is an external user (Grains Analyst) from a Customer Organization. The issue pertains to a dataset accessed through a dashboard provided by the Service Provider. The situation suggests a need for better data access control.
+
+**Solution**: The Support Agent addressed the issue by resolving the duplicate dashboard access. The customer was thanked for their patience, confirming that the problem was taken care of. It is recommended to monitor dataset access regularly to prevent similar issues in the future.

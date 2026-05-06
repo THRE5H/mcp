@@ -1,0 +1,678 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Charlie Quaradeghini
+Date: 2025-09-25 18:03:10.088000+00:00
+Subject: RE: [EXTERNAL] RE: Unexpected api behaviour recently
+Message-ID: GV0P278MB132058DE1B149401CE2DB854F81FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PAVP191MB2362AA0E12CC5F93ADFAEB8B841FA@PAVP191MB2362.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Charlie,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+To answer your questions , Not really , limit=120 just counted how many times we retried, assuming each retry was exactly 5 seconds apart. In reality, each API call could take much longer, so the true wait time could far exceed or fall short of 120 seconds. 
+
+By moving the waiting logic directly into task_status with a backoff, we’re actually controlling the real elapsed time, not just the number of loops.
+
+ 
+
+I have adjusted your script to be as below it works fine and, in less time, than the old one : 
+
+“
+
+import pandas as pd
+
+import requests
+
+import json
+
+import time
+
+from io import BytesIO
+
+def task_status(urlTask, task_id, headers):
+
+ 
+
+    success = False
+
+    wait_time = 2
+
+    while not success and wait_time < 30:
+
+        time.sleep(wait_time)
+
+        status_res = requests.get(urlTask + task_id, headers=headers, timeout=30)
+
+        try:
+
+            success = status_res.json().get("status") == "SUCCEEDED"
+
+        except:
+
+            wait_time += 1
+
+            continue
+
+        if not success:
+
+            wait_time += 1
+
+    return success
+
+def _get_task_status(task_id, headers, urlTask):
+
+    if task_status(urlTask, task_id, headers):
+
+        return True
+
+    return False
+
+ 
+
+def _get_dataset(dataset_code, token):
+
+    headers = {
+
+        'Authorization': f'Bearer {token}',
+
+        'Content-Type': 'application/json'
+
+    }
+
+    payload = json.dumps({
+
+        "format": "csv"
+
+    })
+
+    urlDataset = f'https://api.dnext.io/v1.0/data/datasets/{dataset_code}/download'
+
+    urlTask = 'https://api.dnext.io/v1.0/tasks/'
+
+ 
+
+    resultdownload = requests.post(urlDataset, headers=headers, data=payload, timeout=30).json()
+
+ 
+
+    if "task" not in resultdownload or "id" not in resultdownload["task"]:
+
+        raise ValueError("Task ID not found in the response")
+
+ 
+
+    task_id = resultdownload["task"]["id"]
+
+ 
+
+    if _get_task_status(task_id, headers, urlTask):
+
+        if "result" in resultdownload and "url" in resultdownload["result"]:
+
+            file_url = resultdownload["result"]["url"]
+
+            data_response = requests.get(file_url, allow_redirects=True)
+
+            return pd.read_csv(BytesIO(data_response.content))
+
+        else:
+
+            raise ValueError("Download URL not found in the response")
+
+    else:
+
+        raise TimeoutError("Task did not succeed within the allowed limit")
+
+ 
+
+def _get_token(email: str, pwd: str, env: str):
+
+    """Retrieve an authentication token."""
+
+    url = f'https://api.dnext.io/v1.0/auth/custom-login?org={env}'
+
+    payload = json.dumps({
+
+        'email': email,
+
+        'password': pwd,
+
+        'organization': env
+
+    })
+
+    headers = {
+
+        'Content-Type': 'application/json'
+
+    }
+
+    response = requests.post(url, headers=headers, data=payload)
+
+    response.raise_for_status() # Raise an error for invalid responses
+
+    return response.json()['token']
+
+ 
+
+def _extract_data(dataset_code: str, email: str, pwd: str, env: str) -> pd.DataFrame:
+
+    """Extract data from the API."""
+
+    token = _get_token(email=email, pwd=pwd, env=env)
+
+    return _get_dataset(dataset_code, token)
+
+_extract_data("thul-6a211b50-3b48-4e90-8f86-47e2e2b81909", "youremail@example.com","password", "thul")
+
+ 
+
+“
+
+If in the future you want to download a larger dataset and you get a time out error just increase the wait time I highlighted in yellow and it should work fine.
+
+ 
+
+Please let me know if you need further explanation or assistance.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com> 
+Sent: Thursday, September 25, 2025 15:19
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: RE: [EXTERNAL] RE: Unexpected api behaviour recently
+
+ 
+
+Hi Saber, 
+
+ 
+
+Just FYI this is the code as we currently have it structured (see below):
+
+While not identical to yours, shouldn’t the limit=120 parameter in _get_task_status be acting in the same manner?
+
+Thanks again
+
+ 
+
+def task_status(urlTask, task_id, headers):
+    """Check the status of a task until it is ready."""
+    status_response = requests.get(urlTask + task_id, headers=headers, timeout=30).json()
+    if "status" in status_response:
+        return status_response["status"] == "SUCCEEDED"
+    return False
+
+def _get_task_status(task_id, headers, urlTask, limit=120):
+    """Poll the task status until it succeeds or times out."""
+    counter = 0
+    while counter < limit:
+        if task_status(urlTask, task_id, headers):
+            return True
+        time.sleep(5)
+        counter += 5
+    return False
+
+
+def _get_token(email: str, pwd: str, env: str):
+    """Retrieve an authentication token."""
+    url = f'https://api.dnext.io/v1.0/auth/custom-login?org={env}'
+    payload = json.dumps({
+        'email': email,
+        'password': pwd,
+        'organization': env
+    })
+    headers = {
+        'Content-Type': 'application/json'
+    }
+    response = requests.post(url, headers=headers, data=payload)
+    response.raise_for_status() # Raise an error for invalid responses
+    return response.json()['token']
+
+
+def _get_dataset(dataset_code, token):
+    """Download a dataset given its code and token."""
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Content-Type': 'application/json'
+    }
+    payload = json.dumps({
+        "format": "csv"
+    })
+    urlDataset = f'https://api.dnext.io/v1.0/data/datasets/{dataset_code}/download'
+    urlTask = 'https://api.dnext.io/v1.0/tasks/'
+
+    resultdownload = requests.post(urlDataset, headers=headers, data=payload, timeout=30).json()
+
+    if "task" not in resultdownload or "id" not in resultdownload["task"]:
+        raise ValueError("Task ID not found in the response")
+
+    task_id = resultdownload["task"]["id"]
+
+    if _get_task_status(task_id, headers, urlTask):
+        if "result" in resultdownload and "url" in resultdownload["result"]:
+            file_url = resultdownload["result"]["url"]
+            data_response = requests.get(file_url, allow_redirects=True)
+            return pd.read_csv(BytesIO(data_response.content))
+        else:
+            raise ValueError("Download URL not found in the response")
+    else:
+        raise TimeoutError("Task did not succeed within the allowed limit")
+
+
+def _extract_data(dataset_code: str, email: str, pwd: str, env: str) -> pd.DataFrame:
+    """Extract data from the API."""
+    token = _get_token(email=email, pwd=pwd, env=env)
+    return _get_dataset(dataset_code, token)
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: 25 September 2025 10:42
+To: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: Unexpected api behaviour recently
+
+ 
+
+Hello Charlie,
+
+ 
+
+Thank you for your response.
+
+ 
+
+Below is the  python script I used to download the Freight dataset via the API 
+
+ 
+
+I will highlight the wait_time so you can identify it and play it .
+
+“
+
+import requests
+
+import pandas as pd
+
+from io import BytesIO
+
+import time
+
+def _get_task_status(task_id, token):
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'
+
+    }
+
+    success = False
+
+    wait_time = 2
+
+    while not success and wait_time < 30:
+
+        time.sleep(wait_time)
+
+        status_res = requests.get(f'https://api.dnext.io/v1.0/tasks/{task_id}', headers=my_headers)
+
+        try:
+
+            success = status_res.json()['status'] == 'SUCCEEDED'
+
+        except:
+
+            wait_time += 1
+
+            continue
+
+        if not success :
+
+            wait_time += 1
+
+        print("status",status_res.json()['status'])
+
+    if success:
+
+        return True
+
+    else:
+
+        return False
+
+def download_dataset(code, token):
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'
+
+    }
+
+    dl_url = f'https://api.dnext.io/v1.0/data/datasets/{code}/download'
+
+    res = requests.post(dl_url, headers=my_headers)
+
+    print(res)
+
+    task_id = res.json()['task']['id']
+
+    print(task_id)
+
+    data_ready = _get_task_status(task_id, token)
+
+    if data_ready:
+
+        data_url = res.json()['result']['url']
+
+        data_resp = requests.get(data_url)
+
+        df = pd.read_csv(BytesIO(data_resp.content))
+
+    else:
+
+        df = None
+
+    return df
+
+df = download_dataset("thul-6a211b50-3b48-4e90-8f86-47e2e2b81909", token)
+
+ 
+
+”
+
+ 
+
+Please let me know if this helps you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> > 
+Sent: Thursday, September 25, 2025 8:42
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: [EXTERNAL] RE: Unexpected api behaviour recently
+
+ 
+
+Hello Saber, 
+
+ 
+
+Apologies for the slow response my end and thanks for your proactivity! 
+
+Could you please send an example code snippet of where I should be passing the wait_time? It’s not a parameter I am currently passing in the api call, but there is a timeout=30 in the respects portion. 
+
+ 
+
+resultdownload = requests.post(urlDataset, headers=headers, data=payload, timeout=30).json()
+
+ 
+
+Thanks
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: 24 September 2025 20:17
+To: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: Unexpected api behaviour recently
+
+ 
+
+Hello Charlie,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+I wanted to check if you are still experiencing any issues with the API, or if everything is now running smoothly.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Tuesday, September 23, 2025 15:35
+To: 'Quaradeghini, Charlie' <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Unexpected api behaviour recently
+
+ 
+
+Hello Charlie,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+I'm writing to update you on the issue with the API that you have reported.
+
+ 
+
+Our Dev Team found that the wait_time in the script needs to be increased when you download large files. We recommend setting the wait time to 30, as this has resolved the issue for even our largest datasets.
+
+ 
+
+Please try this fix and let me know if it resolves the issue. If you continue to have any problems, please don't hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Tuesday, September 23, 2025 8:34
+To: 'Quaradeghini, Charlie' <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Unexpected api behaviour recently
+
+ 
+
+Hello Charlie,
+
+ 
+
+Thank you for reaching out to us.
+
+ 
+
+We’ve raised this issue with our development team, and they are actively investigating it. We will update you as soon as we have more information.
+
+ 
+
+To help us resolve this as quickly as possible, could you kindly share the code you are using, along with the dataset or tradematrix code that was being called when the error occurred? Additionally, if you can provide the specific time when this error happened, it would be extremely helpful in speeding up the investigation.
+
+ 
+
+We appreciate your patience and understanding as we work on this.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com <mailto:Charlie.Quaradeghini@mlp.com> > 
+Sent: Tuesday, September 23, 2025 8:09
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Unexpected api behaviour recently
+
+ 
+
+Hello, 
+
+ 
+
+I have noticed that there are some troubles recently will calling data from the dnext api. Sometimes it fails, citing timeout errors (see below), and other times it runs as expected. This is code we have been using for some time and I suppose nothing major in the code has changed your end since it actually runs fine sometimes. However, it can take multiple attempts for the code to run properly, meaning that scheduled tasks often fail to complete.
+
+ 
+
+The error usually looks like this:
+
+ 
+
+
+
+ 
+
+If you need more details please let me know.
+
+Thanks 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

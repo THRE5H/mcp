@@ -1,0 +1,5 @@
+**Problem**: The customer has not yet logged into the platform due to being occupied with a training program, which limits their available time to navigate the service.
+
+**Context**: The user is an external user from Customer Organization, attempting to access the DNEXT platform using provided login credentials. The customer has communicated their current unavailability for logging in due to a training commitment.
+
+**Solution**: The Support Agent confirmed the login credentials and reiterated the steps to access the platform. The customer plans to log in on September 3, and the Support Agent offered a demo session to assist with navigating the platform once the customer is available.

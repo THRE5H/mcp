@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a demo account for a user at a partner organization, specifically for oilseeds, and needed access to certain features for a duration of seven days.
+
+**Context**: The request was made by a Team Member from the Customer Organization to the Support Team of the Service Provider. The demo account was intended for a user at a partner company, focusing on oilseeds and specific features related to sbs/sbm TF.
+
+**Solution**: The Support Team successfully created the demo account and provided the user with login credentials. The Team Member was informed that the account was ready, and assistance was offered if needed. It is recommended to verify access to all requested features upon first login.

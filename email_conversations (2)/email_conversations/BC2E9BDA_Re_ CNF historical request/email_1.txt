@@ -1,0 +1,109 @@
+From: Leong Yuan Shuo <yuanshuo.leong@fksgroup.com>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-09-01 04:44:03.789000+00:00
+Subject: Re: CNF historical request
+Message-ID: KL1PR01MB4909C5712C76142CB6A76906F707A@KL1PR01MB4909.apcprd01.prod.exchangelabs.com
+In-Reply-To: OS8PR01MB67219D717F56E97F29F0B188F734A@OS8PR01MB6721.apcprd01.prod.exchangelabs.com
+
+================================================================================
+
+ Hi Saber,
+
+Sorry could I check if you have the CNF price history in absolute price?
+
+
+Regards,
+Yuanshuo
+________________________________
+
+From: Leong Yuan Shuo <yuanshuo.leong@fksgroup.com>
+Sent: Saturday, 16 August 2025 1:53 am
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: Re: CNF historical request 
+ 
+Thanks Saber!
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Friday, 15 August 2025 6:14 pm
+To: Support Dnext <support@dnext.io>; Leong Yuan Shuo <yuanshuo.leong@fksgroup.com>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: CNF historical request 
+ 
+
+CAUTION: This email originated from outside FKS Group domain. Do not click links or open attachments unless you recognize the sender and know the content is safe.   
+
+
+Hello Yuan Shuo,
+
+ 
+
+Kindly find attached a dataset containing historical Corn CNF Data from 2020 until the latest available data we have 
+
+you can always find this dataset on the platform by following the link below : 
+
+https://enerfo.dnext.io/datasets/enerfo-a410fb85-d8ab-11ef-82fc-06cd53a4d901 
+
+and download it by clicking on the “Download” button on the top right corner of the screen.
+
+ 
+
+Please let me know if this helps find what you are looking for.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Friday, August 15, 2025 8:52
+To: Support Dnext <support@dnext.io>
+Cc: Leong Yuan Shuo <yuanshuo.leong@fksgroup.com>
+Subject: CNF historical request
+
+ 
+
+Dear support,
+
+ 
+
+Please find below request from Yuan Shuo who reads us on cc.
+
+Thank you in advance to send him the data and also show him how to access it in the platform in case he wants to do it alone in the future.
+
+Thank you
+
+Guillaume
+
+ 
+
+QUOTE
+
+Could I check with you if you would happen to have historical Corn CNF Indo prices ex Bzl/Arg and ex PNW for the last 2 years? Management asking so we're trying to see what we can pull. Appreciate your advice.
+
+UNQUOTE

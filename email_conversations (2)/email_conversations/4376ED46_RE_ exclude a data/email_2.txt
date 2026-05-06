@@ -1,0 +1,71 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Saber Khalfallah
+Date: 2025-10-29 17:22:41.530000+00:00
+Subject: Re: exclude a data
+Message-ID: GV0P278MB059145730FCDFC823BFCC67DF8FAA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132032FEA599C8AC3E1F9550F8FAA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+it is a dataset that i have to recreate with better configurations, so this one is not more needed.
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Wednesday, October 29, 2025 10:02
+To: Lucas Rosa <lucas.rosa@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: exclude a data 
+ 
+
+Hello Lucas,
+
+ 
+
+What do you mean by exclude?
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io> 
+Sent: Wednesday, October 29, 2025 13:14
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: exclude a data
+
+ 
+
+Hi saber, how are you?
+
+ 
+
+Could you please exclude this one?
+
+ 
+
+DNEXT - Datasets <https://dnexr.dnext.io/datasets/dnexr-dnexr-crn-ukr-prod-forecast-weekly> 
+
+ 
+
+Thanks
+
+Lucas

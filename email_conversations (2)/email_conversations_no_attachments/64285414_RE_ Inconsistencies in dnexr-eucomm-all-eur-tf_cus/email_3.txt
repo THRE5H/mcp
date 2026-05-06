@@ -1,0 +1,24 @@
+From: Benoit Baliguet </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=436C997806D34CC39F8E25735927BEF3-19E89D70-52>
+To: Support Dnext
+Date: 2025-11-04 10:31:22.770000+00:00
+Subject: Inconsistencies in dnexr-eucomm-all-eur-tf_customs-monthly
+Message-ID: GV0P278MB1317371B651559EF6913172381C4A@GV0P278MB1317.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Support,
+
+I have been reported some inconsistencies in dataset dnexr-eucomm-all-eur-tf_customs-monthly, with a small group of products always having a quantity set to 0 (PORK_MEAT, WHT, BOVINE_ANIMALS_BEEF_MEAT_FRESH, BOVINE_ANIMALS_BEEF_MEAT_FROZEN).
+
+Query:
+
+SELECT "Product", COUNT(*) AS "countp"
+FROM "dnexr-eucomm-all-eur-tf_customs-monthly"
+GROUP BY "Product"
+HAVING MAX("Quantity") = 0
+ORDER BY "countp" DESC
+LIMIT 100;
+
+Can you double check if this is expected?
+
+Benoît

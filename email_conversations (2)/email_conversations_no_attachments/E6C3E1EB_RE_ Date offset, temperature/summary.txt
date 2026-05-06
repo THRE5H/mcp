@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the temperature reading was incorrect, stating it was not 24.7 degrees as indicated, and suspected a date offset issue. They expressed frustration due to the high temperatures they were experiencing.
+
+**Context**: The user is an external user from Customer Organization using a weather forecasting platform provided by Service Provider. The issue arose during a heatwave, leading to discrepancies in temperature forecasts.
+
+**Solution**: The Support Agent suggested checking the "Forecast Run Comparison" for a different model run that showed a more accurate temperature reading. The customer was advised to review the ECMWF model for better accuracy regarding upcoming temperatures. Further investigation into the model's performance was offered to confirm the discrepancies.

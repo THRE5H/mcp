@@ -1,0 +1,134 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Wael Kouada
+Date: 2025-04-15 14:12:53.082000+00:00
+Subject: RE: Indonesia palm oil lineup dataset
+Message-ID: GV0P278MB13207C0AC88747744CE2667DF8B22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01481BF193AEBB99CA2C951F98B22@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , it works now and the dev team are looking into so it wont happen again 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Tuesday, April 15, 2025 13:09
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Wael Kouada <wael.kouada@dnext.io>
+Subject: RE: Indonesia palm oil lineup dataset
+
+ 
+
+Hello guys, same problem again, could you please check ?
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, April 9, 2025 5:08 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Wael Kouada <wael.kouada@dnext.io <mailto:wael.kouada@dnext.io> >
+Subject: RE: Indonesia palm oil lineup dataset
+
+ 
+
+Hello , 
+
+ 
+
+It’s fixed now they should be able to download it again .
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Wednesday, April 9, 2025 15:18
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Wael Kouada <wael.kouada@dnext.io <mailto:wael.kouada@dnext.io> >
+Subject: RE: Indonesia palm oil lineup dataset
+
+ 
+
+Hello, 
+
+ 
+
+It’s a bug , I have reported it to the dev team, and they are looking into it 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Wednesday, April 9, 2025 15:04
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Wael Kouada <wael.kouada@dnext.io <mailto:wael.kouada@dnext.io> >
+Subject: Indonesia palm oil lineup dataset
+
+ 
+
+Hello guys, we have a dataset with Indo lineup @Wael Kouada <mailto:wael.kouada@dnext.io>  it is the one you manage.
+
+ETG tells me they cant downsload the dataset anymore. Any change or problem with it ?
+
+ 
+
+Thanks

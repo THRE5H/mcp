@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a user account for a colleague on multiple platforms, including Jira and Confluence, but the support agent lacked the necessary permissions to complete the request.
+
+**Context**: The customer is an external user from the Customer Organization seeking assistance from the Service Provider's support team. The issue involves account creation on the Dnexr and Stage environments, with additional requests for access to Jira and Confluence.
+
+**Solution**: The support agent created the user account for the colleague on the Dnexr and BlackFryers platforms and sent the login credentials via email. An internal request was made to an admin to grant permissions for adding the user to Jira and Confluence, which was later confirmed as completed by the admin. It is recommended to ensure that support agents have the necessary permissions to expedite similar requests in the future.

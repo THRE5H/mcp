@@ -1,0 +1,27 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-09-09 16:29:40.592000+00:00
+Subject: Urgent - User in datahub
+Message-ID: GVAP278MB0677AA13D0BAD8C13EA4E16A880FA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Jebrane,
+
+ 
+
+Please add the user :
+
+Anuj Singhal
+
+acsing1980@gmail.com <mailto:acsing1980@gmail.com> 
+
+ 
+
+in the environment DataHub.
+
+ 
+
+Many thanks
+
+Sami

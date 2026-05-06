@@ -1,0 +1,17 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-10-13 10:15:46.108000+00:00
+Subject: problem in sharing dashboard
+Message-ID: GV0P278MB01489BB8ADF0D146D2C390A698EAA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Paul Bateson, Viserion, it telling me when he hovers on “Dashboard” he can only see “Sugar”. They dont have access to sugar. Can you guys please check
+
+ 
+
+Thanks

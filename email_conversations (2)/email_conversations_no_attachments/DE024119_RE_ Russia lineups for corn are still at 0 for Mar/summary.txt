@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Russia lineups for corn were showing zero for March, indicating a potential issue with the data source.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Support Team of the Service Provider. The issue pertains to missing corn data for March and April, which is critical for the user's operations.
+
+**Solution**: The Support Agent confirmed that the data source did not have corn data for the specified months and sent an email to the source for further investigation. It is recommended to follow up with the data source regularly to ensure timely updates on critical data.

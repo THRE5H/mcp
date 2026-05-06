@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with their login credentials for the staging environment but received an email containing sensitive information.
+
+**Context**: The user is an external user associated with the Customer Organization. The issue pertains to the login credentials for the Service Provider's staging environment, which was shared via email.
+
+**Solution**: The Support Agent provided the login credentials directly in the email. It is recommended to avoid sharing sensitive information like passwords through email to enhance security and privacy.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that they could not see any dashboards and inquired if this was a temporary issue.
+
+**Context**: The user is an external user of a dashboard feature provided by a Service Provider. The issue occurred on January 19, 2026, and the customer was experiencing persistent visibility problems despite refreshing the page.
+
+**Solution**: The Support Agent suggested the customer refresh or close and reopen the page. After following this advice, the customer confirmed that the dashboards were visible again. It is recommended that users refresh their browser or restart the application if they encounter similar issues in the future.

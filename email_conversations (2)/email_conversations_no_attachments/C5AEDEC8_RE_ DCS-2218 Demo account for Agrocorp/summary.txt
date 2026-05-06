@@ -1,0 +1,5 @@
+**Problem**: The customer needed clarification on the duration of a trial account for Agrocorp and whether any users should be added to distribution lists.
+
+**Context**: The customer is an external user representing Agrocorp, which is utilizing a demo account for a trial period. The service involved is a demo environment set up by the Service Provider for evaluation purposes.
+
+**Solution**: The Support Agent confirmed that the trial period for Agrocorp is one week and that credentials have been sent to the users for access to the trial environment. It is recommended to communicate any additional distribution list requirements to ensure all relevant users are included.

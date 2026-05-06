@@ -1,0 +1,22 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Bastien Lambert; Support Dnext
+Date: 2025-02-06 11:47:23.861000+00:00
+Subject: Re: Argentina NDVI
+Message-ID: ZR3P278MB1226CCA1C244B0B63269B575F5F62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB014816C5CB71693747BAE27998F52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Fixed. 
+
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 03 February 2025 18:12
+To: Support Dnext <support@dnext.io>
+Subject: Argentina NDVI 
+ 
+
+

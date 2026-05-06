@@ -1,0 +1,5 @@
+**Problem**: The customer requested access for a colleague to the Dnext platform and inquired about training for using the platform effectively, particularly regarding wheat data.
+
+**Context**: The user is an external trader from a Customer Organization seeking assistance with the Dnext platform. The conversation involves multiple parties, including a Support Agent and Team Members from the Customer Organization, discussing platform access and training needs.
+
+**Solution**: The Support Agent created a user account for the colleague and sent the login credentials privately. Additionally, a meeting will be arranged to provide training on using the platform effectively, ensuring the customer can navigate the wheat data available. It is recommended that users familiarize themselves with the platform's features to enhance their experience.

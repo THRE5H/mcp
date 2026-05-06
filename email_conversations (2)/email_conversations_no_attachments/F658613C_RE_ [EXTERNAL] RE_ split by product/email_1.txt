@@ -1,0 +1,185 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rafael Bucciarelli; Support Dnext
+Date: 2025-04-22 22:47:39.159000+00:00
+Subject: RE: [EXTERNAL] RE: split by product
+Message-ID: GV0P278MB1320A9FD399985861009B14DF8BB2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR11MB85433049C17EFDF9DCCEC3CD96BB2@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hello Rafael,
+
+ 
+
+You can have something like this : 
+
+
+
+
+ 
+
+By following the steps below :
+
+1.	Click on the “Columns” button
+2.	Uncheck “Destination Group” & “Destination” 
+3.	Drag and drop “Product” into the Row field ,make sure to place it above “Crop Year” to get the desired layout.
+	
+	
+
+ 
+
+Please let me know if this achieves what you're looking for.
+
+ 
+
+If not, feel free to share more details so we can assist you more effectively.
+
+ 
+
+Additionally, I’d like to propose a quick demo session for the Tradematrix module. 
+
+ 
+
+This will give us a chance to walk you through its features and show how you can make the most out of it.
+
+ 
+
+Looking forward to your feedback.
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com> 
+Sent: Tuesday, April 22, 2025 22:21
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: split by product
+
+ 
+
+Is there a way to see a box per product? Like as if it was an origin or destination? All origins and destinations combined, just want to see product by month along with total. 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, April 22, 2025 4:17 PM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: split by product
+
+ 
+
+Hello,
+
+ 
+
+You can split by product by clicking on the “Column” button and checking the “Product box” (see image below for visual aid)  
+
+ 
+
+
+
+ 
+
+Please let us know if you have any questions or if you need further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Tuesday, April 22, 2025 20:04
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: split by product
+
+ 
+
+Hi, 
+
+ 
+
+For this view would it be possible to split by product?
+
+ 
+
+https://zimb.dnext.io/fundamentals/tradematrix/zimb-56eba46c-90d4-47ae-b6c0-965dc5167244/aggregation
+
+ 
+
+Thanks, 
+Rafael
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

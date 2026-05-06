@@ -1,0 +1,5 @@
+**Problem**: The customer reported that a new user, George, did not receive market updates due to not being added to the distribution list.
+
+**Context**: The customer is an internal user from the Customer Organization, and the issue involves the distribution list functionality of the Service Provider's platform. The situation arose after a new user account was created and added to the relevant distribution list.
+
+**Solution**: The Support Agent identified an error that prevented George from being added to the distribution list. This issue has been resolved, and George has been successfully added, ensuring he will now receive the reports. It is recommended that users verify their inclusion in distribution lists after account creation to avoid similar issues in the future.

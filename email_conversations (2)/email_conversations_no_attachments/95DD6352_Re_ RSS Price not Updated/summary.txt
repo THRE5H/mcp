@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the RSS price was not updated in the FWFP dataset, requesting assistance to resolve the issue.
+
+**Context**: The customer is an external user from the Customer Organization, and the issue involves the RSS price feature of a data extraction service. The customer provided a link to the dataset for reference.
+
+**Solution**: The Support Team, specifically a Data Analyst, corrected the script and validated the extraction step. However, an error was encountered in the column mapping due to an empty price date. The customer agreed to remove the problematic line, which was identified as a source error, leading to the successful resolution of the issue.

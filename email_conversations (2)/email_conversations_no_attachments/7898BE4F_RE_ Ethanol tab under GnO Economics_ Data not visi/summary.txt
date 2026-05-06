@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to view the USA Ethanol tab under GnO Economics, as all tabs were blank with no charts or values displayed.
+
+**Context**: The user is an external specialist from a Customer Organization, seeking support from a Service Provider regarding a feature in their analytics tool. The issue was compounded by a reported bug affecting the support request system.
+
+**Solution**: The Support Agent confirmed that the issue was being addressed and later informed the customer that all tabs were now functional. The customer was advised to reach out if further issues arose, ensuring ongoing support.

@@ -1,0 +1,152 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-02-11 17:02:40.993000+00:00
+Subject: RE: No access to 3 custom datasets
+Message-ID: GV0P278MB02105E6C9EC99B9746735F7F92FD2@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132047341E91822E54D49F6FF8FD2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+Yes,it's working. Thank you!
+
+Best,
+Abir 
+________________________________
+
+De : Saber Khalfallah <saber.khalfallah@dnext.io>
+Envoyé : mardi 11 février 2025 16:55
+À : Chebbi Abir <abir.chebbi@hesge.ch>; Support Dnext <support@dnext.io>
+Cc : Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Objet : RE: No access to 3 custom datasets 
+ 
+
+Hello 
+
+ 
+
+The issue is now resolved, and you should be able to find the download button for these datasets 
+
+ 
+
+
+
+ 
+
+Thank you for your patience and understanding,
+
+ 
+
+If you have any questions or if you need any further assistance please don’t hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Tuesday, February 11, 2025 16:35
+To: Chebbi Abir <abir.chebbi@hesge.ch>; Support Dnext <support@dnext.io>
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: RE: No access to 3 custom datasets
+
+ 
+
+Hello Abir,
+
+ 
+
+Thank you for reaching out and pointing this out.
+
+ 
+
+We are currently troubleshooting this issue.
+
+we will let you know as soon as there are any updates on this.
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Chebbi Abir <abir.chebbi@hesge.ch <mailto:abir.chebbi@hesge.ch> > 
+Sent: Tuesday, February 11, 2025 16:25
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: No access to 3 custom datasets
+
+ 
+
+Hello,
+
+ 
+
+I cannot download the following 3 datasets:
+
+*        Tradeflow - Customs - Chile All monthly
+
+*        Tradeflow - Customs - Norway All monthly
+
+*        Tradeflow - Customs - Iceland All monthly
+
+No Download button available as shown bellow: 
+
+ 
+
+For other dataset like Customs Brazil I can download it: 
+
+
+
+ 
+
+Best regards,
+
+Abir Chebbi
+
+ 
+
+ 
+
+ 

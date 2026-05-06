@@ -1,0 +1,5 @@
+**Problem**: The customer experienced an error in the Sugar Production > India dashboard due to insufficient memory, which hindered visualization. They also needed confirmation regarding the resolution of a download issue in the tradematrix.
+
+**Context**: The customer is an external user from a financial organization. The product involved is a data visualization dashboard related to sugar production, and the issue arose during a platform demo meeting.
+
+**Solution**: The support team confirmed that the download issue in the tradematrix has been resolved. For the dashboard error, they advised the customer to close some browser tabs and refresh to resolve memory-related issues. The team is also working on enhancing the visibility of forecast versus actual data and will provide updates once completed.

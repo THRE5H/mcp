@@ -1,0 +1,13 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-06-02 11:30:08.273000+00:00
+Subject: Access to BF Snowflake to Rory and Anna
+Message-ID: GV0P278MB071758F6FEAE445F1DD8714BEB62A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber, can you check if Rory and Anna from Black Fryers have access to the snowflake?
+ do you have the document to install the ODBC and all the instructions?
+
+thanks,
+Pablo

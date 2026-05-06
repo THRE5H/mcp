@@ -1,0 +1,5 @@
+**Problem**: The customer, a user from Freepoint, was unable to access the Platform, and there was uncertainty regarding the cause of the issue.
+
+**Context**: The user is an external client of the Service Provider. The issue involved access to a web-based platform, and it was noted that the user may have been using the wrong link or needed to reset their password.
+
+**Solution**: The Support Agent verified that the user account existed and provided the correct login URL. The user was advised to reset their password if necessary. The issue was resolved successfully as the user later confirmed they could access the Platform.

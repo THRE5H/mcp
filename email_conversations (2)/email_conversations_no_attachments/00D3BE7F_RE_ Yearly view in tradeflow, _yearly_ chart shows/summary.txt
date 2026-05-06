@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the "yearly" chart in the tradeflow feature incorrectly displays destinations on the X-axis instead of years.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider regarding the tradeflow product. The issue was raised in a support ticket for further investigation.
+
+**Solution**: A support ticket was created to address the reported issue, and the Support Agent confirmed they would follow up with updates. It is recommended for users to monitor the ticket for progress and to provide any additional details if necessary.

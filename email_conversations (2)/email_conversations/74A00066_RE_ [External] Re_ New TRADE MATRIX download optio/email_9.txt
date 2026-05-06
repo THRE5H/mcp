@@ -1,0 +1,41 @@
+From: Alessandra Carruthers <acarruthers@dvtglobal.com>
+To: Mohamed Elasfoury
+Date: 2025-12-11 19:17:24.306000+00:00
+Subject: New TRADE MATRIX download option
+Message-ID: BLAPR03MB54751258EF90C3F5E118D8CBB6A1A@BLAPR03MB5475.namprd03.prod.outlook.com
+
+================================================================================
+
+Hello Mohamed, I hope you are well.
+
+ 
+
+Would it be possible to create a new DOWNLOAD option for the TRADE MATRIX where we would combine the FORECAST data (Sugar Forecast Automated) with the OBSERVED data (history data/actuals) for all sugars (discriminated by quality), in the same format which we currently get when we download the FORECAST (sample below)? 
+
+ 
+
+I am aware we currently have the option to download the Trade Matrixes of each sugar quality (product) separately which combine the observed (history data) and forecast data, but I would also like to have them all in one single file and in the simple format shown below (current FORECAST), if possible. 
+
+ 
+
+In summary, I would like you to add a new button next to FORECAST under TRADEMATRIX to read ACTUALS+FORECAST which would allow us to download all the history data plus the forecast of all products on a monthly basis, in the same format I am currently downloading only the FORECAST. 
+
+ 
+
+Sample of FORECAST download:
+
+
+
+ 
+
+Many thanks for your consideration.
+
+ 
+
+Kind regards,
+
+Alessandra
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message. 

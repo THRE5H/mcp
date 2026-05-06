@@ -1,0 +1,39 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Guillaume Goudy; Support Dnext; Amine Nafkha
+Date: 2025-09-11 10:44:36.335000+00:00
+Subject: Re: Excel addin bug
+Message-ID: GV0P278MB136625070987CA6ABA47A46CE609A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211BC809FF8C368A03402739809A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Noted, we will let you know when this case is solve.
+
+@Amine Nafkha <mailto:amine.nafkha@dnext.io>  I let you create the ticket xls regarding this case. It can be investigate after the other bugs ticket that we have since this one have a lower criticality than the other one.
+
+Regarding the no MFA asks, it verify from where you have connected to dnext the last time, so it may happen if it s similar. For this part, not related to the addin.
+
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Thursday, September 11, 2025 11:33:55 AM
+To: Support Dnext <support@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>; Amine Nafkha <amine.nafkha@dnext.io>
+Subject: RE: Excel addin bug 
+ 
+
+
+
+ 
+
+From: Guillaume Goudy 
+Sent: Thursday, 11 September 2025 11:34
+To: Support Dnext <support@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>; Amine Nafkha <amine.nafkha@dnext.io>
+Subject: Excel addin bug
+
+ 
+
+See below. My credientials have disappeared this morning. I need to put everything again.
+
+gg

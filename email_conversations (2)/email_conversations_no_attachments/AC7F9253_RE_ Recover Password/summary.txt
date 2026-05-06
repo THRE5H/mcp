@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance recovering her password for her account.
+
+**Context**: The user is an external user requesting support from a service provider. The issue involves a password recovery for an account associated with the Customer Organization.
+
+**Solution**: The Support Agent sent new login credentials to the user's inbox, resolving the password recovery issue. It is recommended that users regularly update their passwords and ensure they have access to the email associated with their accounts for future recovery needs.

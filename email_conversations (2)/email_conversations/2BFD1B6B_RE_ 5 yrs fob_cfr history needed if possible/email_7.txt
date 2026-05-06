@@ -1,0 +1,232 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Ruben Ferretti; Guillaume Goudy; Bastien Lambert
+Date: 2025-11-03 09:31:30.468000+00:00
+Subject: RE: 5 yrs fob/cfr history needed if possible
+Message-ID: GV0P278MB1320DB441609594E8F10C2A2F8C7A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVXPR10MB825163330C6972E74EAC624EDFC7A@GVXPR10MB8251.EURPRD10.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Ruben,
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+The data we have already includes CFR.
+
+
+
+
+ 
+
+Regarding Soybean Meal, our team is preparing this data, and it will be available on the platform very soon. We’ll notify you as soon as it’s ready.
+
+ 
+
+Please don’t hesitate to reach out if you have any other questions or need further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruben Ferretti <R.Ferretti@ngco.com.sa> 
+Sent: Monday, November 3, 2025 6:56
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: 5 yrs fob/cfr history needed if possible
+
+ 
+
+Thank you, what about CFR? Is it doable or too difficult? Also im talking about soybean meal not soybeans
+
+ 
+
+Best regards,
+
+Ruben Ferretti
+
++966 53 511 2548
+
+________________________________
+
+De : Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Envoyé : Wednesday, October 29, 2025 2:32:07 PM
+À : Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Ruben Ferretti <R.Ferretti@ngco.com.sa <mailto:R.Ferretti@ngco.com.sa> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Cc : Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Objet : RE: 5 yrs fob/cfr history needed if possible 
+
+ 
+
+Hello Ruben.
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+You can find the data you are looking for on the platform by following the instructions below : 
+
+ 
+
+For Corn : 
+
+ 
+
+1.	First Login to the platform then go to the datasets by navigation to the left menu and hovering over the table icon then clicking on dataset
+2.	You should land on a table containing the datasets available on your environment
+3.	In the name field of the table search for ‘Corn’, then look for the dataset with the name : “World Corn CNF Updates”
+4.	Click on the Eye icon on the right of the row 
+5.	You should land on the dataset summary page where you will see a “Download”Button on the top right of the page , click on that button and the data should be downloaded
+
+Note : see screenshots below for visual aid.
+
+ 
+
+
+
+
+
+ 
+
+Soybean : 
+
+ 
+
+1.	First Login to the platform then go to the datasets by navigation to the left menu and hovering over the table icon then clicking on dataset
+2.	You should land on a table containing the datasets available on your environment
+3.	In the name field of the table search for ‘Soybean’, then look for the dataset with the name : “dnexr Soybean WORLD UNS daily”
+4.	Click on the Eye icon on the right of the row 
+5.	You should land on the dataset summary page where you will see a “Download”Button on the top right of the page , click on that button and the data should be downloaded
+
+Note : see screenshots below for visual aid.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+Please let me know if you have any questions or inquiries.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Wednesday, October 29, 2025 11:57
+To: Ruben Ferretti <r.ferretti@ngco.com.sa <mailto:r.ferretti@ngco.com.sa> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: 5 yrs fob/cfr history needed if possible
+
+ 
+
+Adding support Ruben who can help you with this request. Also, you should be able to access it directly via the platform. Support will be able to guide you thru as well on how to do it.
+
+gg
+
+ 
+
+From: Ruben Ferretti <R.Ferretti@ngco.com.sa <mailto:R.Ferretti@ngco.com.sa> > 
+Sent: Wednesday, 29 October 2025 11:32
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: 5 yrs fob/cfr history needed if possible
+
+ 
+
+Dear Guillaume and Bastien,
+
+If I were to ask for FOB and CFR historicals for corn and meal, is that feasible for the team?
+
+ 
+
+A simple USD/mt timeseries/chart would be ok and CFR could be taken as Jeddah since you have the freight there, ideally 5 years history.
+
+ 
+
+Thanks in advance 
+
+ 
+
+
+
+ 
+
+Ruben Ferretti 
+Trader
+
+ 
+
+
+
+Saudi Agricultural and Livestock Investment Co. 
+Business Gate, Building 6 
+7452 Airport Branch Rd Qurtubah, Unit No. 2 
+Ar Riyadh 13244 - 2327, Kingdom of Saudi Arabia <https://goo.gl/maps/bfUNUsJhjFoiYArw6> 
+
+
+
+Tel: +966 53 511 2548 <tel:00966112681392>  
+
+
+
+r.ferretti@ngco.com.sa <mailto:r.ferretti@ngco.com.saww.ngco.com.a> 
+
+
+
+www.ngco.com.sa <http://www.ngco.com.sa/>  
+
+The information in this email and any attached files, are intended solely for the addressee and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited. If you receive this in error, please contact the sender immediately and delete the material from any computer. Finally, the recipient shall check this email and any attachments for the presence of malicious code. The company accepts no liability for any damage caused by any malicious code transmitted by this E-mail 
+
+ 
+
+ 

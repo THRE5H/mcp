@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be added to a distribution list for weather updates related to corn planting.
+
+**Context**: The user is an external trader from a partner company. The request was made in the context of a weather update email regarding corn planting conditions, which involved multiple stakeholders from both the service provider and the partner company.
+
+**Solution**: The support team confirmed that the user was successfully added to the distribution list. It is recommended to ensure that all relevant stakeholders are included in future communications to avoid similar requests.

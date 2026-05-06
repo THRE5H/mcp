@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience errors when trying to access or create forecasts in the TradeMatrix platform, and confusion exists about locating the correct Excel spreadsheet with macros for managing grids/forecasts and monthly exports.",
+    "solution": "To resolve TradeMatrix forecast creation issues, refresh the page as a temporary workaround. For managing grids and forecasts with VBA functionality, access the Excel file with macros (.xlsm) located in the shared folder path: 'G&O\\05- COUNTRY_ANALYSIS\\ARGENTINA\\SND\\CRN_ARG_SND.xlsm'. Do not use the similarly named .xlsx file as it lacks macros. To create a forecast in TradeMatrix: 1) Click the Forecast button, 2) Click Create in the Forecast section, 3) Specify Name, Code (use hyphens '-' instead of spaces or underscores), and Color, 4) Click Load, then move the forecast from the left panel to the right. Input data directly into forecastable cells, then either save changes to the current version or publish as a new version. Note that only the latest forecast version can be edited; older versions are read-only.",
+    "keywords": [
+      "TradeMatrix",
+      "forecast creation",
+      "Excel macros",
+      "xlsm file",
+      "forecast versioning",
+      "refresh page workaround",
+      "forecast input",
+      "VBA",
+      "monthly exports",
+      "grid management"
+    ],
+    "category": "How-to Guide"
+  }
+}

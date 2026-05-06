@@ -1,0 +1,5 @@
+**Problem**: The customer reported incorrect spellings in sector names, missing data for HRS in 2025, and requested the removal of canola seeds from the dataset.
+
+**Context**: The user is an external user from Customer Organization seeking assistance from the Service Provider's support team regarding a data reporting issue in their product.
+
+**Solution**: The support agent corrected the spelling errors, ensured that HRS data for 2025 was made available, and removed canola seeds from the dataset. The customer was informed that all requested changes had been implemented successfully. It is recommended to regularly review data entries for accuracy to prevent similar issues in the future.

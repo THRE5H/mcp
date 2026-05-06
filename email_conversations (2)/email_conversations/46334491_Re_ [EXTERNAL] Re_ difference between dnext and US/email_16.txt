@@ -1,0 +1,226 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Saber Khalfallah; Pablo Figueroa
+Date: 2025-03-04 21:14:13.241000+00:00
+Subject: RE: [EXTERNAL] Re: difference between dnext and USDA wheat
+Message-ID: SA1PR11MB8543D73D31DE85552C4F926F96C82@SA1PR11MB8543.namprd11.prod.outlook.com
+In-Reply-To: GV0P278MB1320E0C8B7EAAC8E3700BF81F8C92@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks for the code. 
+
+ 
+
+So which products to I sum to align with the USDA all wheat balance sheet?
+
+
+
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, March 3, 2025 10:04 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] Re: difference between dnext and USDA wheat
+
+ 
+
+Hello Rafael
+
+ 
+
+Here is the code of the wheat by class dataset 
+
+ 
+
+Code : “zimb-1a841727-e30f-11ef-b5ba-0a72732f38e5”
+
+ 
+
+Please let us know if you have any questions or if you need any assistance
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Monday, March 3, 2025 15:41
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Rafael Bucciarelli <rafael.bucciarelli@mlp.com <mailto:rafael.bucciarelli@mlp.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: [EXTERNAL] Re: difference between dnext and USDA wheat
+
+ 
+
+Yes, totally. We are already working on something like this should be ready this week. @Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  can you share the wheat  by class dataset we have?
+
+ 
+
+ 
+
+Thanks,
+
+Pablo
+
+ 
+
+ 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 
+
+________________________________
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Sent: Monday, March 3, 2025 3:13:39 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] Re: difference between dnext and USDA wheat 
+
+ 
+
+Is soft wheat all of them except  durum? 
+
+ 
+
+It would be good if there was an option on the platform or in the API to have the same as the wasde, would make it much easier to do comparisons. 
+
+ 
+
+Best, 
+
+Rafael
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Friday, February 28, 2025 4:54 PM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] Re: difference between dnext and USDA wheat
+
+ 
+
+Hi Rafael will check but in the platform we show soft wheat and the image you good from wasde and from the presentation is total wheat.
+
+ 
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 
+
+________________________________
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Sent: Friday, February 28, 2025 9:54:59 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: difference between dnext and USDA wheat 
+
+ 
+
+Hi, 
+
+ 
+
+Why is there such a big difference between dnext estimates and USDA balance sheet for the US?
+
+ 
+
+
+
+ 
+
+ 
+
+What I’m seeing from the power point does not line up with what’s on the platform: 
+
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

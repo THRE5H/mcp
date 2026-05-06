@@ -1,0 +1,5 @@
+**Problem**: The customer reported that ethanol is not appearing in the customs records for the USA census, although it is listed in the USDA Foreign Agricultural Service (FAS) data.
+
+**Context**: The user is an external user from a Customer Organization seeking clarity on discrepancies between customs data and USDA records. The issue pertains to the tracking of ethanol shipments and their visibility in official records.
+
+**Solution**: The Support Agent investigated the data sources and confirmed that the USDA FAS records are separate from customs data. They recommended the customer verify the reporting process for customs and suggested consulting with customs officials for further clarification on the discrepancy.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a user from a distribution list due to email bounce-backs, indicating that the user is still listed despite having left the organization.
+
+**Context**: The customer is an internal user from Customer Organization, and the issue involves a distribution list managed by Partner Company. The user in question had previously been removed but remained in a global risk email list.
+
+**Solution**: The Support Agent confirmed that the user had been removed from the internal distribution list but was still part of a distribution list managed by Partner Company. It was recommended that the customer contact Partner Company to ensure the user is removed from their global list to prevent further bounce-backs.

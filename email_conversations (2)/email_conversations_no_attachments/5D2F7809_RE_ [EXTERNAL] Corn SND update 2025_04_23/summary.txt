@@ -1,0 +1,5 @@
+**Problem**: The Customer reported that their forecast was not visible to the User, who noticed a mismatch in US corn export data between the SnD and the trade matrix.
+
+**Context**: The Customer is an external user from Customer Organization, and the issue involves the Corn SND update feature of the Service Provider's system. The User was consulting data from an outdated trade matrix, which led to the discrepancies.
+
+**Solution**: The Support Agent clarified that the User was accessing an old version of the Corn Tradematrix and recommended switching to the new version with the updated code format. The User confirmed they would switch their query to the new codes, resolving the issue. It is recommended to always use the latest system version for accurate data.

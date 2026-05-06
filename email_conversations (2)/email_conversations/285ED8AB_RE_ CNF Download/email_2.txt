@@ -1,0 +1,15 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Saber Khalfallah; Support Dnext; Ruben Ferretti
+Date: 2025-11-19 12:43:46.015000+00:00
+Subject: CNF Download
+Message-ID: GV0P278MB059144A488542CDDF7C6224FF8D7A@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Support, how are you?
+
+Could you check this quickly for @Ruben Ferretti <mailto:r.ferretti@ngco.com.sa> 
+
+"Hi gents I’m trying to download the word CNF data set, but it looks like my download button is disabled because I don’t see it. Is there any quick fix to this?"
+
+Thanks

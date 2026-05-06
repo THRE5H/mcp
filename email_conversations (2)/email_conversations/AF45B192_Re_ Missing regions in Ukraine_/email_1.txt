@@ -1,0 +1,19 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Pablo Figueroa; Support Dnext; Jebrane Ben Salem
+Date: 2025-03-07 14:43:52.427000+00:00
+Subject: Re: Missing regions in Ukraine?
+Message-ID: ZR1P278MB117173F2BB752D03846FAF3A8BD52@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717E5C12A0016585CE2BE38EBD52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+looks like the same crop mask issue as elsewhere. the no-crop mask data is being processed at the moment, that should fix the issue.
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 07 March 2025 13:42
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Missing regions in Ukraine? 
+ 
+ 

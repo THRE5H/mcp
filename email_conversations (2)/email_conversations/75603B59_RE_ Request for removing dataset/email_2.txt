@@ -1,0 +1,14 @@
+From: Ghaith Krifa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=63ECE1530AF0416494C4B3CB118E1096-6B0D7A48-DE>
+To: Support Dnext
+Date: 2025-10-22 10:20:58.778000+00:00
+Subject: Request for removing dataset
+Message-ID: ZR0P278MB0234AD8837DB9731404E3CE7F3F3A@ZR0P278MB0234.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+Can you please delete these datasets?
+Datasets Code :
+dnexr-bps-gno-idn-snd-item-yearly
+ <https://email-signature-image.com/signature.gif?u=3854738&e=933033405&v=45f9632960105b2e5511d5a107e07e02decd38628542470cb04fa916f21f7e4a> 

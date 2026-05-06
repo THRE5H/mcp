@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset from the service provider's platform.
+
+**Context**: The user is an external user from the Customer Organization requesting support from the Service Provider. The dataset in question is identified by the code "dnexr-bmel-deu-grains-qlty-yearly" and is related to grain crop quality data.
+
+**Solution**: The support agent confirmed that the dataset deletion request was completed successfully. It is recommended that users verify dataset details before requesting deletion to avoid accidental loss of important data.

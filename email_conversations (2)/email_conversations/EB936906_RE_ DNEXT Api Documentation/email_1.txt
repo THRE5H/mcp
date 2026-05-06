@@ -1,0 +1,206 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Lincoln Herrington; G Ciancio
+Date: 2025-10-20 12:42:36.844000+00:00
+Subject: RE: DNEXT Api Documentation
+Message-ID: GV0P278MB132044B2015297F0C21FCCC9F8F5A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13203B5AFDAFB610E0554ADFF8E8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Lincoln,
+
+ 
+
+Just following up to check if everything is well on your end concerning the API & the Excel Add-in
+
+ 
+
+Please let me know if you are encountering any difficulties or issues.
+
+ 
+
+Looking forward to hearing back from you
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Thursday, October 16, 2025 0:49
+To: Lincoln Herrington <lherrington@massarcapital.com>; G Ciancio <gciancio@massarcapital.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: DNEXT Api Documentation
+
+ 
+
+Hello Lincoln
+
+ 
+
+We are glad to inform you that the issue has been resolved.
+
+ 
+
+We thank you for your patience and appreciate your understanding while we worked fixing the bug.
+
+ 
+
+Kindly find attached a PDF containing the documentation for the DNext excel add-in
+
+ 
+
+If you have any questions or if you need any assistance please do not hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, October 14, 2025 17:54
+To: Lincoln Herrington <lherrington@massarcapital.com <mailto:lherrington@massarcapital.com> >; G Ciancio <gciancio@massarcapital.com <mailto:gciancio@massarcapital.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: DNEXT Api Documentation
+
+ 
+
+Hello Lincoln,
+
+ 
+
+Thank you for your message.
+
+ 
+
+We’ve identified the root cause of the issue with the Excel Add-in encountered during the demo session. 
+
+ 
+
+Our development team is actively working on a fix.
+
+ 
+
+Once the issue has been resolved, we’ll provide you with the updated Excel documentation and installation guide.
+
+ 
+
+We appreciate your patience and understanding while we work to address this.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lincoln Herrington <lherrington@massarcapital.com <mailto:lherrington@massarcapital.com> > 
+Sent: Tuesday, October 14, 2025 17:01
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; G Ciancio <gciancio@massarcapital.com <mailto:gciancio@massarcapital.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: DNEXT Api Documentation
+
+ 
+
+Thanks, Saber. Can you send the excel documentation as well?
+
+ 
+
+Lincoln Herrington 
+Agricultural Analyst | Massar Capital Management, LP 
+Direct: +1-475-977-3018 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Tuesday, October 14, 2025 10:59 AM
+To: Lincoln Herrington <lherrington@massarcapital.com <mailto:lherrington@massarcapital.com> >; Giampietro Ciancio <gciancio@massarcapital.com <mailto:gciancio@massarcapital.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: DNEXT Api Documentation 
+
+ 
+
+Hello
+
+Kindly find attached our API documentation
+
+ 
+
+Please let me know if you have any questions.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

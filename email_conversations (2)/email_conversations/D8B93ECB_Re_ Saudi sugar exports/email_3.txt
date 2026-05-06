@@ -1,0 +1,20 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: John Stansfield; TradeFlow; Support Dnext; Khalil Mekki
+Date: 2025-12-30 14:15:53.131000+00:00
+Subject: Re: Saudi sugar exports
+Message-ID: ZR3P278MB1226EB0A043615E5366480B1F5BCA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB06052D15CFD6466679725FF285BCA@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+@Khalil Mekki <mailto:khalil.mekki@dnext.io>  can u take a look please ?
+
+________________________________
+
+From: John Stansfield <john.stansfield@dnext.io>
+Sent: 30 December 2025 11:25
+To: TradeFlow <tradeflow@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Saudi sugar exports 
+ 
+Could you take a look at the data.  It looks like the metric tonne data is divided by 1000.  Total exports per month should be approx  80,000 to 100,000 tonnes.  
+

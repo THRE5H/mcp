@@ -1,0 +1,5 @@
+**Problem**: The Customer is requesting to schedule a platform tour to understand the key features of the platform.
+
+**Context**: The Customer is an external user seeking assistance from the Customer Support team of a Service Provider. The request is for a guided session to explore the platform's functionalities.
+
+**Solution**: The Support Agent will coordinate with the Customer to determine their availability for the platform tour. Once a suitable time is established, the session will be arranged to ensure the Customer can effectively learn about the platform's features. It is recommended that the Customer prepare any specific questions or areas of interest in advance to maximize the session's effectiveness.

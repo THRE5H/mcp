@@ -1,0 +1,5 @@
+**Problem**: The customer requested to group specific datasets from the Dnexr platform into one resource group and share them with the DnDev environment by the end of December 2025.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance from the Support Team regarding the Dnexr service. The request involves multiple datasets related to freight and maritime data, as referenced in a specific ticket.
+
+**Solution**: The Support Team acknowledged the request and began the process of grouping the datasets as specified. They confirmed that the datasets would be organized and shared with DnDev by the requested deadline. It is recommended that the user regularly check the status of the ticket for updates.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the term "BUCKWHEAT" was still appearing in the system instead of the corrected "Buckwheat," indicating that the fix had not been applied as expected.
+
+**Context**: The user is an external user from Customer Organization, seeking support from the Service Provider regarding a terminology issue in their dashboards. The problem arose after a previous fix was thought to have been implemented.
+
+**Solution**: The Support Team confirmed that the issue would be resolved shortly by refreshing the dashboards, which was already in progress. It is recommended to ensure that dashboard refreshes are performed after updates to avoid similar issues in the future.

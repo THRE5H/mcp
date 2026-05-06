@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to access and download full historical data for specific commodities (e.g., soybean meal exports by month from the US) from the platform.",
+    "solution": "To find and download monthly export data for commodities such as soybean meal from the US: 1) Navigate to the 'TradeMatrixes' module in the platform. 2) Locate the row labeled 'Soybean and Soybean Meal'. 3) Click the eye icon on the right side of that row to view the TradeMatrix. 4) Use filters to select origin (e.g., USA) and product (e.g., Soybean Meal) to display the monthly export data. 5) To download the data, click the download button at the top right of the screen for a detailed Excel table. Alternatively, right-click on the bottom half of the table, hover over 'Export', and choose to download the data as a CSV or Excel file. This allows users to obtain full historical data in spreadsheet format.",
+    "keywords": [
+      "TradeMatrix",
+      "download data",
+      "historical data",
+      "soybean meal exports",
+      "monthly export data",
+      "filter data",
+      "export to Excel",
+      "export to CSV",
+      "commodity data",
+      "platform navigation"
+    ],
+    "category": "How-to Guide"
+  }
+}

@@ -1,0 +1,14 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Support Dnext
+Date: 2025-05-16 11:42:44.758000+00:00
+Subject: Reporting part 
+Message-ID: GV0P278MB0210884CF140EEEE0C67DF699293A@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+Could I access the reporting part of the platform to add a jupyter notebook. And is there any documentation on how to use this service?
+
+Best regards,
+Abir Chebbi

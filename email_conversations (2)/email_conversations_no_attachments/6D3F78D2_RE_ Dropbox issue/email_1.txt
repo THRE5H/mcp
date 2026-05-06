@@ -1,0 +1,71 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Michel Nicaise; Support Dnext
+Date: 2025-02-26 18:44:21.289000+00:00
+Subject: RE: Dropbox issue
+Message-ID: GV0P278MB014861E6A20FE8A7FEB5AA0598C22@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07016F5AB3EC5ED67920B42082C22@GV0P278MB0701.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Michel,
+
+ 
+
+It seems is linked to an excel upgrade. Recently they added an option under the “Formulas” tab, Calculation section, “Calculation Options”.
+
+This is where you set “Manual” or “Automatic” calculation of formulas.
+
+Now they have “Format stale values”, which from what I understand is formatting with a strikethrough numbers not re-calculated.
+
+If you uncheck the option, it will be gone.
+
+ 
+
+Let me know if it solves it.
+
+ 
+
+Thanks
+
+ 
+
+
+
+ 
+
+From: Michel Nicaise <michel.nicaise@ameropa.com> 
+Sent: Wednesday, February 26, 2025 6:18 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Dropbox issue
+
+ 
+
+Hello gents,
+
+we face issues with the dropbox….  Look at this below. And sometimes, I get also an error message due to format.
+Can you have a look at what is happening?  Is it some firewall restrictions from Ameropa?
+
+thank you
+
+ 
+
+   
+
+ 
+
+ 
+
+
+
+Michel Nicaise
+Grains Analyst, Food & Feed
+ 
+Ameropa AG
+Avenue de Rumine 13, 1005 Lausanne
+Switzerland
++41 58 5312957  +41 79 5666613 
+michel.nicaise@ameropa.com <mailto:michel.nicaise@ameropa.com>  
+www.ameropa.com <http://www.ameropa.com> 
+
+ 

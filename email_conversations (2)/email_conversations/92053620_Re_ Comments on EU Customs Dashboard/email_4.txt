@@ -1,0 +1,14 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Skander Ghamgui
+Date: 2025-07-28 12:47:14.800000+00:00
+Subject: Comments on EU Customs Dashboard
+Message-ID: GV0P278MB0717F53F2C97110F2E304810EB5AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_3.png
+
+================================================================================
+
+Here i see we need to have in mind that the update dates of the intraflows and extra flows are different. intraflows are reported later. so we end up showing a 0 here which is no final.
+
+also in this dashboard i think we neeed to add another filter which is the reporter country as the user might want to visualize EU as a whole or country by country (partner and reported)
+
+

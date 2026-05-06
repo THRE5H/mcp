@@ -1,0 +1,104 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Leticia Viracao; Support Dnext
+Date: 2025-05-30 12:39:13.927000+00:00
+Subject: RE: COP database
+Message-ID: GV0P278MB1320F6CF7175E1292A78D1C3F861A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: CP4P284MB12824A2486132C019F462E74BF66A@CP4P284MB1282.BRAP284.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Leticia,
+
+Thank you for reaching out.
+
+ 
+
+You can download the COP IMEA & COP DERAL datasets by following these links below and clicking on the download button on the top right of the screen and they will be downloaded in CSV format 
+
+ 
+
+*	DERAL Cost of production Paraná yearly : https://amaggi.dnext.io/datasets/amaggi-0f734ac3-b5e4-4fed-8de8-c2d130ac46e3
+
+ 
+
+*	IMEA Cost of Production Grains and Oilseeds in Mato Grosso Brazil : https://amaggi.dnext.io/datasets/amaggi-30ee68c2-46ac-4eac-83ff-be9a21033bec
+
+ 
+
+*	DERAL Cost of production Paraná quarterly : https://amaggi.dnext.io/datasets/amaggi-d764a3cf-df37-4e52-aa05-ae848f13aa28/general
+
+ 
+
+we also have an API & an Excel Add in that you can use to fetch data from Please let us know if you are interested and we will be glad to show you how to implement them
+
+
+
+Please let us know if this helps you find what you are looking for.
+
+Looking forward to hearing back from you.
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Leticia Viracao <leticia.viracao@amaggi.com.br> 
+Sent: Thursday, May 29, 2025 19:01
+To: Support Dnext <support@dnext.io>
+Subject: COP database
+
+ 
+
+Hello dears,
+
+ 
+
+Can I please have access to download the cop IMEA and DERAL database?
+
+ 
+
+I'm not being able to do so in the menu
+
+ 
+
+
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+Leticia Viracao
+
+Vendas
+
+Matriz
+
+	
+AMAGGI <http://www.amaggi.com.br> 
+
+ 
+
+ 
+
+ 

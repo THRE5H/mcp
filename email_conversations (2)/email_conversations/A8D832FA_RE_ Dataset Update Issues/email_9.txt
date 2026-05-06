@@ -1,0 +1,85 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2026-01-22 11:07:23.707000+00:00
+Subject: Dataset Update Issues
+Message-ID: ZR3P278MB1353794DFE24C76E41E2C4F8F697A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I noted several dataset update issues today (2 datasets).
+
+ 
+
+Both scrap data from an Excel document, may you please investigate?
+
+ 
+
+For today I did by hand to send to clients but it is a problem that we have inserted no price data when in fact it is there.
+
+ 
+
+Case 1:
+
+Ran it twice and did not update 21st data
+
+ 
+
+
+
+ 
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-rscom-meals-eur-cash-daily/data-exploration
+
+ 
+
+
+
+C:\DNEXT Dropbox\DNEXT_RESEARCH\G&O\08- ECONOMICS\PLATFORM\Raw_Price_Uploader.xlsm <file:///C:/DNEXT%20Dropbox/DNEXT_RESEARCH/G&O/08-%20ECONOMICS/PLATFORM/Raw_Price_Uploader.xlsm> 
+
+ 
+
+ 
+
+ 
+
+Case 2:
+
+Did not extract data from source file for Feb and April
+
+ 
+
+
+
+ 
+
+https://verbio.dnext.io/datasets/verbio-biof-eur-cash-daily/data-exploration
+
+ 
+
+Email received
+
+ 
+
+
+
+ 
+
+Also did not update RME data for April
+
+
+
+ 
+
+ 
+
+Thank you
+
+ 
+
+Enea

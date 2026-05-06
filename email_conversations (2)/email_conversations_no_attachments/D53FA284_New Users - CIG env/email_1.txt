@@ -1,0 +1,41 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-05-02 08:05:37.907000+00:00
+Subject: New Users - CIG env
+Message-ID: GVAP278MB06774340FCF6B7C5D6264A4E888D2@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please add these users to the environment:
+
+cig.dnext.io
+
+ 
+
+Andrea Valerio avalerio@continentalindustries.com <mailto:avalerio@continentalindustries.com> 
+
+ 
+
+Andres Santacruz asantacruz@continentalindustries.com <mailto:asantacruz@continentalindustries.com> 
+
+ 
+
+Syed Ahmed sahmed@continentalindustries.com <mailto:sahmed@continentalindustries.com> 
+
+ 
+
+If the environment has been already validated by Elfi, you can send the profiles to the users.
+
+ 
+
+Many thanks
+
+Sami
+
+ 
+
+ 

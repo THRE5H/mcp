@@ -1,0 +1,56 @@
+From: Amine Nafkha </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6B27C07ED3B64A889592F4CBFDEA2CF9-8308AACF-00>
+To: Jebrane Ben Salem; Enea Albertoli; Support Dnext
+Date: 2025-09-11 15:13:31.089000+00:00
+Subject: Re: Add-In Filterin does not work
+Message-ID: GVAP278MB0796EB2D2FF6C6864EC67984FA09A@GVAP278MB0796.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12263E20228B57B9587FFB51F509A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Team,
+Thank you for your feedback.
+This issue has been present since the previous add-in implementation and is related to the JSONLogic query logic. Specifically, the problem occurs with date types: if only the start date or only the end date is selected, the logic will not work correctly ,you must select both dates for it to function as intended. Additionally, the old implementation does not support all operators and conditions, which limits its functionality.
+In our upcoming release, the new implementation using JSONLogic will fully support proper handling of references and validations. Users will be able to select references and input values safely, and all operators and conditions will be supported, unlike the current version where any reference or value can be entered without restriction.
+Thank you for your understanding.
+Best regards,
+Amine
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 11 September 2025 14:28
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>; Amine Nafkha <amine.nafkha@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Add-In Filterin does not work 
+ 
+Hello, 
+Adding Amine
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 11 September 2025 13:06
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Add-In Filterin does not work 
+ 
+
+Hello,
+
+ 
+
+I applied this filter but it does not work. May you please tell me what to correct to make it work?
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-eucomm-fuels-eur-cash-weekly/general
+
+ 
+
+Thank you in advance!
+
+ 
+
+Enea

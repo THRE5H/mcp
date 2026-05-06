@@ -1,0 +1,5 @@
+**Problem**: The customer requested permission for Amaggi to access USDA cotton crop numbers and statistics, as they were unable to view this data in their dashboards.
+
+**Context**: The user is an internal user from the Customer Organization seeking to improve service for Amaggi, a partner company. The issue arose because cotton was not included in Amaggi's product contract, which restricted their access to relevant data.
+
+**Solution**: The Support Agent confirmed that Amaggi should now be able to see the cotton crop numbers after adjustments were made. It was noted that while this access was granted, it would not result in additional charges for Amaggi. It is recommended to review contract terms to ensure all necessary products are included for future access.

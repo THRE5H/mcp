@@ -1,0 +1,5 @@
+**Problem**: The customer is seeking a dataset from Dnexr that includes country groups and inquires whether a similar dataset for products exists. Additionally, they need guidance on using reference data to retrieve the hierarchy of products and countries via an API.
+
+**Context**: The user is an external user from a Customer Organization. They are interested in datasets related to country groups and product hierarchies, specifically from the Dnexr service. The inquiry suggests a need for integration with API functionalities.
+
+**Solution**: The Support Agent confirmed that there is no specific dataset for products similar to the country groups. They provided instructions on how to access the reference data through the API to retrieve the desired hierarchy. The customer was advised to review the API documentation for best practices on data retrieval.

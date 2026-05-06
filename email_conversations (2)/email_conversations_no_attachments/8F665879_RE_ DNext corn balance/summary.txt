@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the most current DNEXT balance was not flowing through to the valuation page, indicating a potential issue with the dashboard.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Service Provider regarding a feature in the DNEXT platform. The dashboard in question was still under internal review and had not been published, which may have contributed to the issue.
+
+**Solution**: The Support Agent acknowledged the issue and confirmed that the dashboard was not yet published, which could be causing the visibility problem. They requested further information from the customer about where the dashboard was found to help identify and resolve the potential bug.

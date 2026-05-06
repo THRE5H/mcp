@@ -1,0 +1,32 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-12-01 12:38:18.600000+00:00
+Subject: Setup New client: - Adecoagro
+Message-ID: GVAP278MB0677AA5F2EA2B2993E7D900F88DBA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677BD450798685B78258DB988C5A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: adecoagro.dnext.io
+
+*	
+	Client name: AdecoAgro
+*	Commodities: Sugar
+*	Same access as DRW
+*	Contract start: 01.12.2025
+*	Contract End: 30.11.2099
+
+
+
+
+You can start the setup. Waiting for the users from the client.
+
+ 
+
+Many thanks
+
+Sami

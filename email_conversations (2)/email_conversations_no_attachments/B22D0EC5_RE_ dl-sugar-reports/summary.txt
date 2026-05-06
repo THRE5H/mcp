@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a distribution list (DL) named "dl-Tudor" from another distribution list called "dl-sugar-reports."
+
+**Context**: The user is an internal user from the Customer Organization, seeking assistance from the Customer Support team regarding email distribution lists within their email system.
+
+**Solution**: The Support Agent confirmed that the requested amendment to the distribution list was completed successfully. It is recommended to verify changes to distribution lists periodically to ensure they reflect current needs.

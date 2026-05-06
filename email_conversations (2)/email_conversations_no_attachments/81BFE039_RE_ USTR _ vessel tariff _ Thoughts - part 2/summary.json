@@ -1,0 +1,23 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Email delivery failure with error code 554 5.4.14 indicating a possible mail loop or hop count exceeded when sending to a recipient address that does not exist or is misconfigured.",
+    "solution": "To resolve the 554 5.4.14 mail loop or hop count exceeded error: 1) Verify that the recipient email address is correct and exists on the destination domain. 2) If using a hybrid environment with directory synchronization, ensure the recipient's email address is properly synchronized between Office 365 and the local directory. 3) Check for and correct any misconfigured mail forwarding or inbox rules that may cause loops. 4) Verify mail flow settings and MX records for the domain to ensure they are correctly configured. 5) For organizations with mailboxes split between Office 365 and on-premises, ensure that outbound connectors are properly configured to route mail to local mailboxes to avoid loops. 6) Clear the Outlook autocomplete cache for the recipient address and re-enter the full email address manually when resending. 7) Consult Microsoft documentation for error code 5.4.14 for additional troubleshooting steps.",
+    "keywords": [
+      "email delivery failure",
+      "554 5.4.14",
+      "mail loop",
+      "hop count exceeded",
+      "Office 365",
+      "hybrid environment",
+      "directory synchronization",
+      "mail forwarding rules",
+      "MX records",
+      "outbound connector",
+      "autocomplete cache",
+      "email address verification",
+      "mail flow configuration"
+    ],
+    "category": "Error Resolution"
+  }
+}

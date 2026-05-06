@@ -1,0 +1,55 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Jebrane Ben Salem; Pablo Figueroa; Support Dnext
+Date: 2025-06-30 13:51:54.661000+00:00
+Subject: Re: Europe Customs Dashboard
+Message-ID: ZRAP278MB0317868DF863F2BF9E09A205F546A@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226B354608377CD4DC16986F546A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+Hello,
+You can already find the filter in Reporter Details page
+
+
+Best,
+Khalil
+
+
+
+
+Khalil Mekki
+
+Data Analyst
+
+                                                                                                     khalil.mekki@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, June 30, 2025 1:42 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: Europe Customs Dashboard 
+ 
+Adding @Khalil Mekki <mailto:khalil.mekki@dnext.io> 
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Monday, June 30, 2025 6:30:00 AM
+À : Support Dnext <support@dnext.io>
+Objet : Europe Customs Dashboard 
+ 
+Hi can we add a filter for the reporter. in this case as we have many reporters i think it makes sense to add this filter
+
+

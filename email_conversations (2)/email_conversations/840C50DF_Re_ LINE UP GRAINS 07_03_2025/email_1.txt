@@ -1,0 +1,142 @@
+From: Benoit Baliguet </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=436C997806D34CC39F8E25735927BEF3-19E89D70-52>
+To: Ibrahim Ait Salem
+Date: 2025-03-11 16:57:20.413000+00:00
+Subject: Re: LINE UP GRAINS 07/03/2025
+Message-ID: GV0P278MB1317DD91707973B6183E0C7481D12@GV0P278MB1317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02112D82C5B80AD560795FBA98D12@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Ibrahim,
+
+ 
+
+We did some checks on our side.  This is most likely due to a change on your outlook antispam outbound policy (maybe something changed by your IT team) – This is a matching error code. You can redirect them to this documentation (https://learn.microsoft.com/en-us/defender-office-365/outbound-spam-policies-external-email-forwarding ) to allow your email to forward emails to the bot again.
+
+ 
+
+Have a great day,
+
+Benoît
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Date: Tuesday, 11 March 2025 at 16:00
+To: Ibrahim Ait Salem <brahim.aitsalem@graderco.com>, Saber Khalfallah <saber.khalfallah@dnext.io>, Support Dnext <support@dnext.io>
+Subject: RE: LINE UP GRAINS 07/03/2025
+
+Thank you. We are going to look at it immediately. 
+
+Sorry for inconvenience.
+
+Guillaume
+
+ 
+
+From: Ibrahim Ait Salem <brahim.aitsalem@graderco.com> 
+Sent: Tuesday, 11 March 2025 15:59
+To: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: TR: LINE UP GRAINS 07/03/2025
+
+ 
+
+Same problem…
+
+ 
+
+De : Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@graderco.com <mailto:MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@graderco.com> > 
+Envoyé : vendredi 7 mars 2025 12:33
+À : Ibrahim Ait Salem
+Objet : Non remis : LINE UP GRAINS 07/03/2025
+
+ 
+
+Delivery has failed to these recipients or groups:
+
+bot+graderco@data.dnext.io (bot+graderco@data.dnext.io) <mailto:bot%2Bgraderco@data.dnext.io> 
+Your message wasn't delivered because the recipient's email provider rejected it.
+
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: DB9P193MB1260.EURP193.PROD.OUTLOOK.COM
+
+bot+graderco@data.dnext.io <mailto:bot+graderco@data.dnext.io> 
+Remote server returned '550 5.7.520 Access denied, Your organization does not allow external forwarding. Please contact your administrator for further assistance. AS(7555)'
+
+Original message headers:
+
+Received: from AM0P193MB0771.EURP193.PROD.OUTLOOK.COM (2603:10a6:20b:149::7)
+ by DB9P193MB1260.EURP193.PROD.OUTLOOK.COM (2603:10a6:10:254::19) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8511.19; Fri, 7 Mar
+ 2025 12:30:29 +0000
+Received: from AM0P193MB0771.EURP193.PROD.OUTLOOK.COM ([::1]) by
+ AM0P193MB0771.EURP193.PROD.OUTLOOK.COM ([fe80::2b6b:3ef4:5d2e:6c25%5]) with
+ Microsoft SMTP Server id 15.20.8511.020; Fri, 7 Mar 2025 12:30:29 +0000
+From: Ibrahim Ait Salem <brahim.aitsalem@graderco.com <mailto:brahim.aitsalem@graderco.com> >
+To: "bot+graderco@data.dnext.io <mailto:bot+graderco@data.dnext.io> " <bot+graderco@data.dnext.io <mailto:bot+graderco@data.dnext.io> >
+Subject: TR : LINE UP GRAINS 07/03/2025
+Thread-Topic: LINE UP GRAINS 07/03/2025
+Thread-Index: AQHbj1y1hAxQ37ob00S2JHyFOQe52LNnmrP0
+Date: Fri, 7 Mar 2025 12:30:29 +0000
+Message-ID: <7ee1be2147c04c9ebd9542a6b681f5a4@AM0P193MB0771.EURP193.PROD.OUTLOOK.COM <mailto:7ee1be2147c04c9ebd9542a6b681f5a4@AM0P193MB0771.EURP193.PROD.OUTLOOK.COM> >
+References: <CAB58vwVOPB_Ej5o-5siUstyJ4BoEVLrn6_bUWtnAKU4qJno4pw@mail.gmail.com <mailto:CAB58vwVOPB_Ej5o-5siUstyJ4BoEVLrn6_bUWtnAKU4qJno4pw@mail.gmail.com> >
+ <CAB58vwUD4bSEGszGUonVUTQ+G+p91Ab9+bwu8DvAmrqAxE+big@mail.gmail.com <mailto:CAB58vwUD4bSEGszGUonVUTQ+G+p91Ab9+bwu8DvAmrqAxE+big@mail.gmail.com> >
+ <CAB58vwX+KbSe-hauXP_tc+GBMAS=bTfRj9E2wXkJgVWhMh_gQQ@mail.gmail.com <mailto:CAB58vwX+KbSe-hauXP_tc+GBMAS=bTfRj9E2wXkJgVWhMh_gQQ@mail.gmail.com> >
+ <CAB58vwUiT6jbNsfpRcoTTa0p+4F+R_rqM6NZ2YcC_=N4=k5iXA@mail.gmail.com <mailto:CAB58vwUiT6jbNsfpRcoTTa0p+4F+R_rqM6NZ2YcC_=N4=k5iXA@mail.gmail.com> >
+ <CAB58vwWUUvUC1U5QYNkH=Sh0NVboONfFT5U6GyjgDQTkw_emhw@mail.gmail.com <mailto:CAB58vwWUUvUC1U5QYNkH=Sh0NVboONfFT5U6GyjgDQTkw_emhw@mail.gmail.com> >
+ <CAB58vwXfEm49W+c67tjm+cftpMhwKFmsHwne-Vd8TN3n49Oo6A@mail.gmail.com <mailto:CAB58vwXfEm49W+c67tjm+cftpMhwKFmsHwne-Vd8TN3n49Oo6A@mail.gmail.com> >
+ <CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com <mailto:CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com> >
+In-Reply-To: <CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com <mailto:CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com> >
+X-MS-Has-Attach: yes
+X-MS-Exchange-Inbox-Rules-Loop: brahim.aitsalem@graderco.com <mailto:brahim.aitsalem@graderco.com> 
+X-MS-TNEF-Correlator:
+authentication-results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=graderco.com;
+x-ms-exchange-parent-message-id: <CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com <mailto:CAB58vwVbubSDnTJUYQxHP=uV0H5Q63=saYcHPg6hPe7+enfnbw@mail.gmail.com> >
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: AM0P193MB0771:EE_|DB9P193MB1260:EE_
+x-ms-office365-filtering-correlation-id: 03aad6d5-5d1b-4467-da61-08dd5d73d8b0
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;ARA:13230040|1800799024|69100299015|10070799003|366016|376014|4053099003|13003099007|8096899003;
+x-microsoft-antispam-message-info: =?Windows-1252?Q?RkqIHgCgYWhmHShbajOW7yY3Pu3r6PDZY36uOZxzM8fst1pKrGkh8Izo?=
+ =?Windows-1252?Q?YyIBoL4PuIR622sFaxDI6e0FS7cQXUnzrVFJYpumI9Bi7MibmimKBVis?=
+ =?Windows-1252?Q?/JHK+lg6CQCSAGifICXTCN3Xyl3EkE8XhssXApEDc9nKAMwYK8iZpRlD?=
+ =?Windows-1252?Q?DGn2C0alIxG5SMpZJ+2FWhHQW87uWOSMZUlGiRc7B3fqCqZU3mypA3E0?=
+ =?Windows-1252?Q?oLscfSbcrNpFQEcVHGq0Cv2D5jv4BJjii0jmpc97duzNsD/KM/ypNoID?=
+ =?Windows-1252?Q?yISVskJO5OruNLxNdaduZFZRpmbqMvW1jGupzVLJZuE2F0K3JBuc8lVw?=
+ =?Windows-1252?Q?9tjmtA26tr3yG2cvgZk7mZ1De2G7bZSTNwiGVtCU7/DA84+urP+DfWi7?=
+ =?Windows-1252?Q?Xf5wZRi7jhUvx29BAUPfvsQNzXiK7pa1I4K8Oav14KOskk3ZNbtmDgLz?=
+ =?Windows-1252?Q?PtrtCUYN4v6F+/2EHN4L6aSb9zd/ZZKP31WV9V3FO+ouQHaX1mMb9n4Z?=
+ =?Windows-1252?Q?LMOUt7wN6EAqbi0lGoscCjtRSHHxh945vmyBd6Bm2NqpmVXBokr6W728?=
+ =?Windows-1252?Q?dHrA2ZeFesAjgp4Qffj2U3Th/5zxbOwLL+bSoTA6c4dNAcIQv25yeyFk?=
+ =?Windows-1252?Q?SrVpHrXrjG+Z1+hLhvTEPXDBY95MzKYXeLnMWeR2W2k/wAgBEBpJgQfB?=
+ =?Windows-1252?Q?SkwUxDt6r2IUB3kUVyqfXXDRB6USAAg/hmpdmWCSqpMIfZ70Acpwuz5E?=
+ =?Windows-1252?Q?0/sa5Actrke9LTwTWncm0x2DDD9oYPqZG5NP+GASWZsLSYGwlekQUIK1?=
+ =?Windows-1252?Q?4JkPJ/rMaNEW5302p05WKeWsERWP6F077z1W8GVwTYnalsFJ2osJg0mT?=
+ =?Windows-1252?Q?6Gty9NnOL5E6dEIAq9lQfj3guvTp3W4FYUEXjjhS59WfmmTzO5E9PLUj?=
+ =?Windows-1252?Q?rxUE+s6U059HYE4xj+7EiSOvDzAOwUYstWjunkt7J0SSR34MxNAzAJpI?=
+ =?Windows-1252?Q?OPYjoM32QQcg6QAfYKsbrlXC+5NlT21GtrV6D4n5zsk/C09cJ8rFbYaE?=
+ =?Windows-1252?Q?qmj1RM/e4v7hoO2tFWV3H/BK50juWo+uVozz8/J4THGgBwdEOH8n1k2Q?=
+ =?Windows-1252?Q?NUOQCXOioGmeJXTgNz+bwHfqk7Yf9oI7xif1q0LcvgXpZE2jQlOrqeiD?=
+ =?Windows-1252?Q?iorrvcF6ANtSEvzBwo37ESXGSohunRy+S7JelEZmtaZj2oLDdnH+4YS4?=
+ =?Windows-1252?Q?c32o++lzNy6M4fQI7+BYIe8PHVzUmc23eyGfxr5l0aPIGFXWRoQpoS18?=
+ =?Windows-1252?Q?BxF5JeJ3wpn2dOrKlmaRcKZTmQNNb9bBO+8oyhLiqX8m2/gl425JHkm8?=
+ =?Windows-1252?Q?PJ+R/YTIjrxJmw=3D=3D?=
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM0P193MB0771.EURP193.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(69100299015)(10070799003)(366016)(376014)(4053099003)(13003099007)(8096899003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: Cs56nefyO4rTDlY/YDyf1jg11T1vX/edtA13AYqawGdvOQKbseoI2480H196KBzge1r5nKgzQbSMyrKUhpSrg73FmpZ5ERI87fcoymPAQi6dKzF7AvbI/5WT5favQ/oDHmAupiTIe9i6ATUfK3zwPYOIFZml3jlcrKbfr5pum1FR4KdT+Hs+lQEk9Vu96Bi1QhdQrs/QV2Q1QbGC6cqOuwUPLEBcmV+i3vwzXmpYkzBRyPq1McrHU03Kf9dRmnNxFRVKgkg2cTj5U2pphILa7zIgM5E75wrrPZdY/q1MuYtJ7GJU24kFFueV6bXHBOiZ
+Content-Type: multipart/mixed;
+        boundary="_004_7ee1be2147c04c9ebd9542a6b681f5a4AM0P193MB0771EURP193PRO_"
+MIME-Version: 1.0

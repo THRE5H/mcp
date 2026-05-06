@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the listing and IEO fees for VinDAX and other exchanges, specifically looking for pricing details and package options.
+
+**Context**: The user is an external user interested in listing a project on the VinDAX Exchange, which offers various packages for listing and IEO services. The inquiry is made in the context of promotional pricing for different tiers of service.
+
+**Solution**: The support team provided detailed information on the pricing structure for various packages, including the Basic, Silver, Gold, and Platinum options, with corresponding features and costs. The customer was encouraged to choose a package that best suits their needs, emphasizing the benefits of listing on VinDAX and the potential audience reach.

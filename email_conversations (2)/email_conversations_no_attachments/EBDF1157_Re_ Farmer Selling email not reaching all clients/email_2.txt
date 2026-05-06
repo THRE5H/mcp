@@ -1,0 +1,48 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-05 14:19:15.905000+00:00
+Subject: RE: Farmer Selling email not reaching all clients
+Message-ID: GV0P278MB1320A0482E57F8CF0FFE7493F8F72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717EDE0C7B75DA75EEAE34AEBF72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Saftco was not in the Argentina fs news distribution list , I have added them , all good now
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Wednesday, February 5, 2025 10:58
+To: Support Dnext <support@dnext.io>
+Cc: Wassim Mandhouj <wassim.mandhouj@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Farmer Selling email not reaching all clients
+
+ 
+
+Hi guys can we check the dl´s we are using for the daily farmer selling email?
+
+ 
+
+Etienne from Saftco is not receiving it for example. it should be sent to grains clients, in case we are only sending to Grains & Oilseeds clients.

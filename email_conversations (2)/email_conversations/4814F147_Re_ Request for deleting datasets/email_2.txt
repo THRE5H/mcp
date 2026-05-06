@@ -1,0 +1,17 @@
+From: Rania Darouiche </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=2CD03A7F55B3422FA5E1E33FA9EB50AC-A2AF4D9B-D5>
+To: Support Dnext
+Date: 2025-09-17 10:50:43.245000+00:00
+Subject: Request for deleting datasets
+Message-ID: ZR5P278MB1891C47596A6F4CDCE5C90E78017A@ZR5P278MB1891.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+Could you please delete the following datasets:
+
+dnexr-nbs-fuels-chn-snd-item-monthly 
+
+dnexr-nbs-all-chn-uns-monthly-1 
+
+Thanks in advance

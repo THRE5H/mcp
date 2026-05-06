@@ -1,0 +1,30 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext
+Date: 2025-09-17 13:01:51.024000+00:00
+Subject: Re: Weather Dashboard
+Message-ID: ZR3P278MB122691913895C97E03A1E2BFF517A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0505A2DEFF028FEBB5E6185F8A17A@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+Actually, I'm changing the starting Month, it will be fixed in few minutes.
+________________________________
+
+From: Louis Olive <louis.olive@dnext.io>
+Sent: 17 September 2025 12:59
+To: Support Dnext <support@dnext.io>
+Subject: Weather Dashboard 
+ 
+
+
+
+
+
+Hello,
+
+I don’t know if it is a bug, or a refresh issue.
+
+ 
+
+Louis

@@ -1,0 +1,33 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext
+Date: 2025-08-06 11:04:55.842000+00:00
+Subject: Re: Cannot Select Year Without Deselecting Region
+Message-ID: ZR3P278MB1226E5FDEE6CECBA4BB9641DF52DA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353C71F2DF6F62D006E6D2FF62DA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Enea, 
+Just you need to click "Ctrl" and then you select the year / region.
+Or you can use the State filter directly
+
+
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 06 August 2025 08:08
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Cannot Select Year Without Deselecting Region 
+ 
+
+Dear customer support team,
+
+ 
+
+We cannot select Canadian regions and a specific year on the graph.
+
+https://dnexr.dnext.io/dashboard/weather/Weather/Canada/0de302d0-ab59-4d19-9e57-cb4a7c19ae88
+
+

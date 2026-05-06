@@ -1,0 +1,25 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-07-03 15:57:42.560000+00:00
+Subject: Dataset to be deleted
+Message-ID: GV0P278MB0514D81BCBA5914DF03E25E5F043A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+I hope this email finds you well.
+
+I am writing to request the deletion of a dataset from DNEXR.
+
+code  : dnexr-bmel-deu-grains-qlty-yearly
+
+Name: BMEL Germany Grains Crop Quality Yearly ( to be deleted)
+
+ 
+
+Best regards,
+
+Nader
+
+

@@ -1,0 +1,86 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sam Tran
+Date: 2025-07-31 15:05:14.959000+00:00
+Subject: RE: DNEXR - login credentials 
+Message-ID: GV0P278MB1320925DAEE1F7C51611B117F827A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320D68E6AC499AFE022C6BFF824A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sam,
+
+ 
+
+Please note that your account has been successfully migrated from https://dnexr.dnext.io  to the https://demo.dnext.io  environment.
+
+ 
+
+You can now log in to the demo environment using the same credentials:
+
+ 
+
+*	Username: sam.tran@dnext.io
+
+ 
+
+*	Password: password
+
+ 
+
+Kindly use https://demo.dnext.io for all future access.
+
+ 
+
+Let us know if you face any issues.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, July 30, 2025 9:00
+To: Sam Tran <sam.tran@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: DNEXR - login credentials 
+
+ 
+
+Hello Sam
+
+ 
+
+Kindly find below your login details for the https://dnexr.dnext.io environment 
+
+ 
+
+Username : sam.tran@dnext.io <mailto:sam.tran@dnext.io>  
+
+Password : 3v4UhRTRP1IBNv7
+
+ 
+
+Best regards
+
+ 

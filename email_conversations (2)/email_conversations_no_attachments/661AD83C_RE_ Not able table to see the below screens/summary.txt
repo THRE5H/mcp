@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to see specific dashboards that were visible on another user's screen and requested assistance to check their access.
+
+**Context**: The user is an external user from Customer Organization seeking support from the Service Provider. The issue involves access to dashboards within the Service Provider's platform, which the user expected to see based on another user's demonstration.
+
+**Solution**: The Support Agent confirmed that the dashboards had been added to the user's environment, allowing access to them. The customer was advised to reach out if they encountered further difficulties, ensuring ongoing support.

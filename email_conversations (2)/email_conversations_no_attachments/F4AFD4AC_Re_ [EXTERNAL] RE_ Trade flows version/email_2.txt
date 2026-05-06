@@ -1,0 +1,400 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robero Ruiz
+Date: 2025-06-20 17:49:13.951000+00:00
+Subject: RE: Trade flows version
+Message-ID: GV0P278MB132087D09F5AABA03F2BA694F87CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB2381D25B56C6D68F10CCD6868D7CA@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+Below is the corrected script. I noticed that you were using the old codes for both the tradeflows and the forecasts. Kindly make sure to use the updated format: thul-xxxx-xxxx-xxxx-xxxx.
+
+ 
+
+Quote 
+
+ 
+
+import requests
+
+import json
+
+import base64
+
+import pandas as pd
+
+ 
+
+######## get the login token ###############
+
+user="user”
+
+password=”password”
+
+org="thul"
+
+url = f'https://api.dnext.io/dev/auth/custom-login?org='+org
+
+payload = json.dumps({
+
+  "email": user,
+
+  "password": password,
+
+  "organization": org
+
+})
+
+headers = {
+
+  'Content-Type': 'application/json'
+
+}
+
+response = requests.request("POST", url, headers=headers, data=payload).json()
+
+token = 'Bearer ' + response['token']
+
+ 
+
+headers = {
+
+  'Content-Type': 'application/json',
+
+  'Authorization': token
+
+}
+
+ 
+
+print("token",token)
+
+############################################
+
+##### INPUT : TRADEFLOW CODE #########
+
+tradeflow_ = 'thul-6739954d-a4f8-4436-a7bc-f57bf3b79f20'
+
+forecast_ = 'thul-01142ad-6fbb-83f-8ec4-63ebfaf0e42'
+
+######################################
+
+########## list all tradeflows to find tradeflow_id #################
+
+url = 'https://api.dnext.io/v1.0/fundamentals/tradeflows?old_sharing=true'
+
+tf_list = requests.get(url, headers=headers).json()
+
+print ("tf list",tf_list)
+
+# tf_list=pd.DataFrame(tf_list)
+
+# print ("tf list",tf_list)
+
+ 
+
+# tf_list = pd.DataFrame(tf_list)[['trade_flow']]
+
+tf_list = pd.json_normalize(tf_list['result'])
+
+tradeflow_id = tf_list[tf_list.code == tradeflow_].id.iloc[0].strip()
+
+print(f"Tradeflow ID: >>{tradeflow_id}<<")
+
+ 
+
+###################################
+
+########### make the list of snapshot #########
+
+params = {'deep': 'true'}
+
+data = {"where":"trade_flow_id eq " + tradeflow_id,"hastobe":False}
+
+urlsnaps=url = f'https://api.dnext.io/v1.0/fundamentals/tradeflows/{tradeflow_id}/snapshots'
+
+ 
+
+response = requests.get(urlsnaps,params=params, headers=headers)
+
+print("response",response.text)
+
+snapshot_list = pd.DataFrame(response.json()["result"])
+
+ 
+
+snapshot_list = snapshot_list[['table_name', 'created_at']].copy() 
+
+##############################
+
+####### INPUT : CHOOSE THE SNAPSHOT FROM ABOVE LIST ########
+
+snapshot_ = 'dnexr-crn-20231011120944'
+
+###############################
+
+################# download the data
+
+url = 'https://api.dnext.io/fundamentals/tradeflow/compare'
+
+payload = json.dumps({
+
+  "code": tradeflow_,
+
+  "from": snapshot_,
+
+  "to": None,
+
+  "forecastsFrom": [
+
+    forecast_
+
+  ],
+
+  "forecastsTo": [
+
+    forecast_
+
+  ],
+
+  "startMonth": 9
+
+})
+
+url = requests.request("POST", url, headers=headers, data=payload).json()['url']
+
+df = pd.read_json(url, lines=True)
+
+df = df[['Date', 'Product', 'Origin', 'Destination', 'QuantityOld']].copy()
+
+df.dropna(subset=['QuantityOld'], inplace=True)
+
+#print(df)
+
+ 
+
+Unquote
+
+ 
+
+Please let me know how this works on your end. I'm happy to assist further if needed.
+
+ 
+
+Looking forward to your feedback.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: Friday, June 20, 2025 16:47
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: Trade flows version
+
+ 
+
+Hello Saber,
+
+ 
+
+Hope that you’re doing well.
+
+I want to compare the current corn trade flows vs a previous version. Some months ago Bastien gave me the code below that used to work for retrieving previous versions of the trade flows. Something has changed though, as this script doesn’t run as before.
+
+Could you pls let me know which code I can use to query an old version of trade flows?
+
+ 
+
+ 
+
+Many thanks
+
+ 
+
+ 
+
+ 
+
+import requests
+
+import json
+
+import base64
+
+import pandas as pd
+
+ 
+
+######## get the login token ###############
+
+user=xxxxx <mailto:roberto.ruiz@mlp.com> 
+
+password=xxx
+
+org="thul"
+
+url = f'https://api.dnext.io/dev/auth/custom-login?org='+org
+
+payload = json.dumps({
+
+  "email": user,
+
+  "password": password,
+
+  "organization": org
+
+})
+
+headers = {
+
+  'Content-Type': 'application/json'
+
+}
+
+response = requests.request("POST", url, headers=headers, data=payload).json()
+
+token = 'Bearer ' + response['token']
+
+ 
+
+headers = {
+
+  'Content-Type': 'application/json',
+
+  'Authorization': token
+
+}
+
+ 
+
+ 
+
+############################################
+
+##### INPUT : TRADEFLOW CODE #########
+
+tradeflow_ = 'dnexr-crn'
+
+forecast_ = 'dnexr-crn'
+
+######################################
+
+########## list all tradeflows to find tradeflow_id #################
+
+url = 'https://api.dnext.io/dnext/data_sharing/?relation=[trade_flow]'
+
+tf_list = requests.get(url, headers=headers).json()
+
+ 
+
+tf_list = pd.DataFrame(tf_list)[['trade_flow']]
+
+tf_list = pd.json_normalize(tf_list['trade_flow'])
+
+tradeflow_id = tf_list[tf_list.code == tradeflow_].id.iloc[0]
+
+ 
+
+print(tradeflow_id)
+
+ 
+
+###################################
+
+########### make the list of snapshot #########
+
+params = {'deep': 'true'}
+
+data = {"where":"trade_flow_id eq " + tradeflow_id,"hastobe":False}
+
+response = requests.post('https://api.dnext.io/search/trade_flow_snapshot', params=params, headers=headers, json=data)
+
+snapshot_list = pd.DataFrame(response.json())
+
+snapshot_list = snapshot_list[['table_name', 'createdAt']].copy() 
+
+##############################
+
+####### INPUT : CHOOSE THE SNAPSHOT FROM ABOVE LIST ########
+
+snapshot_ = 'dnexr-crn-20231011120944'
+
+###############################
+
+################# download the data
+
+url = 'https://api.dnext.io/fundamentals/tradeflow/compare'
+
+payload = json.dumps({
+
+  "code": tradeflow_,
+
+  "from": snapshot_,
+
+  "to": None,
+
+  "forecastsFrom": [
+
+    forecast_
+
+  ],
+
+  "forecastsTo": [
+
+    forecast_
+
+  ],
+
+  "startMonth": 9
+
+})
+
+url = requests.request("POST", url, headers=headers, data=payload).json()['url']
+
+df = pd.read_json(url, lines=True)
+
+df = df[['Date', 'Product', 'Origin', 'Destination', 'QuantityOld']].copy()
+
+df.dropna(subset=['QuantityOld'], inplace=True)
+
+#print(df)
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

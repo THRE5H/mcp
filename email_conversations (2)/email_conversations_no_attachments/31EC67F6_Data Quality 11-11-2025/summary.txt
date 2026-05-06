@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Python library `xmltodict` is missing from the platform, preventing the execution of a script for France Prices. Additionally, they requested the installation of `mdbtools` and `pyodbc` to enable scheduling a script for the Spain Water Level Dashboard.
+
+**Context**: The user is an external user from a Customer Organization seeking to utilize specific libraries for data processing on their platform. The issues involve the integration of data sources for livestock pricing and water level monitoring.
+
+**Solution**: The Support Agent confirmed the installation of the required libraries, including `xmltodict`, `mdbtools`, and `pyodbc`, on the platform. The scripts were successfully scheduled thereafter. It is recommended to regularly check for necessary library updates to avoid similar issues in the future.

@@ -1,0 +1,56 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Sami Jaballah; Support Dnext; Elfi Middelbeek
+Date: 2025-04-17 10:54:36.866000+00:00
+Subject: Re: New Client - Fertilizers
+Message-ID: ZR3P278MB1226EC6B5EAAA013A2D72763F5BC2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB068194C05F7479E24334753688BC2@ZR0P278MB0681.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sami, 
+
+Should we add the weather dashboards from them? 
+Currently, we only have 6 dashboards available under Urea & Fertilizers 
+Taxud , Economics Weekly prices and India Urea Tenders. 
+@Elfi Middelbeek <mailto:elfi.middelbeek@dnext.io>  from your point of view, do you think they will need the weather dashboards as well? 
+
+Thanks, 
+Jebrane. 
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 17 April 2025 10:46
+To: Support Dnext <support@dnext.io>
+Cc: Elfi Middelbeek <elfi.middelbeek@dnext.io>
+Subject: New Client - Fertilizers 
+ 
+
+Hello,
+
+ 
+
+We have a new client:  Continental Industries Group, Inc,
+
+The environment has been already created: cig.dnext.io
+
+Commodities: Urea & Fertilizers -> first client with these commodities.
+
+Start date: 01.04.2025
+
+End date: 31.03.2028
+
+If have any questions, please get back to Elfi.
+
+ 
+
+Users list will be sent later.
+
+ 
+
+ 
+
+Thanks
+
+Sami
+
+ 

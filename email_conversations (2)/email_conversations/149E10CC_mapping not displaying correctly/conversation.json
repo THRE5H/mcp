@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "mapping not displaying correctly",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2025-04-28 07:00:15.115000+00:00",
+      "sent_time": "2025-04-28 07:00:00+00:00",
+      "body_text": "https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping\r\nDNext <https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping> \r\nDNext\r\ndnexr.dnext.io\r\n\r\n\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<a href=\"https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping\" id=\"LPlnk944316\">https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping</a></div>\r\n<div class=\"_Entity _EType_OWALinkPreview _EId_OWALinkPreview _EReadonly_1\" style=\"width: 100%; display: inline-block;\">\r\n<div id=\"LPBorder_GTaHR0cHM6Ly9kbmV4ci5kbmV4dC5pby9kYXRhc2V0cy9kbmV4ci1haGRiLWdyYWlucy1nYnItc25kLWl0ZW0tbW9udGhseS0xL2VkaXQvbWFwcGluZw..\" class=\"LPBorder194564\" style=\"width: 100%; margin-top: 16px; margin-bottom: 16px; position: relative; max-width: 800px; min-width: 424px;\">\r\n<table id=\"LPContainer194564\" role=\"presentation\" style=\"padding: 12px 36px 12px 12px; width: 100%; border-width: 1px; border-style: solid; border-color: rgb(200, 200, 200); border-radius: 2px;\">\r\n<tbody>\r\n<tr valign=\"top\" style=\"border-spacing: 0px;\">\r\n<td style=\"width: 100%;\">\r\n<div id=\"LPTitle194564\" style=\"font-size: 21px; font-weight: 300; margin-right: 8px; font-family: wf_segoe-ui_light, &quot;Segoe UI Light&quot;, &quot;Segoe WP Light&quot;, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; margin-bottom: 12px;\">\r\n<a target=\"_blank\" id=\"LPUrlAnchor194564\" href=\"https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping\" style=\"text-decoration: none; color: var(--themePrimary);\">DNext</a></div>\r\n<div id=\"LPDescription194564\" style=\"font-size: 14px; max-height: 100px; color: rgb(102, 102, 102); font-family: wf_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; margin-bottom: 12px; margin-right: 8px; overflow: hidden;\">\r\nDNext</div>\r\n<div id=\"LPMetadata194564\" style=\"font-size: 14px; font-weight: 400; color: rgb(166, 166, 166); font-family: wf_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif;\">\r\ndnexr.dnext.io</div>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<img id=\"image_0\" size=\"146949\" contenttype=\"image/png\" style=\"max-width: 1219px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:953dc1f3-895b-4d9a-982d-724766dec542\"></div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "149E10CC5B0FCA4E8DA4D4EBAC605E71",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002A35900820000",
+      "size": 356746,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB07173C59EB6B670B960C773AEB872@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "mapping not displaying correctly"
+}

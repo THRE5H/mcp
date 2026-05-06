@@ -1,0 +1,31 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-07-25 08:29:38.017000+00:00
+Subject: Canada Manitoba Moisture - Missing Regions
+Message-ID: ZR3P278MB1353A7ED7A43EF4538F7898EF659A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Why do we not have regions 10 and 11 for Manitoba? Would it be possible to add them please?
+
+https://dnexr.dnext.io/dashboard/weather/Weather/Canada/0de302d0-ab59-4d19-9e57-cb4a7c19ae88
+
+
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 

@@ -1,0 +1,23 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa
+Date: 2025-03-02 19:53:25.267000+00:00
+Subject: Re: ARG temperature dashboard completely out of date
+Message-ID: ZR3P278MB1226FD83AEF11B04A205BD28F5CE2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717545D7712260FA574A1BDEBCE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, 1000006116.jpg
+
+================================================================================
+
+Hello,
+
+It's updated now 
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Sunday, March 2, 2025 7:38:36 PM
+To: Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: ARG temperature dashboard completely out of date 
+ 
+ 

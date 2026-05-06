@@ -1,0 +1,39 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Support Dnext
+Date: 2025-05-19 21:21:19.251000+00:00
+Subject: FW: Action Required: Refresh Your Microsoft Token
+Message-ID: GV0P278MB05912575E5AA171A120C9C72F89CA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 01020196ea316586-3043eec5-161f-4488-b74f-fe9b9f52b699-000000@eu-west-1.amazonses.com
+
+================================================================================
+
+Guys, could you help me pls?
+
+ 
+
+Thanks
+
+Lucas
+
+ 
+
+From: noreply@dnext.io <noreply@dnext.io> 
+Sent: segunda-feira, 19 de maio de 2025 17:17
+To: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: FW: Action Required: Refresh Your Microsoft Token
+
+ 
+
+Hello Lucas Rosa,
+
+We wanted to let you know that your Microsoft access token has expired. To continue using DNEXT seamlessly, please refresh your token by going to your account settings: https://dnexr.dnext.io/profile. 
+
+Concerned dataset that has been affected:
+SBS BRA FARMER SELLING VOLUME (dnexr-sbs-bra-farmer-selling-volume) 
+
+Workflow: https://dnexr.dnext.io/workflows/1fb74b7d-3601-4763-8bef-e294c3739e63/edit/exporting 
+
+If you have any questions or need assistance, feel free to reach out to our support team. 
+
+Thank you,
+Dnext Team

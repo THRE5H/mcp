@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with logging into the DNEXT platform and required a password reset.
+
+**Context**: The user is an external user accessing the DNEXT platform. The issue arose regarding login credentials, which required a reset for successful access.
+
+**Solution**: The Support Agent provided new login credentials, including a username and a temporary password. The customer was advised to reach out if they continued to experience difficulties logging in, ensuring support was available for any further issues.

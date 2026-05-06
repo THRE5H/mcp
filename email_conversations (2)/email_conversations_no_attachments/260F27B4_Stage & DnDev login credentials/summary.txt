@@ -1,0 +1,5 @@
+**Problem**: The customer requested login credentials for the Stage and DnDev environments.
+
+**Context**: The user is an external user from Customer Organization seeking access to specific environments related to the Service Provider's platform. The request was made via email, indicating a need for credentials to proceed with their tasks.
+
+**Solution**: The Support Agent provided the requested login credentials for both environments, including the username and password. No further actions were necessary as the customer now has the access needed to proceed. It is recommended to keep credentials secure and change them regularly for security purposes.

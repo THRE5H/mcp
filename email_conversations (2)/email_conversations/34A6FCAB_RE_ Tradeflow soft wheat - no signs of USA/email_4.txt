@@ -1,0 +1,144 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Etienne Cornette; Sami Jaballah
+Date: 2025-01-29 12:46:25.417000+00:00
+Subject: RE: Tradeflow soft wheat - no signs of USA
+Message-ID: GV0P278MB132080EDBBF2DF345E028DBCF8EE2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 004c31e3fec14cfb95b9db3bc70a6cb4@saftco.ch
+
+================================================================================
+
+Bonjour Étienne,
+
+ 
+
+Le problème est maintenant résolu pour le trade flow du blé tendre, vous devriez pouvoir trouver les États-Unis.
+
+ 
+
+Concernant le trade flow du corn, nous sommes en train d’analyser la raison de la divergence.
+
+ 
+
+Merci pour votre patience, nous vous tiendrons informé.
+
+ 
+
+Cordialement,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch> 
+Sent: Wednesday, January 29, 2025 12:39
+To: Sami Jaballah <sami.jaballah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Tradeflow soft wheat - no signs of USA
+
+ 
+
+Hello Sami,
+
+ 
+
+Further to my issue below, I’ve got a discrepancy between TF platform with Excell Add in and what’s in the TradeMatrix dashboard.
+
+ 
+
+For instance here is brazil from the dashboard: 24/25 CORN at 41.573
+
+ 
+
+
+
+ 
+
+And here is what I get with the Excel add in : 
+
+ 
+
+
+
+ 
+
+ 
+
+Thank you for your help,
+
+Etienne 
+
+ 
+
+ 
+
+From: Cornette Etienne 
+Sent: Tuesday, January 28, 2025 6:30 PM
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Tradeflow soft wheat - no signs of USA
+
+ 
+
+Bonjour Sami,
+
+ 
+
+Je viens de relancer une requête pour les TF en incluant toutes les origines de blé tendre, par défaut.
+
+ 
+
+Cependant, lorsque je lance la requête, je n’ai pas les Etats Unis dans le fichier.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Best regards,
+
+ 
+
+Etienne Cornette
+
+Grains Trader
+
+==============
+
+SAFTCO SA 
+
+Rue du Mont-Blanc 3,
+
+1201 GENEVA – CH
+
+
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 

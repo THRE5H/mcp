@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance accessing published data for a graph related to US wheat planting progress, which they believed should be available for the autumn season.
+
+**Context**: The user is an external analyst from a Customer Organization involved in grains and oilseeds. The inquiry was made to a Service Provider's support team regarding data availability that was expected to be published prior to a shutdown.
+
+**Solution**: The Support Agent confirmed that the data was available and instructed the customer to select the year 20236 in the filter to access it. The customer was advised to reach out for further assistance if needed.

@@ -1,0 +1,67 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Guillaume Goudy; Support Dnext; Léonard Berney
+Date: 2025-11-17 14:15:46.745000+00:00
+Subject: Re: TF matrix is broken?
+Message-ID: GV0P278MB1366985EA7EF981CC8332B83E6C9A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211536F554C858FC30B930A98C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+Attachments: image001.png, image.png
+
+================================================================================
+
+My bad, saw an issue on matrix "CORN Platform" and changed "CORN" ....  Sorry.
+
+Changes reverted.
+
+
+
+Btw the issue from very long time regarding completion of partners information even if prior source have data still remains and is on test for the week.
+
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 17 November 2025 13:52
+To: Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: TF matrix is broken?
+ 
+
+The lineups number are not matching the D Lineups that Leo is sending.  Oct is way too high and Nov is 0 whereas it should be 6500. What is happening?
+
+gg
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a contract for a new environment but encountered a bug preventing user sharing from the existing system to the new environment.
+
+**Context**: The user is an internal user from the Customer Organization, requesting setup for a new client, DV Trading LLC, involving a commodities trading platform. The contract is intended to start on November 1, 2025, and end on October 31, 2026.
+
+**Solution**: The Support Agent confirmed that the contract was created but noted a bug affecting the sharing functionality, prompting the opening of a ticket for further investigation. The customer was informed that updates would be provided once the issue is resolved. It is recommended to await approval before sending user access credentials.

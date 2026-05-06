@@ -1,0 +1,45 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa; Saber Khalfallah
+Date: 2025-06-19 13:22:25.174000+00:00
+Subject: Re: Duplicates in the Crop conditions dataset
+Message-ID: GV0P278MB03211B07BF0CCE8A92C401359D7DA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717CC64E93C7C68E8253118EB67A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Pablo,
+
+I created two new datasets for USA crop Condition and progress and they contains all the historical since 2000 for winter wheat, spring durum wheat, spring wheat, soybean and corn.
+if there are any other products to please tell me.
+Also @Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  after validation you may share with clients instead of the old ones
+
+Crop Condition dataset : 
+Code: dnexr-nass-usda-usa-gno-condition-weekly
+Name: U.S. Weekly Crop Condition Dataset (NASS - USDA)
+
+
+Crop Progress dataset : 
+Code: dnexr-nass-usda-usa-gno-progress-weekly
+Name: U.S. Weekly Crop Progress Dataset (NASS - USDA)
+
+
+
+
+Crop Condition and progress dataset (data prep that combine both): 
+Code: dnexr-nass-usda-usa-gno-progress-condition-weekly
+Name: U.S. Weekly Crop Progress and Condition Dataset (NASS - USDA)
+
+
+thanks,
+Iheb
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, May 28, 2025 12:15 PM
+To: Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Duplicates in the Crop conditions dataset 
+ 
+ 

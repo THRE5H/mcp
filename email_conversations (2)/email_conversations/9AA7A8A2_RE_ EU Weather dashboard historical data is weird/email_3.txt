@@ -1,0 +1,73 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-04-01 12:42:53.094000+00:00
+Subject: Re: EU Weather dashboard historical data is weird
+Message-ID: ZR1P278MB117172EE691F666BE931A22D8BAC2@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717E1422571DCB8D23362CCEBAC2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_7.png, image_8.png, image_9.png, image_10.png, image_11.png
+
+================================================================================
+
+backfilling the data again to see if that fixes the issue, will keep you posted
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 01 April 2025 12:16
+To: Martin Keller <martin.keller@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: EU Weather dashboard historical data is weird 
+ 
+temperature is also bad
+
+
+it seems all the data is wrong? specially before 2013
+
+
+
+this is what is see now
+
+
+
+
+This is what i had before
+
+
+
+
+this is the platform now
+
+
+________________________________
+
+From: Martin Keller <martin.keller@dnext.io>
+Sent: Tuesday, April 1, 2025 12:54 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: EU Weather dashboard historical data is weird 
+ 
+will have a look
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 01 April 2025 11:53
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Martin Keller <martin.keller@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: EU Weather dashboard historical data is weird 
+ 
+example of romania
+
+missing parts of years.
+
+is the rest of the data correct?
+
+
+
+________________________________
+
+From: Pablo Figueroa
+Sent: Tuesday, April 1, 2025 12:51 PM
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Martin Keller <martin.keller@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: EU Weather dashboard historical data is weird 
+ 
+ 

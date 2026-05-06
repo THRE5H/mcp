@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the year-to-date "trend" feature in the "selection" section of the tradeflow, indicating it was not functioning as expected.
+
+**Context**: The user is an external user from a Customer Organization utilizing a tradeflow analysis tool provided by a Service Provider. The issue arose during a routine analysis, which is critical for their reporting needs.
+
+**Solution**: The Support Agent investigated the issue and identified a configuration error that was causing the trend data to display incorrectly. After correcting the configuration, the trend feature was verified to be functioning properly. It is recommended that the user regularly check configuration settings to prevent similar issues in the future.

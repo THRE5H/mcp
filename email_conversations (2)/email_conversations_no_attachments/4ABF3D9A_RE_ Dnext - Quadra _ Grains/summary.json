@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User could not access temperature charts for certain origins like Romania on the platform because the filter only showed corn options, which the user was not subscribed to, despite those origins also producing oilseeds included in their subscription.",
+    "solution": "The platform was updated so that users can now see charts in the weather dashboards even when the filter is set to corn, allowing access to relevant data for origins producing oilseeds under the current subscription. Additionally, support is available to guide users through the weather dashboards, including features like snow cover in cropping areas, via scheduled calls.",
+    "keywords": [
+      "weather dashboards",
+      "temperature charts",
+      "corn filter",
+      "oilseeds",
+      "subscription access",
+      "platform filtering",
+      "snow cover",
+      "cropping areas",
+      "data access",
+      "user support"
+    ],
+    "category": "Configuration"
+  }
+}

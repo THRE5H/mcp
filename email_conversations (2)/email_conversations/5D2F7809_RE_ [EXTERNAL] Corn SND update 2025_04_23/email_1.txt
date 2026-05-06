@@ -1,0 +1,188 @@
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+To: Saber Khalfallah
+Date: 2025-04-25 12:32:21.142000+00:00
+Subject: RE: [EXTERNAL] Corn SND update 2025_04_23
+Message-ID: DU0P191MB2379A0D4FF746BF34606BDB98D842@DU0P191MB2379.EURP191.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132005DDA6D07524214BE038F8842@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Many thanks for your email, Saber.
+
+ 
+
+Well noted, I’m switching my query to the new codes.
+
+ 
+
+Regards
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: 25 April 2025 12:26
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>; Support Dnext <support@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: [EXTERNAL] Corn SND update 2025_04_23
+
+ 
+
+Hello Roberto,
+
+ 
+
+I hope you're doing well.
+
+ 
+
+The values mismatch you're experiencing is due to the fact that you're consulting the Corn Tradematrix from our old system, which we are planning to phase out soon. As a result, the data there is no longer up to date.
+
+ 
+
+If you navigate to your Tradematrix module and search for "Corn" in the "Name" column, you will notice there are two Corn Tradematrixes listed. 
+
+ 
+
+We recommend using the one with the "Code" column formatted as "thul-xxxx-xxxx-xxxx-xxxx," as this version is shared via our new system and is always up to date.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+I hope this helps clarify things for you. Please let us know if everything looks good on your end or if there’s anything else we can assist with. Looking forward to hearing back from you!
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Friday, April 25, 2025 10:28
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >; Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: FW: [EXTERNAL] Corn SND update 2025_04_23
+
+ 
+
+Hi Saber,
+
+ 
+
+Can you look into it. I pushed my forecast but Roberto is not seeing it. 
+
+Thank you
+
+Guillaume
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Friday, 25 April 2025 11:05
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: [EXTERNAL] Corn SND update 2025_04_23
+
+ 
+
+Hi GG,
+
+ 
+
+I noticed a mismatch between US corn exports in the SnD vs trade matrix:
+
+ 
+
+I see Sep-Aug exports of 2593m bsl in the trade flows vs 2704m bsl in the SnD.
+
+ 
+
+Could you pls let me know once the trade flows are updated?
+
+ 
+
+ 
+
+Thanks and regards
+
+R
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: 23 April 2025 18:51
+Subject: [EXTERNAL] Corn SND update 2025_04_23
+
+ 
+
+Hi,
+
+ 
+
+Please find enclosed the Corn SNDs update this week.
+
+Any question or comment, please let us know.
+
+ 
+
+Regards,
+
+ 
+
+DNEXT Research
+
+ 
+
+ 
+
+ 
+
+
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

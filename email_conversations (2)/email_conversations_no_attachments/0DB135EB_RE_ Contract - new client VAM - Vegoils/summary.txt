@@ -1,0 +1,5 @@
+**Problem**: The customer requested to adjust a contract to grant access to a new client, Valent Asset Management (VAM), for the service Vegoils for a specified duration. They later extended this access for an additional month.
+
+**Context**: The user is an internal user from Customer Organization, communicating with the Support Team of Service Provider. The request involves contract adjustments for a new client, specifically for commodities trading services.
+
+**Solution**: The Support Team confirmed that the contract adjustments were completed as requested, extending access to Vegoils for VAM until 31.07.2025. It is recommended to monitor contract durations closely to ensure timely renewals and avoid service interruptions.

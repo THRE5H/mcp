@@ -1,0 +1,54 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Jebrane Ben Salem; John Stansfield; TradeFlow; Support Dnext
+Date: 2025-12-30 14:45:46.902000+00:00
+Subject: Re: Saudi sugar exports
+Message-ID: ZRAP278MB0317AF3971B3196F03CA942CF5BCA@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226EB0A043615E5366480B1F5BCA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+It is a misreport from the source.
+I have corrected it and refreshed the dashboard.
+Best,
+Khalil
+
+
+
+
+
+Khalil Mekki
+
+Data Analyst
+
+                                                                                                     khalil.mekki@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, December 30, 2025 2:15 PM
+To: John Stansfield <john.stansfield@dnext.io>; TradeFlow <tradeflow@dnext.io>; Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: Saudi sugar exports 
+ 
+@Khalil Mekki <mailto:khalil.mekki@dnext.io>  can u take a look please ?
+
+________________________________
+
+From: John Stansfield <john.stansfield@dnext.io>
+Sent: 30 December 2025 11:25
+To: TradeFlow <tradeflow@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Saudi sugar exports 
+ 
+Could you take a look at the data.  It looks like the metric tonne data is divided by 1000.  Total exports per month should be approx  80,000 to 100,000 tonnes.  
+

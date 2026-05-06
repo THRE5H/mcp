@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the DNEXT environment to access the service.
+
+**Context**: The user is an external user requesting access to the DNEXT platform. The specific service involved is the AgroComp environment, which requires login credentials for access.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials, including the username and password. The customer can now access the DNEXT platform using these credentials. It is recommended that the customer change the password after the initial login for security purposes.

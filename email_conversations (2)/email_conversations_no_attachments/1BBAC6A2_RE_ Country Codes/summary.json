@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Certain country codes exist in the system but cannot be selected during the value mapping step of a dataset workflow.",
+    "solution": "The inability to select some country codes during value mapping is due to the dataset columns (e.g., 'Country Reporter' and 'Country Partner') being filtered to only allow mapping of locations with the type 'COUNTRY'. Codes that have a different type, such as 'WORLD', will not appear as selectable options. To resolve this, review and adjust the filter on the dataset columns to include the desired location types if mapping those codes is required.",
+    "keywords": [
+      "country codes",
+      "value mapping",
+      "dataset",
+      "filter on value",
+      "location type",
+      "COUNTRY",
+      "WORLD",
+      "mapping issue",
+      "dataset configuration"
+    ],
+    "category": "Configuration"
+  }
+}

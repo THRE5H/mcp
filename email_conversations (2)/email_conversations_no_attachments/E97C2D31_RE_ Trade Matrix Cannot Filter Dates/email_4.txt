@@ -1,0 +1,17 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-07-22 10:17:02.845000+00:00
+Subject: Trade Matrix Cannot Filter Dates
+Message-ID: ZR3P278MB135352E8718871825C48ECE2F65CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+In the tradematrix I cannot filter the dates, i.e., remove crop year 26/27 and 27/28.
+
+ 
+
+

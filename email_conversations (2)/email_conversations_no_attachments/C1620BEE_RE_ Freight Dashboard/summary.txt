@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a freight dashboard using historical and weekly data to track current month developments, similar to an existing dashboard. They specified the need for line charts and a table displaying absolute values and changes.
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance from the Support Team of the Service Provider. The dashboard is intended to visualize freight data, specifically using the dataset for freight truck rates in Brazil.
+
+**Solution**: The Support Agent created the dashboard and provided a link for review. Adjustments were made based on the customer's feedback, including the addition of units and changes to the layout. The customer was informed of limitations regarding filter interactions between charts and tables, and the dashboard was confirmed for publication after final adjustments.

@@ -1,0 +1,1056 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rafael Bucciarelli; Support Dnext
+Date: 2025-03-10 14:17:53.705000+00:00
+Subject: RE: [EXTERNAL] DCS-845 historical CNF
+Message-ID: GV0P278MB1320D3F8DC964B8677D25852F8D62@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR11MB8543B56B239DA27A6D0CAC3096CA2@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Dear Rafael,
+
+ 
+
+Thank you for bringing this to our attention.
+
+ 
+
+We are currently investigating the issue and working to resolve it as quickly as possible. 
+
+ 
+
+we will keep you updated on our progress.
+
+ 
+
+We appreciate your patience and understanding as we work through this matter.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com> 
+Sent: Thursday, March 6, 2025 15:35
+To: Support Dnext <support@dnext.io>
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: RE: [EXTERNAL] DCS-845 historical CNF
+
+ 
+
+Hi, 
+
+ 
+
+Another question: I’m not seeing all the origins I see in the platform. Missing Brazil, USG among others. 
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+From: Bucciarelli, Rafael 
+Sent: Monday, January 27, 2025 2:44 PM
+To: 'support@dnext.io' <support@dnext.io>
+Subject: RE: [EXTERNAL] DCS-845 historical CNF
+
+ 
+
+Hi, 
+
+ 
+
+In addition to the question below, I have another one. 
+
+ 
+
+How to interpret different FOB values for the same date/origin/delivery month combination?
+
+ 
+
+
+
+ 
+
+Which to take?
+
+ 
+
+Thanks, 
+Rafael
+
+ 
+
+From: Bucciarelli, Rafael 
+Sent: Monday, January 27, 2025 1:40 PM
+To: support@dnext.io <mailto:support@dnext.io> 
+Subject: RE: [EXTERNAL] DCS-845 historical CNF
+
+ 
+
+Hi, 
+
+ 
+
+Is this data being updated? Latest date I see available thru the API is 2025-01-21 but on the platform I see as late as 1/24. 
+
+ 
+
+In addition could soybeans be added to this?
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> > 
+Sent: Wednesday, January 22, 2025 9:04 AM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Subject: [EXTERNAL] DCS-845 historical CNF
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Rafael,
+
+Here is the code for the dataset containing data for Corn CNF to all destinations, FOB, as well as Freights:
+
+Code: “zimb-a410fb85-d8ab-11ef-82fc-06cd53a4d901”
+
+You will also receive automated emails notifying you each time the dataset is updated.
+
+This will allow you to either download the file or refresh the API request.
+
+If you have any questions or need further assistance, feel free to reach out
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/26465/attachment/15856> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Friday, January 17, 2025 17:05
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: historical CNF
+
+Had another question.
+
+Would it be possible to send out an automated report when the data gets updated?
+
+Thanks,
+
+Rafael
+
+From: Bucciarelli, Rafael 
+Sent: Friday, January 17, 2025 9:00 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: historical CNF
+
+Great, appreciate it!
+
+Would be interested in corn and beans CNF to all destinations and FOB.
+
+Don’t need flat price, just premium
+
+Many thanks!!
+
+Best,
+
+Rafael
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, January 17, 2025 8:58 AM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: historical CNF
+
+Hi Rafael,
+
+Thank you for getting back to me.
+
+Yes, we can work on making the data available via the API.
+
+Our goal is to make the full dataset accessible so you can explore the relationships you're interested in.
+
+We’ll get back to you with the details once it’s ready.
+
+In the meantime, let me know if there’s anything else I can assist with.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/26465/attachment/15856> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Friday, January 17, 2025 14:22
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: historical CNF
+
+Hi,
+
+I am not sure what years/destinations I’m interested in yet, would like the entire thing to play around with relationships if possible.
+
+Do you think it could be made available via the API?
+
+Even if history is hard to do, would appreciate current and going forward, or even just current data and I can start a time series on my side.
+
+Thanks,
+
+Rafael
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, January 17, 2025 8:20 AM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: historical CNF
+
+Dear Rafael,
+
+I hope this email finds you well.
+
+Unfortunately, the specific data you're looking for isn't directly available via our API.
+
+This is because it results from calculations involving multiple datasets related to freights and currency conversion.
+
+However, if you can let us know the years and destinations you’re interested in, we’d be happy to create an Excel file containing the relevant historical data for you.
+
+Please feel free to share the specifics, and we’ll get started on compiling the information.
+
+Looking forward to your reply.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/26465/attachment/15856> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Thursday, January 16, 2025 22:23
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: historical CNF
+
+Hi,
+
+Are historical values for this matrix available via the API?
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/26465/attachment/15842> 
+
+Best,
+
+Rafael
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+1.      
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-845?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6Ijg1ZTRjZjEyNzUwOGVjMTVjOWFmYzVkMDBhZTlhNTYyMGQ0MjQwNGZlNjU0NTI5YTZiZmFmZjVmNTJiNDllYTciLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxOTEiLCJpc3N1ZSI6IkRDUy04NDUifSwiZXhwIjoxNzM5OTczODEwLCJpYXQiOjE3Mzc1NTQ2MTB9.JaizRKlWu_ldwo7zc6Jq8ngGF8RMSwZjze1miTkaPp4&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-845/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6Ijk0M2Y2NmZiNzgyYmZjNzRlMTQ2N2E3Mzg0MjczYTIzYzQzMDQxODQ2ZTc2MjY3MzYxZjFmNGY1YjdmYWYzMzQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6NDJlN2Q1ZWYtNWYxMi00MjU5LWE1OGItMTUwMmM3MDE5YTU3IiwiaXNzdWUiOiJEQ1MtODQ1In0sImV4cCI6MTczOTk3MzgxMCwiaWF0IjoxNzM3NTU0NjEwfQ.-c5z1qYBDGCGE8Aa5n9CXhChIDVDbaZHd_eXC31oFbU> 
+
+This is shared with mlp and rafael.bucciarelli.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on January 22, 2025 3:03:30 PM CET 
+
+
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

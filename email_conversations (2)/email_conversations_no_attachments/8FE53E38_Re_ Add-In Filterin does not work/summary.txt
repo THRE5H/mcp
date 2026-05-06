@@ -1,0 +1,5 @@
+**Problem**: The customer reported that a filter applied in the add-in was not functioning as expected and requested guidance on how to correct the issue.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance from the Service Provider's support team regarding an add-in feature. The issue is related to the JSONLogic query logic, particularly with date selection.
+
+**Solution**: The Support Team identified that the issue stemmed from the requirement to select both start and end dates for the filter to work correctly. They informed the customer that a new implementation would be released to enhance functionality, including better handling of references and validations. Users are advised to ensure both dates are selected to avoid similar issues in the future.

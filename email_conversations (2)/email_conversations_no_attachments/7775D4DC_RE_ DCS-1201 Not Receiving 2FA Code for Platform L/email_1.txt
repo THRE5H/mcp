@@ -1,0 +1,38 @@
+From: Maher Fekih </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=306C9E57107D4FB7BA44D113815773F0-8A364BF5-51>
+To: Support Dnext
+Date: 2025-04-14 13:08:31.068000+00:00
+Subject: RE: DCS-1201 Not Receiving 2FA Code for Platform Login (Dnexr/stage)
+Message-ID: ZRAP278MB0673913B462BDC3A7426B33C85B32@ZRAP278MB0673.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: JIRA.29680.1744630289000.27d5b883-5d54-480c-ada7-2b5c98bbdcd7.1744632331800@Atlassian.JIRA
+
+================================================================================
+
+ <https://outlook-1.cdn.office.net/assets/reaction/like.png> 	Maher Fekih reacted to your message: 	
+________________________________
+
+From: Louis Olive <jira@dnext.atlassian.net>
+Sent: Monday, April 14, 2025 12:05:32 PM
+To: Maher Fekih <maher.fekih@dnext.io>
+Subject: DCS-1201 Not Receiving 2FA Code for Platform Login (Dnexr/stage) 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Louis Olive commented:
+
+Hi,
+
+Thanks for the the answer.
+I just updated the ticket as I received them in bulk. 
+I am now logged in.
+
+Louis
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1201?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImRmMjRiNGNmOTY4NmM2Y2Q5ZGJiM2E3MzJjYzkzYjZjNzZjNTJhNTg5ZWM1NjVlOThmMTY0OWZkZDIwZjg4YmEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwODUiLCJpc3N1ZSI6IkRDUy0xMjAxIn0sImV4cCI6MTc0NzA1MTUzMSwiaWF0IjoxNzQ0NjMyMzMxfQ.pN4FB68cfXDn-lwWTR0kPGf8fUYIeVZs5oTEp4FfqUE&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1201/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImE3MWU4ODRiNzRmNWExNjk4MWM5MGY0MTgzNmEzYjU0ZTM2ZmVhNDZjMDcyZWVjNjA0ZjJmZmQ1ZTViODNhMTgiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjFjMjBkMTViLThjMWUtNDA2ZC05ZDk1LTE2YjZiOGNhZDQ0OCIsImlzc3VlIjoiRENTLTEyMDEifSwiZXhwIjoxNzQ3MDUxNTMxLCJpYXQiOjE3NDQ2MzIzMzF9.XVTHhZR5-0TotyXT0XNxm4Kj277N-HcUWuD4XouCsSo> 
+
+This is shared with Louis Olive, Nicolas Chaperon et Maher.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Envoyé le 14 avril 2025 14:05:31 CEST 
+ <https://atlas-trk.prd.msg.ss-inf.net/q/h9ZqXtjLLl9sSTKcGrE4xQ~~/AAAAARA~/vuuFcRwa2M_SotOFw2QvhQKdzLyKqpbxsIZ658xUkxe7AI1EsEOmiTWTBcJA3FAKctww1nAJ3yGXMZTzgKBeow~~> 

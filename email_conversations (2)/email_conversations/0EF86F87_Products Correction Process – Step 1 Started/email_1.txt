@@ -1,0 +1,21 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Support Dnext; Dnext TN - Analysis; DNEXT_ANALYSTS; Customer Success; Dnext Lineups; TradeFlow
+Date: 2025-09-23 16:03:15.772000+00:00
+Subject: Products Correction Process – Step 1 Started
+Message-ID: ZR3P278MB12267D63326C184962B2A6A2F51DA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: Products_ref.csv, Final_Master_MappingHS6(HS4_HS6_fixed).csv
+
+================================================================================
+
+Hello Team,
+We have started working on the products correction. The process will be done in two steps:
+
+1.	
+	Step 1: Update products that don’t have a hierarchy and add the HS codes prepared by Pierre.
+2.	
+	Step 2: Add HS codes for products that already have an existing hierarchy (without changing their parents).
+
+Please note that these changes may affect some tradeflows and dashboards,... . If you encounter any issues, kindly report them to me or Aya.
+We aim to complete Step 1 by the end of this week.
+Thanks,
+Jebrane

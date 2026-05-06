@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to access and download sugar lineup datasets for specific regions from the DNEXT platform.",
+    "solution": "To download sugar lineup data from the DNEXT platform, open the dataset page URL for the desired region. On the dataset page, click the 'Download' button located at the top right corner to download the data. Additionally, users can use the DNEXT Excel add-in to fetch data directly into Excel. A demo session can be arranged to guide users through the platform features and assist with setting up the Excel add-in.",
+    "keywords": [
+      "DNEXT",
+      "sugar lineup",
+      "dataset access",
+      "download data",
+      "Excel add-in",
+      "data export",
+      "platform features",
+      "how to download"
+    ],
+    "category": "How-to Guide"
+  }
+}

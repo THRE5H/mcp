@@ -1,0 +1,5 @@
+**Problem**: The customer requested a demo session for specific users related to grains and oilseeds, indicating that no downloads were possible and that the demo needed to start the following day.
+
+**Context**: The user is an internal user from the Customer Organization, requesting a demo setup from the Support Agent at the Service Provider. The demo is time-sensitive, scheduled to begin the day after the request.
+
+**Solution**: The Support Agent confirmed that the environment was set up and login credentials were sent to the users. A follow-up proposal for the demo session will be coordinated with the users, and onboarding will be offered if requested.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of two specific datasets from the system.
+
+**Context**: The user is an internal user from the Customer Organization, requesting support from the Service Provider's customer support team. The request involved two datasets related to financial data management.
+
+**Solution**: The Support Agent confirmed that the deletion of the requested datasets was successfully completed. It is recommended that users verify dataset names before submitting deletion requests to avoid any potential errors.

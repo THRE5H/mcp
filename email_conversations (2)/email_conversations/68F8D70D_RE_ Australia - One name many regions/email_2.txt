@@ -1,0 +1,112 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext; Martin Keller
+Date: 2025-07-29 12:29:52.808000+00:00
+Subject: Re: Australia - One name many regions
+Message-ID: ZR3P278MB122618A287436ED27CD3A80AF525A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12267389A53D505B3CC103A3F55AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image005.png, image006.png, image007.png, image008.png, image009.png, image.png
+
+================================================================================
+
+Hello Enea, 
+
+It's fixed, could you check please.
+
+
+
+Thanks,
+Jebrane.
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, July 28, 2025 15:09
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Australia - One name many regions 
+
+Hello, 
+
+Adding @Martin Keller <mailto:martin.keller@dnext.io>  
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 28 July 2025 15:07
+To: Support Dnext <support@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Australia - One name many regions
+ 
+
+Hello,
+
+ 
+
+May you please fix this issue? It is still ongoing
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli
+Sent: Wednesday, July 23, 2025 10:12 AM
+To: Support Dnext <support@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Australia - One name many regions
+
+ 
+
+Hello,
+
+ 
+
+On Jira the status is “Resolved” but I see this morning, that we are doing the official analysis for Australia, that the issue is not resolved.
+
+ 
+
+For example, for “North West” I can see two regions with the same name, which obviously makes the average soil moisture calculations useless.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1529?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImQ0NjJiN2M2NTMwNTk2ZjZhZTc1MjU4NjhjMWViZjc5MzlkOTc4MDNlNjhlMDgzYTJjY2QyNzgzZTM2NGJjOTMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxOTIiLCJpc3N1ZSI6IkRDUy0xNTI5In0sImV4cCI6MTc1NTUzMTMxNSwiaWF0IjoxNzUzMTEyMTE1fQ.WriY6SWuEJ7769_xZ4UEmlBSyg5nSWKNY8d_XXXpKJM
+
+ 
+
+From: Enea Albertoli
+Sent: Monday, July 21, 2025 5:34 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >; Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: Australia - One name many regions
+
+ 
+
+Hello!
+
+ 
+
+One name is used for the same regions in the soil moisture for Australia. This happens also for other regions, not just the one shown.
+
+ 
+
+If possible, could we align Precipitation and Soil moisture names, please? You may add the Province to distinguish i.e., VIC - Northern, NSW - Northern, etc.
+
+ 
+
+If possible, would it be possible to use the regional names (official), in the photos below for Victoria and New South Wales, please?
+
+ 
+
+
+
+ 
+
+

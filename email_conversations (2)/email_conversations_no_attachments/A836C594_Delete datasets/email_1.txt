@@ -1,0 +1,20 @@
+From: Iulian Gramatki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=34FC2AA9BD71452E98A777350F5A4EFE-21F0C60F-36>
+To: Support Dnext
+Date: 2025-11-25 13:35:28.908000+00:00
+Subject: Delete datasets
+Message-ID: GVAP278MB071235B7B83041A89AA3C04887D1A@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear customer support team,
+
+Please delete the datasets with the following codes on stage.dnext.io:
+
+stage-test-healthckeck-config-lineups
+stage-healthcheck-test
+stage-cpt-nes-arnbr-tf-lineups-vessel-weekly 
+
+These are all test datasets I created with the purpose of testing the healthcheck.
+
+Thank you
+Iulian Gramatki

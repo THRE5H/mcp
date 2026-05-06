@@ -1,0 +1,107 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Enea Albertoli; Support Dnext
+Date: 2026-01-12 18:39:24.221000+00:00
+Subject: RE: Country Codes
+Message-ID: GV0P278MB132029AB387A6332A342ED23F881A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353CB3FC148082742E8CBBAF681A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Enea,
+
+ 
+
+The reason you can not chose that in the value mapping step is because when the dataset was created the columns “Country Reporter” and “Country Partner” were made with a Filter on Value as “Country”,
+
+
+ 
+
+
+meaning you can only map locations that have the type : “COUNTRY” the one you did not find have another type :”WORLD” 
+
+
+
+
+
+
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Monday, January 12, 2026 18:26
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Country Codes
+
+ 
+
+Putting Bastien in CC
+
+ 
+
+From: Enea Albertoli 
+Sent: Monday, January 12, 2026 3:04 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Country Codes
+
+ 
+
+Dear Support Team,
+
+ 
+
+It appears the country codes below exist but cannot be selected when mapping a dataset.
+
+May you please help me, please?
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+https://dnexr.dnext.io/workflows/bdd6b4d5-18e8-4e62-ae07-864bece739ce/edit/valuemapping
+
+ 
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+ 

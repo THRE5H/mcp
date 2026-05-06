@@ -1,0 +1,5 @@
+**Problem**: The customer requested to switch DNEXT accounts from three departing users to new users within their organization.
+
+**Context**: The customer is an external user from Customer Organization, specifically a Global Purchaser. The request involves user account management for the DNEXT platform, necessitated by the departure of several employees.
+
+**Solution**: The Support Agent confirmed the removal of the old user accounts and the creation of new accounts for the requested users. Login credentials were sent to the new users, and the Support Agent offered to schedule a platform demo to assist them in utilizing DNEXT effectively.

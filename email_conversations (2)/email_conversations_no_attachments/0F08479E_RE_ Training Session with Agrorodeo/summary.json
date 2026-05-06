@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to compare actual precipitation data with forecast values in the weather dashboards.",
+    "solution": "To compare actual precipitation with forecast values in the weather dashboards: 1) Open the Weather Dashboards by navigating to Dashboard > Weather and select the desired region. 2) Click the 'Forecast Run Comparison' button to access the comparison page. 3) In the 'Run Selection' filter, check the box for 'Actual' to display observed precipitation and select the forecast model(s) to compare against. 4) Hover over the chart to view actual precipitation values versus forecast runs for the selected date.",
+    "keywords": [
+      "weather dashboard",
+      "precipitation comparison",
+      "forecast run comparison",
+      "actual vs forecast",
+      "weather data analysis",
+      "dashboard navigation",
+      "forecast models"
+    ],
+    "category": "How-to Guide"
+  }
+}

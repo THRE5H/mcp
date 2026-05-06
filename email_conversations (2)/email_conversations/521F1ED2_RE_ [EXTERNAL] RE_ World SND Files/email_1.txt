@@ -1,0 +1,192 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Joe Kleinman; Support Dnext
+Date: 2026-01-14 22:49:35.252000+00:00
+Subject: RE: [EXTERNAL] RE: World SND Files
+Message-ID: GV0P278MB132029862B3196B712CBCE11F88FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA0PR11MB4671476051AA64B5B2000875E78FA@SA0PR11MB4671.namprd11.prod.outlook.com
+Attachments: DCS-DNEXT API - Code Example__Authentication.pdf, DCS-DNEXT API - Code Example__Download a dataset.pdf, DCS-DNEXT API - Code Example__Download a tradeMatr.pdf
+
+================================================================================
+
+Hi Joe,
+
+Unfortunately, I am not aware of any direct logic available that will highlight which CSV file has the latest publication date, I will check with our dev team and let you know once I get the information. However, I can suggest a couple of alternatives:
+
+ 
+
+1.	Excel Add-in
+	We offer an Excel add-in that allows you to fetch data directly into Excel. This could make it easier for you to access and manage the data. Let us know when you’re available, and we can arrange a quick call to walk you through the setup.
+2.	API 
+	Alternatively, you can use our API to fetch all the data in one file. This can be done easily using a Python script or any other tool you're comfortable with (e.g., R or any other programming languages). Kindly find attached our API documentation for your reference.
+
+ 
+
+Please let us know what works best for you, and we’ll be happy to assist further.
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com> 
+Sent: Wednesday, January 14, 2026 21:50
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: World SND Files
+
+ 
+
+Saber,
+
+ 
+
+Is there any logic as to which csv file has the latest publication dates?  Do I need to always process all of the files in the zip?
+
+ 
+
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, January 14, 2026 3:12 PM
+To: Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com <mailto:Joe.Kleinman@cresourcecap.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: World SND Files
+
+ 
+
+Hi Joe,
+
+ 
+
+Thank you for reaching out. 
+
+ 
+
+Yes, the change is permanent. It was implemented to improve the management of larger files. However, please note that this change only applies when downloading data through the platform UI. If you're using API integration, you can still download the full dataset in a single file.
+
+Additionally, we are working on improvements to allow smaller datasets to be downloaded in a single file as well.
+
+ 
+
+Let me know if you need any further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com <mailto:Joe.Kleinman@cresourcecap.com> > 
+Sent: Wednesday, January 14, 2026 21:02
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: World SND Files
+
+ 
+
+Team,
+
+ 
+
+Did you recently implement a change on the system that breaks the large single csv files for the snd_item-weekly data into multiple csv in a zip file?  Is this a permanent change?  I will have to adjust some of my work flow to accommodate the change if this will be the case going forward.
+
+ 
+
+Thanks,
+
+Joe
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Joe Kleinman | Senior Research Analyst
+CROSBY RESOURCE CAPITAL LP
++1.212.320.1376 | joe.kleinman@cresourcecap.com <mailto:joe.kleinman@cresourcecap.com> 
+
+ 
+
+ 
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

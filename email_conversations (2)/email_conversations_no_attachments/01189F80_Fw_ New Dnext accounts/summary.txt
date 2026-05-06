@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of Dnext accounts for multiple users, specifically asking for login details to be sent to them.
+
+**Context**: The user is a Senior Trader from a Customer Organization requesting account setups for colleagues. The product involved is Dnext accounts, and the request was made via email to a Data Analyst at the Service Provider.
+
+**Solution**: The Customer Support team created the requested user accounts and sent the login credentials directly to the users. It is recommended to ensure timely communication for future account setups to streamline the process.

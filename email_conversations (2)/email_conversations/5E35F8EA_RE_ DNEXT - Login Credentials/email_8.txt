@@ -1,0 +1,159 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Scott Asher; Xantium-Data-External
+Date: 2025-08-01 00:04:24.592000+00:00
+Subject: RE: DNEXT - Login Credentials
+Message-ID: GV0P278MB13200FB3CC86D01C7C82CF1AF827A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR15MB495112A19D1D71E8C1CA0D59FB27A@SA1PR15MB4951.namprd15.prod.outlook.com
+Attachments: DNEXT API - Download a dataset.pdf
+
+================================================================================
+
+Hello Scott,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+Yes, we do support API access. 
+
+Authentication is handled using the login credentials we provided, which will generate an access token. This token can then be used to make authorized requests to our API.
+
+ 
+
+For your convenience, I’ve attached a PDF containing a Python script that demonstrates how to authenticate and download a dataset via the API. This should help you get started quickly.
+
+ 
+
+Let me know how it works out for you, and feel free to reach out if you have any questions or run into any issues,I’m happy to help.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Scott Asher <Scott.Asher@xantium.com> 
+Sent: Thursday, July 31, 2025 20:29
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Xantium-Data-External <data-external@tudor.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: DNEXT - Login Credentials
+
+ 
+
+Thanks – I just took a quick look and didn’t see any API key creation.  Do you support API access or should I just be “scraping” our dataset by logging in?
+
+ 
+
+Scott
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, July 31, 2025 3:15 PM
+To: Xantium-Data-External <data-external@xantium.com <mailto:data-external@xantium.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: DNEXT - Login Credentials
+
+ 
+
+Hello ,
+
+ 
+
+Hope you are doing well.
+
+ 
+
+You may access our platform through this URL: https://datahub.dnext.io/ <https://urldefense.com/v3/__https:/datahub.dnext.io/__;!!P0v-41A!21ZHPW5pL3Ec_saaVY_dJAsaz3sqlYI7inZrE-2SBQ9pwtzsfMxrvF2U9tYZpcSkWAFQNP0wVCtohnv7CROEtdSSVSnZv6XwBw$> 
+
+Using these credentials:
+
+ 
+
+Email: data-external@xantium.com <mailto:data-external@xantium.com> 
+
+Password : B8GlyXQDAnjgyAy
+
+ 
+
+ Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+ First, put your credentials to the login page and press Log in.
+
+After that, go to your profile
+
+ 
+
+
+
+Press “change my password”:
+
+
+
+ 
+
+And follow the instructions: 
+
+ 
+
+
+
+ 
+
+Best Regards
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!P0v-41A!21ZHPW5pL3Ec_saaVY_dJAsaz3sqlYI7inZrE-2SBQ9pwtzsfMxrvF2U9tYZpcSkWAFQNP0wVCtohnv7CROEtdSSVSlxDy1Vag$> 
+
+ 
+
+ 
+
+' 
+
+_________________________________________________________
+
+Any and all emails sent to us may be monitored and/or stored by us to ensure compliance with relevant legislation, rules and policies. If we collect and use your personal data you provide us or which we otherwise collect in the course of our business we will use it in accordance with our privacy policy.
+
+This email, its contents, and any attachments transmitted with it are intended only for the addressee(s) and may be confidential and legally privileged. If you are not an addressee or authorized to act on their behalf, do not read, print, re-transmit, or store this email, any information contained in it, or any attachments. We do not waive any confidentiality by misdelivery. If you have received this email in error, please notify the sender immediately and then permanently delete this email from your system.
+
+Any liability for viruses is excluded to the fullest extent permitted by law.
+
+' 

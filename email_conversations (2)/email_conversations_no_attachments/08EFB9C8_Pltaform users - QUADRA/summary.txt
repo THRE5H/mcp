@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of multiple user accounts in the Quadra environment but specified that the profiles should not be sent until they provide approval.
+
+**Context**: The user is an external user from the Customer Organization requesting user account setups for their team in the Quadra platform. The request involves creating several user profiles with specific email addresses.
+
+**Solution**: The Support Agent acknowledged the request and confirmed that the user accounts would be created but held until the customer's approval was received. It is recommended that the customer provide a clear timeline for when they will give the green light to expedite the process.

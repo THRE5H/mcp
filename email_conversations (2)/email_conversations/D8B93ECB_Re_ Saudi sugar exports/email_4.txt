@@ -1,0 +1,11 @@
+From: John Stansfield </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ADF99C30AB334415984CBF2F45D0C5A0-JOHN.STANSF>
+To: TradeFlow; Support Dnext
+Date: 2025-12-30 11:25:11.270000+00:00
+Subject: Saudi sugar exports
+Message-ID: GV0P278MB06052D15CFD6466679725FF285BCA@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Could you take a look at the data.  It looks like the metric tonne data is divided by 1000.  Total exports per month should be approx  80,000 to 100,000 tonnes.  
+

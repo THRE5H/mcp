@@ -1,0 +1,5 @@
+**Problem**: The User reported that when hovering over the "Dashboard" module, they could only see "Sugar," which they do not have access to, instead of the expected "Business Categories."
+
+**Context**: The User is from a Customer Organization and is experiencing an issue with the dashboard sharing feature of a software product. The situation involves a specific user who is unable to view the correct dashboard categories due to a potential access issue.
+
+**Solution**: A ticket has been created for the development team to investigate the issue further. The Customer has been provided with a link to follow up on the ticket for updates regarding the resolution. It is recommended to ensure proper access permissions are configured for users in the future.

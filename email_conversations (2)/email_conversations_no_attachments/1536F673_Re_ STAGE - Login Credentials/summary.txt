@@ -1,0 +1,5 @@
+**Problem**: The customer expressed concern about granting access to the environment using a Gmail account for a summer intern, questioning the appropriateness of this practice.
+
+**Context**: The user is an internal team member from the Customer Organization, discussing login credentials for the Service Provider's STAGE environment. The intern is set to work for one month, prompting the inquiry about security protocols.
+
+**Solution**: The Support Team clarified the intern's role and the rationale behind using a Gmail account for access. It is recommended to review access protocols for temporary users to ensure compliance with security policies.

@@ -1,0 +1,65 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Chebbi Abir; Support Dnext; Mohamed Elasfoury
+Date: 2025-05-16 12:56:34.307000+00:00
+Subject: RE: Reporting part 
+Message-ID: GV0P278MB1320A8B1A2F50AA91C127A93F893A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0210884CF140EEEE0C67DF699293A@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Abir, 
+
+ 
+
+Hope all is well .
+
+ 
+
+Adding @Mohamed Elasfoury <mailto:mohamed.elasfoury@dnext.io> 
+
+ 
+
+He will respond to your request concerning the reporting part.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Chebbi Abir <abir.chebbi@hesge.ch> 
+Sent: Friday, May 16, 2025 11:43
+To: Support Dnext <support@dnext.io>
+Subject: Reporting part 
+
+ 
+
+Hello, 
+
+ 
+
+Could I access the reporting part of the platform to add a jupyter notebook. And is there any documentation on how to use this service?
+
+ 
+
+Best regards,
+
+Abir Chebbi

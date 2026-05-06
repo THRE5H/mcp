@@ -1,0 +1,27 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-09-08 11:18:25.556000+00:00
+Subject: Small Insight
+Message-ID: ZR3P278MB13534AC7C3BC60A83712472BF60CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Just pointing out a small detail.
+
+ 
+
+For information: The key is to not write “Consumption”, as it appears on the dataset, but “COMPT”. This may be a bit misleading.
+
+ 
+
+
+
+ 
+
+ 
+
+ 

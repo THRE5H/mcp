@@ -1,0 +1,23 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-06-11 14:15:03.840000+00:00
+Subject: Dataset to delete
+Message-ID: GVAP278MB0517E988F26FA4BF97B5A20EF075A@GVAP278MB0517.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+I hope this email finds you well.
+
+I am writing to request the deletion of a dataset from dnexr.
+
+code  : dnexr-bmel-deu-don-level-yearly
+
+ 
+
+Best regards,
+
+Nader
+
+

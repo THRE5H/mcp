@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the dashboard was missing data for March 2025, which was expected to be available.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team regarding a data issue in their dashboard.
+
+**Solution**: The Support Agent confirmed that the issue was fixed, indicating that the missing data for March 2025 was restored. It is recommended to regularly check the dashboard for updates to ensure all data is current.

@@ -1,0 +1,53 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-13 09:50:35.098000+00:00
+Subject: RE: tradeflows not displaying forecasts in clients environments
+Message-ID: GV0P278MB13206C34C1E8E5B3AB15EA8BF8FF2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071726BF4D530C97253A009BEBFF2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Dev team are working on a fix
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Thursday, February 13, 2025 9:23
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: tradeflows not displaying forecasts in clients environments
+Importance: High
+
+ 
+
+checked in agrorodeo and sucden for wheat and corn.
+
+ 
+
+no forecasts there

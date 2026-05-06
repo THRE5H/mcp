@@ -1,0 +1,25 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-26 15:50:58.456000+00:00
+Subject: Re: australia panel view is very small
+Message-ID: ZR3P278MB1226BFA523207F789FEE766DF5A62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07172E49A85D53ABC6761AD2EBA62@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello, 
+
+Fixed.
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 26 March 2025 15:46
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: australia panel view is very small 
+ 
+i think we are showing some islands there which make the map look very small. can we just show the continent?
+
+

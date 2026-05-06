@@ -1,0 +1,36 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-07-17 15:36:42.380000+00:00
+Subject: Setup of Qcore
+Message-ID: GVAP278MB0677B548E15494CA29776C9B8851A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please setup the contract for our new client Qcore Fund Management AG:
+
+*	Environment: qcore.dnext.io
+*	Commodity: Sugar
+*	Contract start date: 15.07.2025
+*	Contract End date: 31.12.2030
+
+ 
+
+Please add the following user:
+
+Olivier Paturaud olivier.paturaud@qcore.fund <mailto:olivier.paturaud@qcore.fund> 
+
+ 
+
+Many thanks
+
+Sami
+
+ 
+
+ 
+
+ 

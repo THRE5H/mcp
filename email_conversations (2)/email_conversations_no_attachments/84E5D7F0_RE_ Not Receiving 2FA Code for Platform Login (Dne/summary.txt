@@ -1,0 +1,5 @@
+**Problem**: The customer was not receiving the 2FA code required for logging into the dnexr/stage platform.
+
+**Context**: The user is an external user from the Customer Organization experiencing issues with the 2FA feature of the dnexr/stage platform. The customer reached out to support for assistance in resolving the login issue.
+
+**Solution**: The Support Agent advised the customer to check their spam folder and consider whitelisting the dnext.io domain. The customer later confirmed that they received the 2FA codes in bulk and successfully logged in, indicating the issue was resolved. It is recommended to regularly check spam settings to prevent similar issues in the future.

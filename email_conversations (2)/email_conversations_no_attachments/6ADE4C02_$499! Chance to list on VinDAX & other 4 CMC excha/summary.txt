@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the listing fees and packages available for listing their project on the VinDAX exchange, specifically seeking clarification on the features and benefits associated with each package.
+
+**Context**: The user is an external user representing a project looking to list on the VinDAX exchange. The inquiry involves various listing packages, including pricing and promotional features, as outlined in the email from the Service Provider.
+
+**Solution**: The Support Agent provided a detailed breakdown of the listing packages, including pricing and features for each option. The customer was encouraged to choose a package that best suits their project needs, and the Support Agent recommended reviewing the features of each package to maximize visibility and engagement on the exchange.

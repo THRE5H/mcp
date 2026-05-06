@@ -1,0 +1,127 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rahiman KN; Support Dnext
+Date: 2025-10-31 13:23:23.318000+00:00
+Subject: RE: Access to Jira
+Message-ID: GV0P278MB1320ACD49C694EA24110C0E0F8F8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0024BDB43DFE6CD3BA5366F6EAF8A@GVAP278MB0024.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Rahiman,
+
+ 
+
+Kindly find below your login credentials for the https://stage.dnext.io environment.
+
+ 
+
+Username : Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> 
+
+Password : Y0qpVvZURR9EO89T
+
+ 
+
+If you encounter any difficulties or if you have any questions please do not hesitate to reach out to me on teams.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Rahiman KN <Rahiman.kn@dnext.io> 
+Sent: Friday, October 31, 2025 13:20
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Access to Jira
+
+ 
+
+
+
+How to log in
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, October 31, 2025 5:23 PM
+To: Rahiman KN <Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Access to Jira
+
+ 
+
+Hello , 
+
+ 
+
+Do you mean stage access ?  you cannot visualize dashboard on Jira 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Rahiman KN <Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> > 
+Sent: Friday, October 31, 2025 12:07
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Access to Jira
+
+ 
+
+Hi,
+
+Kindly activate my credentials in JIRA -  dnext.atlassian.net <https://id.atlassian.com/login?continue=https%3A%2F%2Fdnext.atlassian.net%2Fbrowse%2FDCP-727%3FatlOrigin%3DeyJpIjoiODcyZmIyNDkzNzBhNDIwMTk0ZjIzZjFmOTMxNjYyOWIiLCJwIjoibXN0ZWFtcy1qaXJhIn0>  for accessing the vegoil dashboard under preparation especially for Conference. It is being prepared by Farouk and team. 
+
+ 
+
+Rgds
+
+KNR
+
+ 
+
+ 
+
+ 

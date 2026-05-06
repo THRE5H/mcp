@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific datasets from the system, indicating a need to manage data storage or compliance.
+
+**Context**: The user is an external user from a Customer Organization, seeking assistance with data management in the Service Provider's platform. The request involves multiple datasets related to agricultural statistics.
+
+**Solution**: The Support Agent confirmed the receipt of the deletion request and initiated the process to remove the specified datasets. It is recommended that users regularly review and manage their datasets to ensure optimal data handling and compliance with storage policies.

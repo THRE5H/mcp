@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of all products to the export sales dashboard but found that not all products were included.
+
+**Context**: The user is an external user from the Customer Organization. The issue involves the export sales dashboard feature of the Service Provider's data analytics platform. The request was made on December 10, 2025, and the follow-up occurred on December 16, 2025.
+
+**Solution**: The Support Agent confirmed that some products, including Barley, Sorghum, and Rice, were added to the dashboard, but others could not be included due to issues such as lack of tradeflow or missing quantities from the USA. It is recommended to verify tradeflow data and ensure quantities are available for all products to facilitate future additions.

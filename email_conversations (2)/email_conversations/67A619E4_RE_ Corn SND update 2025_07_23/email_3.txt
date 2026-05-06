@@ -1,0 +1,356 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Alexander Prindle; Support Dnext
+Date: 2025-08-21 17:12:49.180000+00:00
+Subject: RE: Corn SND update 2025_07_23
+Message-ID: GV0P278MB1320A8FEA187F2BA938A5EF1F832A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: DM6PR11MB27142A2D047AC3F1FEA2BEA2EE31A@DM6PR11MB2714.namprd11.prod.outlook.com
+Attachments: DCS-DNEXT API - Code Example - Download a tradeMat.pdf, DCS-DNEXT API - Code Example - Download a Dataset .pdf, DCS-DNEXT API - Code Example - Authentication (2).pdf
+
+================================================================================
+
+Hello Alexander,
+
+ 
+
+As discussed kindly find attached 3 Pdfs showcasing 3 Python Scripts that you may use to fetch data using our API .
+
+Please do not hesitate to reach out if you have any questions or if you encounter any difficulties.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Prindle, Alexander <Alexander.Prindle@mlp.com> 
+Sent: Monday, August 18, 2025 21:17
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Hey,
+
+ 
+
+Apologies, I’m late on this. Could we do this week? Would be very helpful, flexible on timing.
+
+ 
+
+Best,
+
+Alexander
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, July 29, 2025 11:33 AM
+To: Prindle, Alexander <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Hi Alexander,
+
+ 
+
+Just following up on my previous message regarding a call this week , I had suggested Today at 5 PM Geneva time, but I didn’t hear back, and no invite was sent.
+
+ 
+
+Would next Tuesday at 5 PM Geneva time work for you and your colleague instead?
+
+ 
+
+Let me know what suits you best, and I’ll be happy to send over a calendar invitation accordingly.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, July 28, 2025 10:43
+To: Alexander Prindle <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Hello Alexander 
+
+ 
+
+How about Tuesday 5 PM Gva time ?
+
+ 
+
+Please let me know if this works for you and I will send the invitations.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Prindle, Alexander <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> > 
+Sent: Friday, July 25, 2025 22:41
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Thank you, this worked. A call next week would be great, I’m sure my colleague would like to join as well. What times would work on Tuesday?
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, July 25, 2025 2:39 PM
+To: Prindle, Alexander <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Hi Alexander,
+
+ 
+
+I've replied to the email you sent with your login information. Please check your inbox and let us know if you're still experiencing any difficulties accessing your account.
+
+ 
+
+If everything is working fine now, I would like to propose a short platform tour session to walk you through the main features and ensure you're getting the most out of the tools available.
+
+ 
+
+Looking forward to your confirmation.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Friday, July 25, 2025 18:54
+To: Alexander Prindle <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Corn SND update 2025_07_23
+
+ 
+
+Hi Saber,
+
+Did you see Alexander’s email. Can you
+
+Help him please.
+
+Thank you
+
+Guillaume 
+
+ 
+
+Sent from Outlook for iOS <https://aka.ms/o0ukef> 
+
+________________________________
+
+From: Prindle, Alexander <Alexander.Prindle@mlp.com <mailto:Alexander.Prindle@mlp.com> >
+Sent: Friday, July 25, 2025 11:27:25 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23 
+
+ 
+
+Also I sent an email yest to support and Saber for help getting my login to work, if you could encourage that along it would be greatly appreciated!
+
+ 
+
+From: Prindle, Alexander 
+Sent: Thursday, July 24, 2025 5:32 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Corn SND update 2025_07_23
+
+ 
+
+Hello,
+
+ 
+
+Just a quick one – why are you lower than USDA on acres? I assumed it was due to prevent plant/beans rotations in delta or something but I don’t see the commensurate change in bean acreage. Also, do you think there’s any hope for corn from the trade deals? China doesn’t seem to need corn at all, and India would need to make big policy changes to allow the importation of GMO corn which would surely upset their powerful farming lobby…
+
+ 
+
+Thanks,
+
+Alexander
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Wednesday, July 23, 2025 11:51 AM
+Subject: Corn SND update 2025_07_23
+
+ 
+
+Hi,
+
+ 
+
+I will be off next week and thus, sending a short version of corn SNDs update this week. Will resume report on week of Aug 4th.  
+
+Any question or comment, please let us know.
+
+ 
+
+Regards,
+
+ 
+
+DNEXT Research
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

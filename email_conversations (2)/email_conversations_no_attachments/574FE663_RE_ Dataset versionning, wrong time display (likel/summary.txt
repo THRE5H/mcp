@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the dataset versioning feature displays the wrong time, showing 4:34 AM instead of the expected 5:00 AM Paris time, which they suspect is due to a timezone issue. Additionally, the time elapsed is incorrectly indicated as 5 hours ago instead of 4 hours ago.
+
+**Context**: The user is an external user from the Customer Organization experiencing issues with the dataset versioning feature of the Service Provider's platform. The workflow is scheduled to run at 5 AM Paris time, and the user is in the same timezone.
+
+**Solution**: The Support Agent escalated the issue to a Team Member for further investigation into the incorrect time display. The resolution is pending, and it is recommended to verify timezone settings and ensure they align with the scheduled workflow times to prevent similar issues in the future.

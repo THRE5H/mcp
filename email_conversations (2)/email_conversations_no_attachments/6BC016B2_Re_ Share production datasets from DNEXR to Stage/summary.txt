@@ -1,0 +1,5 @@
+**Problem**: The User requested the sharing of two specific datasets from DNEXR to the Stage environment.
+
+**Context**: The User is an external user from the Customer Organization, seeking assistance from a Support Agent at the Service Provider. The request involved datasets named "dnexr-crn-bra-snd-item-weekly" and "dnexr-gno-bra-snd-item-production-module."
+
+**Solution**: The Support Agent confirmed that the datasets were successfully shared to the Stage environment. No further actions were needed, and the User expressed gratitude for the assistance provided. It is recommended to ensure timely communication for future dataset requests.

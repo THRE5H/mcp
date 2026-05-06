@@ -1,0 +1,16 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Wheat data for Brazil appears to be missing in the report or data view.",
+    "solution": "The wheat data for Brazil is available but requires adjusting the filter settings. Specifically, for wheat data, users need to filter by the harvest year to view the relevant information. Changing the filter to harvest year will display the missing wheat data for Brazil.",
+    "keywords": [
+      "Brazil wheat data",
+      "missing data",
+      "filter settings",
+      "harvest year filter",
+      "data visibility",
+      "report filtering"
+    ],
+    "category": "Configuration"
+  }
+}

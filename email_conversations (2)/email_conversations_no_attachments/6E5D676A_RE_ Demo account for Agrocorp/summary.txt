@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a demo account for two users by Monday evening, specifying that all features should be included except for download capabilities.
+
+**Context**: The customer is an external user (CEO & Co-Founder) from a Customer Organization requesting a demo account for users from a Partner Company. The demo is intended for a platform demonstration scheduled for the following Tuesday.
+
+**Solution**: The Support Agent confirmed that the environment for the demo account was ready. They inquired about the trial period and whether the users needed to be added to any distribution lists, ensuring all necessary preparations were made for the demo.

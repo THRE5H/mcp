@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to see any content after successfully logging in and changing their password on the platform.
+
+**Context**: The user is an external user from Customer Organization accessing a service provided by Service Provider. The issue arose after the user followed the instructions for password change and attempted to navigate the platform.
+
+**Solution**: The Support Agent advised the customer to access the dashboards by clicking the “Dashboards” button on the left menu and provided additional navigation instructions for the Tradematrix Module. The customer was informed about the migration of tradematrixes and recommended to use specific codes for future reference.

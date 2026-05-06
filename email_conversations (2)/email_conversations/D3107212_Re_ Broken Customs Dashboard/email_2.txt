@@ -1,0 +1,10 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-04-11 17:43:05.087000+00:00
+Subject: Broken Customs Dashboard
+Message-ID: ZR0P278MB0251CBCD4270F43327BAC3C794B62@ZR0P278MB0251.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+Something broke with the customs dashboards, the product grouping seems to have been removed for certain products:

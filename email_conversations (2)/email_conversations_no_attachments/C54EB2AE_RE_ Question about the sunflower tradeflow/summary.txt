@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether updates for the sunflower/sunflower seeds trade flow data would continue, noting that the 2024/25 data appeared to be missing. Additionally, they requested clarification on the meaning of the "dark grey" and "purple" legends, which were not defined in the legends tab.
+
+**Context**: The customer is an external user from a Customer Organization seeking information from a Service Provider regarding a specific product feature related to trade flow data. The inquiry highlights a potential data discontinuation and a lack of clarity in the product documentation.
+
+**Solution**: The Support Agent acknowledged the customer's concerns and stated that they would check internally about the sunflower trade flow updates. They clarified that the "dark grey" section represents forecasted data, while "purple" indicates fully forecasted data not yet officially published. The agent promised to provide further updates as soon as possible.

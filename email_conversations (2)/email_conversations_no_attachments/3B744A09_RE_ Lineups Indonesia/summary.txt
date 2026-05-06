@@ -1,0 +1,5 @@
+**Problem**: The customer requested the aggregation of the Indonesia palm oil lineups dataset to be shared with the thul environment, which is the same dataset provided to another entity.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance from the Support Team of Service Provider regarding data sharing. The request pertains to a specific dataset related to palm oil lineups.
+
+**Solution**: The Support Team confirmed that the requested dataset was successfully shared with the thul environment. It is recommended to ensure that future requests for data sharing include specific environment details to expedite the process.

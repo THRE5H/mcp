@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log in to the platform because they did not receive the verification code after changing their password.
+
+**Context**: The customer is an external user of the platform provided by the Service Provider. They were attempting to access the platform using a specific URL and credentials but faced issues with receiving the necessary verification code via email.
+
+**Solution**: The Support Agent suggested checking the spam folder and provided instructions to whitelist the Service Provider's email address in Outlook to ensure future emails are received. The IT team was also informed and was investigating the issue. The customer was advised to reach out if the problem persisted.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a new environment (seaforthke.dnext.io) for their partner organization, specifying user access and indicating that it should be an empty environment without data sharing.
+
+**Context**: The user is part of the Customer Success Team at a Partner Company. The request involves creating a new environment for a partner, similar to others like Intertek and masoceans, and includes specific user access requirements.
+
+**Solution**: The Support Agent acknowledged the request and proceeded to create the new environment with the specified user access. Once completed, the Support Agent confirmed the creation and communicated the bot email address to the customer and the designated user. It is recommended to keep communication open for any future dashboard planning based on the information provided by the user.

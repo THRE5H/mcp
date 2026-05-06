@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to the ABARES historical data, specifically the estimate evolution dataset and official SND and production data.
+
+**Context**: The request was made by a User from Customer Organization on behalf of another User. The issue involved accessing specific datasets related to ABARES, which are critical for data analysis.
+
+**Solution**: The Support Team successfully added the requested ABARES datasets to the platform. The datasets were provided with specific identifiers for easy access, and the Support Agent encouraged the User to reach out for any further assistance.

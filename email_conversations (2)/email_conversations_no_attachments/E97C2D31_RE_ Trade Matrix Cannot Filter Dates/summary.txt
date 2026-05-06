@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to filter dates in the Trade Matrix, specifically to remove the crop years 26/27 and 27/28.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance with a feature in the Trade Matrix product provided by the Service Provider. The issue arose during the user's attempt to manage date filters for crop years.
+
+**Solution**: The Support Agent adjusted the settings to only display data until crop year 25/26. The agent also recommended that the user change view settings through the "Configuration" option for future adjustments. The customer expressed concern about the need to reconfigure settings repeatedly and suggested that saving settings in the URL link could prevent this issue.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested their login credentials for two different environments of the DNEXT platform.
+
+**Context**: The user is an external user seeking access to the DNEXT service. The request involves obtaining login information for both the production and staging environments of the platform.
+
+**Solution**: The support agent provided the customer with the necessary usernames and passwords for both the production and staging environments. It is recommended that the customer securely store these credentials and change the passwords upon first login for enhanced security.

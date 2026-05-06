@@ -1,0 +1,253 @@
+From: Oscar Shi <oshi@valentassetmgmt.com>
+To: Saber Khalfallah; Rifaeddine Hammemi; Neil Smaldon; Don Amerman
+Date: 2025-05-30 14:46:11.642000+00:00
+Subject: Re: Trouble resetting initial password on vam.dnext.io
+Message-ID: BY3PR08MB702707FBA180622383079647CF61A@BY3PR08MB7027.namprd08.prod.outlook.com
+In-Reply-To: GV0P278MB1320F4E1E0D31A78E39A5A31F861A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber,
+I confirm that I changed my password successfully!
+Thank you very much,
+Oscar
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Friday, May 30, 2025 4:30 AM
+To: Oscar Shi <oshi@valentassetmgmt.com>; Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Neil Smaldon <nsmaldon@valentassetmgmt.com>; Don Amerman <Don@valentassetmgmt.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Trouble resetting initial password on vam.dnext.io 
+ 
+
+Hi Oscar,
+
+ 
+
+I wanted to let you know that the issue with the verification emails has now been fixed. 
+
+ 
+
+You should be receiving the verification code emails when trying to reset or change your passwords.
+
+ 
+
+Thank you very much for your patience and understanding while we worked on resolving this.
+
+ 
+
+Please don’t hesitate to reach out if you experience any further issues.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,05310kd9LUIdayGgan8LF7ushYM6PXOroPbwTWVCcKTEOOePQL-eJNy7OXvWSTDn8AaxyAyMPBCRShat2G0L9LrwzQHn5mtAnO0fUs966I54loKc4f2KV-z8_KbO&typo=1> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, May 29, 2025 10:36
+To: Oscar Shi <oshi@valentassetmgmt.com>; Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Neil Smaldon <nsmaldon@valentassetmgmt.com>; Don Amerman <Don@valentassetmgmt.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Trouble resetting initial password on vam.dnext.io <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io&c=E,1,HoYkmIh4L6TcXh5dfGCILzv0UbkLZyxYuYkPbi9Kv8xZWsSduAgffBofDCcQynCUGP8NwnAvoNZtSVjV7Rkg3MlVIaIWNVECTmOAn3QG2GEPXatw5qk,&typo=1&ancr_add=1> 
+
+ 
+
+Hi Oscar,
+
+ 
+
+Thank you for reaching out and providing the details.
+
+ 
+
+We are currently troubleshooting the issue with the verification emails not being received and are investigating on our side. 
+
+ 
+
+We will keep you and your team updated as soon as we have any progress or further information.
+
+ 
+
+In the meantime, please continue to log in using your current passwords to avoid any disruption.
+
+ 
+
+We appreciate your patience and understanding, and we’re working to resolve this as quickly as possible.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,GYiUcPsawb82b94YQhg2hUwe8a1K4eSY2FRT3QMIZQuROCENbka18PxQ1FVWcsUl9RxNA8fO-qPZN9TFtwInwdO2zFwGGLwXbXNyxr6wohoVrUQNt6Yn&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> > 
+Sent: Wednesday, May 28, 2025 18:36
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >; Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Don Amerman <Don@valentassetmgmt.com <mailto:Don@valentassetmgmt.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Trouble resetting initial password on vam.dnext.io <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io&c=E,1,igsoWbCG-kuZiBZENFHX1gJ18x9eJsXd_JGj7Jy4g_h_zaialE0QuUifqHjLRRBmdrvk0Ch1_XGxDu0q5TCcx_0MHLMf479THlbXXjqCV_UJYOwZ&typo=1&ancr_add=1> 
+
+ 
+
+Hi Rifa and team,
+
+ 
+
+@Neil Smaldon <mailto:nsmaldon@valentassetmgmt.com>  and I tried to reset our initial passwords - but could not, because the verification email never came to our inboxes (screenshot below).
+
+ 
+
+On our side, we have checked our Spam/Junk folders and have our IT team (@Don Amerman <mailto:Don@valentassetmgmt.com> ) check our company email server - but no verification email came (since last Thursday May 22).
+
+ 
+
+Could you check on your side whether the codes have been sent?
+
+ 
+
+
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+________________________________
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Sent: Thursday, May 22, 2025 9:11 AM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Login Credentials 
+
+ 
+
+Hello Oscar,
+
+ 
+
+Hope you are doing well.
+
+ 
+
+You may access our platform through this URL: https://vam.dnext.io/ <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2f&c=E,1,nP-CjAlUh3BB20Ve4sDXoWrzL_TbWtKc_vmEhkktN-GOSDmrc73tOGTYDgbXgTyI2_XQ38mCVzN-s6M4m9a_4eN7hYzY_16VfPyaOZKtzdYXfjrvU5m1&typo=1> 
+
+ 
+
+Using these credentials:
+
+ 
+
+Email: oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> 
+
+Password : [redacted]
+
+ 
+
+ Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+ First, put your credentials to the login page and press Log in.
+
+After that, go to your profile
+
+ 
+
+
+
+ 
+
+Press “change my password”:
+
+ 
+
+
+
+ 
+
+And follow the instructions: 
+
+ 
+
+
+
+ 
+
+Best Regards
+
+ 
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,eMkx13hjcf4hOjKQQvvPJw8OlcwpmklsC5_JaTBWoul_gbLhXimFHnuaSkLLNOLCtUc9Yl8q5LMINrJHjzlDAJhoiUQQ6sp56ic_OYsxjk1k&typo=1> 
+
+ 
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+
+
+Disclaimer
+
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

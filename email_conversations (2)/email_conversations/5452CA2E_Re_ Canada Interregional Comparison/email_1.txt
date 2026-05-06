@@ -1,0 +1,38 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext; Nader Ltaief
+Date: 2026-01-28 09:57:24.076000+00:00
+Subject: Re: Canada Interregional Comparison
+Message-ID: ZR3P278MB1226EC35ADE045A2B650D517F591A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13532E0DBC6AA6E9EB2B2455F691A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io> 
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 28 January 2026 09:45
+To: Support Dnext <support@dnext.io>
+Cc: DNEXT_ANALYSTS <dnext-analysts@dnext.io>
+Subject: Canada Interregional Comparison 
+ 
+
+Good morning support team,
+
+ 
+
+Following a client request, I would kindly like to ask whether it is possible to add a feature to the current Canada PDQ prices dashboard: the ability to filter by region on both sides to compare prices between regions?
+
+ 
+
+Instead of filtering both sides with the same region, we could filter one side with one region and the other with another:
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

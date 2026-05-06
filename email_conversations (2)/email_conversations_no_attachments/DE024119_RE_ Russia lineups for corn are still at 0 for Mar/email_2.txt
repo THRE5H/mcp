@@ -1,0 +1,25 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-04-09 15:05:57.010000+00:00
+Subject: Russia lineups for corn are still at 0 for March. Sometrhing is wrong. 
+Message-ID: GV0P278MB0211A83318506A85F6DC993698B42@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+ 
+
+Something is wrong. Can u check source ? ifsource gives 0 then we need to write to them as not possible
+
+Tks
+
+gg
+
+ 
+
+ 
+
+ 
+
+
+
+ 

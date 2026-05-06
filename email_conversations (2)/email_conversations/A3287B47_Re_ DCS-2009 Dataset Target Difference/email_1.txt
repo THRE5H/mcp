@@ -1,0 +1,53 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-12-01 16:44:39.669000+00:00
+Subject: Re: DCS-2009 Dataset Target Difference
+Message-ID: ZR3P278MB135310D36D1DA609FDC49449F6DBA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13538982FEAD4862DF9F8848F6DBA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Saber,
+
+Thanks.
+
+I solved the issue by mapping both "Product" and "Feedstock" columns to the same code.
+
+On another note: why can I not change some code mappings?
+
+
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net>
+Sent: Monday, December 1, 2025 1:59 PM
+To: Enea Albertoli <enea.albertoli@dnext.io>
+Subject: DCS-2009 Dataset Target Difference
+ 
+—-—-—-—
+Reply above this line.
+
+Saber Khalfallah commented:
+
+Hello Enea,
+
+That means that the source of the product in this case “Ethanol” was previously mapped in that dataset as “ETOH”
+
+Adding @Yosri Mhamdi<yosri.mhamdi@dnext.io <mailto:yosri.mhamdi@dnext.io> > in case I did not cover it all.
+
+Best regards,
+Saber Khalfallah
+Customer Support
+saber.khalfallah@dnext.io<saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io<info@dnext.io <mailto:info@dnext.io> > | www.dnext.io<http://www.dnext.io/>
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2009?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjMxYWM2OTA5NGRiZGI2YTdlYzY0YTYwY2Y0ZGExMGQ1NGEyOGRjMTMzMjNiOGZkOWZlMGY2NTA1NGY4M2ZmOTUiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxOTIiLCJpc3N1ZSI6IkRDUy0yMDA5In0sImV4cCI6MTc2NzAxMzE2MCwiaWF0IjoxNzY0NTkzOTYwfQ.2linDqJJPzGhCwcTeWwxS3Rgdkb-WfdZDC1UIp-6tms&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2009/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjQwNzQ1YzA0MzJkN2YwOTM4NmI4OGYyN2QzNDc3ZGI2YjYyMmJkOTFhMDlhYzUyMWZiNDdiMWE4Yjg1ZjcyZmEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjZhMjgwZmE5LTViZjctNDJmMC1hNWQwLTgzMTA2YjRhZTk4NCIsImlzc3VlIjoiRENTLTIwMDkifSwiZXhwIjoxNzY3MDEzMTYwLCJpYXQiOjE3NjQ1OTM5NjB9.xSb_XiK_V-sc14iOR0oOXzt2UyqNkjZu9PF6Q4ZgKI0> 
+
+This is shared with Dnext Research and Enea Albertoli.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on December 1, 2025 1:59:20 PM CET
+ <http://usw2-track.atlassian.com/CI0/0101019ad9ff0a51-5837dc27-0052-4e50-9de3-5bf61675be54-000000/j-K-doPCascLQHNlZOhQPi8b0yeeAPq_rs2ldVkijg0=433> 

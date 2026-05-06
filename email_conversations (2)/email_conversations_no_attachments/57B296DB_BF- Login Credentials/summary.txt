@@ -1,0 +1,5 @@
+**Problem**: The User needed assistance with login credentials for accessing the platform but was unsure of the process to change the password after the initial login.
+
+**Context**: The User is an external user attempting to access a service provided by Customer Organization. The issue involves the login process for the platform and the need to secure their account by changing the default password.
+
+**Solution**: The Support Agent provided the User with the login URL and credentials, along with detailed instructions on how to change the password after logging in. The User was advised to follow the steps to ensure account security upon first access.

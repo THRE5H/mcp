@@ -1,0 +1,120 @@
+From: Leo Troubat <Leo.Troubat@trafigura.com>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-03 18:44:34.617000+00:00
+Subject: RE: Add in for Trafigura
+Message-ID: 39ecf9d7194d42dc9e8c9ea15b539c62@trafigura.com
+In-Reply-To: GV0P278MB132095656ED12C18E34BCDCDF8D9A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Yes oik, let me check with the IT team here as there are some security procedures to follow, I go back to you asap. Thanks
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: 03 December 2025 14:47
+To: Support Dnext <support@dnext.io>; Leo Troubat <Leo.Troubat@trafigura.com>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: [EXTERNAL] RE: Add in for Trafigura
+
+ 
+
+Hi Léo,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+Happy to help get the add-in installed and set up your query.
+
+ 
+
+Could you share your availability for a quick call so we can run through it together? 
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Wednesday, December 3, 2025 14:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Léo Troubat <leo.troubat@trafigura.com <mailto:leo.troubat@trafigura.com> >
+Subject: Add in for Trafigura
+
+ 
+
+Hi Saber,
+
+ 
+
+Léo, in copy of this email, wants to access some data into excel.
+
+Is it possible to help him install the add-in please ? and show how to use.
+
+The dataset that he needs to access is the following, please make sure it is shared with Trafigura environment.
+
+"DATASET"."dnexr-structured-uscensus-gno-usa-tf_customs-monthly"
+
+ 
+
+I use an SQL power query myself, this is what I do.
+
+The goal would be to replicate the output of this on his excel.
+
+ 
+
+Thanks !
+
+ 
+
+****THE SQL CODE BELOW***
+
+ 
+
+SELECT "Country Partner":"Name"::string as "Country Partner", "Trade Direction":"Code"::string as "Trade Direction",
+
+CASE 
+
+    WHEN LEFT("Product":"Source",4) = '1501' THEN 'FATPAP' 
+
+    WHEN LEFT("Product":"Source",4) = '1502' THEN 'FATBAS'
+
+    WHEN LEFT("Product":"Source",4) = '1503' THEN 'LARD'
+
+    WHEN LEFT("Product":"Source",4) = '1516' THEN 'UCO1516'
+
+    WHEN LEFT("Product":"Source",4) = '1518' THEN 'UCO1518' 
+
+    ELSE '' 
+
+END as "Product", "Quantity", "Date Reporter"
+
+FROM "DATASET"."dnexr-structured-uscensus-gno-usa-tf_customs-monthly"
+
+WHERE LEFT("Product":"Source",4) IN ('1501','1502','1503','1516','1518')
+
+This email and any attachments are confidential and access to this email or attachment by anyone other than the addressee is unauthorised. If you are not the intended recipient please notify the sender and permanently delete the email including any attachments. You must not copy, disclose or distribute any of the contents to any other person. Personal views or opinions are solely those of the author and not of Trafigura Group Pte Ltd or its affiliates (the “Group”). The Group does not guarantee that the integrity of this communication has been maintained nor that the communication is free of viruses, interceptions or interference. By communicating with anyone at the Group by email, you consent to the monitoring or interception of such email by the Group in accordance with its internal policies. Unless otherwise stated, any pricing information given in this message is indicative only, is subject to change and does not constitute an offer to deal at any price quoted.
+
+ 

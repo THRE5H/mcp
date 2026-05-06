@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users receive a zipped WASDE file containing 4 separate CSV files instead of a single CSV file and are unsure how to handle this new format.",
+    "solution": "The zipped WASDE file now contains four CSV files, each representing a quarter of the dataset. This chunking is designed to make managing larger files easier. Users should merge these four CSV files to reconstruct the full dataset. For smaller datasets, a single file download option may be available in the future.",
+    "keywords": [
+      "WASDE file",
+      "zipped file",
+      "multiple CSV files",
+      "split dataset",
+      "chunked files",
+      "merge CSV",
+      "large file management"
+    ],
+    "category": "How-to Guide"
+  }
+}

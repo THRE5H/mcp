@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deactivation of access for specific users associated with Nestwise on the platform nextwise.dnext.io, with a deadline for contract termination if no action was taken.
+
+**Context**: The user is an external customer from the Customer Organization requesting support from the Service Provider. The issue involves user access management on a specific platform, with a contractual deadline approaching.
+
+**Solution**: The Support Agent confirmed that the users' access was successfully deactivated. Additionally, it was noted that the users should be removed from all email lists and groups as part of the process. No further actions were required from the customer at this time.

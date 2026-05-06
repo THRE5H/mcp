@@ -1,0 +1,5 @@
+**Problem**: The customer received a notification that a message was held in quarantine and needed to review it within 30 days. They required guidance on how to access and manage the quarantined message.
+
+**Context**: The user is an external user of Microsoft 365 services. The issue involves the quarantine feature of the Microsoft 365 security system, specifically related to spam message management. The user was alerted about a specific email that was flagged as spam.
+
+**Solution**: The customer was directed to the Quarantine page in the Security Center to review the held message. They were provided with links to access and release the quarantined email. It is recommended that users regularly check their quarantine settings to avoid missing important messages.

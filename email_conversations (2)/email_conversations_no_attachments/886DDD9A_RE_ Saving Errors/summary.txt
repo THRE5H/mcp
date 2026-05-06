@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing errors when trying to save files and is unable to delete them. The issue persists even when attempting to save in different locations, including local storage.
+
+**Context**: The user is an external user from the Customer Organization, utilizing a service provided by the Service Provider. The problem has been recurring and affects multiple applications, including PowerPoint.
+
+**Solution**: The Support Agent recommended saving the file with a new name or in a new folder, which allowed the customer to save locally but did not resolve the underlying issue. A follow-up call was scheduled to perform further troubleshooting to address the persistent errors.

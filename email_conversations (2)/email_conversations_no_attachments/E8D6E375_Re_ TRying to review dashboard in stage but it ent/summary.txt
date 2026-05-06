@@ -1,0 +1,5 @@
+**Problem**: The customer reported that they were unable to review the dashboard in the staging environment due to it entering an infinite loop.
+
+**Context**: The user is an external user (CEO & Co-Founder) of Customer Organization. The issue involves the dashboarding feature of the service, which is currently blocked and under investigation by the development team.
+
+**Solution**: The support team acknowledged the issue and confirmed that the development team is actively working to resolve the dashboarding account blockage. It is recommended for users to monitor updates from the support team regarding the resolution progress.

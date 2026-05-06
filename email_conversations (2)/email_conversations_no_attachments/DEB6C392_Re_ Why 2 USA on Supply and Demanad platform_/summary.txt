@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the duplication of "USA" entries on the Supply and Demand platform, seeking clarification on why there are two instances.
+
+**Context**: The user is an external user from Customer Organization, utilizing the Supply and Demand platform. The issue arose from previous requests to modify dashboard labels, leading to confusion regarding the representation of "USA."
+
+**Solution**: The Support Team confirmed that all dashboards are currently categorized under "USA" due to a prior request to use capital letters. They acknowledged the oversight and agreed that there should only be one "USA" entry. It is recommended to maintain consistent labeling to avoid similar issues in the future.

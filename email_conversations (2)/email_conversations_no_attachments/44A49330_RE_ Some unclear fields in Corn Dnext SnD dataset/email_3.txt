@@ -1,0 +1,33 @@
+From: Quaradeghini, Charlie <Charlie.Quaradeghini@mlp.com>
+To: Guillaume Goudy; Pablo Figueroa; Support Dnext
+Date: 2025-02-19 11:45:58.257000+00:00
+Subject: Some unclear fields in Corn Dnext SnD dataset
+Message-ID: PAVP191MB236288356525C98BD2D0457484C52@PAVP191MB2362.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Guillaume/Pablo, 
+
+ 
+
+I am looking through the Corn SND dataset (thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674) and notice some fields that do not make sense to me, so just hoping you can clarify.
+
+ 
+
+I am not clear on what the following items with Item_MappedName ‘Protein Use’, ‘use_flour’ and ‘Not_Available’ (which are all values linked to Ukraine) are representing. Not_Available is a nan Item but does have values. ‘use_flour’ seems like it should be for wheat? ‘Protein_Use’, what does this represent, some aggregation? 
+
+ 
+
+Thanks in advance for clarifying!
+
+Charlie
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

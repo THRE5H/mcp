@@ -1,0 +1,166 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Michela Massimi; Bastien Lambert
+Date: 2025-11-10 12:46:52.687000+00:00
+Subject: RE: (External)RE: monthly Argentina soybean farmer
+Message-ID: GV0P278MB13209D6C02244EF43204CF20F8CEA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: DU0P193MB2833F86C970BF307D583003289CEA@DU0P193MB2833.EURP193.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Michela,
+
+ 
+
+The data you are looking at is coming from siogranos.
+
+ 
+
+This is the dataset sourced from minagri that is used in the Argentina farmer selling dashboard if you are looking for it. 
+
+ 
+
+https://etg.dnext.io/datasets/etg-c5711f29-ceee-44db-8548-52bb4f64e6c0
+
+ 
+
+And to answer your second inquiry , to accurately retrieve the monthly priced f/s ,please ensure you are using the "operation date" field and applying a filter where Is_Final is set to SI.
+
+ 
+
+Please let me know if you have any questions or require any further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Michela Massimi <michela.massimi@etgworld.com> 
+Sent: Monday, November 10, 2025 11:48
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: (External)RE: monthly Argentina soybean farmer
+
+ 
+
+Thanks Saber,
+
+ 
+
+@Bastien Lambert <mailto:bastien.lambert@dnext.io>  quick question for you.
+
+I am looking at Arg soybean historical f/s, I just downloaded daily f/s from your portal. Could you please confirm that these are coming from MinAgri?
+
+ 
+
+I want to get monthly soybean priced f/s, should I take ''operation date" or ''concertation date"? Also anything else I should filter for aside from Pricing=PRICED and Crop_MappedName=Soybean?
+
+ 
+
+Many thanks in advance!
+
+Michela
+
+ 
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: 10 November 2025 09:24
+To: Michela Massimi <michela.massimi@etgworld.com <mailto:michela.massimi@etgworld.com> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: (External)RE: monthly Argentina soybean farmer 
+
+ 
+
+This email is from outside the Group. Be AWARE, Please do not click links or open attachments unless you recognize the sender and know the content is safe. Forward suspicious emails to itsupport 
+
+Hello Michela,
+
+ 
+
+I hope you’re doing well.
+
+ 
+
+You can download the farmer selling data directly from the platform by visiting the following datasets:
+
+ 
+
+*	Weekly Farmer Selling: https://etg.dnext.io/datasets/etg-617e8638-062d-45ef-8d39-0e0fc6fa4c05/data-exploration 
+
+ 
+
+*	Daily Farmer Selling: https://etg.dnext.io/datasets/etg-5fc7b02a-76c6-46f5-afd4-29ca50bc7de4/data-exploration 
+
+ 
+
+Once on the dataset page, simply click the Download button located at the top right corner to export the data.
+
+ 
+
+Please let me know if this helps or if you need any further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Michela Massimi <michela.massimi@etgworld.com <mailto:michela.massimi@etgworld.com> > 
+Sent: Friday, November 7, 2025 18:48
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: monthly Argentina soybean farmer
+
+ 
+
+Hi Saber, 
+
+ 
+
+Could you please send me instructions on how to download monthly Argentina soybean farmer selling from Dnext website?
+
+ 
+
+Thanks, 
+
+Michela

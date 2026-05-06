@@ -1,0 +1,195 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Lucas Rosa; Rifaeddine Hammemi; Robero Ruiz
+Date: 2025-07-07 16:07:47.720000+00:00
+Subject: RE: Scrapping South Africa Deliveries
+Message-ID: GV0P278MB132033FA9C537837D53D5B5FF84FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB05912E99886053E77BED8196F840A@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+Please find below the code for the South Africa producer deliveries dataset:
+
+ 
+
+Code: “thul-75ed6da9-5831-11f0-8b51-02abcd39fb87”
+
+ 
+
+Should you require any adjustments or have specific requests, please don't hesitate to let us know.
+
+ 
+
+Additionally, if you have any ideas or preferences for the dashboard visualization, we’d be happy to accommodate them. Please feel free to share any suggestions you have.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io> 
+Sent: Wednesday, July 2, 2025 19:18
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Robero Ruiz <Roberto.Ruiz@mlp.com>
+Subject: RE: Scrapping South Africa Deliveries
+
+ 
+
+Great Rifaeddine.
+
+@Robero Ruiz <mailto:Roberto.Ruiz@mlp.com>  we can start the dashboard visualization in max 2 weeks, do you have any ideas how want to see those data?
+
+ 
+
+Thanks
+
+ 
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> > 
+Sent: quarta-feira, 2 de julho de 2025 13:03
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Re: Scrapping South Africa Deliveries
+
+ 
+
+Hello Lucas,
+
+The scraping of South Africa deliveries has been completed successfully. We are currently in the process of cleaning and verifying the data.
+
+The cleaned data should be available on the platform by the end of this week.
+
+Best regards
+
+ 
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: 02 July 2025 11:14
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Scrapping South Africa Deliveries 
+
+ 
+
+Hello all, 
+
+ 
+
+Any updates on that? Has been almost a month.
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: segunda-feira, 9 de junho de 2025 11:58
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Scrapping South Africa Deliveries
+
+ 
+
+Hello ,
+
+ 
+
+Hope all is well .
+
+ 
+
+@Rifaeddine Hammemi <mailto:rifa.hammemi@dnext.io>  is on the task .
+
+ 
+
+we will you know once it’s done 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> > 
+Sent: Thursday, June 5, 2025 13:49
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Scrapping South Africa Deliveries
+
+ 
+
+Hello Support, 
+
+ 
+
+Could you please scrap South Africa Weekly Deliveries from the link below?
+
+ 
+
+Weekly Prod Deliveries <https://www.sagis.org.za/weekly_prod_deliveries.html> 
+
+ 
+
+Thanks
+
+Lucas

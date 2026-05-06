@@ -1,0 +1,172 @@
+From: Mikko Tiittala <mikko.tiittala@neste.com>
+To: Saber Khalfallah
+Date: 2025-11-19 15:29:32.382000+00:00
+Subject: Re: DNEXT - API Documentation
+Message-ID: CAMjbsVrS_3nU_6LkXKSh_mSS-E-+W9CkNGi0sNasNg2-b_Yxig@mail.gmail.com
+In-Reply-To: GV0P278MB13208F04A01A15F86B2B1B73F8D7A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+yeah, i guess that's the reason... any way i can just get datasets dated 2025? I don't need all the history
+
+/Mikko
+
+On Wed, 19 Nov 2025 at 16:17, Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > wrote:
+
+
+	Hi Mikko,
+
+	 
+
+	Thanks for reaching out!
+
+	 
+
+	We’ve tested the API on our end, and it's returning more data than you've mentioned. If you're loading the data into an Excel sheet, it might not be capturing everything, as the dataset contains around 5 million rows, and Excel’s sheet limit is 1 million.
+
+	 
+
+	If you’re still seeing discrepancies, feel free to share more details.
+
+	 
+
+	We are also available for a quick teams call to check things on your end.
+
+	 
+
+	Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+	 
+
+	 
+
+	From: Mikko Tiittala <mikko.tiittala@neste.com <mailto:mikko.tiittala@neste.com> > 
+	Sent: Wednesday, November 19, 2025 14:49
+	To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+	Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+	Subject: Re: DNEXT - API Documentation
+
+	 
+
+	Hello
+
+	 
+
+	Using the API to pull data from dataset neste-94659674-d2ef-4671-b350-994ecd2c9a1a
+
+	 
+
+	in the data i see publication dates as 
+
+Publication Date
+
+2025-04-09
+
+2025-04-02
+
+2025-02-27
+
+2025-02-20
+
+2024-07-31
+
+2024-07-24
+
+2024-07-03
+
+2024-06-26
+
+2024-05-30
+
+2024-01-03
+
+2023-10-25
+
+2023-10-19
+
+2023-06-05
+
+2023-05-17
+
+2023-05-11
+
+	 
+
+	is there data missing since most recent date is 2025-04-09.. or for some reason API not working properly? 
+
+	 
+
+	Best Regards
+
+	Mikko
+
+	 
+
+	 
+
+	On Wed, 29 Oct 2025 at 12:33, Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > wrote:
+
+		Hello , 
+
+		 
+
+		Kindly find attached the DNEXT API Documentation.
+
+		 
+
+		If you have any questions or if anything is not clear, please do not hesitate to reach out.
+
+		 
+
+		Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+		 
+
+		 
+
+	 
+
+________________________________
+
+	This e-mail and any further e-mails from the Neste Corporation or any of its employees, directors or other representatives, including any file(s) transmitted with such messages ("message") may be confidential and intended solely for the entity or individual to whom it is addressed or to whom the sender intended to address it. If you are not the intended recipient of this or any following message, please contact the sender immediately upon receipt of the message and delete the message from your system without reproducing, distributing or retaining copies thereof or using or disclosing the information contained therein. Thank you.
+
+	Due to the insecure nature of this medium, this or any following message may have been altered without the knowledge of sender. The sender will therefore not be liable for the message if modified.
+
+
+________________________________
+
+This e-mail and any further e-mails from the Neste Corporation or any of its employees, directors or other representatives, including any file(s) transmitted with such messages ("message") may be confidential and intended solely for the entity or individual to whom it is addressed or to whom the sender intended to address it. If you are not the intended recipient of this or any following message, please contact the sender immediately upon receipt of the message and delete the message from your system without reproducing, distributing or retaining copies thereof or using or disclosing the information contained therein. Thank you.
+
+Due to the insecure nature of this medium, this or any following message may have been altered without the knowledge of sender. The sender will therefore not be liable for the message if modified.

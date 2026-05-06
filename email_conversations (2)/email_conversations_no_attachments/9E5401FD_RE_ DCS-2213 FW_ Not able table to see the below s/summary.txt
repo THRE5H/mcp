@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to see specific dashboards that were supposed to be added to their environment.
+
+**Context**: The user is an external user from Customer Organization seeking assistance from the Service Provider. The issue involved accessing newly added dashboards in a software environment.
+
+**Solution**: The Support Agent confirmed that the dashboards had been successfully added to the customer's environment. The customer was advised to check again, and the agent offered further assistance if any difficulties persisted. It is recommended that the customer verify their access to the dashboards to ensure proper functionality.

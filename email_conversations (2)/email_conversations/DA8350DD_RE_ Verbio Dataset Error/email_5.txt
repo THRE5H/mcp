@@ -1,0 +1,41 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-10-28 11:27:51.894000+00:00
+Subject: Verbio Dataset Error
+Message-ID: GV0P278MB1348C41277E12C6F0BF72E1AF6FDA@GV0P278MB1348.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I hope that this message finds you well.
+
+ 
+
+Today the Verbio dataset seems to have an extraction issue, even though it appears at a first glance the source file sent by email has not changed.
+
+ 
+
+Could you please investigate this?
+
+ 
+
+https://verbio.dnext.io/datasets/verbio-biof-eur-cash-daily/usages
+
+ 
+
+
+
+ 
+
+Thank you in advance for your help.
+
+ 
+
+Best,
+
+ 
+
+Enea

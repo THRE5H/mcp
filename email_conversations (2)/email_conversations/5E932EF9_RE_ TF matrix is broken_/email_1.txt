@@ -1,0 +1,92 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Nicolas Chaperon; Support Dnext; Léonard Berney
+Date: 2025-11-17 23:40:18.701000+00:00
+Subject: RE: TF matrix is broken?
+Message-ID: GV0P278MB0211C2FDF6F57E379BB269C298C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1366985EA7EF981CC8332B83E6C9A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+It is back and now it validated Nov. I go to priority rules and put on Oct but still it shows Nov as final. Dlineups are empty
+
+ 
+
+
+
+ 
+
+From: Nicolas Chaperon <nicolas.chaperon@dnext.io> 
+Sent: Monday, 17 November 2025 14:16
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>
+Subject: Re: TF matrix is broken?
+
+ 
+
+My bad, saw an issue on matrix "CORN Platform" and changed "CORN" ....  Sorry.
+
+ 
+
+Changes reverted.
+
+ 
+
+
+
+ 
+
+Btw the issue from very long time regarding completion of partners information even if prior source have data still remains and is on test for the week.
+
+ 
+
+ 
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 17 November 2025 13:52
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >; Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: TF matrix is broken?
+
+ 
+
+The lineups number are not matching the D Lineups that Leo is sending.  Oct is way too high and Nov is 0 whereas it should be 6500. What is happening?
+
+gg
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+ 

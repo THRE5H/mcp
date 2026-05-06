@@ -1,0 +1,61 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Ebtihel Kantaoui; Support Dnext
+Date: 2025-04-16 10:09:55.058000+00:00
+Subject: RE: Dataset to be deleted
+Message-ID: ZR3P278MB132321CB3280BE7224CC44F8F8BD2@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1241B0A0D7CDF7CA7E1969F7E6BD2@GV0P278MB1241.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+It’s done 
+
+ 
+
+Best rgrds
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ebtihel Kantaoui <ebtihel.kantaoui@dnext.io> 
+Sent: Wednesday, April 16, 2025 10:06
+To: Support Dnext <support@dnext.io>
+Subject: Dataset to be deleted
+
+ 
+
+Greetings,
+
+ 
+
+Please delete the following dataset :
+
+- dnexr-br-decarbonization-credit-prices-bra-cash-addin-daily
+
+ 
+
+Best, 
+
+ 
+
+ 

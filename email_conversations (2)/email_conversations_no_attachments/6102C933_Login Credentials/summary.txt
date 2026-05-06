@@ -1,0 +1,5 @@
+**Problem**: The customer requested login credentials to access the platform but did not receive them directly in the previous communications.
+
+**Context**: The user is an external user seeking access to a service provided by the Service Provider. The issue involves accessing the platform through a specific URL with the provided credentials.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials, including the email and password, to access the platform. It is recommended that the user securely store these credentials and change the password upon first login for enhanced security.

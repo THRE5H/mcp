@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new environment for the client Qube Research & Technologies Services, specifying details for a contract starting in January 2026.
+
+**Context**: The user is an internal user from Customer Organization requesting support from the Service Provider. The setup involves creating a new environment at qube.dnext.io, with specifications to mirror an existing setup for another environment.
+
+**Solution**: The Support Agent confirmed that the environment setup was completed and requested notification for any adjustments needed and when the user list would be available. It is recommended to provide the user list promptly to ensure a smooth transition.

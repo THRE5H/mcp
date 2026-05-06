@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User inquires about availability of daily water level data for the Amazon River, expecting daily frequency instead of less frequent updates.",
+    "solution": "Daily water level data for the Amazon River is available internally under the path: Weather > Brazil > Amazon River Level (Internal). It can be accessed via the dashboard URL pattern: https://dnexr.dnext.io/dashboard/*/Weather/Brazil/[unique-identifier]. This dataset provides daily measurements for internal use.",
+    "keywords": [
+      "Amazon River",
+      "river level",
+      "daily data",
+      "water levels",
+      "weather data",
+      "dashboard",
+      "internal data"
+    ],
+    "category": "Feature Explanation"
+  }
+}

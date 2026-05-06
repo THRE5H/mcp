@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the presence of two separate CSV files in the downloaded zip files for the Central American and Thailand sugar lineups, seeking clarification on the difference between them.
+
+**Context**: The user is an external user from a Customer Organization utilizing the DNEXT platform for accessing sugar lineups. The issue arose after the user downloaded datasets from the platform, which included multiple files for the same region.
+
+**Solution**: The Support Agent explained that the two files are split chunks of the same dataset, each containing half of the data to facilitate management of larger files. The team is working on a solution to allow users to download the full dataset in one file for smaller datasets in the future.

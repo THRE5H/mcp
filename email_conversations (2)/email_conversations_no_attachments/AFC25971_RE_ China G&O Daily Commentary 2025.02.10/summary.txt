@@ -1,0 +1,5 @@
+**Problem**: The customer needed to deactivate a user who had left their organization, as the user's email address was still active and causing delivery issues.
+
+**Context**: The customer is an external user representing a Customer Organization. The issue involved the deactivation of a user account related to the Service Provider's email platform, specifically concerning the user's access to the platform and email communications.
+
+**Solution**: The Support Team confirmed the user's departure and successfully removed the user's email address from the email list and the platform. It is recommended to regularly review user access to ensure timely deactivation of accounts for former employees to prevent similar issues in the future.

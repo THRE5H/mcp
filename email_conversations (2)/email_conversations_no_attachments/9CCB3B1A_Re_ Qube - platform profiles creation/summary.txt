@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of multiple user profiles on the platform qube.dnext.io and asked for the login details to be sent directly to the respective email addresses.
+
+**Context**: The customer is an internal user requesting support from the Customer Support team of the Service Provider. The request involved creating profiles for several users to facilitate their access to the platform.
+
+**Solution**: The Support Agent confirmed that the user accounts were successfully created and the login details were sent to each corresponding email address. It is recommended to ensure timely communication of account creation to users for smooth onboarding.

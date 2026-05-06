@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience issues with Dropbox files showing formatting errors and strikethrough numbers due to Excel calculation settings after an Excel upgrade.",
+    "solution": "In Excel, go to the 'Formulas' tab, then to the 'Calculation Options' section. Locate the 'Format stale values' option, which formats numbers not recalculated with a strikethrough. Uncheck this option to remove the formatting errors and resolve the issue.",
+    "keywords": [
+      "Excel",
+      "Dropbox",
+      "formatting error",
+      "strikethrough",
+      "calculation options",
+      "manual calculation",
+      "automatic calculation",
+      "format stale values",
+      "Excel upgrade"
+    ],
+    "category": "Configuration"
+  }
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer requested login credentials for the Viserion platform and needed assistance accessing it.
+
+**Context**: The user is an external user seeking access to the Viserion platform provided by the Service Provider. The issue arose during the onboarding process when the user required their login details.
+
+**Solution**: The Support Agent provided the user with their login credentials via email. The user was encouraged to reach out for further assistance if they encountered any issues accessing the platform. It is recommended that users securely store their login information to prevent future access issues.

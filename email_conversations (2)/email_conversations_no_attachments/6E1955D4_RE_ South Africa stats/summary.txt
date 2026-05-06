@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the availability of weekly SAGIS reports on deliveries and trade statistics, which they could not find in the dataset.
+
+**Context**: The user is an external user from a Customer Organization seeking data related to agricultural trade. The discussion involves the Service Provider's dashboard that includes SAF production estimates but lacks specific weekly delivery and trade data.
+
+**Solution**: The Support Team was asked to confirm the extraction of weekly production deliveries and import-export data from SAGIS. The team discussed the feasibility of scraping this data, indicating that they should have access to it for trade flow analysis. Further actions were anticipated to resolve the data availability issue.

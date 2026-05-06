@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be added to the Friday call and later to the Thursday and upcoming calls using their email address.
+
+**Context**: The customer is an external user from Customer Organization. The request involves adding the customer to scheduled calls managed by Service Provider. The customer has reached out multiple times for this addition.
+
+**Solution**: The Support Agent confirmed that the customer's email address was successfully added to both the Friday and Thursday calls as requested. It is recommended that the customer verify their email settings to ensure they receive all call notifications.

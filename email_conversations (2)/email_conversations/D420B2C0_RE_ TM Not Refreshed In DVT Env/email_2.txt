@@ -1,0 +1,14 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-11-12 19:21:00.220000+00:00
+Subject: TM Not Refreshed In DVT Env
+Message-ID: GVAP278MB0246279CA63C3150BBF66C6194CCA@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi, 
+
+The raw sugar trade matrix is not refreshed in the client's (DVT) environment even though it has been refreshed on DNEXR, not sure if it is a bug or a problem with the sharing contract 
+
+Best,
+Asfoury

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of an email account and Jira access for a new team member joining the DEV team.
+
+**Context**: The user is an internal user from the Customer Organization. The request involves setting up essential accounts for a new employee to ensure they can access necessary tools for their role.
+
+**Solution**: The Support Agent confirmed the email account creation and Jira access for the new team member. It is recommended to provide all necessary information for future requests to expedite the process.

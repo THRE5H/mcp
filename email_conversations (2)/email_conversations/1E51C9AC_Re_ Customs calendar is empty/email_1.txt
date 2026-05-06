@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Support Dnext; Khalil Mekki
+Date: 2025-09-03 14:15:48.009000+00:00
+Subject: Re: Customs calendar is empty
+Message-ID: ZR3P278MB1226FB78219A3DEE8689469BF501A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02115C6BD1304E95D293A5239801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+We've added the "Current" month, so it should be fixed permanently now! 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 03 September 2025 13:41
+To: Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Customs calendar is empty 
+ 
+
+Empty and not even US schedule…
+
+ 
+
+

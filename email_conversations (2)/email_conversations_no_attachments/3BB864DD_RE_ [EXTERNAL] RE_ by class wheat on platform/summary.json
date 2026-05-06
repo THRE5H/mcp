@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to access US Wheat balance sheets by class on the platform's graphical user interface (GUI).",
+    "solution": "The US Wheat balance sheets by class dataset is available on the platform and has been added as a dedicated tab. To access it, navigate to the Supply and Demand section, then to DNEXR, and finally to the Wheat dashboard where the 'wheat by class' tab is located. Additionally, the dataset can be referenced by its code 'zimb-1a841727-e30f-11ef-b5ba-0a72732f38e5' for direct access or API use.",
+    "keywords": [
+      "US Wheat",
+      "balance sheets",
+      "by class",
+      "dataset",
+      "platform GUI",
+      "Supply and Demand",
+      "DNEXR",
+      "Wheat dashboard",
+      "data access",
+      "dataset code"
+    ],
+    "category": "Platform Navigation"
+  }
+}

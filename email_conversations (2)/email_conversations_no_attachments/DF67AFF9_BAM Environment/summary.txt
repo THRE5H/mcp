@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of Balyasny users from the BAM environment due to the termination of their contract on September 30, 2025.
+
+**Context**: The user is an external user representing a Customer Organization. The product involved is the BAM environment hosted at bam.dnext.io. The request is made in the context of a contract cessation, necessitating user removal and environment archiving.
+
+**Solution**: The Support Agent confirmed the removal of the specified users from the BAM environment. Following this, the Dev Team was instructed to archive the environment as per the customer's request. It is recommended to regularly review user access in relation to contract statuses to prevent similar situations in the future.

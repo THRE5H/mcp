@@ -1,0 +1,116 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Benoit Baliguet; Nicolas Chaperon
+Date: 2025-12-15 10:42:13.940000+00:00
+Subject: RE: Demo account INpasa
+Message-ID: GV0P278MB1320DAC5C616BF22E752A0B0F8ADA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0773C1656B1B0965F156EE2398AEA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+A demo env is ready 
+
+ 
+
+Please let me know when you have the list of users.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Friday, December 12, 2025 16:58
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Demo account INpasa
+
+ 
+
+Can we please create demo7 ? @Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  @Nicolas Chaperon <mailto:nicolas.chaperon@dnext.io> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, December 12, 2025 4:55 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Benoit Baliguet <benoit.baliguet@dnext.io <mailto:benoit.baliguet@dnext.io> >; Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Demo account INpasa
+
+ 
+
+Hello Bastien,
+
+ 
+
+We currently do not have any free demo environment. 
+
+and the new environment : demo5 & demo6 are not yet created by the dev team.
+
+ 
+
+If the trial needs to be started at Monday maybe we check with @Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  @Nicolas Chaperon <mailto:nicolas.chaperon@dnext.io>  if we can prioritize creating one demo environment so it will be ready asap.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Friday, December 12, 2025 14:02
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: Demo account INpasa
+
+ 
+
+Hello @Support Dnext <mailto:support@dnext.io> 
+
+Possible to setup a vegoils / corn demo environment for Inpasa please for next week ?
+
+ 
+
+Thank you

@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the temperature readings on the EU weather dashboard, indicating that the data was not displaying correctly.
+
+**Context**: The user is an external user accessing the weather dashboard provided by a Service Provider. The issue arose during a routine check of the temperature data, which is critical for their operations.
+
+**Solution**: The Support Agent investigated the issue and identified a data feed error that was affecting temperature display. After correcting the feed, the temperature readings were restored to normal. It is recommended that the user regularly check for updates and report any discrepancies promptly to ensure data accuracy.

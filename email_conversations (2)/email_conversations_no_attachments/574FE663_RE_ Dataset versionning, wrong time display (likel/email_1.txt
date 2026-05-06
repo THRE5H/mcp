@@ -1,0 +1,55 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Maher Fekih
+Date: 2025-02-10 09:49:33.742000+00:00
+Subject: RE: Dataset versionning, wrong time display (likely timezone)
+Message-ID: GV0P278MB13200D8744D9108F4FB5A0BFF8F22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01488791DA93BDF087637F0698F22@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Maher Fekih <mailto:maher.fekih@dnext.io> 
+
+ 
+
+Maher can you please check why the time is displayed incorrectly
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Monday, February 10, 2025 9:46
+To: Support Dnext <support@dnext.io>
+Subject: Dataset versionning, wrong time display (likely timezone)
+
+ 
+
+This workflow is scheduled to run at 5am Paris time.
+
+I’m in the same time zone. When going to “Version” tab of the view dataset, I see the date is 4.34am, which I suspect is 4.34 UTC = 5.34 Paris time
+
+Moreover, it tells me 5 hours ago, while it’s supposed to be 4 hours ago, but I guess it’s the same problem.
+
+ 
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the platform was not displaying any data regarding corn planting in the USA as of the morning of March 25, 2025, and requested an update to fix this issue.
+
+**Context**: The user is a Grains Analyst from a Customer Organization. The issue pertains to a data platform provided by a Service Provider, which was expected to show updated planting information for the year 2025.
+
+**Solution**: The Support Agent acknowledged the delay and confirmed that the US planting data had been updated on the platform with the latest information for 2025. It is recommended to regularly check for updates to ensure access to the most current data.

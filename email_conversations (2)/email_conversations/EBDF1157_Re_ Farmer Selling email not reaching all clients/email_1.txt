@@ -1,0 +1,59 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-02-05 15:02:53.182000+00:00
+Subject: Re: Farmer Selling email not reaching all clients
+Message-ID: GV0P278MB0717F946ED24479EA07D2F6EEBF72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320A0482E57F8CF0FFE7493F8F72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+can u check that all grain clients are there as well?
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Wednesday, February 5, 2025 2:19 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Wassim Mandhouj <wassim.mandhouj@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Farmer Selling email not reaching all clients 
+ 
+
+Saftco was not in the Argentina fs news distribution list , I have added them , all good now
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Wednesday, February 5, 2025 10:58
+To: Support Dnext <support@dnext.io>
+Cc: Wassim Mandhouj <wassim.mandhouj@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Farmer Selling email not reaching all clients
+
+ 
+
+Hi guys can we check the dl´s we are using for the daily farmer selling email?
+
+ 
+
+Etienne from Saftco is not receiving it for example. it should be sent to grains clients, in case we are only sending to Grains & Oilseeds clients.

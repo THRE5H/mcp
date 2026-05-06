@@ -1,0 +1,28 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-11-05 09:27:22.866000+00:00
+Subject: HARTREE Environment - STOP
+Message-ID: GVAP278MB06776E2929FABB0763FAFA6988C5A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677AD80ABC7CD1BEAF2C07288E6A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please remove Hartree users from the environment: hartree.dnext.io. The contract has been stopped on 04.11.2025
+
+ 
+
+Dev Team,
+
+Many thanks to archive the environment after user removal.
+
+ 
+
+Kind regards
+
+Sami
+
+ 

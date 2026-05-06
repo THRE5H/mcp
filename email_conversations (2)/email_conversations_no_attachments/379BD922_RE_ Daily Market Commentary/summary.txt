@@ -1,0 +1,5 @@
+**Problem**: The customer requested to include a new user in all DNEXT reports but was unsure whom to forward the request to for action.
+
+**Context**: The user is an external user from a Partner Company, specifically a Director of Agricultural Commodities. The request involves the DNEXT reporting system, and there is uncertainty regarding the new user's status as a potential client.
+
+**Solution**: The Support Agent confirmed that the request was completed successfully. It is recommended that future requests for adding users to distribution lists be clearly communicated to avoid confusion about user status.

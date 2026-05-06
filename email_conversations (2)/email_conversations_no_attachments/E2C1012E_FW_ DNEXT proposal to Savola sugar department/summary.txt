@@ -1,0 +1,5 @@
+**Problem**: The customer requested a demo account for a user at their organization, specifically asking for access to all products for a one-week trial, even though the focus is primarily on sugar.
+
+**Context**: The customer is an external user from a Customer Organization, seeking to evaluate the Service Provider's product offerings. The request follows a prior discussion about a proposal related to the sugar department, indicating the customer’s interest in exploring services despite concerns about pricing.
+
+**Solution**: The Support Agent confirmed the request for a demo account and planned a call with the user to discuss further details. It is recommended that the customer ensure timely communication for scheduling to avoid missed meetings in the future.

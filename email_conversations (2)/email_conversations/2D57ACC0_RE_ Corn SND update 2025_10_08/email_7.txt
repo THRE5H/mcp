@@ -1,0 +1,304 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Raymond Tan Keng Hoe; Melvin Kwok; Guillaume Goudy
+Date: 2025-10-27 15:01:52.014000+00:00
+Subject: RE: Corn SND update 2025_10_08
+Message-ID: GV0P278MB13202204970BE1466B233676F8FCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SE2PPF7DD0C6E69E277B6E5E8DD89CDB5FEF3FCA@SE2PPF7DD0C6E69.apcprd03.prod.outlook.com
+
+================================================================================
+
+Hello Raymond , 
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+A user account has been created for you on the platform . Login Credentials and more details were sent privately to your inbox.
+
+ 
+
+Please do not hesitate to reach out if you have any questions or if you need any assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg> 
+Sent: Monday, October 27, 2025 14:56
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Melvin Kwok <melvin.kwok@amaggi.sg>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Saber, 
+
+ 
+
+I realized I also do not have access, pls help me to create one thank you. 
+
+ 
+
+ 
+
+Best Regards,
+
+Raymond Tan
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, October 27, 2025 9:37 PM
+To: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hello Melvin,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+A user account has been created for you on the platform. Login credentials and more details were sent privately to your inbox.
+
+ 
+
+Please do not hesitate to reach out if you have any questions or if you need any assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> > 
+Sent: Monday, October 27, 2025 14:31
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Corn SND update 2025_10_08
+
+ 
+
+Hello Guillaume and Saber, 
+
+ 
+
+I realized I do not have access to the platform. Can you help me set it up? Thank you. 
+
+ 
+
+Regards, 
+
+Melvin Kwok 
+
+ 
+
+Get Outlook for iOS <https://aka.ms/o0ukef> 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Monday, October 27, 2025 7:22 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08 
+
+ 
+
+Hello Raymond,
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+To access the corn basis prices, you can find them on the platform through the Corn CNF Dashboard.
+
+ 
+
+
+
+ 
+
+Additionally, you can download the Corn CNF dataset by following these steps:
+
+1.	Navigate to the List of Datasets.
+2.	Use the search function to find “Corn CNF”.
+3.	Click on the eye icon on the right side of the dataset row.
+
+ 
+
+
+
+ 
+
+4.	This will take you to the dataset summary page, where you can download the data by selecting the Download button in the top right corner.
+
+
+
+ 
+
+For your convenience, we also offer an API that allows you to download the data directly. Please find the API Documentation attached for more details.
+
+ 
+
+We also offer an excel add-in that is synchronized with the platform so you can work with platform data on Excel. Please let me know if you are interested and I will be happy to help you set it up.
+
+ 
+
+If you have any questions or need further assistance, please don't hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Monday, October 27, 2025 11:01
+To: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Raymond,
+
+Extract from a broker report on June 20th 2023
+
+
+
+ 
+
+Data is correct. I also was wondering if there was a mistake but found back the original reports.
+
+Do you need something else? All the data is in your Amaggi.dnext.io platform. I am adding support who can help in case you do not know how to access it.
+
+Gg
+
+ 
+
+ 
+
+ 
+
+From: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Sent: Monday, 27 October 2025 09:17
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Guillaume,
+
+ 
+
+Hope all is well.
+
+ 
+
+I am looking at your presentation page 6. On the Brz Nov Basis, can you share the raw data file that your side have? I don’t rmb brz basis for Nov going close to zero, only that Aug/Sep went to -5u at the lowest point.
+
+ 
+
+ 
+
+Best Regards,
+
+Raymond Tan
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, October 8, 2025 8:14 PM
+Subject: Corn SND update 2025_10_08
+
+ 
+
+Hi,
+
+ 
+
+Please find enclosed the corn SNDs update this week.
+
+Any question or comment, please let us know.
+
+ 
+
+Regards,
+
+ 
+
+DNEXT Research
+
+ 
+
+
+
+ 
+
+ 

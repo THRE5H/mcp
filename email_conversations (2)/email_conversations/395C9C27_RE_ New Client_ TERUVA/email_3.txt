@@ -1,0 +1,44 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Sami Jaballah; Support Dnext
+Date: 2025-09-02 17:57:44.484000+00:00
+Subject: Re: New Client: TERUVA
+Message-ID: ZR3P278MB12269A42E91DB4858B96C441F506A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB06776D967B5FF70EAEDB61938806A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sami, 
+
+Do we already have the list of users ? If so, we can proceed with creating them.
+
+Thanks, 
+Jebrane.
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 02 September 2025 15:18
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: New Client: TERUVA 
+ 
+
+Hello,
+
+ 
+
+The DevOps team created the environment: TERUVA.
+
+
+Could you please setup the environment:
+
+*	Commodities:  corn, soy, soybeans, soybean meal and wheat  -> Same as PACIFICOR
+*	Start date: 03.09.2025
+*	End Date: 31.12.2099
+
+ 
+
+ 
+
+Many thanks
+
+Sami

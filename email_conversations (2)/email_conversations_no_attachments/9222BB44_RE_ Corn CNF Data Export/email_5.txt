@@ -1,0 +1,155 @@
+From: Ethan NG <eng@sucden.com>
+To: Saber Khalfallah
+Date: 2025-04-07 09:48:56.861000+00:00
+Subject: RE: Corn CNF Data Export
+Message-ID: MRZP264MB274773A36E7BA02501390037D3AA2@MRZP264MB2747.FRAP264.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132071AB6AFFC01DBC846CE0F8AE2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber, 
+
+ 
+
+Thank you for the information. Due to the way the information is presented it is difficult to analyze the data. 
+
+ 
+
+I was trying to have the Aug vs Nov santos value expressed as a spread, do you have a solution for this? 
+
+ 
+
+Warm regards, 
+
+ 
+
+Ethan
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, April 3, 2025 11:03 PM
+To: Ethan NG <eng@sucden.com>
+Cc: Support Dnext <support@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Corn CNF Data Export
+
+ 
+
+ 
+
+	VIGILANCE: This message comes from outside Sucden and presents a risk, remain vigilant before clicking on an unverified link and/or opening an unexpected attachment. 
+
+ 
+
+Hello, 
+
+ 
+
+I would also like to add that we have a dataset that contains Corn Freight , Cash and FOB data historical and also is always updated with the most current data we have 
+
+here is the code of the dataset : sucden-a410fb85-d8ab-11ef-82fc-06cd53a4d901
+link to the dataset : https://sucden.dnext.io/datasets/sucden-a410fb85-d8ab-11ef-82fc-06cd53a4d901 <https://secure-web.cisco.com/1U9MueXISImedeyRGfBsHObHLsVMor5HzP8sDhEWIwjzmFsIhXIxy8PBENmzO3shNiokrIjpVG5R3hGdOo21e8B0xYxJ0wAKVcAGNOUasCdKkWyNUcD-KYX--c20M3G3m4h0a-d7b1RlCX1irypjv4ssaByn-q2tHiYkCpYnc34H5ZYCuyXIvkl5fbmB-Av8tLPVZaM-k-KFSaNj5AE035lh8-Fg3G4dBGgFOT-wakI4nZ19N9bgXm5JoD_HG7_iwFWh-Hw7wDXhGcJgSZ2xJDA/https%3A%2F%2Fsucden.dnext.io%2Fdatasets%2Fsucden-a410fb85-d8ab-11ef-82fc-06cd53a4d901> 
+
+ 
+
+We also have an excel add in you can use directly to fetch datasets from the platform into excel directly.
+
+we would be glad to help you set it up as well if you are interested.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://secure-web.cisco.com/1p1ZW0OZc1G3XizopX2am2y4y4Zae5QZXeM6e6itlikVuaxr5k7v-aQMa9ChYtAvibDUh1Xj7E31UXBVUSmff2-F-hAigcapO1lBdW58gojP1iFiFRIsiZwMbYIpg1je3Hbm4mV1hPk451hPrfEDOcGaw8fET0gjUtOmvIFa03H-QdIb6HUKqrTwsLKiibICgBmHYlY1WEYZOkCteUtUC8Z04gmcVBKVkySpk83xDepi3xHB_hA3eKp7x1aCJNmKYtwacgyju-uZjcolW54XJAQ/http%3A%2F%2Fwww.dnext.io%2F> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, April 3, 2025 12:12
+To: Ethan NG <eng@sucden.com <mailto:eng@sucden.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: Corn CNF Data Export
+
+ 
+
+Hello Ethan ,
+
+ 
+
+I hope you are doing well.
+
+ 
+
+You should now  be able download the data from the dashboard to excel by following these steps:
+
+ 
+
+1.	Hover your mouse over the Dashboard and locate the three horizontal dots on the top right corner of the line chart then click on them : 
+
+ 
+
+
+
+2.	Click on the “Export Data” Option in the menu : 
+
+
+
+ 
+
+3.	Choose the option “Summarized Data”  and in the “File Format” choose “.xlsx (Excel 150,000-row max) :
+
+ 
+
+
+
+ 
+
+4.	Click on the “Export” Button and the data should be downloaded in excel format.
+
+ 
+
+Please let me know if this works for you , I would be glad to offer more help if needed.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://secure-web.cisco.com/1p1ZW0OZc1G3XizopX2am2y4y4Zae5QZXeM6e6itlikVuaxr5k7v-aQMa9ChYtAvibDUh1Xj7E31UXBVUSmff2-F-hAigcapO1lBdW58gojP1iFiFRIsiZwMbYIpg1je3Hbm4mV1hPk451hPrfEDOcGaw8fET0gjUtOmvIFa03H-QdIb6HUKqrTwsLKiibICgBmHYlY1WEYZOkCteUtUC8Z04gmcVBKVkySpk83xDepi3xHB_hA3eKp7x1aCJNmKYtwacgyju-uZjcolW54XJAQ/http%3A%2F%2Fwww.dnext.io%2F> 
+
+ 
+
+ 

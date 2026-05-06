@@ -1,0 +1,5 @@
+**Problem**: The customer received an email indicating that their request could not be created when attempting to contact support. They are unsure how to proceed to get assistance.
+
+**Context**: The user is an external user from a Customer Organization trying to reach out to a Service Provider for support. The issue arose after sending an email to the support address, which resulted in an automated response indicating failure to create the request.
+
+**Solution**: The Support Agent recommended that the customer contact the support team directly for assistance, as the automated system could not process the request. It was advised to ensure that future requests are sent to the correct email address to avoid similar issues.

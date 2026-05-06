@@ -1,0 +1,5 @@
+**Problem**: The customer was informed about an upcoming update to the DNEXT platform that would automate data sharing and change dataset codes, potentially impacting their access to resources.
+
+**Context**: The user is an external client of the Service Provider's data platform. The update involves automated access to datasets, tradeflows, and dashboards based on subscription, with changes taking effect on May 5, 2025.
+
+**Solution**: The Service Provider communicated the details of the update, including new codes for various tradeflows. Clients using APIs were advised to prepare for these changes, ensuring they understand the updates to maintain seamless access to their resources.

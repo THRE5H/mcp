@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to a demo account for a platform and was inquiring about the next steps after the trial period ended.
+
+**Context**: The users are external users from a Customer Organization exploring the platform offered by a Service Provider. They were provided with demo accounts to evaluate the service and were in communication regarding their experience and potential next steps.
+
+**Solution**: The demo accounts were successfully created, and login credentials were sent to the users. After the trial, the users expressed satisfaction with the platform and requested a commercial proposal for further engagement. It is recommended that the Service Provider follow up with a tailored proposal based on the users' feedback.

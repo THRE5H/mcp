@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user, Zach Chen, to their existing DNEXT subscription, which allows for 10 users but currently has 7 active accounts.
+
+**Context**: The user is an external user from a Customer Organization, specifically a Global Purchaser at a company in the animal nutrition sector. The request was made via email to the Customer Support team of the Service Provider.
+
+**Solution**: The Support Agent successfully created a user account for Zach Chen on the DNEXT platform and sent the login credentials to his email. The customer was informed that they could reach out for further assistance if needed.

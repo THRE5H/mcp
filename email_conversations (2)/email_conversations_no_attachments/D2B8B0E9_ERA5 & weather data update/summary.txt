@@ -1,0 +1,5 @@
+**Problem**: The customer experienced an outage in the environment hosting their weather and satellite data pipelines, which affected the availability of data.
+
+**Context**: The user is from a Customer Organization and is utilizing weather and satellite data services. The outage occurred in the environment that supports their data pipelines, impacting data availability temporarily.
+
+**Solution**: The issue was resolved, and all data pipelines are now functioning normally. The ERA5-Land pipeline is currently backfilling, with all missing data expected to be available within the next hour. It is recommended to monitor the data availability closely during such outages to ensure timely updates.

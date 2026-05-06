@@ -1,0 +1,56 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-12-16 11:53:21.651000+00:00
+Subject: RE: Vessel tracking bug
+Message-ID: GV0P278MB13206B2EBD57DC5EA689031CF8AAA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB07731A03E4A46AEA66CF579A98AAA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello ,
+
+ 
+
+Jira ticket created for the dev team to investigate this . 
+
+https://dnext.atlassian.net/browse/DNP-6345
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Tuesday, December 16, 2025 11:50
+To: Support Dnext <support@dnext.io>
+Cc: Léonard Berney <leonard.berney@dnext.io>
+Subject: Vessel tracking bug
+
+ 
+
+Not sure if the bug is supposed to be resolved.
+
+However, when doing multiple research using the vessel tracking, at some point I’m getting the “Error fetching vessel data” or something like this.
+
+After a while, it works back again.
+
+ 

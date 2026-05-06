@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a user from a distribution list.
+
+**Context**: The request was made by an internal user from the Customer Organization regarding a distribution list (DL) amendment. The user sought assistance from the Customer Support team of the Service Provider.
+
+**Solution**: The Support Agent confirmed that the requested action to delete the user from the distribution list was completed successfully. It is recommended to verify changes in distribution lists periodically to ensure accuracy.

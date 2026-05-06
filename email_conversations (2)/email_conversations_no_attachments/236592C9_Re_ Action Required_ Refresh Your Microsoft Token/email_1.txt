@@ -1,0 +1,53 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Lucas Rosa; Support Dnext
+Date: 2025-05-19 21:50:59.594000+00:00
+Subject: Re: Action Required: Refresh Your Microsoft Token
+Message-ID: ZR3P278MB12264507410B62F58C6451A7F59CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB05912575E5AA171A120C9C72F89CA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello mate,
+
+I sent u in WhatsApp how to solve this issue
+
+thanks,
+Jebrane.
+________________________________
+
+De : Lucas Rosa <lucas.rosa@dnext.io>
+Envoyé : Monday, May 19, 2025 9:21:16 PM
+À : Support Dnext <support@dnext.io>
+Objet : FW: Action Required: Refresh Your Microsoft Token 
+ 
+
+Guys, could you help me pls?
+
+ 
+
+Thanks
+
+Lucas
+
+ 
+
+From: noreply@dnext.io <noreply@dnext.io> 
+Sent: segunda-feira, 19 de maio de 2025 17:17
+To: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: FW: Action Required: Refresh Your Microsoft Token
+
+ 
+
+Hello Lucas Rosa,
+
+We wanted to let you know that your Microsoft access token has expired. To continue using DNEXT seamlessly, please refresh your token by going to your account settings: https://dnexr.dnext.io/profile. 
+
+Concerned dataset that has been affected:
+SBS BRA FARMER SELLING VOLUME (dnexr-sbs-bra-farmer-selling-volume) 
+
+Workflow: https://dnexr.dnext.io/workflows/1fb74b7d-3601-4763-8bef-e294c3739e63/edit/exporting <https://dnexr.dnext.io/workflows/1fb74b7d-3601-4763-8bef-e294c3739e63/edit/exporting>  
+
+If you have any questions or need assistance, feel free to reach out to our support team. 
+
+Thank you,
+Dnext Team

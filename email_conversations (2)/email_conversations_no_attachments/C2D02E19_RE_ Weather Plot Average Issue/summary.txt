@@ -1,0 +1,5 @@
+**Problem**: The customer requested to exclude the current year's data from the average calculation in a weather plot, as it was incorrectly included.
+
+**Context**: The customer is an external user from a Customer Organization, using a weather plotting feature provided by a Service Provider. The issue arose due to the average line in the plot reflecting the current year's data, which was not intended.
+
+**Solution**: The Support Team confirmed that the current year's data was successfully excluded from the average calculation. The customer was informed of the resolution and encouraged to reach out for further assistance if needed.

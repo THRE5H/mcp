@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User requests access to ABARES historical data including estimate evolution dataset and official SND and production data.",
+    "solution": "The ABARES datasets can be accessed on the platform using the dataset identifiers sucden-27ba62ab-8a80-4184-a1bd-836daa59ae8a and sucden-d95185b7-1e44-457a-895c-e05793f27f84. Users should look for these dataset codes within the platform to find the estimate evolution dataset and official SND and production data.",
+    "keywords": [
+      "ABARES",
+      "historical data",
+      "estimate evolution dataset",
+      "SND data",
+      "production data",
+      "dataset identifiers",
+      "data access",
+      "platform datasets"
+    ],
+    "category": "How-to Guide"
+  }
+}

@@ -1,0 +1,12 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-08-11 15:39:44.882000+00:00
+Subject: datasets to be deleted
+Message-ID: GV0P278MB051433710F028B11192C540CF028A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+dnexr-ahdb-livestock-gbr-cash-weekly-6
+dnexr-fed_statis-livestock-deu-snd_41311-0011
+dnexr-fed_statis-livestock-deu-snd_41311-0012
+dnexr-fed_statis-livestock-deu-snd_41311-0003

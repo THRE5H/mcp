@@ -1,0 +1,42 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2026-01-12 18:26:31.905000+00:00
+Subject: RE: China Prices
+Message-ID: ZR3P278MB1353305AA133A956055EF708F681A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353A9DFA44DCF5D1E8B2F43F681A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Putting Bastien in CC
+
+ 
+
+From: Enea Albertoli 
+Sent: Monday, January 12, 2026 4:03 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: China Prices
+
+ 
+
+Hello Support Team,
+
+ 
+
+May you please fix this dataset?
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-boyar-rsm-chn-cash-daily/general
+
+ 
+
+Thank you in advance.
+
+ 
+
+Best,
+
+ 
+
+Enea

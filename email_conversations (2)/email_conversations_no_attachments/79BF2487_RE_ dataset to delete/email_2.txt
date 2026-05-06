@@ -1,0 +1,27 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-07-10 16:19:17.700000+00:00
+Subject: dataset to delete
+Message-ID: GV0P278MB0514428C4EEF0E33711E1B75F048A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+I hope this email finds you well.
+
+I am writing to request the deletion of  2 datasets from DNEXR.
+
+code1  : dnexr-mapa-water-leves-esp-reg
+
+Code2 : dnexr-mapa-esp-water-level
+
+ 
+
+ 
+
+Best regards,
+
+Nader
+
+ 

@@ -1,0 +1,33 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Aaron Parrish; Mohamed Elasfoury; Support Dnext
+Date: 2025-04-04 07:25:38.188000+00:00
+Subject: RE: Website Trouble
+Message-ID: GV0P278MB0148B073002F7CEDAA5937E998A92@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: MW4PR17MB44205EDF701059CD971B620FE9AE2@MW4PR17MB4420.namprd17.prod.outlook.com
+
+================================================================================
+
+@Support Dnext <mailto:support@dnext.io> 
+
+Could you please guys look into it ? Thanks
+
+ 
+
+From: Aaron Parrish <Aaron.Parrish@verbio.us> 
+Sent: Friday, April 4, 2025 12:28 AM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Website Trouble
+
+ 
+
+You guys dashboard down?
+
+ 
+
+I go to log in and it just spins. Have tried it on a few different machines.
+
+ 
+
+Tks
+
+Aaron

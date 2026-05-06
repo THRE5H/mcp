@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with US customs regarding the 2025 values for soybeans, indicating that the values were excessively high.
+
+**Context**: The user is an external user from a Customer Organization reaching out to the Service Provider's support team. The issue pertains to customs documentation for a specific product (soybeans) that is affecting compliance.
+
+**Solution**: The Support Agent confirmed that the issue was fixed. No further details on the specific actions taken were provided, but the resolution was communicated to the customer. It is recommended to regularly verify customs values to prevent similar issues in the future.

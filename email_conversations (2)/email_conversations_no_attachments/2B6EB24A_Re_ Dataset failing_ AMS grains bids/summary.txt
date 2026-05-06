@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the dataset "dnexr-structured-ams-grains-bids-daily" has been missing data since September.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue pertains to a specific dataset that is critical for their operations.
+
+**Solution**: The Support Agent acknowledged the issue and added a relevant team member for further assistance. The resolution steps are ongoing, and no final outcome has been confirmed yet. It is recommended to monitor the dataset for updates and ensure regular checks to prevent future data gaps.

@@ -1,0 +1,53 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Wael Kouada
+Date: 2025-04-09 15:17:33.388000+00:00
+Subject: RE: Indonesia palm oil lineup dataset
+Message-ID: GV0P278MB1320F8895C7CA0FE0DFD9164F8B42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB014852D2005FD858F0F944CE98B42@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+ 
+
+It’s a bug , I have reported it to the dev team, and they are looking into it 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Wednesday, April 9, 2025 15:04
+To: Support Dnext <support@dnext.io>; Wael Kouada <wael.kouada@dnext.io>
+Subject: Indonesia palm oil lineup dataset
+
+ 
+
+Hello guys, we have a dataset with Indo lineup @Wael Kouada <mailto:wael.kouada@dnext.io>  it is the one you manage.
+
+ETG tells me they cant downsload the dataset anymore. Any change or problem with it ?
+
+ 
+
+Thanks

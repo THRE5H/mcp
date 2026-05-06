@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to select the type of vegoil in the Vegoil flows section and could not perform export or import actions.
+
+**Context**: The customer is an external user from a Partner Company. The issue pertains to the Vegoil Trade Matrix feature of the Service Provider's platform, which was reported to be malfunctioning based on multiple feedbacks received.
+
+**Solution**: The Support Agent investigated the issue and confirmed that the problem with the Vegoil Trade Matrix has been resolved. The customer was informed that the feature is now functioning properly and was encouraged to report any further issues. It is recommended that users regularly check for updates and report any anomalies promptly.

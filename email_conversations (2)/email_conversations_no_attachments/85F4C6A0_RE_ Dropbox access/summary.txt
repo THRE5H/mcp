@@ -1,0 +1,5 @@
+**Problem**: The User needed assistance accessing Dropbox and Excel files, as well as locating the latest SND update on the platform.
+
+**Context**: The User is an external user from a Partner Company. The request involves the Dropbox service and the platform where the SND update is hosted. The inquiry was initiated by a Team Member from the Customer Organization.
+
+**Solution**: The Support Agent offered to schedule a Teams call to guide the User through accessing Dropbox, Excel files, and the latest SND update. The resolution is pending the User's confirmation of a suitable time for the call. It is recommended that the User familiarize themselves with the platform's navigation for future reference.

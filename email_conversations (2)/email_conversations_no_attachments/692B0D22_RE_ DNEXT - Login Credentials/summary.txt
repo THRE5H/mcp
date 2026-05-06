@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to view the previous trade matrix and received a "no data" message in the comparison view. Additionally, they could not see forecasts beyond December.
+
+**Context**: The customer is an external user accessing the DNEXT platform. They had recently logged in using provided credentials and successfully changed their password. The issue arose while trying to utilize specific features of the trade matrix.
+
+**Solution**: The support agent confirmed that the issues with the trade matrix have been resolved, allowing the customer to access data beyond December and view previous versions in the comparison view. The customer was advised to reach out if further assistance was needed.

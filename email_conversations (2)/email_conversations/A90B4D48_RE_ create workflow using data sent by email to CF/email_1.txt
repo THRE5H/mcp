@@ -1,0 +1,124 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rajbir Singh; Pablo Figueroa; Support Dnext
+Date: 2025-04-08 18:01:28.601000+00:00
+Subject: RE: create workflow using data sent by email to CFG bot email
+Message-ID: GV0P278MB13205852F561111691A9D115F8B52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0829BCB7D871D2CBE1113384DEAA2@GV0P278MB0829.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+The workflow is setup and the dataset is created ,
+
+ 
+
+Here is the link of the dataset in the cfg environment 
+
+https://cfg.dnext.io/datasets/cfg-unknown-all-ukr-tf-customs-weekly
+
+ 
+
+Please let me know if you have any questions or inquiries,
+
+ 
+
+Looking forward to hearing back from you
+
+ 
+
+Best regards, 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Rajbir Singh <Rajbir@cfgtrading.ch> 
+Sent: Monday, April 7, 2025 16:33
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: create workflow using data sent by email to CFG bot email
+
+ 
+
+Thanks a lot 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, April 7, 2025 4:52 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rajbir Singh <Rajbir@cfgtrading.ch <mailto:Rajbir@cfgtrading.ch> >
+Subject: RE: create workflow using data sent by email to CFG bot email
+
+ 
+
+Hello , 
+
+ 
+
+@Rajbir Singh <mailto:rajbir@cfgtrading.ch>  Hello and thank you for reaching out .
+
+ 
+
+If you have more files, could you please send to this email address : bot+cfg@data.dnext.io <mailto:bot+cfg@data.dnext.io>  , it could greatly help us in establishing the workflow for the scrapping part.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Monday, April 7, 2025 12:47
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Rajbir Singh <rajbir@cfgtrading.ch <mailto:rajbir@cfgtrading.ch> >
+Subject: create workflow using data sent by email to CFG bot email
+
+ 
+
+Hi guys, can you please check the email sent to the CFG environment and create customs dataset using this file?
+
+workflow should be triggered by the email.
+
+ 
+
+ 
+
+Regards,
+
+Pablo

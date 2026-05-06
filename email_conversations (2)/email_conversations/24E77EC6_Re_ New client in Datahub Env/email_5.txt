@@ -1,0 +1,26 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2026-01-13 09:54:55.176000+00:00
+Subject: New client in Datahub Env
+Message-ID: GVAP278MB067732DBB59BBEC992DE66A9888EA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+We have a new client -  for a test period of 3 months - Jump Systems (USA). He needs access to:
+
+*	
+	Historical S&D Forecasts (Tradeflows + S&D dashboards): all commodities
+
+
+Needs 1 user: VDG@jumptrading.com (Data Engineering team) -> will access through APIs
+Please  do not send before validation
+
+Period: 15.01.2026 to 15.04.2026
+
+Many thanks
+Sami
+
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing an issue with downloading the latest DNEXR datasets, as clicking the download link results in a zipped folder rather than the expected updated file. They are unsure if the latest version (January 2026) is included in the downloaded content.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance with the DNEXR datasets provided by a Service Provider. The issue arises from a potential change in the download process or file availability.
+
+**Solution**: The Support Agent investigated the download process and confirmed that the zipped folder contains the latest datasets, including the January 2026 updates. They recommended checking the contents of the zipped folder for the updated files and suggested that the user ensure they are accessing the correct download link for future updates.

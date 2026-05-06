@@ -1,0 +1,33 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Iheb Mhamdi; Guillaume Goudy; Support Dnext
+Date: 2025-10-08 11:24:41.481000+00:00
+Subject: Re: Arg official fs is still on Sep 26th...NOT UPDATED
+Message-ID: GV0P278MB0717C36937D8F35A27E1643DEBE1A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0321E054753FEE8F76908CC29DE1A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+update happens normally on wednesday but sometimes they release on Tuesday night. data is updated now. Iheb will run the dashboard refresh now.
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Wednesday, October 8, 2025 11:42 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: Arg official fs is still on Sep 26th...NOT UPDATED 
+ 
+Hello GG, 
+Just checked with Pablo, and the data is coming out today and should note that there is always a one-week delay by the source.
+
+Thanks, 
+Iheb
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, October 8, 2025 10:14 AM
+To: Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Arg official fs is still on Sep 26th...NOT UPDATED 
+ 
+
+

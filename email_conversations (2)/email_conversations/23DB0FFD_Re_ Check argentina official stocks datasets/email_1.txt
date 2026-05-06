@@ -1,0 +1,56 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Jebrane Ben Salem; Support Dnext; Nader Ltaief; Iheb Mhamdi
+Date: 2025-07-28 12:30:33.510000+00:00
+Subject: Re: Check argentina official stocks datasets
+Message-ID: GV0P278MB07174EAAA9FE03B60119D9B8EB5AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122642F3A1C264517ACE3D03F55AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png
+
+================================================================================
+
+So what happens is that they changed the way in which they report the data in 2021.
+
+as an example, for 2025 the Value for July is 26.7mmt and this is the carry out of June 25 or the the carry IN of July 25.
+
+
+
+
+
+Now in 2020, what you see for example in January 2020 is the value of the carry out of Jan 2020.
+
+
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, July 28, 2025 12:28 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Nader Ltaief <nader.ltaief@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: Check argentina official stocks datasets 
+
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io>  & @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 28 July 2025 11:23
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: Check argentina official stocks datasets
+ 
+@Nour Meddeb <mailto:nour.meddeb@dnext.io>  
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 28 July 2025 11:11
+To: Support Dnext <support@dnext.io>
+Subject: Check argentina official stocks datasets
+ 
+hi, i see we have an issue here. it seems that somewhere between 2020 and 2021 there is an error and we are taking the data as carry out instead of carry in.
+
+it might be because the source changed the way in which they report the data, so worth checking what happened in 2021.
+it happens for all crops.
+
+let me know if this is not clear. in the chart you can see how the structure changes, which is very weird.
+
+
+    
+

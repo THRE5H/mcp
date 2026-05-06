@@ -1,0 +1,20 @@
+From: Ghaith Krifa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=63ECE1530AF0416494C4B3CB118E1096-6B0D7A48-DE>
+To: Support Dnext
+Date: 2025-10-27 15:43:28.866000+00:00
+Subject: Request for removing dataset
+Message-ID: ZR0P278MB02340B1F0148DEFC6F2D3FFDF3FCA@ZR0P278MB0234.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+Can you please delete these datasets?
+
+Datasets Code :
+
+Dnexr-lonsum-gno-idn-snd-item-quarterly-1 
+Dnexr-undefined-gno-idn-snd-item-quarterly 
+dnexr-bumatima--gno-idn-snd-item-quarterly-1
+
+
+ <https://email-signature-image.com/signature.gif?u=3854738&e=937300671&v=63cf995e01dc945eb55c5c9feea179b62550f8d37051e5af05e9030e7930784f> 

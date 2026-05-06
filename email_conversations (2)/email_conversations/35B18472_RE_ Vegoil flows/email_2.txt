@@ -1,0 +1,109 @@
+From: Leo Troubat <Leo.Troubat@trafigura.com>
+To: Saber Khalfallah; Bastien Lambert; Support Dnext
+Date: 2025-11-24 16:06:26.639000+00:00
+Subject: RE: Vegoil flows
+Message-ID: 27e4b0f9f82142faac6a94664eae6d42@trafigura.com
+In-Reply-To: GV0P278MB132064DE17C2BAF7F0D5F9AEF8D0A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Do we have more recent data than May ? I think we have :
+
+ 
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: 24 November 2025 15:49
+To: Bastien Lambert <bastien.lambert@dnext.io>; Leo Troubat <Leo.Troubat@trafigura.com>; Support Dnext <support@dnext.io>
+Subject: [EXTERNAL] RE: Vegoil flows
+
+ 
+
+Hi Léo,
+
+ 
+
+Thank you for reaching out and for your patience.
+
+ 
+
+The issue you encountered in the Vegoil Trade Matrix has now been resolved, and everything should be working properly now.
+
+Apologies for any inconvenience this may have caused. 
+
+ 
+
+Please do let us know if you encounter any further issues on your end.
+
+ 
+
+Thanks again for your understanding!
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Monday, November 24, 2025 15:34
+To: Léo Troubat <leo.troubat@trafigura.com <mailto:leo.troubat@trafigura.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Vegoil flows
+
+ 
+
+Let me check with the support, there is something wrong as I’m getting several feedback something broke with the trade matrix.
+
+Let you know asap.
+
+@Support Dnext <mailto:support@dnext.io>  can you take a look at the request below please ? Thanks
+
+ 
+
+From: Leo Troubat <Leo.Troubat@trafigura.com <mailto:Leo.Troubat@trafigura.com> > 
+Sent: Monday, November 24, 2025 3:23 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Vegoil flows
+
+ 
+
+Salut Bastien,
+
+ 
+
+Sais-tu pourquoi je ne peux pas selectionner le type de vegoil dans la section vegoil flows, rien ne peut etre selectionne egalement en ce  qui s’agit de l’exporter ou importer ?
+
+ 
+
+
+
+ 
+
+Merci
+
+Leo
+
+This email and any attachments are confidential and access to this email or attachment by anyone other than the addressee is unauthorised. If you are not the intended recipient please notify the sender and permanently delete the email including any attachments. You must not copy, disclose or distribute any of the contents to any other person. Personal views or opinions are solely those of the author and not of Trafigura Group Pte Ltd or its affiliates (the “Group”). The Group does not guarantee that the integrity of this communication has been maintained nor that the communication is free of viruses, interceptions or interference. By communicating with anyone at the Group by email, you consent to the monitoring or interception of such email by the Group in accordance with its internal policies. Unless otherwise stated, any pricing information given in this message is indicative only, is subject to change and does not constitute an offer to deal at any price quoted.
+
+ 

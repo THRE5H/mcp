@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The weekly data for Canadian producer deliveries displayed in the dashboard (SND section) was missing the most recent weeks.",
+    "solution": "The dashboard data was updated to include the missing weeks. Additionally, the dataset feeding the dashboard is accessible via an API using the dataset code 'thul-c8f165f1-b946-4f05-ac7e-7ee88a902cd1'. Users can run API queries on this dataset using the provided code to retrieve the relevant data programmatically.",
+    "keywords": [
+      "dashboard update",
+      "Canadian producer deliveries",
+      "weekly data missing",
+      "dataset code",
+      "API query",
+      "SND section",
+      "data update",
+      "dataset access"
+    ],
+    "category": "How-to Guide"
+  }
+}

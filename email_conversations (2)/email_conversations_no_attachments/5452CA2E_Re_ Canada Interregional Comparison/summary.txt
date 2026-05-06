@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a feature to the Canada PDQ prices dashboard that would allow filtering by different regions on each side for price comparison.
+
+**Context**: The user is an external user representing a Customer Organization. The request pertains to a feature enhancement for the Canada PDQ prices dashboard, which is used to analyze pricing data for clients.
+
+**Solution**: The Support Team acknowledged the request and added it to their development queue for consideration. It was recommended that the user follow up in the future for updates on the feature's implementation.

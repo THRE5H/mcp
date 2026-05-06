@@ -1,0 +1,99 @@
+INFO:     Started server process [21116]
+INFO:     Waiting for application startup.
+[15:56:21] INFO - main - \U0001f680 Starting FastAPI backend
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[15:56:34] INFO - routes.chat - Processing chat request: What does the crop evolution dashboard show?...
+[15:56:34] INFO - services.chat_service - Created new session: e3463984-1846-41c6-9977-f77f6039b237
+C:\Users\DNEXT DHIA\AppData\Local\Programs\Python\Python314\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1.fields import FieldInfo as FieldInfoV1
+[15:56:37] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[15:56:37] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[15:56:39] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[15:56:39] INFO - src.vector_store - Retrieved 5 chunks
+[15:56:39] INFO - app.rag_engine -   Rank 1: Dashbords / Introduction (dist: 0.6781128644943237)
+[15:56:39] INFO - app.rag_engine -   Rank 2: Dashbords / Introduction (dist: 1.0035104751586914)
+[15:56:39] INFO - app.rag_engine -   Rank 3: emails / Introduction (dist: 1.0259692668914795)
+[15:56:39] INFO - app.rag_engine -   Rank 4: Dashbords / Introduction (dist: 1.0282046794891357)
+[15:56:39] INFO - app.rag_engine -   Rank 5: Dashbords / Introduction (dist: 1.0350960493087769)
+[15:56:40] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[15:56:40] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[15:56:42] INFO - src.llm_handler - Website content fetched from https://www.dnext.io/
+[15:56:42] INFO - src.llm_handler - Sending 1 messages to LLM (0 history + 1 current)
+[15:56:44] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[15:56:48] INFO - app.message_handler - Text query done in 13443ms | ACTIONABLE | 5 chunks
+[16:14:01] INFO - routes.chat - Processing chat request: What does my dashboard cover?...
+[16:14:01] INFO - services.chat_service - Created new session: session_abc123
+[16:14:03] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:03] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:14:04] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[16:14:04] INFO - src.vector_store - Retrieved 5 chunks
+[16:14:04] INFO - app.rag_engine -   Rank 1: Dashbords / Introduction (dist: 1.2936921119689941)
+[16:14:04] INFO - app.rag_engine -   Rank 2: Dashbords / Introduction (dist: 1.3079487085342407)
+[16:14:04] INFO - app.rag_engine -   Rank 3: emails / df now contains the weather data as a pandas DataFrame (dist: 1.3194512128829956)
+[16:14:04] INFO - app.rag_engine -   Rank 4: Knowledge_base / Usage (dist: 1.3216158151626587)
+[16:14:04] INFO - app.rag_engine -   Rank 5: Dashbords / Introduction (dist: 1.324328064918518)
+[16:14:06] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:06] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:14:08] INFO - src.llm_handler - Website content fetched from https://www.dnext.io/
+[16:14:08] INFO - src.llm_handler - Sending 1 messages to LLM (0 history + 1 current)
+[16:14:09] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:14:16] INFO - app.message_handler - Text query done in 14948ms | ACTIONABLE | 5 chunks
+[16:15:35] INFO - routes.chat - Processing chat request: how to downlaod a dataset from the platfrom...
+[16:15:35] INFO - services.chat_service - Created new session: string
+[16:15:36] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:36] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:15:37] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[16:15:37] INFO - src.vector_store - Retrieved 5 chunks
+[16:15:37] INFO - app.rag_engine -   Rank 1: Knowledge_base / Introduction (dist: 0.5123698711395264)
+[16:15:37] INFO - app.rag_engine -   Rank 2: emails / Login to API and get token (dist: 0.8827044367790222)
+[16:15:37] INFO - app.rag_engine -   Rank 3: emails / Example usage: (dist: 0.8966687321662903)
+[16:15:37] INFO - app.rag_engine -   Rank 4: emails / Introduction (dist: 0.9188545346260071)
+[16:15:37] INFO - app.rag_engine -   Rank 5: Knowledge_base / Usage (dist: 0.9364964962005615)
+[16:15:38] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:38] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:15:40] INFO - src.llm_handler - Website content fetched from https://www.dnext.io/
+[16:15:40] INFO - src.llm_handler - Sending 1 messages to LLM (0 history + 1 current)
+[16:15:40] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:15:43] INFO - app.message_handler - Text query done in 7955ms | ACTIONABLE | 5 chunks
+[16:16:43] INFO - routes.chat - Processing chat request: how to dowanload a dataset from the platfrom ?...
+[16:16:43] INFO - services.chat_service - Using existing session: session_abc123
+[16:16:45] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:16:45] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:16:45] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[16:16:45] INFO - src.vector_store - Retrieved 5 chunks
+[16:16:45] INFO - app.rag_engine -   Rank 1: Knowledge_base / Introduction (dist: 0.5300538539886475)
+[16:16:45] INFO - app.rag_engine -   Rank 2: emails / Login to API and get token (dist: 0.8985795974731445)
+[16:16:45] INFO - app.rag_engine -   Rank 3: emails / Example usage: (dist: 0.9102603793144226)
+[16:16:45] INFO - app.rag_engine -   Rank 4: emails / Introduction (dist: 0.9351741075515747)
+[16:16:45] INFO - app.rag_engine -   Rank 5: Knowledge_base / Usage (dist: 0.9563940167427063)
+[16:16:46] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:16:46] INFO - src.llm_handler - Conversation classified as: ACTIONABLE
+[16:16:48] INFO - src.llm_handler - Website content fetched from https://www.dnext.io/
+[16:16:48] INFO - src.llm_handler - Sending 3 messages to LLM (2 history + 1 current)
+[16:16:48] INFO - httpx - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[16:16:53] INFO - app.message_handler - Text query done in 9358ms | ACTIONABLE | 5 chunks
+[16:20:48] INFO - routes.chat - Processing chat with files: whats this ?... (1 files)
+[16:20:48] INFO - services.chat_service - Using existing session: string
+[16:20:48] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:20:48] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:21:05] INFO - routes.chat - Processing chat with files: whats this ?... (1 files)
+[16:21:05] INFO - services.chat_service - Created new session: sessionabc123
+[16:21:05] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:21:05] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:21:39] INFO - routes.chat - Processing chat with files: whats this ?... (1 files)
+[16:21:39] INFO - services.chat_service - Using existing session: sessionabc123
+[16:21:39] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:21:39] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:26:57] INFO - routes.chat - Processing chat with files: whats this please ?... (1 files)
+[16:26:57] INFO - services.chat_service - Using existing session: string
+[16:26:57] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:26:57] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:27:01] INFO - routes.chat - Processing chat with files: whats this please ?... (1 files)
+[16:27:01] INFO - services.chat_service - Using existing session: string
+[16:27:01] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:27:01] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:27:47] INFO - routes.chat - Processing chat with files: whats this please ?... (1 files)
+[16:27:47] INFO - services.chat_service - Created new session: 12e96abf-078e-4d24-91c3-582d36eae0a4
+[16:27:47] ERROR - src.vlm_handler - Failed to encode image: [Errno 2] No such file or directory: 'Image-TELBK3.png'
+[16:27:47] ERROR - src.vlm_handler - Error extracting image info: [Errno 2] No such file or directory: 'Image-TELBK3.png'

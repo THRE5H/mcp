@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new user to the JBS email list and create access to a platform for that user.
+
+**Context**: The request was made by an internal user from the Customer Organization to the Support Team of the Service Provider. The email involved adding a user to an email list and granting access to a specific platform.
+
+**Solution**: The Support Team confirmed that the request was completed successfully. It is recommended to verify user access periodically to ensure all necessary personnel have the appropriate permissions.

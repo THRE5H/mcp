@@ -1,0 +1,5 @@
+**Problem**: The customer was experiencing issues with downloading the Soft Wheat TradeMatrix and needed assistance to access the download functionality.
+
+**Context**: The user is an external user from a Customer Organization attempting to use the TradeMatrix feature of the Service Provider's platform. The issue arose due to the transition from an old system to a new one, which affected the availability of download options.
+
+**Solution**: The Support Agent confirmed that the download button for the TradeMatrix is now functional. They recommended using the new code format "sucden-xxxx-xxxx" for future access, as the old format will be phased out, ensuring that users receive the latest updates dynamically.

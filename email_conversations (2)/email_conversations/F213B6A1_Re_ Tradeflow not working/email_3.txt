@@ -1,0 +1,32 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-05-19 22:36:29.062000+00:00
+Subject: RE: Tradeflow not working
+Message-ID: GV0P278MB021197F21A83B7C0954D1172989CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02115D159DD2A868D177BCBA989CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Only solution is to open a new instance and start a new tradeflow and then data is correct. FYI
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Monday, 19 May 2025 23:31
+To: Support Dnext <support@dnext.io>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: Tradeflow not working
+
+ 
+
+Same issues coming back again and again on validating data. It doubles my quantity. See below example with USA. 2 issues_: 1. Still in forecast whereas it should be official data as I have validated the data 2. The quantity isnow completely wrong. 
+
+I shoift refresh, refresh etc. still same wrong view
+
+gg
+
+ 
+
+

@@ -1,0 +1,5 @@
+**Problem**: The User is unable to download the CNF data set due to a disabled download button, and is seeking a quick resolution to this issue.
+
+**Context**: The User is an external user from Customer Organization seeking support from the Service Provider. The issue involves the download functionality of the CNF data set, which is critical for the User's needs.
+
+**Solution**: The Support Agent responded to a separate email from the User, providing instructions to resolve the download button issue. The User was advised to follow these instructions, and the Support Agent remains available for further assistance if needed. It is recommended that the User check for any browser-related issues that might affect the download functionality.

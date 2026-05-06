@@ -1,0 +1,47 @@
+{
+  "emails": [
+    {
+      "subject": "Re: WASDE Dashboard: barley not showing up",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5",
+      "from_name": "Jebrane Ben Salem",
+      "to": "Pablo Figueroa; Support Dnext; Farouk Jaziri",
+      "cc": "",
+      "received_time": "2026-01-27 13:43:06.423000+00:00",
+      "sent_time": "2026-01-27 13:43:02+00:00",
+      "body_text": "Adding @Farouk Jaziri <mailto:farouk.djaziri@dnext.io> \r\n________________________________\r\n\r\nFrom: Pablo Figueroa <pablo.figueroa@dnext.io>\r\nSent: 27 January 2026 12:42\r\nTo: Support Dnext <support@dnext.io>\r\nSubject: WASDE Dashboard: barley not showing up \r\n \r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nAdding <a href=\"mailto:farouk.djaziri@dnext.io\" class=\"tWKOu mention ms-bgc-nlr ms-fcl-b\" id=\"OWAAM425542\">\r\n@Farouk Jaziri</a></div>\r\n<div id=\"appendonsend\"></div>\r\n<hr style=\"display:inline-block;width:98%\" tabindex=\"-1\">\r\n<div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" style=\"font-size:11pt\" color=\"#000000\"><b>From:</b> Pablo Figueroa &lt;pablo.figueroa@dnext.io&gt;<br>\r\n<b>Sent:</b> 27 January 2026 12:42<br>\r\n<b>To:</b> Support Dnext &lt;support@dnext.io&gt;<br>\r\n<b>Subject:</b> WASDE Dashboard: barley not showing up</font>\r\n<div>&nbsp;</div>\r\n</div>\r\n<style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style>\r\n<div dir=\"ltr\">\r\n<div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:11pt; color:rgb(0,0,0)\">\r\n<img size=\"152830\" style=\"max-width:1119px\" data-outlook-trace=\"F:2|T:2\" src=\"cid:bda5c7d7-9926-4866-9656-352cc8198282\"></div>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "66EBACA00A94FE47B06B2CFADAB10B3A",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490003578A31D20000",
+      "size": 329242,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "ZR3P278MB12269056C1F91DE8190D2030F590A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": "GV0P278MB07177010ED610F85A38E57D4EB90A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "references": "<GV0P278MB07177010ED610F85A38E57D4EB90A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM>"
+    },
+    {
+      "subject": "WASDE Dashboard: barley not showing up",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2026-01-27 12:42:24.945000+00:00",
+      "sent_time": "2026-01-27 12:42:20+00:00",
+      "body_text": "",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img size=\"152830\" style=\"max-width: 1119px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:bda5c7d7-9926-4866-9656-352cc8198282\"></div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "66EBACA00A94FE47B06B2CFADAB10B3A",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490003578A31D10000",
+      "size": 211231,
+      "has_attachments": true,
+      "attachments": [
+        "image_1.png"
+      ],
+      "message_id": "GV0P278MB07177010ED610F85A38E57D4EB90A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Re: WASDE Dashboard: barley not showing up"
+}

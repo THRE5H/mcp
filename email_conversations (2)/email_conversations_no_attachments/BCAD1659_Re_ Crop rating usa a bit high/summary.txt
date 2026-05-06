@@ -1,0 +1,5 @@
+**Problem**: The customer reported receiving unusually high crop rating values and requested verification of the data.
+
+**Context**: The user is an external analyst from a Customer Organization, seeking assistance from a Support Team at a Service Provider. The issue arose after updates were made to crop condition values for winter wheat, which may have led to data discrepancies.
+
+**Solution**: The Support Team investigated the issue and identified that the high values were due to duplicated data points in the updates. A quick fix was applied by removing certain entries, and the customer was informed that the issue should now be resolved. It is recommended to ensure proper data management practices to prevent similar issues in the future.

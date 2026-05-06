@@ -1,0 +1,168 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Guillaume Goudy; Support Dnext; Khalil Mekki
+Date: 2025-05-21 10:59:15.767000+00:00
+Subject: Re: Paraguay customs
+Message-ID: ZRAP278MB0335923BC5760131C0CB209D839EA@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02117DB7A00445A6188DA8AB989EA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Guillaume,
+You're right this should have been flagged earlier.
+I’ll also request it be added to HealthCheck to prevent this in the future.
+
+Best,
+Skander
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, May 21, 2025 10:51 AM
+To: Skander Ghamgui <skander.ghamgui@dnext.io>; Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>
+Subject: RE: Paraguay customs 
+ 
+
+Support
+
+BUT
+
+Why thebug and how come we didnot detect it? Even if health check is not detecting, you are not running any check on your side?
+
+gg
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io> 
+Sent: Wednesday, 21 May 2025 11:46
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>
+Subject: Re: Paraguay customs
+
+ 
+
+Hello Guillaume,
+
+We have addressed the issue and it's fixed now.
+
+ 
+
+
+
+ 
+
+For HealthCheck now it doesn't detect such thing, but we will request it to be added because it might be useful. 
+
+ 
+
+Want me to answer Jennie or leave it to support team? 
+
+ 
+
+Best regards,
+
+Skander
+
+ 
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, May 21, 2025 8:33 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Khalil Mekki <khalil.mekki@dnext.io <mailto:khalil.mekki@dnext.io> >; Skander Ghamgui <skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> >
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: RE: Paraguay customs 
+
+ 
+
+We do not have a check that import/export should contain same timing? Also, frequency...We are in May....how delay is Paraguay source? It should be in the recency check. 
+
+Thank you to scan and see what failed in our quality process.
+
+gg
+
+ 
+
+From: Jennie Campbell <jennie.campbell@viserion.co <mailto:jennie.campbell@viserion.co> > 
+Sent: Wednesday, 21 May 2025 00:00
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Paraguay customs
+
+ 
+
+Hello,
+
+ 
+
+Can you look into Paraguay customs please? It is showing data through Apr-25 on the imports but the exports are only showing through Jan-25. See below screenshots. I had it on All products and All countries so it shouldn’t be a filtering issue. And it would have loaded something so can’t be that there is none. 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Thanks
+
+Jennie
+
+ 
+
+ 
+
+ 
+
+
+
+Jennie Campbell
+
+Viserion Management Company
+
+914-860-5692
+
+ 

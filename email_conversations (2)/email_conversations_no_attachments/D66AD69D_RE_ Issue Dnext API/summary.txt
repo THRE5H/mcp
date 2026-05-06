@@ -1,0 +1,5 @@
+**Problem**: The customer is unable to connect to the Dnext API despite following the provided instructions and code. They received a new password from the support agent but still encounter the same error.
+
+**Context**: The customer is an external user from Customer Organization trying to access the Dnext API for data retrieval. The issue involves authentication, specifically with the API login process.
+
+**Solution**: The support agent provided the correct API authentication password to the customer. However, the customer reported that the issue persists, prompting the support agent to suggest a quick call to troubleshoot further. It is recommended that the customer double-check their implementation of the password in the code.

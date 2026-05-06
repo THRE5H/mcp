@@ -1,0 +1,25 @@
+From: Obeb Fkiri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=1316D8E08A87448FA385843FC03252B2-31770240-B5>
+To: Support Dnext
+Date: 2025-12-01 14:29:10.835000+00:00
+Subject: Issue in Avere's Raws TM
+Message-ID: GV0P278MB01135973ECD7A53726AF1B6CEADBA@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello Support Team!
+
+Avere has reported an issue concerning the "Raw Sugar Trade flow", despite the data seems to be flowing well on our view, Avere's portal is missing October 2025 Numbers. 
+This is our view on Dnexr
+
+And this is Avere's View
+
+
+Can you please check what would be the matter? 
+
+Thank you in advance!
+
+
+Obeb
+
+

@@ -1,0 +1,17 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-05-19 22:31:25.384000+00:00
+Subject: Tradeflow not working
+Message-ID: GV0P278MB02115D159DD2A868D177BCBA989CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Same issues coming back again and again on validating data. It doubles my quantity. See below example with USA. 2 issues_: 1. Still in forecast whereas it should be official data as I have validated the data 2. The quantity isnow completely wrong. 
+
+I shoift refresh, refresh etc. still same wrong view
+
+gg
+
+ 
+
+

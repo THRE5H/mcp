@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance in extracting corn parities from a report.
+
+**Context**: The customer is an external user from Customer Organization seeking help with a feature in the Service Provider's reporting tool. The inquiry followed a recent update on corn SNDs.
+
+**Solution**: The Support Agent provided detailed steps for downloading the data directly from the report, including how to access the export options. The customer confirmed that the instructions were helpful and expressed appreciation for the support received.

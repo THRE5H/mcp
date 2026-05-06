@@ -1,0 +1,5 @@
+**Problem**: The customer requested the configuration of a new environment for a client named HEDONIZM, including the setup of user accounts.
+
+**Context**: The user is an external user from Customer Organization requesting support from Service Provider. The environment is to be configured for a new client with a specified start and end date, and includes products like Soybean and Vegoils.
+
+**Solution**: The Support Team confirmed that the contract was created and resources were added, pending a refresh of shared dashboards. They requested a list of users from the customer to proceed with account creation, advising not to send credentials until validations are complete.

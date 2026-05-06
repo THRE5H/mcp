@@ -1,0 +1,16 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-06-27 16:04:48.080000+00:00
+Subject: US crop condition dashbaord is wrong
+Message-ID: GVAP278MB07120DBDE496E7181677C1D6EB45A@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+hi guys can we check this?? i think this mistake was spotted time ago and still we have problems here
+
+i think the error comes from mapping...you are mapping durum as spring wheat and adding all toghether
+
+
+please fiz asap as this one is very important
+

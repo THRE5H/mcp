@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download historical cash prices and premiums data from the portal, despite being able to view the data and price charts.
+
+**Context**: The customer is a Specialist in Research at a Customer Organization. The issue involves a data download feature of a portal provided by a Service Provider. The customer attempted to access the data but encountered difficulties with the download functionality.
+
+**Solution**: The Support Agent provided instructions to download the data by hovering over the line chart, clicking on the three dots, and selecting "Export data" to choose the Excel format. Additionally, the Agent shared a direct link to a dataset that includes historical data, ensuring the customer has access to the necessary information.

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Customs calendar displays as empty and does not show schedules, including the US schedule.",
+    "solution": "Add the 'Current' month to the customs calendar data to ensure schedules are displayed properly. This addition fixes the issue permanently by populating the calendar with the relevant current month information.",
+    "keywords": [
+      "customs calendar",
+      "empty calendar",
+      "schedule missing",
+      "US schedule",
+      "current month",
+      "calendar data",
+      "display issue"
+    ],
+    "category": "Configuration"
+  }
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the China tab within the Economics dashboards, which provides corn import margin updates, was missing and requested its restoration.
+
+**Context**: The customer is an external user from a Customer Organization utilizing a dashboard feature from a Service Provider. The issue arose during a period when updates to the import margins were being implemented.
+
+**Solution**: The Support Agent confirmed that the China Import Margins Dashboard was restored and available on the platform. The customer acknowledged the resolution and expressed gratitude for the update. It is recommended to monitor dashboard updates regularly to avoid similar issues in the future.

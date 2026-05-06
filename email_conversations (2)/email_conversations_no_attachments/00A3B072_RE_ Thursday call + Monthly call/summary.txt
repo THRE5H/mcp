@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be added to the Friday and Monthly calls but later could not find the call link in the agenda and asked for it.
+
+**Context**: The customer is an external user from Customer Organization, seeking access to calls organized by Service Provider. The issue arose due to confusion regarding the call details and agenda.
+
+**Solution**: The Support Agent confirmed that the customer was already included on the email list. Later, another Team Member sent the call link, which the customer confirmed receiving. It is recommended that users check their email lists and agendas regularly to avoid similar issues.

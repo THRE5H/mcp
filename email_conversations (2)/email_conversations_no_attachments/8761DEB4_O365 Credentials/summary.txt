@@ -1,0 +1,5 @@
+**Problem**: The customer requested their Microsoft 365 account credentials, which were not previously provided.
+
+**Context**: The user is an external user from Customer Organization seeking access to their Microsoft 365 account. The issue arose in the context of needing to log in to the service.
+
+**Solution**: The Support Agent provided the customer with their Microsoft 365 username and password via email. It is recommended that the customer securely store their credentials and change the password upon first login to enhance security.

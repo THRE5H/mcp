@@ -1,0 +1,19 @@
+From: Ghaith Krifa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=63ECE1530AF0416494C4B3CB118E1096-6B0D7A48-DE>
+To: Support Dnext
+Date: 2025-09-12 16:07:49.808000+00:00
+Subject: Request for removing datasets
+Message-ID: GVAP278MB0231B4279B68FD6E391EA72FF308A@GVAP278MB0231.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+Can you please delete these datasets?
+Datasets Code : 
+
+dnexr-mpob-palm-prices-release-1st-16th-mys-cash-monthly
+dnexr-mpob-palm-mys-cash-monthly
+dnexr-mpob-palm-idn-mys-cash-monthly
+dnexr-mpob--mys-cash-monthly-palm-products
+Best Regards.
+ <https://email-signature-image.com/signature.gif?u=3854738&e=898877980&v=3b670219450c0ece408052769ee9b5e8408cb2a057df4474ef1e707e4b07cc8c> 

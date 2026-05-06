@@ -1,0 +1,5 @@
+**Problem**: The customer reported a data mapping error in the WASDE report, specifically that cotton was incorrectly mapped to soft wheat for the year 1998/1999.
+
+**Context**: The customer is an external user from a Customer Organization, and the issue involves data from the Service Provider's WASDE report. The customer provided specific data entries for review, indicating confusion over the mapping.
+
+**Solution**: The Support Team reviewed the data and confirmed the error. It was subsequently fixed, and the customer was informed of the resolution. It is recommended that users ensure data is presented in a clear format to facilitate easier identification of such issues in the future.

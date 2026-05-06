@@ -1,0 +1,90 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Saber Khalfallah; Aditya Jeripotula; Support Dnext; Lineups_Tunisia
+Date: 2026-01-20 10:24:15.406000+00:00
+Subject: Re: Malaysia Lineups Error
+Message-ID: ZRAP278MB0335B07D7E47EB9B1958E2908389A@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13204662AD124C8999BA7EE5F889A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Good morning,
+We were not able to recreate the issue but I spoke to Aditya and it seems refreshing the page have resolved it
+Thanks,
+Skander
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Tuesday, January 20, 2026 10:02 AM
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>; Lineups_Tunisia <Lineups_TN@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Malaysia Lineups Error 
+ 
+
+Adding @Lineups_Tunisia <mailto:Lineups_TN@dnext.io> 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io> 
+Sent: Tuesday, January 20, 2026 8:10
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Malaysia Lineups Error
+
+ 
+
+Dear team 
+
+ 
+
+Kindly look into the error in 16-20 Jan 2026 data for Malaysia lineups. SS below
+
+
+
+ 
+
+Regards,
+
+Aditya Jeripotula 

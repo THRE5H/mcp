@@ -1,0 +1,31 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Support Dnext
+Date: 2025-02-11 16:25:31.818000+00:00
+Subject: No access to 3 custom datasets
+Message-ID: GV0P278MB02100362C584188C9C946C8F92FD2@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello,
+
+I cannot download the following 3 datasets:
+
+*	
+	Tradeflow - Customs - Chile All monthly
+*	
+	Tradeflow - Customs - Norway All monthly
+*	
+	Tradeflow - Customs - Iceland All monthly
+
+No Download button available as shown bellow: 
+
+
+For other dataset like Customs Brazil I can download it: 
+
+
+
+Best regards,
+Abir Chebbi
+
+

@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "How to use hierarchy of products and countries",
+      "from": "abir.chebbi@hesge.ch",
+      "from_name": "Chebbi Abir",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2025-09-19 16:34:52.953000+00:00",
+      "sent_time": "2025-09-19 16:34:45+00:00",
+      "body_text": "Hello,\r\nI would like to use a dataset from Dnexr that lists all the country groups (e.g., the list of countries in the EU-27).\r\nIs there a similar dataset for products as well?\r\nIf not, how can I use reference data to retrieve the hierarchy of products and countries via an API?\r\n\r\nThanks,\r\nAbir Chebbi\r\n\r\n",
+      "body_html": "<html><head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nHello,</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nI would like to use a dataset from Dnexr that lists all the country groups (e.g., the list of countries in the EU-27).</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nIs there a similar dataset for products as well?</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nIf not, how can I use reference data to retrieve the hierarchy of products and countries via an API?</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nThanks,</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nAbir Chebbi</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "FDB9C60060B64648863E4E087616C445",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD49000301C7E6E80000",
+      "size": 68805,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GV0P278MB02103C3A3C23694808F9EB9F9211A@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "How to use hierarchy of products and countries"
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in opening an account for a new team member and adding him to biweekly calls.
+
+**Context**: The user is an external user from a Customer Organization, specifically Tiryaki Agro. The request involves account setup and integration into ongoing communication channels with a Service Provider.
+
+**Solution**: The Support Agent confirmed that the account was successfully created for the new member. Additionally, login credentials and platform details were sent directly to the new member's inbox. It is recommended to reach out for any further assistance or questions regarding the platform.

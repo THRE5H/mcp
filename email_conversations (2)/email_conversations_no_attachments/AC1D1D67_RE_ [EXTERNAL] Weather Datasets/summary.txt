@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to retrieve data from the "Weather Brazil All Forecast" dataset using their Python script, which ran but did not display any data.
+
+**Context**: The customer is an external user seeking support for a weather data API provided by a Service Provider. The issue arose after the customer confirmed that other datasets, such as "Weather Malindo," were functioning correctly.
+
+**Solution**: The Support Agent identified a bug related to the dataset size that was preventing downloads, which has since been fixed. The agent provided a working script for the customer to use, confirming that the Brazil dataset now functions correctly. The customer later confirmed that the script worked as intended.

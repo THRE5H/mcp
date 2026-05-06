@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the listing and IEO fees for their project on the VinDAX exchange, specifically seeking clarification on the pricing and features of different packages.
+
+**Context**: The user is an external user representing a project looking to list on the VinDAX exchange, which offers various listing packages. The email outlines multiple pricing tiers and features associated with each package, indicating a competitive environment for cryptocurrency listings.
+
+**Solution**: The support team provided detailed information about the various listing packages available, including pricing and features for each tier. The customer was encouraged to choose a package that best fits their project's needs, and it was recommended to consider the promotional offers for better value.

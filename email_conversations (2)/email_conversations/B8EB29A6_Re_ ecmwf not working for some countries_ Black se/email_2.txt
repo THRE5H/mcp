@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Martin Keller
+Date: 2025-03-04 19:02:42.310000+00:00
+Subject: Re: ecmwf not working for some countries: Black sea and middle east at least
+Message-ID: ZR3P278MB122606FEE566007A3E72DB22F5C82@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071781E6C02CCE808D1F20D9EBC82@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+I'm adding @Martin Keller <mailto:martin.keller@dnext.io> .
+As discussed with Martin earlier, the ECMWF 6Z data is incomplete for 06Z for all countries
+@Martin Keller <mailto:martin.keller@dnext.io> , please correct me if I’m mistaken
+
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : mardi, mars 4, 2025 6:50:47 PM
+À : Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Objet : ecmwf not working for some countries: Black sea and middle east at least
+
+
+ 
+

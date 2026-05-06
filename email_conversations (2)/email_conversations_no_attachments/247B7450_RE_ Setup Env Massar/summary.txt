@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a contract for a new environment, massar.dnext.io, with specific access limitations and contract dates.
+
+**Context**: The user is an external user from a Customer Organization requesting a setup for the DNEXT platform. The environment is intended for Massar Capital Management, with access limited to specific cash prices for commodities.
+
+**Solution**: The Support Agent confirmed sharing the necessary sections and datasets for the environment. The customer later provided two user emails for account creation, requesting a final check before the users are sent access.

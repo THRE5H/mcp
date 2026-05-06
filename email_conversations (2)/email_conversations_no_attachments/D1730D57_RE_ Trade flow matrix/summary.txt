@@ -1,0 +1,5 @@
+**Problem**: The customer reported duplication in the trade flow matrix and requested clarification on which files were the correct ones to use.
+
+**Context**: The customer is an external user (Grains Analyst) from a Customer Organization. The issue involves the trade flow matrix files, which were recently upgraded to a new sharing system that dynamically updates access to resources.
+
+**Solution**: The Support Agent explained the new sharing system and identified the correct files by their code format. The customer was advised to use the new format "ameropa-xxxx-xxxx-xxxx-xxxx" and informed that older versions would be phased out. No further action was required from the customer as the issue was clarified.

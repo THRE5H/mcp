@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific datasets from the platform but initially provided names instead of codes, which could lead to incorrect deletions.
+
+**Context**: The user is an internal user from Customer Organization requesting support from Customer Support regarding the deletion of datasets related to Unica. The request was made due to concerns about potential duplication of dataset names.
+
+**Solution**: The Support Agent requested the dataset codes to ensure the correct items were deleted. The customer subsequently provided the necessary codes for the datasets to be deleted, confirming the action could proceed without risk of error. It is recommended to always use codes for dataset management to avoid confusion.

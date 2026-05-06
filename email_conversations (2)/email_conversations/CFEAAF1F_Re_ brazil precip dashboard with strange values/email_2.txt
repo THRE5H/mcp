@@ -1,0 +1,16 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Lucas Rosa; Guillaume Goudy; Bastien Lambert; Jebrane Ben Salem
+Date: 2025-03-02 19:26:39.721000+00:00
+Subject: brazil precip dashboard with strange values
+Message-ID: GV0P278MB07178D024F1022B5D7BE3CF4EBCE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_2.png
+
+================================================================================
+
+Hi, i think there is something weird here once the user selects the following.
+
+happens the same if ECMWF is selected. talking with Lucas, it seems something is not ok.
+
+can we check the brazil dashboards? temperature is also showing crazy values
+
+

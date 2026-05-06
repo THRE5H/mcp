@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the creation status of a distribution list named DL-Adecoagro.
+
+**Context**: The user is an external user from the Customer Organization, seeking information related to a service provided by the Service Provider. The inquiry was made after a series of communications regarding the onboarding process for DNEXT services.
+
+**Solution**: The Support Agent confirmed that the DL-Adecoagro has been successfully created, providing the name and email address associated with it. No further actions were required from the customer at this time. It is recommended to verify the distribution list's functionality during the onboarding process.

@@ -1,0 +1,27 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-07 11:59:03.526000+00:00
+Subject: Re: EU weather dashboard not working
+Message-ID: ZR3P278MB12260EF63EA20024416E8F48F5D52@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717A78DF84A1B49085E7C8EEBD52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_12.png, image_13.png, image_14.png
+
+================================================================================
+
+Hello it's working, 
+
+You just need to change the filter Forecast to an other run date (from 1-28 Feb) or select ERA5
+
+Example: 
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 07 March 2025 11:54
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: EU weather dashboard not working 
+ 
+ 

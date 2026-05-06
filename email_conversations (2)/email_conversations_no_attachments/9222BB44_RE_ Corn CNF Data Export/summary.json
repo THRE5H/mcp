@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to export Corn CNF data from the dashboard to Excel and analyze it, including expressing specific values as spreads (e.g., Aug vs Nov Santos value).",
+    "solution": "To export data from the Corn CNF dashboard to Excel: 1) Hover over the dashboard line chart and click the three horizontal dots at the top right corner. 2) Select 'Export Data' from the menu. 3) Choose 'Summarized Data' and select the file format '.xlsx (Excel 150,000-row max)'. 4) Click 'Export' to download the data in Excel format. For advanced analysis such as expressing values as spreads, a 'Spread' tab was added to the Corn CNF dashboard, accessible via Dashboards > Economics > CNF. Additionally, a dataset containing Corn Freight, Cash, and FOB historical data is available with a unique dataset code and URL for direct access. An Excel add-in is also available to fetch datasets directly into Excel, and support can assist with its setup.",
+    "keywords": [
+      "Corn CNF",
+      "data export",
+      "dashboard",
+      "Excel export",
+      "export data",
+      "summarized data",
+      "xlsx",
+      "spread analysis",
+      "spread tab",
+      "Corn Freight dataset",
+      "historical data",
+      "Excel add-in",
+      "data download",
+      "data analysis"
+    ],
+    "category": "How-to Guide"
+  }
+}

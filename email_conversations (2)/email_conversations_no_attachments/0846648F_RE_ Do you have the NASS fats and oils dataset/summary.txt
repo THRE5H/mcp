@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to the NASS fats and oils monthly report dataset, specifically production and stock data for soybean oil, rapeseed oil, and corn oil, which was not available in the ready-download links.
+
+**Context**: The customer is an external user from a Customer Organization seeking data from a Service Provider's platform. The request involved specific agricultural dataset information that was not readily accessible, leading to multiple follow-ups.
+
+**Solution**: The Support Agent initially provided access to the soybean oil data and informed the customer that the other oils were being processed. Eventually, the Support Agent confirmed that all requested oils from the NASS report had been added to the dataset, and the customer was provided with a link to access the updated information. It is recommended to check for updates regularly on the platform for new data releases.

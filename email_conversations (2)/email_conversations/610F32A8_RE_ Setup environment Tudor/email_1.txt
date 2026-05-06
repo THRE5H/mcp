@@ -1,0 +1,82 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sami Jaballah; Support Dnext
+Date: 2025-07-30 15:25:07.075000+00:00
+Subject: RE: Setup environment Tudor
+Message-ID: GV0P278MB13200C32C65642B9590ED184F824A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677A0EBA5887C3B6DE41E418824A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Environment datahub is ready with the following dataset shared in it 
+
+dnexr-dnexr-sug-bra-tf-lineups-vessel-daily-1
+
+ 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io> 
+Sent: Wednesday, July 30, 2025 14:49
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Setup environment Tudor
+
+ 
+
+Hello,
+
+ 
+
+The DevOps team created a new client environment:
+
+datahub.dnext.io
+
+ 
+
+It will be used for different client. Our first need is for the client: Tudor: access to 1 dataset:
+
+dnexr-dnexr-sug-bra-tf-lineups-vessel-daily-1
+
+ 
+
+They will access it though the platform + APIs.
+
+Contract start: 01.08.2025
+
+Contract End: 31.07.2026
+
+ 
+
+If you can setup this environment. I will send you later the users.
+
+ 
+
+Many thanks
+
+Sami

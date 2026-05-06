@@ -1,0 +1,5 @@
+**Problem**: The customer identified several datasets that should be marked as inactive or deleted due to inactivity or server issues.
+
+**Context**: The user is an external user from the Customer Organization, working with datasets provided by the Service Provider. The datasets listed have not been active for several years or are associated with non-functional source servers.
+
+**Solution**: The Support Agent confirmed that the requested actions to mark the datasets as inactive or delete them were completed. It is recommended to regularly review and update dataset statuses to ensure data integrity and operational efficiency.

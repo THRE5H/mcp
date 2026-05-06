@@ -1,0 +1,5 @@
+**Problem**: The customer reported that when switching between tabs in the TF, they lose their selection, which was not the case previously. Additionally, changing the country resets the view to the top of the destination country instead of maintaining the user's position in the grid.
+
+**Context**: The user is an external user of the TF feature within the Service Provider's platform. The issue appears to be related to recent changes in the user interface that affect navigation and selection retention.
+
+**Solution**: The Support Agent acknowledged the issue and informed the customer that a team member is working on it. The customer was advised to wait for further updates regarding the resolution of the problem. No specific recommendations were provided at this stage.

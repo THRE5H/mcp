@@ -1,0 +1,26 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-06 18:01:48.969000+00:00
+Subject: Re: china weather dashboard
+Message-ID: ZR3P278MB12268FAA34031FBEC5DC3F10F5F62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717957EDC14CE9981D6E26AEBF62@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Fixed. 
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 06 February 2025 13:59
+To: Support Dnext <support@dnext.io>
+Subject: china weather dashboard 
+ 
+this is how the page looks when going to Historical Comparison
+
+
+
+

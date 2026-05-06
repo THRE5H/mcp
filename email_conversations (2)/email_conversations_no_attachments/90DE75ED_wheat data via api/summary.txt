@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring whether the latest wheat data is available via the API, as the most recent publication date is from May 1st, while an updated balance sheet was provided on May 30th. They request that this updated data be pushed to the API.
+
+**Context**: The user is an external user from a Customer Organization. The inquiry pertains to data accessibility through an API related to wheat statistics. The situation involves a discrepancy between publication dates and the need for updated information.
+
+**Solution**: The Support Agent confirmed that they would check the API for the latest data and coordinate with the relevant team to push the updated wheat numbers. It is recommended that the customer regularly verify the API for the most current data and communicate any discrepancies promptly.

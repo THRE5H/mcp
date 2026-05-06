@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a column with monthly data or the creation of a new dataset containing monthly data for a specific dataset.
+
+**Context**: The user is an internal user from Customer Organization, communicating with the Customer Support Team of Service Provider. The request pertains to a dataset that currently contains weekly data, and there is a need to clarify the data source before proceeding with the changes.
+
+**Solution**: The support team confirmed the creation of a new dataset with monthly data, but the customer later indicated that the dataset provided was based on weekly data, which did not meet their requirements. The customer provided a link to a valid source of monthly data for use in the dataset. The support team was advised to utilize this new data source.

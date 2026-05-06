@@ -1,0 +1,27 @@
+{
+  "emails": [
+    {
+      "subject": "Brazil FS Dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext; Lucas Rosa; Guillaume Goudy",
+      "cc": "",
+      "received_time": "2026-01-13 15:17:49.988000+00:00",
+      "sent_time": "2026-01-13 15:17:45+00:00",
+      "body_text": "cosmetic issue: change y axis to % \r\n\r\n\r\n\r\n\r\nhere shouldn´t we have something like the arg FS dashboard were we compare all years data by the same week of the year?\r\n@Lucas Rosa <mailto:lucas.rosa@dnext.io> , @Guillaume Goudy <mailto:guillaume.goudy@dnext.io>  u agree?\r\n\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\ncosmetic issue: change y axis to %&nbsp;</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img size=\"275713\" style=\"max-width: 885px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:bafd4848-2ffb-4872-aad1-e8a0b206f4df\"></div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nhere shouldn´t we have something like the arg FS dashboard were we compare all years data by the same week of the year?</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<a href=\"mailto:lucas.rosa@dnext.io\" class=\"tWKOu mention ms-bgc-nlr ms-fcl-b\" id=\"OWAAM259588\">@Lucas Rosa</a>,\r\n<a href=\"mailto:guillaume.goudy@dnext.io\" class=\"tWKOu mention ms-bgc-nlr ms-fcl-b\" id=\"OWAAM102533\">\r\n@Guillaume Goudy</a>&nbsp;u agree?</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img size=\"292329\" style=\"max-width: 885px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:e24f57da-3563-4187-8d95-b46512d6daf6\"></div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "C515AC63FC0E3E498EA92B1838B61AAF",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900034DFC92270000",
+      "size": 1290122,
+      "has_attachments": true,
+      "attachments": [
+        "image.png",
+        "image_1.png"
+      ],
+      "message_id": "GV0P278MB07171427AF272FEED72E3D37EB8EA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Brazil FS Dashboard"
+}

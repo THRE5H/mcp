@@ -1,0 +1,116 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Support Dnext; Rajbir Singh
+Date: 2025-08-15 19:20:29.504000+00:00
+Subject: RE: Share DNEXT Wheat FOB prices with CFG environment
+Message-ID: GV0P278MB1320BDD7688B804D067FB460F834A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB1316D99C7CBDFA6FAD34CEB0F834A@ZR0P278MB1316.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Raj,
+
+ 
+
+The wheat cash dataset is now available on the platform you can find it by following the link below : 
+
+https://cfg.dnext.io/datasets/cfg-3fc888db-22d4-4cc8-be0b-4cf2792c6fa6
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Friday, August 15, 2025 18:18
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Rajbir Singh <rajbir@cfgtrading.ch>
+Subject: RE: Share DNEXT Wheat FOB prices with CFG environment
+
+ 
+
+Hello Pablo and Raj,
+
+ 
+
+The Dashboard is already available on the CFG environment 
+
+you can find it by :
+
+ 
+
+1.	Clicking on the dashboard module on the menu on the left 
+2.	Clicking on the “Economics” tab 
+3.	Expanding the “Wheat” and clicking on “Wheat CNF”
+
+ 
+
+
+
+ 
+
+Or you can directly access it by following the link below : 
+
+ 
+
+https://cfg.dnext.io/dashboard/*/Economics/Wheat/2d0ef212-eac0-4b5e-aaba-2838fc610ec2
+
+ 
+
+Please let me know if you encounter any issue finding the dashboard.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Friday, August 15, 2025 18:01
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rajbir Singh <rajbir@cfgtrading.ch <mailto:rajbir@cfgtrading.ch> >
+Subject: Share DNEXT Wheat FOB prices with CFG environment
+
+ 
+
+Hi Team, can you assist with this request please?
+
+ 
+
+Thanks,
+
+Pablo

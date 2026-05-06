@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download the freight database from R, as the script was running indefinitely without producing results.
+
+**Context**: The customer is an external user from a trading company facing issues with a dataset download using the Service Provider's API. The dataset is large (approximately 5GB), which may contribute to the delay in processing.
+
+**Solution**: The Support Agent reviewed the customer's script, identified and corrected syntax errors, and confirmed that it worked on their end. The customer was advised that the large size of the dataset might cause longer processing times. The Support Agent offered to assist further if the issue persisted.

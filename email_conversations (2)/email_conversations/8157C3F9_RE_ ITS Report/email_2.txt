@@ -1,0 +1,60 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Jebrane Ben Salem; Aditya Jeripotula; Support Dnext; Skander Ghamgui
+Date: 2025-07-21 10:08:26.935000+00:00
+Subject: RE: ITS Report
+Message-ID: GV0P278MB0148DAD9AC251B83466B0C52985DA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226C6DD8A4193F50F190EC5F551A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Unless overlooked, was this taken care of ?
+
+ 
+
+Thanks
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: Thursday, July 17, 2025 3:36 PM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>
+Subject: Re: ITS Report
+
+ 
+
+Adding @Skander Ghamgui <mailto:skander.ghamgui@dnext.io> 
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Sent: 17 July 2025 14:35
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: ITS Report 
+
+ 
+
+Is the healthcheck set up on this one ? 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> > 
+Sent: Thursday, July 17, 2025 3:24 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: ITS Report
+
+ 
+
+Dear team
+
+ 
+
+Can you kindly check the below update from ITS for Malaysia. I see many entries under Product column as labelled "Not Available".
+
+ 
+
+    
+
+Regards,
+
+Aditya Jeripotula

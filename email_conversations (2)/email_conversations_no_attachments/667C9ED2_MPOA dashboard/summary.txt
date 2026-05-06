@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the MPOA dashboard's 1-31 configuration is not displaying any data for the months of August, September, and October.
+
+**Context**: The user is an external user accessing the MPOA dashboard provided by the Service Provider. The issue involves missing data in a specific configuration, which may affect reporting and analysis.
+
+**Solution**: The Support Agent investigated the configuration settings and identified a data synchronization issue that was preventing the display of the missing months. After resolving the synchronization problem, the data for August, September, and October appeared correctly on the dashboard. It is recommended to regularly check configuration settings to ensure data is being updated properly.

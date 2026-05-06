@@ -1,0 +1,25 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-04-01 11:28:49.183000+00:00
+Subject: Re: US crop dashboard table not displaying all values 
+Message-ID: GV0P278MB03219369A50B54041D28B7259DAC2@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07176FDBE5EA1802252397F0EBAC2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello Pablo,
+All is Updated, along with the crop progress data
+
+
+
+thnks,
+Iheb
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Tuesday, April 1, 2025 9:25 AM
+To: Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: US crop dashboard table not displaying all values 
+ 
+ 

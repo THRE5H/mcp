@@ -1,0 +1,86 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Donzé Célien; Support Dnext
+Date: 2025-07-22 15:57:47.888000+00:00
+Subject: RE: Demande d'accès à DNEXTR
+Message-ID: GV0P278MB13205F97CAB7AA91E8CB7993F85CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0642A9B1D2E1D0681A42E52B9A5CA@ZRAP278MB0642.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Bonjour Célien,
+
+ 
+
+Vous trouverez ci-dessous vos identifiants pour accéder à l'environnement  DNEXR à l'adresse suivante : 
+
+ 
+
+https://dnexr.dnext.io 
+
+ 
+
+Username : celien.donze@hefr.ch
+
+Password : PobTo4VvjaVBYuZ
+
+ 
+
+N'hésitez pas à nous contacter si vous avez besoin de toute assistance supplémentaire.
+
+ 
+
+Cordialement,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Donzé Célien <celien.donze@hefr.ch> 
+Sent: Tuesday, July 22, 2025 15:46
+To: Support Dnext <support@dnext.io>
+Subject: Demande d'accès à DNEXTR
+
+ 
+
+Bonjour,
+
+ 
+
+J'aurais besoin d'un accès à DNEXTR pour créer un dashboard sur les metrics des forecasts, dans le cadre du projet RESOUND.
+
+J'ai déjà un accès sur https://resound.dnext.io/
+
+J'en ai discuté avec Guillaume Goudy et il m'a dit de passer par ici.
+
+ 
+
+Merci pour votre aide et bonne semaine.
+
+ 
+
+Meilleures salutations,
+
+ 
+
+█ Célien Donzé  ▪  Collaborateur scientifique  ▪  Institut iCoSys
+
+█  Haute école d'ingénierie et d'architecture de Fribourg
+█  Bd de Pérolles 80  ▪  CH-1700 Fribourg
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The user requested assistance to gain access to the Dnext platform.
+
+**Context**: The user is a Trading Assistant from a Partner Company seeking access to the Dnext platform, which is managed by a Service Provider. The request was made via email to a Team Member at the Service Provider.
+
+**Solution**: A user account was created for the user on the Dnext platform, and login credentials were sent to the user's email address. The Support Team confirmed the account setup and encouraged the user to reach out for further assistance if needed.

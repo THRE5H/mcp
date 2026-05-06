@@ -1,0 +1,5 @@
+**Problem**: The user reported that several dashboards, including the EU commission SND and individual countries' official SND dashboards, have disappeared from the platform and are not found in the BF section.
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance regarding the DNext BF Environment. The issue appears to be related to recent adjustments made to the dashboard settings.
+
+**Solution**: The Support Agent acknowledged the issue and is investigating the disappearance of the dashboards. It is recommended that the user check for any recent updates or changes in the dashboard settings that may have affected visibility. Further follow-up will be provided once the investigation is complete.

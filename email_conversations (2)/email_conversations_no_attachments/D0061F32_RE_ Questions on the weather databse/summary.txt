@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the NUTS region mapping for specific datasets and sought clarification on the meaning of the "RUN" and "DATE" columns in the weather database.
+
+**Context**: The customer is an external user (Grains Trader) from Customer Organization. The inquiry pertains to a weather database provided by Service Provider, specifically regarding dataset mappings and data interpretation.
+
+**Solution**: The Support Agent provided a list of datasets with NUTS region mappings and clarified that the "RUN" indicates when the model was executed, while the "DATE" represents the forecasted date. The customer was advised to reach out for further clarification if needed.

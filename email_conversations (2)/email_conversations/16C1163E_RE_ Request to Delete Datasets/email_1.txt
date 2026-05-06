@@ -1,0 +1,56 @@
+From: Dhia Boukchab </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B9209437468A47CC8D21849D5034A2C0-8631A408-AB>
+To: Ghaith Krifa
+Date: 2026-01-13 11:01:16.014000+00:00
+Subject: RE: Request to Delete Datasets
+Message-ID: ZRZP278MB17575A217C711D93F5F34958808EA@ZRZP278MB1757.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0234EBD6694EBA98B5B9F8C6F38EA@ZR0P278MB0234.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Ghaith,
+
+It’s done.
+
+ 
+
+Best Regards,
+
+Dhia BOUKCHAB                                                                           
+
+Customer Support
+
+dhia.boukchab@dnext.io <mailto:dhia.boukchab@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+De : Ghaith Krifa <ghaith.krifa@dnext.io> 
+Envoyé : 13 January 2026 10:57
+À : Dhia Boukchab <dhia.boukchab@dnext.io>
+Cc : Support Dnext <support@dnext.io>
+Objet : Request to Delete Datasets
+
+ 
+
+Hello, Dhiya can you please delete these datasets   
+
+dnexr-vegoils-ind-uns-daily-3
+dnexr-dnexr-vegoils-ind-cash-daily
+dnexr-dnexr-vegoils-ind-uns-daily-2
+dnexr-dnexr-vegoils-ind-uns-weekly
+dnexr-indonesia-biodiesel-estimates-monthly
+
+ 
+
+ <https://email-signature-image.com/signature.gif?u=3854738&e=999737308&v=27b83d938d6edc8d830517f5060e4ddf62dbb26ab0a8cd15f10ac65c7c95ea50> 

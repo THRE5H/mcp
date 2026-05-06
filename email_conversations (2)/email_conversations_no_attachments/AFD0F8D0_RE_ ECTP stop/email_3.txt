@@ -1,0 +1,16 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Sami Jaballah
+Date: 2025-05-14 20:39:09.596000+00:00
+Subject: ECTP stop
+Message-ID: GV0P278MB0148CB3FAA6333D5946033309891A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+This is the last day of ECTP today. Please cut there access tomorrow. You can leave the environment on freeze, in case they come back.
+@Sami Jaballah <mailto:sami.jaballah@dnext.io> , i'll remove them from the distribution list. is there anything else we need to cut them from ?
+
+Thanks,
+
+Bastien

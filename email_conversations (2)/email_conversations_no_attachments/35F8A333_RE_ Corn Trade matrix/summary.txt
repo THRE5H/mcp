@@ -1,0 +1,5 @@
+**Problem**: The customer experienced technical issues accessing the TradeMatrix and creating scenarios within the Excel spreadsheet. They also inquired about the correct file path for accessing a specific Excel file with macros.
+
+**Context**: The user is an external user from a trading company seeking support from a customer support representative at a service provider. The issue involves the TradeMatrix feature in an Excel spreadsheet, which the user was unable to use due to errors.
+
+**Solution**: The support agent advised the customer to refresh the page to resolve the immediate issue and provided the correct file path to access the Excel file with macros. The updated file was later confirmed to be available in the shared OneDrive folder, ensuring the customer had access to the necessary resources.

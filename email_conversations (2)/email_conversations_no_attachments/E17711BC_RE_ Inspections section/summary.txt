@@ -1,0 +1,5 @@
+**Problem**: The customer reported confusion regarding the organization of inspection data, specifically mentioning multiple entries for Europe and the absence of USA data. They requested a transfer and harmonization of the data.
+
+**Context**: The user is an external user from Customer Organization, seeking support from the Service Provider regarding the inspections section of a data management tool. The issue involves data organization within the DNEXR system, with specific references to the TAXUD tab.
+
+**Solution**: The Support Agent moved the "Europe Grains Surveillance" entry to the "TAXUD" tab, transferred the "TAXUD Gno" entry to the appropriate stage, and created a new tab for the USA, relocating the summary there. It is recommended to regularly review data organization to prevent similar issues in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with their login credentials for accessing the platform.
+
+**Context**: The customer is an external user (Senior Trader) from a Customer Organization. The issue pertains to login credentials for a platform provided by a Service Provider. The customer was following up on previously shared login details.
+
+**Solution**: The Support Agent provided the customer with their login credentials and the platform URL. The customer confirmed receipt of the information, indicating that they could proceed with accessing the platform. It was recommended that the customer change their password upon first login for security purposes.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Truck Arrivals dashboard was not updated for the Soybean regions, as all regions were incorrectly mapped as "others."
+
+**Context**: The user is an external user from a Customer Organization seeking assistance with a dashboard feature related to the Service Provider's product. The issue arose during the 2025 mapping process for the Soybean regions.
+
+**Solution**: The Support Agent identified the mapping function in the script that needed adjustment. The customer was asked to confirm how to proceed with the changes, and once confirmed, they would apply the necessary adjustments to resolve the issue. It is recommended to review mapping functions regularly to prevent similar issues in the future.

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users notice that the official farmer selling data for Argentina is not updated in the dashboard, with the last available data dated January 30th.",
+    "solution": "There is a known delay of one week in the official farmer selling data updates. To prevent confusion, a note has been added to the dashboard explicitly stating that the data is updated with a one-week delay. This informs users about the update frequency and sets correct expectations regarding data freshness.",
+    "keywords": [
+      "data delay",
+      "official farmer selling",
+      "Argentina",
+      "dashboard note",
+      "data update frequency",
+      "data freshness",
+      "data latency"
+    ],
+    "category": "Feature Explanation"
+  }
+}

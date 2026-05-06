@@ -1,0 +1,183 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Saurabh Arora; Support Dnext
+Date: 2025-07-23 14:08:50.479000+00:00
+Subject: RE: Unable to download historical Cash prices and premiums data
+Message-ID: GV0P278MB13209F8B774E8FD6D60ECE6DF85FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320A34D36DF813F94FCD51FF85FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saurabh,
+
+ 
+
+I wanted to add that you can download this dataset from the platform that has the CNF , FOB & Freight. 
+
+ 
+
+It has historical data and is always updated kindly find the link below : 
+
+
+https://alghurair.dnext.io/datasets/alghurair-a410fb85-d8ab-11ef-82fc-06cd53a4d901
+
+
+
+
+Please let us know if you have any questions or inquiries.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Wednesday, July 23, 2025 13:18
+To: Saurabh Arora <Saurabh.Arora@al-ghurair.com>; Support Dnext <support@dnext.io>
+Subject: RE: Unable to download historical Cash prices and premiums data
+
+ 
+
+Hello Saurabh,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+You can download that table data from the visual by hovering over the line chart and then clicking on the three dots (see image below)
+
+
+
+ 
+
+Then click on “Export data” 
+
+
+
+ 
+
+Then choose  “xlsx(Excel 150,000-row max)” 
+
+
+
+ 
+
+And click on Export
+
+
+
+Please let us know if this helps you find what you are looking for.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> > 
+Sent: Wednesday, July 23, 2025 12:55
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Unable to download historical Cash prices and premiums data
+
+ 
+
+Hi Team,
+
+ 
+
+I am trying to access cash prices data on the portal. While I can see the data and price charts historically, I am not able to download the same. Find below the screenshot of price data I am trying to access and download. 
+
+ 
+
+
+
+ 
+
+Could you pls help with the same. 
+
+ 
+
+ 
+
+Thanks and Regards
+
+ 
+
+ 
+
+ 
+
+Saurabh Arora
+
+Specialist ‑ Research
+
+ 
+
+
+
+
+
+ 
+
+
+
+		
+
+
+
+
+
+
+ <https://www.linkedin.com/company/al-ghurair> 
+
+		
+		
+ 
+
+ 
+
+ <http://www.al-ghurair.com/en> 
+
+
+
+
+
+    

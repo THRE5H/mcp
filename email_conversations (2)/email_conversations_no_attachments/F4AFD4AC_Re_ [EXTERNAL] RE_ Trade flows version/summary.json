@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The user wants to compare current and previous versions of corn trade flows using a script, but the old script no longer works due to changes in tradeflow and forecast code formats.",
+    "solution": "Use the updated Python script provided to authenticate and retrieve trade flow data. Key steps include: 1) Authenticate via POST to https://api.dnext.io/dev/auth/custom-login with email, password, and organization to get a Bearer token. 2) Use the updated tradeflow and forecast codes in the format 'thul-xxxx-xxxx-xxxx-xxxx'. 3) Retrieve the list of tradeflows from https://api.dnext.io/v1.0/fundamentals/tradeflows?old_sharing=true and find the tradeflow_id matching the updated code. 4) List snapshots for the tradeflow using GET https://api.dnext.io/v1.0/fundamentals/tradeflows/{tradeflow_id}/snapshots with parameters. 5) Choose a snapshot from the list. 6) Download and compare tradeflow data by POSTing to https://api.dnext.io/fundamentals/tradeflow/compare with JSON payload specifying code, from snapshot, forecasts, and startMonth. 7) Load the returned URL data into a pandas DataFrame and filter relevant columns. This updated script replaces deprecated code formats and endpoints, ensuring successful retrieval of historical trade flow data.",
+    "keywords": [
+      "trade flows",
+      "tradeflow code",
+      "forecast code",
+      "API authentication",
+      "Bearer token",
+      "tradeflow snapshots",
+      "data retrieval",
+      "Python script",
+      "pandas",
+      "API endpoint",
+      "historical data",
+      "tradeflow comparison",
+      "updated code format",
+      "thul-xxxx-xxxx-xxxx-xxxx"
+    ],
+    "category": "How-to Guide"
+  }
+}

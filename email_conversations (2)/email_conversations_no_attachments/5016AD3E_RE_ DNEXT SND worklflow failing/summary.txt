@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the DNEXT SND workflow, specifically the "dnexr-bly-world-snd_item-weekly," was failing to run.
+
+**Context**: The user is an internal user from the Customer Organization seeking assistance from the Service Provider's support team regarding a workflow issue in their DNEXT product.
+
+**Solution**: The Support Agent confirmed that the issue was fixed, although specific details on the resolution were not provided. It is recommended to monitor the workflow regularly to prevent future failures.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of two new users to a distribution list and the creation of their accounts on the Dnext platform.
+
+**Context**: The request was made by a User from a Partner Company to internal Users at a Service Provider. The email was part of a communication regarding onboarding new joiners to the platform.
+
+**Solution**: The Support Team confirmed that accounts for the new users were successfully created on the platform, and their login credentials were sent privately. Additionally, both users were added to the relevant distribution list, fulfilling the customer's request.

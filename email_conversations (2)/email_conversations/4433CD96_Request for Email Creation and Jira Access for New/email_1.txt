@@ -1,0 +1,29 @@
+From: Meriem Zougar </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=58FA5C8C6A4446D9B9CE6F2537293166-82EAE411-7A>
+To: Support Dnext
+Date: 2025-05-21 09:49:48.201000+00:00
+Subject: Request for Email Creation and Jira Access for New Team Member
+Message-ID: ZR2P278MB100356D6F4D5BCDF5BD2DB8B909EA@ZR2P278MB1003.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+We have a new team member joining us today, and I would like to request the following:
+
+1.	
+	Email Account Creation
+
+	1.	
+		Name: Abderrahman Turki
+	2.	
+		Department/Team: DEV team
+
+2.	
+	Jira Access
+
+
+Please let me know once the email is created and access is granted, or if you need any additional information.
+
+Best regards,
+Mariem ZOUGAR
+
+

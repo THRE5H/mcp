@@ -1,0 +1,5 @@
+**Problem**: The User was unable to download the Tradematrix from the portal, despite previously having access to this feature.
+
+**Context**: The User is an external user from a Customer Organization experiencing issues with a feature of the Service Provider's platform. The problem arose while trying to download a document, which was previously accessible.
+
+**Solution**: The Support Agent advised the User to log out and log back into the platform, which resolved the issue. The User confirmed that this action allowed them to access the download button successfully. It is recommended to log out and log back in if similar issues occur in the future.

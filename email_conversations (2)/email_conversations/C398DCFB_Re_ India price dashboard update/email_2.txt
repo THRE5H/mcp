@@ -1,0 +1,30 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Nour Meddeb; Support Dnext
+Date: 2025-06-04 13:25:48.903000+00:00
+Subject: Re: India price dashboard update
+Message-ID: GV0P278MB0717169005CCDA30F8AC8790EB6CA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB052788354695DBBC1131A4B3966CA@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Can you send me the link to the source we are using? I will ask our contact there if they have an alternative
+
+
+________________________________
+
+From: Nour Meddeb <nour.meddeb@dnext.io>
+Sent: Wednesday, June 4, 2025 12:28:51 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: India price dashboard update 
+ 
+The source server is down we can't fetch data from
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, May 30, 2025 12:45 PM
+To: Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: India price dashboard update 
+
+

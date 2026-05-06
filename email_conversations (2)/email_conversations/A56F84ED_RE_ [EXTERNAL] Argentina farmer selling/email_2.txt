@@ -1,0 +1,228 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Fabio Barros; Pablo Figueroa; Wassim Mandhouj
+Date: 2025-05-26 17:02:41.063000+00:00
+Subject: Re: [EXTERNAL] Argentina farmer selling 
+Message-ID: ZR3P278MB1226E469B5A3C5F9DD6C8AE1F565A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: CO1PR11MB4980EB8B1E8F2C79A2F50099FC65A@CO1PR11MB4980.namprd11.prod.outlook.com
+
+================================================================================
+
+Hello Fabio,
+I hope you're doing well.
+Apologies for the delay and any inconvenience it may have caused.
+You now have access to the two datasets related to Argentina farmer selling:
+
+*	
+	Daily data: https://cresource.dnext.io/datasets/cresource-5fc7b02a-76c6-46f5-afd4-29ca50bc7de4/general <https://cresource.dnext.io/datasets/cresource-5fc7b02a-76c6-46f5-afd4-29ca50bc7de4/general> 
+*	
+	Weekly data: https://cresource.dnext.io/datasets/cresource-617e8638-062d-45ef-8d39-0e0fc6fa4c05 <https://cresource.dnext.io/datasets/cresource-617e8638-062d-45ef-8d39-0e0fc6fa4c05> 
+
+Please let me know if you need anything else or if you encounter any issues accessing the files.
+Best regards,
+Jebrane.
+
+
+
+________________________________
+
+From: Barros, Fabio (Crosby Resource Capital) <Fabio.Barros@cresourcecap.com>
+Sent: 26 May 2025 15:11
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Joe Kleinman <Joe.Kleinman@cresourcecap.com>; Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] Argentina farmer selling 
+ 
+
+Thank you Pablo…
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Monday, May 26, 2025 10:50 AM
+To: Barros, Fabio (Crosby Resource Capital) <Fabio.Barros@cresourcecap.com>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com>; Support Dnext <support@dnext.io>
+Subject: Re: [EXTERNAL] Argentina farmer selling 
+
+ 
+
+Hi Fabio. Adding customer support team which will provide the different ways available to download the data.
+
+sorry for the delayed response.
+
+ 
+
+ 
+
+Regards,
+
+Pablo
+
+ 
+
+ 
+
+________________________________
+
+From: Barros, Fabio (Crosby Resource Capital) <Fabio.Barros@cresourcecap.com <mailto:Fabio.Barros@cresourcecap.com> >
+Sent: Monday, May 26, 2025 3:38 PM
+To: Wassim Mandhouj <wassim.mandhouj@dnext.io <mailto:wassim.mandhouj@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Joe Kleinman <Joe.Kleinman@cresourcecap.com <mailto:Joe.Kleinman@cresourcecap.com> >
+Subject: RE: [EXTERNAL] Argentina farmer selling 
+
+ 
+
+Morning,
+
+ 
+
+Any feedback on the email / question below?
+
+ 
+
+Thank you…
+
+ 
+
+From: Barros, Fabio (Crosby Resource Capital)
+Sent: Thursday, May 22, 2025 12:13 PM
+To: Wassim Mandhouj <wassim.mandhouj@dnext.io <mailto:wassim.mandhouj@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com <mailto:Joe.Kleinman@cresourcecap.com> >
+Subject: RE: [EXTERNAL] Argentina farmer selling
+
+ 
+
+Hi Guys,
+
+ 
+
+How can we download this data directly from the platform?
+
+ 
+
+Thank you very much…
+
+ 
+
+Fabio
+
+ 
+
+From: Wassim Mandhouj <wassim.mandhouj@dnext.io <mailto:wassim.mandhouj@dnext.io> >
+Sent: Thursday, May 22, 2025 3:00 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: [EXTERNAL] Argentina farmer selling
+
+ 
+
+Daily Argentina farmer selling in thousand tons:
+
+2025 Crop Farmer Selling:
+
+Date
+
+Variable
+
+Corn
+
+Wheat
+
+Soybean
+
+2025-05-21
+
+Priced
+
+207.28
+
+40.96
+
+435.38
+
+2025-05-21
+
+Priced Straight
+
+155.33
+
+31.49
+
+259.83
+
+2025-05-21
+
+To be Fixed
+
+36.55
+
+6.18
+
+30.63
+
+2025-05-21
+
+Total
+
+191.87
+
+37.67
+
+290.46
+
+
+
+
+
+Accumulated farmer selling (official source, lagged by 1 week):
+
+2025 Crop Farmer Selling:
+
+
+For more details check the dashboard / Statistics / Farmer Selling / Argentina
+
+Note: In case the image does not appear, kindly consider using the latest version of Outlook.
+
+ 
+
+Best regards,
+
+DNEXT INTELLIGENCE
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

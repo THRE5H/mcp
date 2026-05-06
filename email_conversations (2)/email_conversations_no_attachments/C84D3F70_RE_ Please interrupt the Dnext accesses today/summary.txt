@@ -1,0 +1,5 @@
+**Problem**: The customer requested to interrupt all accesses to the Dnext platform for the day due to ongoing wind-down and liquidation activities.
+
+**Context**: The user is an external user representing a Customer Organization involved in liquidation activities. The product in question is the Dnext platform, which requires immediate access termination as per the customer's request.
+
+**Solution**: The Support Agent confirmed that all users were removed from the system and the sharing contract was archived, effectively resolving the customer's request. It is recommended to ensure timely communication for access changes in similar future scenarios to prevent unauthorized access.

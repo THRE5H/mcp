@@ -1,0 +1,184 @@
+From: Amna Khemiri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B5D810A87F5643FAB9C232C794D7B567-31F265D5-32>
+To: Enea Albertoli
+Date: 2025-12-18 10:03:47.267000+00:00
+Subject: Re: RSS Price not Updated
+Message-ID: ZRAP278MB03515A06D72BEF252CF6461FE5A8A@ZRAP278MB0351.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353E2720F4992693626916AF6A8A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello All, 
+It's done. You can check it.
+Thank you.
+
+Amna Khemiri
+
+Data Analyst
+
+                                                                                                   amna.khemiri@dnext.io
+
++21696583738 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 18 December 2025 09:55
+To: Amna Khemiri <amna.khemiri@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: RSS Price not Updated 
+ 
+
+Hello Amna,
+
+ 
+
+Thank you.
+
+ 
+
+Following our discussion, I think you can remove that line, it appears to be a source error and it is the only such error.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Amna Khemiri <amna.khemiri@dnext.io> 
+Sent: Thursday, December 18, 2025 9:00 AM
+To: Enea Albertoli <enea.albertoli@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: RSS Price not Updated
+
+ 
+
+Hi Enea,
+
+I hope this message finds you well.
+
+I wanted to inform you that the script has been corrected, and the extract step is now validated. However, we are currently encountering an error in the column mapping step due to an empty price date.
+
+@Bastien Lambert <mailto:bastien.lambert@dnext.io>  Could you please clarify Is it normal to have a blank price date ? and If so, should we drop these rows, or is there an alternative way to handle them ?
+
+
+
+
+
+ 
+
+Amna Khemiri
+
+Data Analyst
+
+                                                                                                   amna.khemiri@dnext.io <mailto:amna.khemiri@dnext.io> 
+
++21696583738 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Sent: 17 December 2025 12:33
+To: Amna Khemiri <amna.khemiri@dnext.io <mailto:amna.khemiri@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >; Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: RSS Price not Updated 
+
+ 
+
+Hello Amna,
+
+ 
+
+How is the progress on this issue going?
+
+ 
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> > 
+Sent: Tuesday, December 16, 2025 2:21 PM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Amna Khemiri <amna.khemiri@dnext.io <mailto:amna.khemiri@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: RSS Price not Updated
+
+ 
+
+Hello Eena,
+@Amna Khemiri <mailto:amna.khemiri@dnext.io>  will fix this. I’ll keep you updated.
+
+Thanks,
+Iheb
+
+ 
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: Tuesday, December 16, 2025 2:07 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: RSS Price not Updated 
+
+ 
+
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Sent: 16 December 2025 11:56
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: RSS Price not Updated 
+
+ 
+
+Dear Support Team,
+
+ 
+
+I hope that this week has started well for you.
+
+ 
+
+May you please give a look at FWFP, the RSS price is not updated.
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/data-exploration
+
+ 
+
+Best,
+
+ 
+
+Enea

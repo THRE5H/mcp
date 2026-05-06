@@ -1,0 +1,5 @@
+**Problem**: The Customer inquired whether the Service Provider was running US planting forecasts for corn and beans.
+
+**Context**: The Customer is an external user from a Customer Organization seeking information from the Service Provider's support team regarding agricultural forecasts. The inquiry is focused on specific crops, indicating a need for timely agricultural data.
+
+**Solution**: The Support Agent acknowledged the request and stated they would check with the internal team for an answer. No resolution was provided in the conversation, but the Support Agent committed to follow up with the Customer.

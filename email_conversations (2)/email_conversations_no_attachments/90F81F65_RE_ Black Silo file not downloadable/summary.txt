@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download a PDF file from the platform, despite being able to download a larger tradeflow matrix without issues.
+
+**Context**: The user is an external user (Grains Analyst) from a Customer Organization (Food & Feed sector) experiencing a technical issue with a specific feature of the Service Provider's platform.
+
+**Solution**: The Support Agent investigated the issue and confirmed that it has been resolved, allowing the customer to download the file successfully. It is recommended to check for any platform updates or maintenance notifications to prevent similar issues in the future.

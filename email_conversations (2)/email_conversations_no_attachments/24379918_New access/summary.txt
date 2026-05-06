@@ -1,0 +1,5 @@
+**Problem**: The customer requested access for a new director to a platform, specifically for the email address dante.pozzi@amaggi.com.br.
+
+**Context**: The user is from a Customer Organization's sales department. The request involves granting access to a specific platform for a new team member. The situation indicates a need for timely onboarding of personnel.
+
+**Solution**: The Support Agent confirmed the request and initiated the access process for the new director. It is recommended that the Customer Organization establish a standard procedure for onboarding new users to streamline future access requests.

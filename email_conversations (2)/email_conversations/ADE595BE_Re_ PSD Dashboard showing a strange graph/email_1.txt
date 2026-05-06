@@ -1,0 +1,80 @@
+From: Farouk Jaziri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=56EB0DDE3BEB4C54A071554F6047B7E1-5FA702FC-B0>
+To: Pablo Figueroa; Jebrane Ben Salem
+Date: 2026-01-12 18:15:41.336000+00:00
+Subject: Re: PSD Dashboard showing a strange graph
+Message-ID: ZR0P278MB1074F2101F49970A9EE286B4FC81A@ZR0P278MB1074.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07175CD4B217D560CDD89C0EEB81A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Hello Pablo, 
+
+I hope you are doing good. I made these adjustments. Please let me know if I need to make further enhancement.
+
+
+Best regards,
+
+FAROUK JAZIRI
+
+DATA ANALYST
+
+                                                                                                    farouk.djaziri@dnext.io <mailto:farouk.djaziri@dnext.io> 
+
++216 25 992 985
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, January 12, 2026 14:34
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: PSD Dashboard showing a strange graph 
+ 
+but here we show two times the same graph? and no title?
+
+either we remove one of them or we add a filter for Item 2 and we show two graphs.
+i would show two graphs being by default the production and stocks.
+would add the stocks to use metric in the table (Stocks/Total Use)
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, January 12, 2026 1:36 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: PSD Dashboard showing a strange graph 
+
+Hello Pablo, 
+
+It's fixed.
+
+
+
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 12 January 2026 08:21
+To: Support Dnext <support@dnext.io>
+Subject: PSD Dashboard showing a strange graph
+ 
+the chart on the bottom left is weird, not sure which is the item it shows. the filters are not controling it.
+
+
+   
+ 

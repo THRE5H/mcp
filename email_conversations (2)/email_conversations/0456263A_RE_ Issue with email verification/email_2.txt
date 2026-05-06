@@ -1,0 +1,31 @@
+From: Daniel Wyczolkowski <daniel.wyczolkowski@viserion.co>
+To: Support Dnext
+Date: 2025-12-01 18:23:15.134000+00:00
+Subject: Issue with email verification
+Message-ID: SA1PR22MB4721B42D33B302F3397E6D75F8DBA@SA1PR22MB4721.namprd22.prod.outlook.com
+
+================================================================================
+
+I just received a request to verify my email which resulted in the following response:
+
+ 
+
+Try a different account
+
+
+
+Daniel Wyczolkowski
+
+daniel.wyczolkowski@viseriongrain.com
+
+daniel.wyczolkowski@viseriongrain.com doesn't have access to Jira on dnext.atlassian.net.
+
+ 
+
+ 
+
+Daniel Wyczolkowski, M.S, CFA
+
+(224)250-3675
+
+ 

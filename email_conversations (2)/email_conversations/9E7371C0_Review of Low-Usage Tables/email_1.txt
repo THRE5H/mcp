@@ -1,0 +1,14 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Support Dnext; Benoit Baliguet
+Date: 2025-05-27 16:12:48.320000+00:00
+Subject: Review of Low-Usage Tables
+Message-ID: ZR3P278MB1226FE6B3548559A2F8BB3E8F564A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: Data_Quality_Check.xlsx
+
+================================================================================
+
+Hello Support,
+We’ve identified several tables in the DNEXR database with 0–15 rows. Could you please confirm if these are still needed? If not, thanks to delete all of them.
+@Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  I’ve created a ticket to add the unused tables to the dashboard that Nader created : https://dnext.atlassian.net/browse/DNP-4661 <https://dnext.atlassian.net/browse/DNP-4661> 
+Best regards,
+Jebrane

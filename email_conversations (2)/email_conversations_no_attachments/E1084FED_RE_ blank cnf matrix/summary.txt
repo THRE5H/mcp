@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the CNF matrix for corn was displaying no values and all tables were blank.
+
+**Context**: The customer is an external user from a Customer Organization, seeking support from a Service Provider regarding a product feature related to the CNF matrix. The issue was identified on January 31, 2025.
+
+**Solution**: The Support Agent acknowledged the issue and confirmed that it was being troubleshot. By February 3, 2025, the issue was resolved, and the matrix was displaying values correctly. It is recommended to monitor the matrix for any future discrepancies.

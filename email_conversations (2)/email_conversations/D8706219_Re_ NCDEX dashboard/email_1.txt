@@ -1,0 +1,36 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Jebrane Ben Salem; Guillaume Goudy; Support Dnext
+Date: 2025-08-18 18:10:50.979000+00:00
+Subject: Re: NCDEX dashboard
+Message-ID: ZRAP278MB0527EE83AD90E7B5978C88689631A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122691E0BEE0299E2763E237F531A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image001.png
+
+================================================================================
+
+hello, 
+
+Issue has been resolved
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, August 18, 2025 3:05 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: NCDEX dashboard 
+
+Adding @Nour Meddeb <mailto:nour.meddeb@dnext.io> 
+________________________________
+
+De : Guillaume Goudy <guillaume.goudy@dnext.io>
+Envoyé : Monday, August 18, 2025 2:48:33 PM
+À : Support Dnext <support@dnext.io>
+Objet : NCDEX dashboard
+ 
+
+No source + depending on the commodity, nothing shows
+
+
+
+ 

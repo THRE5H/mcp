@@ -1,0 +1,17 @@
+From: Ghaith Krifa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=63ECE1530AF0416494C4B3CB118E1096-6B0D7A48-DE>
+To: Support Dnext
+Date: 2025-12-04 10:00:35.698000+00:00
+Subject: Request for removing dataset
+Message-ID: ZR0P278MB0234BB9331AF3D20E0160BEDF3A6A@ZR0P278MB0234.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+Can you please delete this dataset?
+
+Datasets Code :
+Dnexr-grlf--no-edible-oils--ind-cash-daily 
+dnexr-grlf-oil-ind-cash-daily
+
+ <https://email-signature-image.com/signature.gif?u=3854738&e=971728035&v=866e28fa5a19a9522713cfb48e35f2fe7dc282fe739c50a3bd379e611761a579> 

@@ -1,0 +1,5 @@
+**Problem**: The customer needed the latest planting corn data for the USA, which was not previously available on the platform.
+
+**Context**: The user is an external user from the Customer Organization seeking updated agricultural data from the Service Provider's platform. The request was related to the DCS-1108 ticket for the year 2025.
+
+**Solution**: The Support Agent confirmed that the US planting data had been updated on the platform with the latest information for 2025. The customer was directed to the relevant link for access and was advised to check the platform for future updates to stay informed.

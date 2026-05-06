@@ -1,0 +1,173 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Digby Beatson-Hird
+Date: 2026-01-12 18:07:08.763000+00:00
+Subject: RE: DNEXT Platform : sugar lineups access
+Message-ID: GV0P278MB13206913BF0218C6C6206737F881A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: DB9PR08MB66840835284E28ECE85FD252CC81A@DB9PR08MB6684.eurprd08.prod.outlook.com
+
+================================================================================
+
+Hello Digby,
+
+ 
+
+Thanks for your question!
+
+ 
+
+The two files inside each zip folder are split chunks of the same dataset,each containing half of the data. This was done to make it easier to manage larger files. 
+
+ 
+
+Our team is working on improving this so that users can download the full dataset in one file for smaller datasets.
+
+ 
+
+Let me know if you have any other questions!
+
+ 
+
+Best,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Digby Beatson-Hird <d.beatson-hird@averecomm.com> 
+Sent: Monday, January 12, 2026 17:50
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; John Stansfield <john.stansfield@dnext.io>
+Subject: RE: DNEXT Platform : sugar lineups access
+
+ 
+
+Hello Saber,
+
+ 
+
+Quick follow up question if you don’t mind.
+
+ 
+
+When I download the Central American and Thailand lineups, there are two separate csv files in each of the origin’s zip files (2x Thailand and 2x Centrals).
+
+ 
+
+What is the difference between the two files of the same origin?
+
+ 
+
+e.g:
+
+
+
+ 
+
+Thanks,
+
+Digby
+
+ 
+
+From: Digby Beatson-Hird 
+Sent: 09 January 2026 13:17
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: DNEXT Platform : sugar lineups access
+
+ 
+
+Hi Saber,
+
+ 
+
+This is great. Many thanks for putting these on the portal for my ease of access.
+
+ 
+
+I wont need to bother John so much!
+
+ 
+
+Thanks
+
+Digby
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: 08 January 2026 16:52
+To: Digby Beatson-Hird <d.beatson-hird@averecomm.com <mailto:d.beatson-hird@averecomm.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: DNEXT Platform : sugar lineups access
+
+ 
+
+	You don't often get email from saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+
+	
+
+Dear Digby,
+
+ 
+
+I hope you're doing well.
+
+ 
+
+This is Saber from the DNEXT Customer Support team. I’m reaching out to confirm that the sugar lineups for the following regions have been shared with your environment:
+
+ 
+
+*	Thailand : https://avere.dnext.io/datasets/avere-268e936e-c459-11f0-9422-02abcd39fb87
+*	Central America : https://avere.dnext.io/datasets/avere-197cc125-c480-11f0-9422-02abcd39fb87
+*	India : https://avere.dnext.io/datasets/avere-ea8d470f-d4e4-11f0-9422-02abcd39fb87
+*	Australia : https://avere.dnext.io/datasets/avere-12cac22c-7845-438a-a975-45ae6e9a6b88
+
+ 
+
+To download the data, open the dataset page and click on the “Download” Button on the top right of the page.
+
+
+
+ 
+
+Please let us know if you still need assistance with downloading the data. We're happy to schedule a call at your convenience to walk you through the process of accessing and downloading the data from the platform.
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

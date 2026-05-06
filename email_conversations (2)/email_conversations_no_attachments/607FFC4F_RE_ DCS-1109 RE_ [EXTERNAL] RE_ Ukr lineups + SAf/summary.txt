@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the China Import Margins Dashboard was unavailable on the platform.
+
+**Context**: The customer is an external user from a Customer Organization seeking access to a specific feature of the Service Provider's platform. The issue occurred within a service request related to data analysis tools.
+
+**Solution**: The Support Agent confirmed that the China Import Margins Dashboard was restored and is now available for use. The customer was thanked for their patience, and no further actions were needed as the issue was resolved successfully. It is recommended to monitor the dashboard regularly for any future accessibility issues.

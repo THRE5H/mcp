@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of multiple datasets from the DNEXR platform.
+
+**Context**: The user is an external user from a Customer Organization. The request pertains to specific datasets within the DNEXR service, indicating a need for data management.
+
+**Solution**: The Support Agent acknowledged the request and initiated the deletion process for the specified datasets. The customer was informed of the successful deletion and advised to regularly review datasets to maintain optimal data management practices.

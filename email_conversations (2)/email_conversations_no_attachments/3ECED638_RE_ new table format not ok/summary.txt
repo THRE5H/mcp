@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the new format for the Brazil crop progress table had excessive spacing between states, causing two states to be missing from the view.
+
+**Context**: The customer is an external user, a Grains Analyst from a Customer Organization. The issue pertains to a data visualization feature related to crop progress reporting. The customer needed a more compact table format for better readability.
+
+**Solution**: The Support Agent adjusted the table format to display all states without scrolling. Additionally, they committed to amending other crop dashboards to follow the same format. The customer expressed satisfaction with the changes but suggested further improvements on color choices for better visibility in plots.

@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to extract corn parity data from a report interface easily.",
+    "solution": "To download corn parity data from the report: 1) Hover the mouse over the desired Matrix; a small horizontal menu appears on the right side. 2) Click the three dots on the right to open options. 3) Select 'Export data'. 4) Choose the 'Underlying Data' option and click 'Export'. Additionally, users can download datasets containing current and historical data by clicking the 'Download' button located at the top right of the screen. This method allows direct export of data from the report interface without needing additional tools.",
+    "keywords": [
+      "corn parity",
+      "data extraction",
+      "export data",
+      "underlying data",
+      "report interface",
+      "download dataset",
+      "matrix menu",
+      "export options"
+    ],
+    "category": "How-to Guide"
+  }
+}

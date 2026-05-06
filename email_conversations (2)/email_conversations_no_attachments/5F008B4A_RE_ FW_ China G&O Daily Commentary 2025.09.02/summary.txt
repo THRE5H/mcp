@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to send an email to a recipient due to a delivery failure notification indicating that the recipient's email address could not be found.
+
+**Context**: The user is an external user from Customer Organization attempting to send an email through Office 365. The email was directed to a non-existent address at Partner Company, which resulted in a bounce-back error.
+
+**Solution**: The Support Agent confirmed the deletion request from the customer. It is recommended that the customer verify the recipient's email address for accuracy and consider contacting the recipient directly to confirm their email details. If issues persist, the customer should consult their email administrator for further assistance.

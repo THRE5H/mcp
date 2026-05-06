@@ -1,0 +1,137 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Robero Ruiz
+Date: 2025-02-12 11:22:50.609000+00:00
+Subject: RE: [EXTERNAL] Dnext Plaform - Data Sharing - Change
+Message-ID: GVAP278MB067794323F10CD1B1D3D649A88FC2@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB2381FFF5478458E0C1919F748DFC2@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+Thank you for your message.
+
+ 
+
+Yes, you can continue using the current UIDs until the change will be in place. I am copying our support team. They will be available to help you when the change occurs..
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: mercredi, 12 février 2025 11:16
+To: Sami Jaballah <sami.jaballah@dnext.io>
+Subject: RE: [EXTERNAL] Dnext Plaform - Data Sharing - Change
+
+ 
+
+Hello Sami,
+
+ 
+
+Many thanks for your email. 
+
+ 
+
+I use several APIs. I have a question, can I continue using the current UIDs until the 21st of Feb and on this date should I check within my datasets for the “duplicate” one with the new code?
+
+Otherwise, I didn’t understand how to switch to the new UIDs.
+
+ 
+
+Thanks and regards
+
+ 
+
+ 
+
+Roberto
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> > 
+Sent: 11 February 2025 16:56
+Subject: [EXTERNAL] Dnext Plaform - Data Sharing - Change
+
+ 
+
+Dear All,
+
+ 
+
+We are continuously working to improve your experience on our data platform. As part of our ongoing enhancements, we are automating the sharing of datasets, tradeflows and dashboards based on your subscription.
+
+ 
+
+What this means for you:
+
+*	You will automatically receive access to the resources included in your subscription. 
+*	In case of changes or evolution of the resources, your access will be updated dynamically.
+
+ 
+
+This change aims to streamline the process, ensuring you have timely and seamless access to the data you need. 
+
+ 
+
+Is there any impact for our current users? Yes for clients using APIs. The datasets and tradeflows UIDs will be changed. It is possible that you will have twice the list of datasets and tradeflows (new code / old code) within your environment. This issue will be solved when the new sharing solution will be deployed. The implementation of this change will take place on February 21st, 2025.
+
+ 
+
+Should you encounter any issues or have any questions, our support team is available to assist you at support@dnext.io <mailto:support@dnext.io> 
+
+ 
+
+Thank you for your continued trust in our platform.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+SAMI JABALLAH
+
+COO & CO-FOUNDER
+
+                                                                                                     sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.iom> 
+
++41 79 224 48 80
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

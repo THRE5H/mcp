@@ -1,0 +1,134 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext; Jean Golay
+Date: 2025-02-04 13:32:13.839000+00:00
+Subject: RE: Issue in dowloading safrinha corn planting
+Message-ID: GV0P278MB1320172FABB54F80788ACEFEF8F42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02115DC682CE6063638EB0F898F42@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Everyone
+
+ 
+
+@Jean Golay <mailto:Jean.golay@ectp.com>  Hello
+
+ 
+
+I hope this email finds you well  
+
+ 
+
+To download the data, navigate to Dashboards Module 
+
+
+
+ 
+
+Then go to the Crop Tab look for Brazil Expand the button and look for Crop Progress 
+
+ 
+
+
+
+ 
+
+Once there you will see a report choose IMEA :
+
+ 
+
+
+
+ 
+
+Then hover your mouse on the matrix and a menu will show up click on the three dots and choose Export Data 
+
+ 
+
+
+
+ 
+
+Choose “Underlying Data” option and click Export 
+
+ 
+
+
+
+ 
+
+Also you can download the raw data used to create the report from the Datasets Module : 
+
+ 
+
+
+
+ 
+
+Here are the four datasets for IMEA : 
+
+https://ectp.dnext.io/datasets/ectp-9240869c-f98a-4d4e-97fe-6ffa6fbc60f7/  for Corn Harvesting 
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-9d87640a-dad6-40c8-a7de-42432d1ccef5 for Corn Planting
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-4a484baf-518d-40d8-8547-2c43ee456636/ for Soybean Harvesting
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-075980c6-3ea0-41a9-99d1-b3986a88e1b6 for Soybean Planting
+
+ 
+
+please let us know if this helps you 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Tuesday, February 4, 2025 11:15
+To: Support Dnext <support@dnext.io>
+Cc: Jean Golay <Jean.golay@ectp.com>
+Subject: Issue in dowloading safrinha corn planting
+
+ 
+
+Saber,
+
+Hope all is well. See message sent by Jean Golay from ECTP
+
+ 
+
+“Hi guys, I cannot manage to download the crop progress data (safrinha corn planting for all the years available) from Idea from your platform. Could you help me?”
+
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the "Lineups Table" in the lineup dashboards has a static month filter and requested a dynamic configuration to always display the current, previous, and next month.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance from the Service Provider's support team regarding a feature in their dashboard product. The request involves modifying the month filter functionality to enhance usability.
+
+**Solution**: The Support Agent acknowledged the request and escalated it to the Lineups team for further evaluation. A follow-up will be necessary to confirm if the dynamic month filter can be implemented as requested. It is recommended for the customer to monitor updates from the Lineups team regarding this feature enhancement.

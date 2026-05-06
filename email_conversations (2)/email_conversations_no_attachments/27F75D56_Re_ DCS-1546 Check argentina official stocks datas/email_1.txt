@@ -1,0 +1,34 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-07-28 11:33:10.428000+00:00
+Subject: Re: DCS-1546 Check argentina official stocks datasets
+Message-ID: GV0P278MB051474EB2268BEE837C51B41F05AA@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 01010198509539e7-cf5e2038-9182-4194-8311-47c85073c44c-000000@us-west-2.amazonses.com
+
+================================================================================
+
+I will check it 
+________________________________
+
+From: Mohamed Jebrane Ben Salem <jira@dnext.atlassian.net>
+Sent: Monday, July 28, 2025 11:30 AM
+To: Nader Ltaief <nader.ltaief@dnext.io>
+Subject: DCS-1546 Check argentina official stocks datasets 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Mohamed Jebrane Ben Salem commented:
+
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io>  & @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1546?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjI1ODc1MDEwNGZlMjk0OTJiOGM0NzI3NzM0ODE1YTcwNGVmOGFjOWFhZmU0NzMzZDk0MDQ5NzAwMTI2OTZjNmUiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxODUiLCJpc3N1ZSI6IkRDUy0xNTQ2In0sImV4cCI6MTc1NjExNzgxMiwiaWF0IjoxNzUzNjk4NjEyfQ.f9vify-E93iR6MADSW4q1xAxXtlBhhgVNkdxsR6qQOU&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1546/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjhlNmUzYjZmMGEwYjhlMjZmN2U1M2U0OWQwYjFlNTMyZmQyYTI0OTM1N2QwMzY4YmI3ZTc5NGJiODc3NjViNTgiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjkyMmNjOTVhLWEwMmEtNGFhZC04OWU0LWM3NDc2MDcyMzFmNiIsImlzc3VlIjoiRENTLTE1NDYifSwiZXhwIjoxNzU2MTE3ODEyLCJpYXQiOjE3NTM2OTg2MTJ9.JsF4UA08ffbefVs5Jl4jno-wtHXShAprlIGI4EvJh4Y> 
+
+This is shared with Pablo Figueroa, meddeb nour, iheb.mhamdi, and Nader Ltaief.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on July 28, 2025 12:30:12 PM CEST 
+ <http://atlassian-trk.prd.msg.ss-inf.net/CI0/01010198509539e7-cf5e2038-9182-4194-8311-47c85073c44c-000000/d25oEANO_coQjRH8ZC_WlBdIGbLK_OYFw5czDCu9JWk=415> 

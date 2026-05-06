@@ -1,0 +1,244 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Aya Sakli; Pierre Goffinet
+Date: 2025-08-26 15:10:41.627000+00:00
+Subject: FW: Platform Catalog 
+Message-ID: GV0P278MB0211F6A09B28A4C98001BB7E9839A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB05912064CC4FFBB6566E0B6DF839A@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+Attachments: Revision_01_Dnext Platform Catalog 2025.docx
+
+================================================================================
+
+Adding Pierre as i am sure he will get same requests in the near future. We need to able to generate and maintain data catalogue. 
+
+Tks
+
+gg
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io> 
+Sent: Tuesday, 26 August 2025 14:31
+To: Aya Sakli <aya.sakli@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Platform Catalog 
+
+ 
+
+Hello Aya, how are you?
+
+ 
+
+Thanks, I made some comments over the word attached.
+
+ 
+
+One suggestion for all text and I added some examples at the word file is after you write the text, ask chat GPT to make it clear and straight to the point, and it is always good to give a brief explanation.
+
+ 
+
+Thanks
+
+Lucas
+
+ 
+
+From: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> > 
+Sent: sexta-feira, 22 de agosto de 2025 13:17
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog 
+
+ 
+
+Hello Lucas,
+
+ 
+
+Please find attached the platform catalog I just prepared in both PDF and Word formats.
+
+ 
+
+Best regards,
+
+ 
+
+Aya
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: 22 August 2025 13:08
+To: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Catalog 
+
+ 
+
+Thanks Aya!
+
+ 
+
+From: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> > 
+Sent: sexta-feira, 22 de agosto de 2025 09:02
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog 
+
+ 
+
+Hello Lucas,
+
+ 
+
+The report is in progress and we will send it to you today.
+
+ 
+
+Best regards,
+
+ 
+
+Aya
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: 22 August 2025 12:26
+To: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Catalog 
+
+ 
+
+Hello guys, any return on this?
+
+It was supposed to be ready by Monday.
+
+ 
+
+From: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> > 
+Sent: terça-feira, 19 de agosto de 2025 10:27
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog 
+
+ 
+
+Hello Lucas,
+
+ 
+
+I will make the necessary modifications and send it back to you as soon as possible.
+
+ 
+
+Best regards,
+
+ 
+
+Aya
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: 19 August 2025 14:13
+To: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Catalog 
+
+ 
+
+Hello, i made some comments over the PDF.
+
+ 
+
+Let me know if you have any doubts.
+
+just to confirm that you will add trade flow, CNF prices, freight matrix and others.
+
+ 
+
+Thanks
+
+Lucas
+
+ 
+
+From: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> > 
+Sent: segunda-feira, 18 de agosto de 2025 13:13
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog 
+
+ 
+
+Hello everyone,
+
+ 
+
+This is the first version of the platform catalogue I’ve prepared. Could you please confirm if this meets your request? 
+
+Not all dashboards are included yet, we will add the remaining ones after your confirmation.
+
+ 
+
+Best regards,
+
+ 
+
+Aya
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 12 August 2025 09:43
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Catalog 
+
+ 
+
+He means (i think) a list of data we have available in the platform...easier would be to do it by category
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, 12 August 2025 10:30
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog 
+
+ 
+
+Hello Lucas,
+
+ 
+
+Could you please clarify what you mean by platform catalogue 
+
+ 
+
+Best regards
+
+ 
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: Monday, August 11, 2025 7:30:57 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Platform Catalog
+
+ 
+
+Hello Support, hop is all good on your side.
+
+ 
+
+Could you please send a platform catalog for Andre (his email is below) and cc myself on this.
+
+ 
+
+andre.petry@slcagricola.com.br <mailto:andre.petry@slcagricola.com.br> 
+
+ 
+
+Thanks
+
+Lucas
+
+ 

@@ -1,0 +1,45 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2026-01-12 15:03:41.016000+00:00
+Subject: Country Codes
+Message-ID: ZR3P278MB13533C100CC39957A0E9D426F681A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Support Team,
+
+ 
+
+It appears the country codes below exist but cannot be selected when mapping a dataset.
+
+May you please help me, please?
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+https://dnexr.dnext.io/workflows/bdd6b4d5-18e8-4e62-ae07-864bece739ce/edit/valuemapping
+
+ 
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+ 

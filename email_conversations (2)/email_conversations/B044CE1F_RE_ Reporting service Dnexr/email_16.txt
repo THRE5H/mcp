@@ -1,0 +1,16 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Support Dnext
+Date: 2025-05-23 17:29:48.601000+00:00
+Subject: Reporting service Dnexr
+Message-ID: GV0P278MB0210D3B44A59A66C0E20CDE99298A@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+I encountered an issue regarding importing a notebook, I think there is a bug: When I import a notebook I don't get any error and there is no result so notebook is not imported.. weird!
+
+Question: If I want to integrate scripts within my notebook how i can integrate that?
+
+Best regards,
+Abir Chebbi

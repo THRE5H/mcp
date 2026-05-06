@@ -1,0 +1,5 @@
+**Problem**: The customer identified a mapping issue with urea, where the product name and code were incorrectly assigned. They requested to change the mapping to ensure clarity for clients.
+
+**Context**: The user is an external user from Customer Organization, specifically the Head of Fertilizer Analysis. The issue involves the mapping of a fertilizer product in the platform, which is critical for client understanding.
+
+**Solution**: The Support Agent suggested editing the product reference and using Reference Management for correction, but expressed uncertainty about potential issues. A Team Member later recommended using the Reapply Mapping feature as a simpler solution that does not require special permissions, ensuring the mapping is corrected without complications.

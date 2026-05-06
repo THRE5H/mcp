@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access their profile to change their password after logging in to the platform.
+
+**Context**: The user is an external user accessing a service provided by a Customer Organization. The issue arose during the initial login process to the platform using provided credentials.
+
+**Solution**: The Support Agent advised the customer to log out and log back in to check the profile section again. The customer confirmed that they regained access to their profile after following this suggestion. It is recommended for users to ensure they log out and back in if they encounter access issues.

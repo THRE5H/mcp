@@ -1,0 +1,27 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-07-31 12:24:31.246000+00:00
+Subject: RSM Trade Matrix
+Message-ID: ZR3P278MB1353555DFF5017A241567F8AF627A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I cannot view or edit data after September 2025.
+
+ 
+
+https://dnexr.dnext.io/fundamentals/tradematrix/dnexr-rapeseedmeal
+
+ 
+
+Both “Settings” and “Configuration” should allow for data to be visualized or edited up until 2026.
+
+ 
+
+
+
+ 

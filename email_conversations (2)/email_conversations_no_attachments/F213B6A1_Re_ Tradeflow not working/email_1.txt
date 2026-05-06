@@ -1,0 +1,79 @@
+From: Rifaeddine Hammemi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=380F58A33E7B45658C7AAF6B50898F4F-1919961A-A7>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-05-20 16:26:07.892000+00:00
+Subject: Re: Tradeflow not working
+Message-ID: GV0P278MB071802807F6AFD0FC499403CEB9FA@GV0P278MB0718.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02118D341F6FE85923B50D23989CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+The tickets have been created, and the dev team are working on it to be fixed in next release. 
+https://dnext.atlassian.net/browse/DNP-4589
+https://dnext.atlassian.net/browse/DNP-4567
+
+Best regards
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 19 May 2025 22:50
+To: Support Dnext <support@dnext.io>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: RE: Tradeflow not working 
+ 
+
+Default values changes as well
+
+If i select vertain combo box in origin split and move to destination split and then come back to orgin split...alll my selections are erased...it was not happening before
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Monday, 19 May 2025 23:36
+To: Support Dnext <support@dnext.io>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: RE: Tradeflow not working
+
+ 
+
+Only solution is to open a new instance and start a new tradeflow and then data is correct. FYI
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Monday, 19 May 2025 23:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: Tradeflow not working
+
+ 
+
+Same issues coming back again and again on validating data. It doubles my quantity. See below example with USA. 2 issues_: 1. Still in forecast whereas it should be official data as I have validated the data 2. The quantity isnow completely wrong. 
+
+I shoift refresh, refresh etc. still same wrong view
+
+gg
+
+ 
+
+

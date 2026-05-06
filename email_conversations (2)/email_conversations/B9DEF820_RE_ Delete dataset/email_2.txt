@@ -1,0 +1,11 @@
+From: Mohamed Chabbouh </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7D5F89C7D49D410D87ECAA4751735A1C-52E4A2EA-48>
+To: Support Dnext
+Date: 2025-11-06 13:53:27.004000+00:00
+Subject: Delete dataset
+Message-ID: GV0P278MB1847D808703EDA5B0621F2D9E0C2A@GV0P278MB1847.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Please delete this dataset :
+
+dnexr-tbi-grains-rus-tf-lineups-vessel-weekly-clone : TBI Russian Federation Adjusted

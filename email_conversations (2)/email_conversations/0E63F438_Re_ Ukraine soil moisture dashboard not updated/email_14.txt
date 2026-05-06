@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-19 11:11:26.767000+00:00
+Subject: Re: Ukraine soil moisture dashboard not updated
+Message-ID: ZR3P278MB1226CBCF66D0415514ACD5A0F5D92@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07170EB9729599A8692286D4EBDE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_26.png, image_27.png
+
+================================================================================
+
+Hello Pablo,
+The dashboard has now been updated.
+Please note that we have changed the table name in case you are using it in your code: ERA5_LAND_Ukraine_STATES_NOCROP_View.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 13:12
+To: Support Dnext <support@dnext.io>
+Subject: Ukraine soil moisture dashboard not updated 
+ 
+i think it might be related to the data because my scripts are giving me the same.
+
+

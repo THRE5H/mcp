@@ -1,0 +1,52 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Mohamed Elasfoury; Mohamed Chabbouh; Wael Kouada
+Date: 2025-03-07 13:58:50.904000+00:00
+Subject: RE: Intertek Malaysia lineup
+Message-ID: GV0P278MB13204F415CB17B3E096A1EBFF8D52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148D8C1ED0FE1F1D3ED25B798CA2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Dataset shared on the Thul environment 
+
+Dataset code is : “thul-3f9680e0-595f-11ef-891d-026031473607”
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Thursday, March 6, 2025 18:52
+To: Support Dnext <support@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Mohamed Chabbouh <mohamed.chabbouh@dnext.io>; Wael Kouada <wael.kouada@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Intertek Malaysia lineup
+
+ 
+
+Hi guys, could you please share the Intertek Palm Malaysia lineup with thul, dataset + if we could do a simple dashboard like done for sinofarm on Indo, would be good.
+
+Thanks

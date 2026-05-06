@@ -1,0 +1,5 @@
+**Problem**: The customer requested a dataset for the combined feed grain trade flow into China, specifying interest in various commodities. However, the customer support team encountered a bug preventing the addition of forecasts to the trade flow.
+
+**Context**: The user is an external customer from a Customer Organization seeking data from a Service Provider. The request involves multiple commodities, including Grain Sorghum, Oats, Corn, Rye, Barley, and DDGS, and is intended for analysis within the Service Provider's platform.
+
+**Solution**: The support team created a trade matrix on the platform and added forecasts once the bug was resolved. The customer was provided with a link to the trade matrix for review and modifications. A ticket was opened to track the bug affecting the saving of forecasts.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a user account in the Enerfo system for the email address dashboarding@dnext.io.
+
+**Context**: The customer is a Data Scientist at a Customer Organization. The request was made to the Support team of the Service Provider regarding user management in the Enerfo application.
+
+**Solution**: The Support Agent successfully created the user account and provided the login credentials, including the username and a temporary password. It is recommended to change the password upon first login for security purposes.

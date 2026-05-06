@@ -1,0 +1,13 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-10-01 16:33:57.860000+00:00
+Subject: Issues with the Tradematrix or the data feeding the tradematrix - Urgent
+Message-ID: GV0P278MB0211F68DC4B43271A1041B1798E6A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Not sure if it is a platform issues or a data issues but the lineups in Oct are not showing up or at extremely small and do not correspond to what is in the email sent by Leonard on D Lineups. See brazil picture as example
+
+ 
+
+

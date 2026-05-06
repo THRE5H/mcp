@@ -1,0 +1,5 @@
+**Problem**: The customer reported encountering an empty page when attempting to access a specific dashboard.
+
+**Context**: The user is an external user from the Customer Organization. The issue involved a dashboard feature of the Service Provider's platform. The problem was raised on February 3, 2025.
+
+**Solution**: The Support Agent confirmed that the issue was resolved shortly after the initial report. It is recommended to clear the browser cache or check for updates if similar issues arise in the future.

@@ -1,0 +1,196 @@
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+To: Saber Khalfallah
+Date: 2025-05-23 12:47:49.348000+00:00
+Subject: RE: [EXTERNAL] RE: US planted and harvested estimates
+Message-ID: GV2P191MB238123937F5410FB609AA1A18D98A@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320797AB0EAD6D6E01AB422F898A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks, Saber.
+
+ 
+
+Regards
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Friday, May 23, 2025 12:41 PM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+Cc: Cobb, Michael <Michael.Cobb@mlp.com>; Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: US planted and harvested estimates
+
+ 
+
+Hello Roberto,
+
+ 
+
+Indeed, once added it will be included in future reports and it will keep updating.
+
+We are actively working on adding it we will let you know once it’s done.
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Friday, May 23, 2025 11:26
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Michael Cobb <Michael.Cobb@mlp.com <mailto:Michael.Cobb@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: US planted and harvested estimates
+
+ 
+
+Hello Saber,
+
+ 
+
+Many thanks for sharing the details of the current dataset.
+
+ 
+
+Yes, could you please include cotton in the mix? Let me know if you have any questions regarding USDA’s reporting format for cotton. Once cotton is added, will it also update with future reports?
+
+ 
+
+Regards
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, May 22, 2025 4:55 PM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Cc: Cobb, Michael <Michael.Cobb@mlp.com <mailto:Michael.Cobb@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: US planted and harvested estimates
+
+ 
+
+Hello Roberto,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+We do have a dataset with historical data dating back to 1995; however, it currently includes only Corn, Soybeans, and Wheat. Cotton data has not been included so far, as there hasn't been any prior request for it.
+
+ 
+
+Dataset Code : thul-7431afe6-5b54-11ef-891d-026031473607
+
+ 
+
+If you require cotton data, we can certainly collect and add it to the dataset. Please let us know if you would like us to proceed, and we will inform you as soon as it's available.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Thursday, May 22, 2025 15:21
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Michael Cobb <Michael.Cobb@mlp.com <mailto:Michael.Cobb@mlp.com> >
+Subject: US planted and harvested estimates
+
+ 
+
+Hi Saber,
+
+ 
+
+Hope that you’re doing well!
+
+ 
+
+We’re looking for historical (2000-2024) USDA’s acreage estimates (planted & harvested) for US corn, soybeans, wheat and cotton.
+
+ 
+
+We’ve seen that USDA’s quickstats database has this data, but unfortunately they only provide a few recent years in database format.
+
+ 
+
+I suspect that Dnext has already cleaned this data, could you please let us know if there is an existing dataset with this info? We need the state and national level estimates reported in USDA’s March survey (March estimate), the June survey (June estimate) and the final estimates.
+
+ 
+
+ 
+
+Thanks for the help,
+
+ 
+
+Rgds
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

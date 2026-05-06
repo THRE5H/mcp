@@ -1,0 +1,53 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-03-25 09:43:09.007000+00:00
+Subject: RE: Black Sea - Precipitation - Panel View
+Message-ID: ZR3P278MB1353AF756466D1A57287AD00F6A72@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB135311DE7602980E4C39C8B4F6A72@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+PS
+
+ 
+
+Pablo pointed out that by changing to “00” instead of “latest” ECMW, the display goes back to normal.
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Tuesday, March 25, 2025 9:38 AM
+To: Support Dnext <support@dnext.io>
+Subject: Black Sea - Precipitation - Panel View
+
+ 
+
+Hello,
+
+ 
+
+I hope that this email find the support team well!
+
+ 
+
+A client just noted that we have an error in the viewing of this weather dashboard: when we filter on Ukraine, to the top right the whole region appears. Would it be possible to fix this error, please? I also observe that no data is displayed on the top right.
+
+ 
+
+Furthermore, might there be a way to zoom a bit more on Ukraine also on the other panels, please?
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

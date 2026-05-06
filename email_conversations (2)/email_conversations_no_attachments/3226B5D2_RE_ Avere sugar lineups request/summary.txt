@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to specific sugar lineups datasets for multiple countries from the Avere environment and needed assistance in setting up a call for guidance on accessing the data.
+
+**Context**: The user is an internal user from Customer Organization reaching out to a Support Agent from Service Provider. The request involves datasets related to sugar lineups, and the customer is coordinating with a third party, Avere.
+
+**Solution**: The Support Agent confirmed that the datasets were successfully shared with the Avere environment. An email was sent to the customer at Avere, proposing a call for assistance with accessing and downloading the data. It is recommended that future requests for data access include a follow-up to ensure successful communication.

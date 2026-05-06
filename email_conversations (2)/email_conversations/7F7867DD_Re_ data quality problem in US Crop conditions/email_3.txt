@@ -1,0 +1,23 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Iheb Mhamdi
+Date: 2025-05-09 10:22:02.244000+00:00
+Subject: Re: data quality problem in US Crop conditions
+Message-ID: ZR3P278MB1226F68C9A97DBC89FE3AC3AF58AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717868D88F0A61983320019EB8AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+@Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io>  this one needs to be solved ASAP as we’re sharing the datasets with clients.
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Friday, May 9, 2025 10:20:09 AM
+À : Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Cc : Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Objet : data quality problem in US Crop conditions 
+ 
+Hi guys, in the US crop conditions dataset there are duplicates in 2024 (at least).
+
+i know we are solving by calculating an average using the week. point is that publication date is different so a fast remove duplicates does not not work unless we know this.
+
+think this needs to be solved, because if we share this with a client then there will be issues.

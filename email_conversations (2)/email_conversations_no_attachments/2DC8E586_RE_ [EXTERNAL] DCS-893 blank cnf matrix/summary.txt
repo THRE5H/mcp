@@ -1,0 +1,5 @@
+**Problem**: The customer experienced an issue with a blank configuration matrix for wheat, which was later resolved. However, they subsequently reported discrepancies in the corn configuration matrix data pulled from the API, noting fewer origins and inconsistent values.
+
+**Context**: The user is an external user from a Customer Organization interacting with a Service Provider regarding the DCS-893 product feature. The issue arose in a specific context of data retrieval, affecting the accuracy of displayed values.
+
+**Solution**: The initial issue with the wheat matrix was resolved by the Support Agent, confirming that the matrix now displays values correctly. The customer acknowledged the fix. For the corn matrix, the customer raised a new concern regarding data inconsistencies, which requires further investigation. It is recommended to verify data sources for accuracy.

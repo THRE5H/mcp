@@ -1,0 +1,5 @@
+**Problem**: The customer needed to know who was included in the Viserion email list, as they suspected some individuals were missing from it.
+
+**Context**: The user is an external user from a Management Company. The issue involves the email distribution list for the Viserion service. The inquiry was initiated by the customer, who was unsure about the current recipients of the list.
+
+**Solution**: The support team provided a complete list of individuals included in the Viserion email list. Following this, additional email addresses were added upon the customer's request, confirming the updates to the list. It is recommended to regularly review and update email lists to ensure all necessary recipients are included.

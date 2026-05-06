@@ -1,0 +1,35 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-10-16 12:25:32.444000+00:00
+Subject: Re: China Weather Dashboard
+Message-ID: ZR3P278MB12262F31D34912A90AB86AACF5E9A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07171A058D76DEFAE81801D2EBE9A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Fixed. 
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 16 October 2025 07:54
+To: Support Dnext <support@dnext.io>
+Subject: Re: China Weather Dashboard 
+ 
+adding that in this part when selectin winter wheat in the product part, the graph is blank.
+
+relevant as we are seeing heavy rains in China and clients might use this dashboard
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Thursday, October 16, 2025 7:47 AM
+To: Support Dnext <support@dnext.io>
+Subject: China Weather Dashboard 
+ 
+the filter is showing old dates and many for 2024 and it seems that is not sorting correctly by date
+

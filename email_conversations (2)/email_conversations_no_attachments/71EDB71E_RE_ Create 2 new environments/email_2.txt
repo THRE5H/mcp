@@ -1,0 +1,44 @@
+From: Benoit Baliguet </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=436C997806D34CC39F8E25735927BEF3-19E89D70-52>
+To: Guillaume Goudy; Support Dnext; Saber Khalfallah
+Date: 2025-03-14 11:14:33.354000+00:00
+Subject: Re: Create 2 new environments
+Message-ID: GV0P278MB1317934E6AAE688FD114C53B81D22@GV0P278MB1317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02119B8691F12060D7D104B798D32@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Guillaume,
+
+On top of the code, can you add the customer name please?
+
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  on such request, do not hesitate to create tickets for me in Jira with the details.
+
+Benoît
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Date: Thursday, 13 March 2025 at 12:14
+To: Support Dnext <support@dnext.io>
+Cc: Benoit Baliguet <benoit.baliguet@dnext.io>, Sami Jaballah <sami.jaballah@dnext.io>
+Subject: Create 2 new environments
+
+Please create:
+
+Quadra.dnext.io
+
+Cta.dnext.io
+
+ 
+
+Grains and oilseeds and vegoils for both
+
+Users: myself and Bastien for now. 
+
+Sami will start on boarding process once contract is received and signed. 
+
+Best Regards,
+
+Guillaume
+
+ 

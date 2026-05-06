@@ -1,0 +1,5 @@
+**Problem**: The customer reported that ETG could only see NNE data on the Platform and was missing the CS Brazil crush data. They needed clarification on why the CS numbers were not visible.
+
+**Context**: The user is an external user from a partner organization accessing a data platform provided by a service provider. The issue arose while trying to retrieve specific data related to the CS Brazil crush.
+
+**Solution**: The support agent investigated the issue and confirmed that the data access should be functioning correctly now. It is recommended to verify data visibility regularly and ensure that all necessary permissions are correctly set for external users accessing the platform.

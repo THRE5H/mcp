@@ -1,0 +1,45 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext
+Date: 2025-06-08 13:54:26.829000+00:00
+Subject: Re: Weather Dashboard filter Issue
+Message-ID: ZR3P278MB1226629EF0FD9546D35BD0BDF568A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB05058B717B33309E8AA3717F8A68A@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Louis,
+
+You’re right, it’s a small issue of regrouping the buttons with the background, I’ll fix them ASAP and keep you updated.
+
+Thanks,
+Jebrane
+________________________________
+
+De : Louis Olive <louis.olive@dnext.io>
+Envoyé : Sunday, June 8, 2025 1:44:09 PM
+À : Support Dnext <support@dnext.io>
+Objet : Weather Dashboard filter Issue 
+ 
+
+Hello,
+
+ 
+
+I would like to report a bug I encountered on the weather dashboard, (Europe > Temperature).
+
+When using the graph section of the weather dashboard, if I accidentally click outside of a button area, all buttons in that section disappear. The only way to restore the buttons is to refresh the entire page.
+
+ 
+
+Steps to Reproduce:
+
+*	Navigate to the Europe weather dashboard
+*	Go to precipitation
+
+*	Go to the graph section
+*	Click anywhere outside of the button boundaries within the graph area
+*	Observe that the buttons disappear
+
+ 
+
+Louis

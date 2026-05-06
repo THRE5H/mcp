@@ -1,0 +1,18 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-09 08:29:18.484000+00:00
+Subject: No Barley in the WASDE dashboard
+Message-ID: GV0P278MB071769EE12301DA4626CCD77EBB42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+no data for the world or other countries for barley
+
+https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Usa/1dad01fa-f329-4b45-8eef-ed233914d3e5
+
+
+
+
+
+

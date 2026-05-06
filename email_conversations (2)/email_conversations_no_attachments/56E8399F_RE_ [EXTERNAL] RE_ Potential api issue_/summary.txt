@@ -1,0 +1,5 @@
+**Problem**: The customer reported that scripts pulling data from the API were failing, encountering a UnicodeDecodeError during the data request process.
+
+**Context**: The customer is an external user from a Customer Organization using the API provided by a Service Provider. The issue occurred after the customer noticed failures in their data requests, prompting them to seek assistance.
+
+**Solution**: The Support Agent acknowledged the issue and confirmed that it was under investigation. Later, the Support Agent reported that the issue had been resolved. The customer was advised to reach out if they encountered any further difficulties. It is recommended to monitor the API for any changes that may affect data requests in the future.

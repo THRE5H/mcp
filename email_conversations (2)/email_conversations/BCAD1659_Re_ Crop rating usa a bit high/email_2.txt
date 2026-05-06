@@ -1,0 +1,74 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Iheb Mhamdi; Support Dnext
+Date: 2025-03-31 22:25:29.710000+00:00
+Subject: Re: Crop rating usa a bit high
+Message-ID: GV0P278MB0717477C98EF52B99E781E5DEBAD2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0321A3705430BA5899788F319DAD2@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+yes, but we knew about this before right? i ve been updating this until now.
+
+i applied a quick fix now so i can reply to the client. i deleted kansas from my dataset. but tmrw if u can check which data is missing and take it from my dataset and then check what else is missing. some years in the past are not there for the jan/april period
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Monday, March 31, 2025 11:20 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: Crop rating usa a bit high 
+ 
+Hello pablo, 
+Ok, I will check it as soon I get home,
+But I think it's because we updated the crop condition values for winter wheat in 2 datasets 
+If that is the problem we just need to discard all your previous updates for 2025 crop and keep only one
+
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, March 31, 2025 10:13:40 PM
+To: Support Dnext <support@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: Crop rating usa a bit high 
+ 
+Iheb, can u check this? i did not update the file on my side.
+________________________________
+
+From: Michel Nicaise <michel.nicaise@ameropa.com>
+Sent: Monday, March 31, 2025 11:02 PM
+To: Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Crop rating usa a bit high 
+ 
+
+ 
+
+Hello Support,
+
+can you check the data please,
+
+we cannot get such high value:
+
+Thank you  
+
+
+
+
+
+
+
+
+
+Michel Nicaise
+Grains Analyst, Food & Feed
+ 
+Ameropa AG
+Avenue de Rumine 13, 1005 Lausanne
+Switzerland
++41 58 5312957  +41 79 5666613 
+michel.nicaise@ameropa.com 
+www.ameropa.com
+
+ 

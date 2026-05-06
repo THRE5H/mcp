@@ -1,0 +1,5 @@
+**Problem**: The customer received a notification that a message was held in quarantine due to being flagged as spam. They needed to review and potentially release this message.
+
+**Context**: The user is an external user of the Microsoft 365 service. The issue involves the Quarantine feature within the Microsoft 365 Security Center, where messages are held for review based on spam filtering.
+
+**Solution**: The user was advised to visit the Quarantine page in the Security Center to review the held message. They can release the message if it is deemed safe. It is recommended to regularly check the Quarantine page to ensure important messages are not missed.

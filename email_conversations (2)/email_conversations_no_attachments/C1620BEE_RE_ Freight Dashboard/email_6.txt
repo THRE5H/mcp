@@ -1,0 +1,47 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-07-11 13:33:56.319000+00:00
+Subject: Freight Dashboard
+Message-ID: GV0P278MB0591CB5C78FE50B34DFB1620F84BA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Good morning Support, 
+
+ 
+
+Could you please create a freight dashboard? Using the historical data + weekly data to show the how is developing the current month.
+
+ 
+
+Same schema of Farmer selling in Brazil dashboard.  
+
+ 
+
+Line chart with evolution
+
+Line chart with the weekly change 
+
+Table with the absolute value and the change.
+
+ 
+
+The weeky dataset is:
+
+ 
+
+dnexr-vidal-logistica-freight-bra-freight-truck-rates-weekly
+
+ 
+
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  could you provide the historical dataset?
+
+ 
+
+ 
+
+Let me know if you have any questions.
+
+Thanks
+
+Lucas

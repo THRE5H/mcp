@@ -1,0 +1,5 @@
+**Problem**: The customer needed to display cumulative numbers over the year in the trade matrix view and in a graph format, as they believed this option was previously available.
+
+**Context**: The user is an external user (Grains Analyst) from a Customer Organization seeking assistance from a Customer Support team regarding a feature in the trade matrix of a software product. The inquiry was made to save time compared to downloading data.
+
+**Solution**: The Support Agent confirmed that it is indeed possible to display cumulative numbers directly on the screen and in a graph within the trade matrix view. The customer was directed to the “analysis” tab for accessing these features.

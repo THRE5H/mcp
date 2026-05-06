@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Lineup data for Canadian shipments shows no destination information, causing confusion about whether the data represents inspection lineups or actual shipment lineups.",
+    "solution": "The missing destination data occurs because the corn shipment data comes from CGC inspections, which do not include destination information, while the D-lineup data covers only West coast ports with vessel tracking. To avoid confusion, it is recommended to clearly indicate in the Canadian lineups that the data is a mix of West coast-only vessel lineups and CGC inspection data without destinations. This clarification helps users understand why some lineups lack destination details and prevents future questions.",
+    "keywords": [
+      "lineups",
+      "Canada",
+      "destination missing",
+      "corn data",
+      "CGC inspections",
+      "D-lineup",
+      "vessel tracking",
+      "West coast ports",
+      "data clarification"
+    ],
+    "category": "Feature Explanation"
+  }
+}

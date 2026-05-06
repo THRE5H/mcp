@@ -1,0 +1,55 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-05-22 08:38:20.562000+00:00
+Subject: VAM - Users to create
+Message-ID: GVAP278MB067732BF6A791AED550CEB168899A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please create the following users in vam.dnext.io environment:
+
+ 
+
+Neil
+
+Smaldon
+
+nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com>  
+
+Oscar
+
+Shi
+
+oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com>  
+
+Lisa
+
+Leon
+
+lleon@valentassetmgmt.com <mailto:lleon@valentassetmgmt.com> 
+
+Terence
+
+Kooyker
+
+tkooyker@valentassetmgmt.com <mailto:tkooyker@valentassetmgmt.com> 
+
+ 
+
+PS: please check the access to only Wheat + Corn before sending the profiles to the users!
+
+ 
+
+Thanks
+
+Sami
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,26 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Saber Khalfallah
+Date: 2025-08-04 15:42:00.385000+00:00
+Subject: Datasets to be deleted 
+Message-ID: ZRAP278MB0527822354DD0D9B41DC02749623A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+Please find below the list of dataset codes to be deleted:
+
+dnexr-wagen-agrim-nl-grain-oilseeds-nld-snd-item-monthly
+dnexr-zsrir-pork-pol-cash-weekly
+dnexr-usda-livestock-usa-wholesale-cash-monthly
+dnexr-fr-agricole-grain-oilseeds-fra-cash-weekly
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-8
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-7
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-5
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-9
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-6
+dnexr-fed_statis-livestock-deu-snd_item-weekly
+dnexr-agrimer-grain-oilseeds-fra-snd-item-monthly-3
+
+
+Best regards,

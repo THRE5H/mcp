@@ -1,0 +1,5 @@
+**Problem**: The Customer requested assistance in identifying which users should be created for accessing the Valency trial demo.
+
+**Context**: The Customer is an external user working with a Service Provider on a Valency trial. The demo link was provided, and the password was shared via a different communication platform.
+
+**Solution**: The Support Agent reviewed the demo and communicated with the Customer to determine the necessary user accounts. It is recommended that the Customer provide a list of users promptly to facilitate account creation and access to the demo.

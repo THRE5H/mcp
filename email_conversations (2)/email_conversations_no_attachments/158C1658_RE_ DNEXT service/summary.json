@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need access to a data platform providing the Daily Brazilian Lineups dataset with API access for data retrieval.",
+    "solution": "To grant access to users for the Daily Brazilian Lineups dataset via APIs, create user profiles in the data platform environment and send login credentials directly to each user's email. After account creation, the support team should offer a short demo session to guide users on how to use the APIs effectively. The platform subscription includes access to historical data and ongoing data updates. Monthly subscriptions without historical data are also available for limited periods. The data is sourced from Brazilian ports covering approximately 21 ports, representing 100% of bulk sugar flow, with data verified and cross-checked from multiple sources including port agents who consent to share anonymized derived content.",
+    "keywords": [
+      "Daily Brazilian Lineups",
+      "API access",
+      "user account creation",
+      "data platform",
+      "data subscription",
+      "historical data",
+      "monthly subscription",
+      "data demo",
+      "port agents",
+      "bulk sugar flow",
+      "data ingestion",
+      "data verification"
+    ],
+    "category": "Access Issue"
+  }
+}

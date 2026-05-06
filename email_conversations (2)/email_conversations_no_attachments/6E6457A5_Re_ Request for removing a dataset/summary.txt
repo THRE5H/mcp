@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset identified by the code "dnexr-nbs-chn-domestic-trade-monthly."
+
+**Context**: The user is a Data Analyst from a Customer Organization seeking assistance from the Customer Support team of a Service Provider. The request was made via email, indicating a need for prompt action on data management.
+
+**Solution**: The Support Agent confirmed the successful deletion of the dataset as requested. It is recommended for users to double-check dataset codes before requesting deletion to avoid any potential errors.

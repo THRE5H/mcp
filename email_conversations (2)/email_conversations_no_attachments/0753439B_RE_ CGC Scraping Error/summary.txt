@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the CGC scraping process, where data from November 2nd was not updated and data from October 26th had disappeared. They encountered an error after attempting to modify the script to handle different date formats.
+
+**Context**: The customer is an external user seeking assistance from the Service Provider's support team regarding a data scraping issue. The problem pertains to a dataset accessed through a specific URL, which is critical for their operations.
+
+**Solution**: The support team reviewed the customer's script changes and provided guidance on correcting the date format issue. They confirmed that the data retrieval process was functioning properly after adjustments were made. The customer was advised to regularly check for updates and ensure the script aligns with the expected data format to prevent future issues.

@@ -1,0 +1,319 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-07-11 10:28:46.633000+00:00
+Subject: RE: Weekly Dnext fundamental update
+Message-ID: GV0P278MB1320515C99D7409B015C4304F84BA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211E0114B8C76518AD6136E984BA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+I checked and the email address do not exist in the verbio email list already.
+
+ 
+
+Just to clarify The reason your  message didn’t go through is because their mail system has a security setting that blocks emails from servers not specifically allowed (like ours).
+
+He have to talk with their IT guy to allow him to receive emails from us
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Friday, July 11, 2025 9:52
+To: Support Dnext <support@dnext.io>
+Subject: FW: Weekly Dnext fundamental update
+
+ 
+
+Can u erase Yon Legesse from Verbio email list please.
+
+Tks
+
+gg
+
+ 
+
+From: postmaster@verbio.us <mailto:postmaster@verbio.us>  <postmaster@verbio.us <mailto:postmaster@verbio.us> > 
+Sent: Friday, 11 July 2025 10:51
+To: Guillaume Goudy
+Subject: Non remis : Weekly Dnext fundamental update
+
+ 
+
+CO1PEPF000044F4.mail.protection.outlook.com a rejeté votre message vers les adresses e-mail suivantes :
+
+Yon.Legesse@verbio.us (Yon.Legesse@verbio.us) <mailto:Yon.Legesse@verbio.us> 
+Nous n’avons pas pu remettre votre message, car un connecteur partenaire configuré correspondait au domaine du destinataire du message et le paramètre RestrictDomainsToIPAddresses ou RestrictDomainsToCertificate était défini pour le connecteur.
+Pour plus d’informations sur ce problème, voir Code DSN 5.7.1 dans Exchange Online - Office 365 <https://go.microsoft.com/fwlink/?LinkId=389365> .
+
+CO1PEPF000044F4.mail.protection.outlook.com a généré cette erreur :
+TenantInboundAttribution; Rejecting. Recipient has a partner connector with RestrictDomainsToIPAddresses or RestrictDomainsToCertificate set. Connector ID: cb6f26d1-60c5-46c9-8d94-63b9bf685f19. [CO1PEPF000044F4.namprd05.prod.outlook.com 2025-07-11T08:50:36.227Z 08DDBED2C6D9A7D3] 
+
+
+
+
+
+
+
+Informations de diagnostic pour les administrateurs :
+
+Serveur de génération : SJ0PR17MB4909.namprd17.prod.outlook.com
+
+Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> 
+CO1PEPF000044F4.mail.protection.outlook.com
+Remote server returned '550 5.7.51 TenantInboundAttribution; Rejecting. Recipient has a partner connector with RestrictDomainsToIPAddresses or RestrictDomainsToCertificate set. Connector ID: cb6f26d1-60c5-46c9-8d94-63b9bf685f19. [CO1PEPF000044F4.namprd05.prod.outlook.com 2025-07-11T08:50:36.227Z 08DDBED2C6D9A7D3]'
+
+En-têtes de message d'origine :
+
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=fail;
+ b=UZkn2P6h3iUuy7oLpcwSoZhDB39uBx/0nGhXyljOqJXsvfJWRXxewO02PsAB3v18sLMILzTdXBT2ojJW9UIH4Kylty0YvpUOk1fmSaY7c0zPTNv4ncAaEGw+1ImdMs++Tl5rxL25+CmIxjvNVewlvGdbGOeAOwgtdIRFmUYcDjBMUWpl41xsgWOGoIrNoJ+dtHQe9UZPQk97/EAVE9Wt42XGSnvgDj8wn38uMN2/C67vgxvFV/Sntpa1jSAj1MfbuyKviRqFVyErxB1b2JIdXRUK12SdZYDiDDZ6qbB0emI8xfFO6AXL1aZIH6NRrqrmV7vFtqnPTQBaZAw+BsHMdg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=WvGkgI6dXycU/IjRcXKgNCuAS7EjybXSssVWIaU56kY=;
+ b=Yv/djB5pA8o6pOwR5AsAAc5OghDUu8SFOkI6otvyvTXcsFvaJikdyjCxiJgpxN1C1s4+dN29nCXrzymxKbAs/nkXtwhbeSCCdSgYfx69O9+yq+PMNjGYvp4KzdI8yRfv6DcUhFdNJKmVcpkyDZhQf+LCZcM3aF7T8cOYl9sE3N13EelvPZK+jD+G2mlS4gfyuepWSYQv+1T8xoq3+Kgkc3p0jbUsgp38kIW+57ZZBvnsEzxOmfZOtI7rszHZcTPTJFMYXk29o40a2xesAYLHfVEvvK3M5fAwXUJzFWpruw4GeiXFeDnshvsp5fZRFMVd+wJEMNxCXplr8w96qRpCGQ==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=softfail (sender ip
+ is 205.220.167.175) smtp.rcpttodomain=verbio.us smtp.mailfrom=dnext.io;
+ dmarc=none action=none header.from=dnext.io; dkim=fail (body hash did not
+ verify) header.d=dnextio.onmicrosoft.com; arc=fail (47)
+Received: from CH2PR19CA0007.namprd19.prod.outlook.com (2603:10b6:610:4d::17)
+ by SJ0PR17MB4909.namprd17.prod.outlook.com (2603:10b6:a03:37f::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8922.27; Fri, 11 Jul
+ 2025 08:49:02 +0000
+Received: from DS2PEPF00003442.namprd04.prod.outlook.com
+ (2603:10b6:610:4d:cafe::4) by CH2PR19CA0007.outlook.office365.com
+ (2603:10b6:610:4d::17) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8922.22 via Frontend Transport; Fri,
+ 11 Jul 2025 08:49:02 +0000
+Authentication-Results: spf=softfail (sender IP is 205.220.167.175)
+ smtp.mailfrom=dnext.io; dkim=fail (body hash did not verify)
+ header.d=dnextio.onmicrosoft.com;dmarc=none action=none
+ header.from=dnext.io;compauth=none reason=405
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ dnext.io discourages use of 205.220.167.175 as permitted sender)
+Received: from mx0a-00699d01.pphosted.com (205.220.167.175) by
+ DS2PEPF00003442.mail.protection.outlook.com (10.167.17.69) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8922.22 via Frontend Transport; Fri, 11 Jul 2025 08:49:01 +0000
+Received: from pps.filterd (m0276460.ppops.net [127.0.0.1])
+        by mx0a-00699d01.pphosted.com (8.18.1.2/8.18.1.2) with ESMTP id 56B8n0p6011385
+        for <Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> >; Fri, 11 Jul 2025 04:49:00 -0400
+Authentication-Results-Original: ppops.net;   dkim=pass
+ header.d=dnextio.onmicrosoft.com header.s=selector1-dnextio-onmicrosoft-com;
+        spf=pass smtp.mailfrom=guillaume.goudy@dnext.io <mailto:smtp.mailfrom=guillaume.goudy@dnext.io> ;        dmarc=none
+Received: from pps.reinject (localhost [127.0.0.1])
+        by mx0a-00699d01.pphosted.com (PPS) with ESMTPS id 47rdckse8m-1
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+        for <Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> >; Fri, 11 Jul 2025 04:49:00 -0400 (EDT)
+Received: from m0276460.ppops.net (m0276460.ppops.net [127.0.0.1])
+        by pps.reinject (8.18.0.8/8.18.0.8) with ESMTP id 56B8mxvO011360
+        for <Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> >; Fri, 11 Jul 2025 04:48:59 -0400
+Received: from zrap278cu002.outbound.protection.outlook.com (mail-switzerlandnorthazon11020084.outbound.protection.outlook.com [52.101.186.84])
+        by mx0a-00699d01.pphosted.com (PPS) with ESMTPS id 47rdckse8c-2
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT);
+        Fri, 11 Jul 2025 04:48:58 -0400 (EDT)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=u8QCat9JJN52LJ7ArtiCEl1pp/QjsyYujcl/UoHLERSA9wJR4prtoNmvSFwdUdK3t/79kHCOckWyoZqmk3+LnU0oDRVwaAcaS3etrVCNzqoyK1zgJjUYBAvelzVsNAlCi1H4i8SRMRS4tU6UI8bSk3Hm2a/D2fJFkKh1CnmgPwynlUm8EoNJTXcOi/lKTaPy9H8dLxqZdvrULp1beyO7mTWMJiQkCmeCt+KpemH1PfosmE0feX1QbkOckIIbt/PlruRA3NUH1XT49U1WnVM7d9oTW5hkyENSa3PYHfYoSKA4JYl2D5R5Ln1AskFckHOqM1kqBUNGUbJr8znOX+bCrg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ZrWoJC+6JC/vqh57S8AHYsqepldqqkL/AvjT5Qa+UTI=;
+ b=TXH2h2owlNJNSAyGWv+fyg5dq0Afz3WwcM2BmWmCbAJP9LBh2rqfECIOH9Km3G+zVh0J/ud+IxLFconfP0SPxrlXTAbr6GAegOIsDrznH4EurPaPOUd5nHYn8BTFhBkaclISDp7bezn+SKnROHJiWPPKINy7YO4xPALiID+9BkKLgwvTS62Z+Nj4A3ZCULiprE5ZZBSq1KBDfQZKtK+In5ftILRiiiU9bvc7vY1MIjBRrQxwUy7R297CzoYb2czdc//P3QNQltMsmBM1gM5Ko/U/ho22TvGNtkifl8ybwQw74GIbyxBmd4NZ1k0ZMAUatfnHWaArZ0/h0VNgq+VRSQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io;
+ dkim=pass header.d=dnext.io; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ZrWoJC+6JC/vqh57S8AHYsqepldqqkL/AvjT5Qa+UTI=;
+ b=kAFHuBR35O1g1ZR4vG+iNCRDsLxxBwBXypI8XdNGa5p0wuTIwDsQb8YePHmYjXngXg0hg2xyLKDYFuXpVhy0XR9H7dyX8HDIHWepCn63CxSZbmbMpjGCRudPQdRtGC2hk/lJm+qnE8Za6FByRTG6172+Lkf3NDX1bSgPA5SCkktTvzvpRvmlLQ3/NuJZ3dakDM1IGVCNWwWmor2ty0/sZXGCeS8L0M/fmq7MhVCQARHowq9n4+KHQNcCUi6nduzZvS8DsFaKM9MmEsSHs1wXy0t2nW3tI2bw5waHAh6mUeG3qB7tXvj0jiKzglLWoArS/+ASSC9tD42bBU81kD7zCg==
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:30::7) by
+ ZRH2PFB6EE14F26.CHEP278.PROD.OUTLOOK.COM (2603:10a6:918::221) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8922.25; Fri, 11 Jul 2025 08:48:50 +0000
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::d8ce:d5e7:133c:d0a9]) by GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::d8ce:d5e7:133c:d0a9%3]) with mapi id 15.20.8922.023; Fri, 11 Jul 2025
+ 08:48:50 +0000
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+To: Benoit Breuil <Benoit.Breuil@verbio.ch <mailto:Benoit.Breuil@verbio.ch> >,
+        Andreas Bodenmueller
+        <andreas.bodenmueller@verbio.de <mailto:andreas.bodenmueller@verbio.de> >,
+        Aaron Parrish <Aaron.Parrish@verbio.us <mailto:Aaron.Parrish@verbio.us> >,
+        Daryn Warne <daryn.warne@verbio.us <mailto:daryn.warne@verbio.us> >,
+        Peter Johne <peter.johne@verbio.de <mailto:peter.johne@verbio.de> >,
+        Peter Kueppers <Peter.Kueppers@verbio.de <mailto:Peter.Kueppers@verbio.de> >,
+        Rand Dueweke
+        <rand.dueweke@verbio.us <mailto:rand.dueweke@verbio.us> >,
+        Stefan Schreiber <stefan.schreiber@verbio.de <mailto:stefan.schreiber@verbio.de> >,
+        Ayman Mezghani <ayman.mezghani@dnext.io <mailto:ayman.mezghani@dnext.io> >, Bot Dnext <alice@dnext.io <mailto:alice@dnext.io> >,
+        "Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> " <Yon.Legesse@verbio.us <mailto:Yon.Legesse@verbio.us> >,
+        Bastien Lambert
+        <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >,
+        Marcella Mondragon
+        <Marcella.Mondragon@verbio.us <mailto:Marcella.Mondragon@verbio.us> >,
+        Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >,
+        Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+CC: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >, Tony Hoskins <tony.hoskins@verbio.us <mailto:tony.hoskins@verbio.us> >,
+        Bill Dankbar <Bill.Dankbar@verbio.us <mailto:Bill.Dankbar@verbio.us> >,
+        Tim Hamernick
+        <Tim.Hamernick@verbio.us <mailto:Tim.Hamernick@verbio.us> >,
+        Kushaev Mansur <mansur.kushaev@verbio.de <mailto:mansur.kushaev@verbio.de> >,
+        Etienne
+ Andre <etienne.andre@verbio.ch <mailto:etienne.andre@verbio.ch> >,
+        Peter Geary <Peter.Geary@verbio.us <mailto:Peter.Geary@verbio.us> >,
+        "Rafalski Sabrina (VERBIO)" <Sabrina.Rafalski@verbio.de <mailto:Sabrina.Rafalski@verbio.de> >,
+        Louis Olive
+        <louis.olive@dnext.io <mailto:louis.olive@dnext.io> >,
+        "Sartorio Giuseppe (VERBIO)"
+        <Giuseppe.Sartorio@verbio.de <mailto:Giuseppe.Sartorio@verbio.de> >,
+        Afef Matheli <afef.matheli@dnext.io <mailto:afef.matheli@dnext.io> >,
+        Ivo
+ Brites Traca <ivo.britestraca@verbio.ch <mailto:ivo.britestraca@verbio.ch> >
+Subject: Weekly Dnext fundamental update
+Thread-Topic: Weekly Dnext fundamental update
+Thread-Index: AQHb8kCfSqXcR+uKgEysO80Dq3Clqw==
+Date: Fri, 11 Jul 2025 08:48:50 +0000
+Message-ID: <GV0P278MB0211314E3790E2349840984A984BA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0211314E3790E2349840984A984BA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-calendar-series-instance-id: BAAAAIIA4AB0xbcQGoLgCAfpBwuQBelLNkLZAQAAAAAAAAAAEAAAAEZaWXD/MttLvkfOlHju83I=
+x-ms-traffictypediagnostic:
+ GV0P278MB0211:EE_MeetingMessage|ZRH2PFB6EE14F26:EE_MeetingMessage|DS2PEPF00003442:EE_|SJ0PR17MB4909:EE_
+X-MS-Office365-Filtering-Correlation-Id: 476934ca-0bb1-4f14-438b-08ddc057c89e
+x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|1800799024|7416014|376014|8096899003|921020|38070700018;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?M6V5dnz/d+zfb8P0b73KKXJBV0nQzf+XYQlxiyu9MBXWExy63gpKiB96wQrK?=
+ =?us-ascii?Q?/DRAsKNujh3uh7/lN22mQf4PPi3RUvq5VkUjVclUnSn49d46BXelT6PIcBbt?=
+ =?us-ascii?Q?l9wJ8Lr6cfuAIRbtQmLbvF93pJ7QKywD9M5Ef8f2bSHUo9VXjnutudAx2eAE?=
+ =?us-ascii?Q?qnU5s9n2O/4PxB6hGQOhthbk2tr4eXC+rdeJ41kCdpVumqKsm1JxZa4Gg1xG?=
+ =?us-ascii?Q?mIllqZANSLMcVdUwIYJBxWAYUdbePm+ss8ue78saTLpNReh7F6EB7saSWRWs?=
+ =?us-ascii?Q?5uq5SoW+na2WdZG1PTTxxMhexk/PRG0fnp5ni8D/giMst+cXKdE+f/Kmaepm?=
+ =?us-ascii?Q?k/UA6geS+gGrQPwii+l3Fyug+5+1qrz43VWEjYLF+xxu6C/20go93Kh0ll0x?=
+ =?us-ascii?Q?eXXzgpP2y1fQTBevyU8fYTLLQcDTptZ6QiRtuOQjfSNV1Gk6dH6cujAYZfA1?=
+ =?us-ascii?Q?TtdOHoCUjEju5/EieOH8C3av/U7eEutsMnwXicnU/dzcEPmtovtSJEP8CZ0j?=
+ =?us-ascii?Q?4wbOkOhK0NncDJzsDTBkTz9dFPDRCdDeBn7qOfL/qItS0ZqNU/V6uYPc7XCo?=
+ =?us-ascii?Q?I7w6sKtnsWCDyTURjLCS0uErSPKrsZNsM/dVjCUzqVkkd2vI4iDdGB5dTnpR?=
+ =?us-ascii?Q?rn2zGYPexDgoogUmZzOBir2TXBzJ/hDKamkF4QmiNWOF/NcacpRk+791ZH3+?=
+ =?us-ascii?Q?7VRE/oe1e9zk+5Im7j302y03tyledL/QSpL3dKDIf6FU4nqp7ufLeAAxA9CB?=
+ =?us-ascii?Q?AFhnarvJcBsoGg3MWBxBM0r8uT9eMal7suBiXdKw4wdOozBAOnKcYekwrOB2?=
+ =?us-ascii?Q?B1jnSur8lHNvdMN1jxAMPfXJmQZLMSU0VzRiN4ZbupLSenEXtKl85LCjrM+d?=
+ =?us-ascii?Q?RPafwpLhkyTResANuImvS3lnduIADirGC0WQtQ8EM58Jzwq6xeonv2Uea1Zn?=
+ =?us-ascii?Q?kRVV4yylviINBxLrPDU/CjF+65HAlggjuIRqXyKkm/IBSolEuq3V6i3Cd0DT?=
+ =?us-ascii?Q?C1QWmEMzfq98muRT78sCE9AoPSaJc8ExM5QlSCkwXgkTCrGrYEZSbdCpoIPO?=
+ =?us-ascii?Q?q1Pt7zhPM29pWqT6k6yAYLQvXYotb6U6+pXc0ZOYBtg/w3Qa8dyzpVbjSdf+?=
+ =?us-ascii?Q?taJjbrCBJRa6TXAJYgEFKkVEdAHzj1Xjqp8BPnAUIJq3gVGx/0ZhaRKV+wkH?=
+ =?us-ascii?Q?exiobIeMMhOPglgeNTq/jBJhYmR8tbS2+PdHUKJoPWa4hMNnY+CxNcF1VWy9?=
+ =?us-ascii?Q?DYSLBBhXVi9ucv80+9lK5DZhPs4MkFKfcmfDTRj75YvWHtJCe6JTH1cjG+Ex?=
+ =?us-ascii?Q?T/flWDyevKVOjGSL44v05m1n5m755ft0pfcpFKPZs95iloA6Kui2m7m40g96?=
+ =?us-ascii?Q?YP7HvsWYKxbc9YtX6VfZNyJX7gXJ5ZEzLUEn/cgB03rtJC5HqCULoR6ccTfa?=
+ =?us-ascii?Q?QEqpT3G47qVXwcZviuGbQlRxprL+332H?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(1800799024)(7416014)(376014)(8096899003)(921020)(38070700018);DIR:OUT;SFP:1102;
+Content-Type: multipart/alternative;
+ boundary="_000_GV0P278MB0211314E3790E2349840984A984BAGV0P278MB0211CHEP_"
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: ZRH2PFB6EE14F26
+X-Proofpoint-GUID: d4qMsyxmBZ455hydmCD4YmGWuHzXYZrC
+X-Authority-Analysis: v=2.4 cv=E+zNpbdl c=1 sm=1 tr=0 ts=6870cffb cx=c_pps a=ELG5JR+c35VsV8zd/EUXbQ==:117 a=lCpzRmAYbLLaTzLvsPZ7Mbvzbb8=:19 a=wKuvFiaSGQ0qltdbU6+NXLB8nM8=:19 a=Ol13hO9ccFRV9qXi2t6ftBPywas=:19 a=xqWC_Br6kY4A:10 a=Wb1JkmetP80A:10
+ a=thJNxz3Cg-wA:10 a=yMhMjlubAAAA:8 a=_EeEMxcBAAAA:8 a=vQQTv6mOC5DblneMMKEA:9 a=wPNLvfGTeEIA:10 a=rVwunFKwSWkA:10 a=SSmOFEACAAAA:8 a=onjMssazoDDCWTROJzkA:9 a=-EPwiIbKrHaS-g9u:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ a=LvkJCRLuzQcKFvLniykA:9 a=pt9G7I5XmLUTiVRDx3fboKQV4P0=:19 a=Ww3EAYOm5v4A:10 a=QEXdDO2ut3YA:10
+X-CLX-Response: 1TFkXGxMcEQpMehcaEQpZRBduTWRtf39MfwVdQhEKWFgXZF1mRkldWmJAAUg RCnhOF2UcXx5McBxnT0EeEQp5TBdmTGBBWUB4YW5BTREKQ0gXBx4dEQpDWRcHGRMYEQpDSRcaBB oaGhEKWU0XZ2ZyEQpZSRcacRoQGncGGx0ccRsbHxAadwYYGgYaEQpZXhdjY3kRCklGF1xPWEhDR
+ URLSUVYWnVCRVleT04RCklHF3hPTREKQ04XTh5bZ1lTUkdocB4fH0JTTkdpbh5zR219X2JQcnNw WGkRClhcFx8EGgQeGhgFGxoEGxsaBBsZHgQZGRAbHhofGhEKXlkXTFpEeX0RCk1cFwcbGxwRCkx aF2hpa0VGEQpMRhdva2tja2trEQpCTxdmXmhwY0QfXn94fhEKQ1oXHxgEGxobBBsSHAQSHhEKQl
+ 4XGxEKRFgXEhEKRF4XGxwRCkRJFxsYEQpCRRdrUEJgHE17XHpvTREKQk4XZRxfHkxwHGdPQR4RC kJMF2RdZkZJXVpiQAFIEQpCbBdsEkAeYHBBSEFBXhEKQkAXY0kTUB9sTGJcT1sRCk1eFxsRClpY FxscEQp5QxdocGwaa21tHWR4GBEKWUsXGBoeExEKcGcXb3hQW00aHR9DR3oQGRoRCnBoF2VZSG4
+ eUl5mS1keEBMfEQpwaBdjRklbQRpZQW9rYRAbHBMRCnBoF2ZhWWtIXHxffG16EBsfHxEKcGgXen xLZh1yUm8bZWMQGxweEQpwaBdufBNTXRNgQlwaaRAZGhEKcGgXZU4TAWx4RV1JUEQQGRoRCnBoF 2MZRBhDGhhceUJTEBkaEQpwaBdsbR9ocmtDEkdSYxAbGRIRCnB9F2gaYl1ybX19aEFiEBkaEQpw
+ fRd6RB4ccltOTx9ucxAbGxgRCnB9F2NlUF9bHGx/bVlwEBsbHhEKcH0XZ3l8fRhDQF5hU3sQGxg bEQpwfRdnR1xZelABcgVJeBAZGhEKcGcXZGIeX1MYQk9Pel4QGRoRCnBrF2VwaBJ9fHtLXXtIEB kaEQpwSxdjGBhlfkt+QnJ9BRAbGhoRCnB/F2JGa0ESGgUFS2dFEBsbHREKcF8XZh4cYGQeZW9gX
+ HMQGxsTEQpwXxdnTWNwQm4BaFtLUhAbGx4RCnBfF2Bue2F8YVkcekR+EBsbHhEKcH8XbxtCEkVM bxhGWR8QExIRCnBfF3p4UxJQaGNFRHJvEBsYGxEKcF8XbBJ/GRNNfWRcRG0QGxgYEQpwbBduUgE dZhgef1sZWhAZGhEKcEwXZWJbZlJmfk5gcgUQGRoRCm1+FxsRClhNF0sRIA==
+X-CLX-Shades: MLX
+X-Proofpoint-ORIG-GUID: d4qMsyxmBZ455hydmCD4YmGWuHzXYZrC
+X-Proofpoint-Spam-Details-Enc: AW1haW4tMjUwNzA5MDAxNCBTYWx0ZWRfX32jxNAlNVv/L KIGTWc9Wwmf2amyJ+Ho+w1Z6ub2oSFdeYfQRnB5HtmJaaVv2DpafScefjtNodo1ZaEynYpYshys r+FzN8qU2OvjMBod7Pw/7WEA26IPvPmbBwInVuQQI8iym3s0kg7ltnZzX0qR81FZkjteJb4vgMl
+ 7Rungr9M22amHMFz2uLSb3b7SR14GSExFzZr59BhXXm4bGxmuoQVr3QoZouRT5GKn5Cndg0gGDJ gzda2ALdz718dmX3382ipNoIL16ADHRDOwLsusTL/xggu1FHRbJ/Vvbxkr43tpHUKssSSctHN2L kD3g7QUB7wtgTjj0xcOXoVo/QwO8eKT2CDz4TaHaEdYQYtyd3Lbtq11ry0ojbB7W5KhP773jaoM
+ LIHloYsaFm/a8QDjr4Ypx/QklBDqj+cZnhAUhhzT43Gg8giI8mI=
+MIME-Version: 1.0
+X-Proofpoint-Banner-Trigger: inbound
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 adultscore=0 spamscore=0 suspectscore=0
+ priorityscore=0 bulkscore=0 phishscore=0 clxscore=196 impostorscore=0
+ malwarescore=0 classifier=typeunknown authscore=0 authtc= authcc=
+ route=internal adjust=0 reason=mlx scancount=2 engine=8.21.0-2505280000
+ definitions=main-2507090014 domainage_hfrom=2049
+Return-Path: guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 5a4d6449-b5aa-499e-86fa-cbe9ad6d9a0c:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: DS2PEPF00003442.namprd04.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+        63c585b8-14f1-4a4c-5f86-08ddc057c1d9
+X-LD-Processed: 5a4d6449-b5aa-499e-86fa-cbe9ad6d9a0c,ExtAddr
+X-Microsoft-Antispam:
+ BCL:0;ARA:13230040|35042699022|82310400026|2092899012|12012899012|8096899003|921020|13003099007;
+X-Microsoft-Antispam-Message-Info:
+        =?us-ascii?Q?QvnXzeXzFa7X0fyv0Gh4U5C3TzAS38VNCKMNE5wyQmrPxwWIrm1Uc3631/L2?=
+ =?us-ascii?Q?9X0QsBlsV5wP6MBYB64wnjCqyxK75puPapPjEbJPreeOTRkAC1kEUY2oUW6T?=
+ =?us-ascii?Q?RTDfbedKGPP3uHlU3dDVLJOn/OjwF3UtIylBAXiGCHgsIHPzNxs9P08j6/XV?=
+ =?us-ascii?Q?ZEFFm8JDnuap45QI0FZl16EKv+DqCrKE/1hCJ9Tl5p6Fr5bmlW1M8dgyZ0CZ?=
+ =?us-ascii?Q?huC7Glzr6jPtODUUzXZPqQ74kj326UJ6sVDGpUGZyBg6MvZAIbI4VO0SZq8P?=
+ =?us-ascii?Q?UlIjjsTSxsCdvLFX/FlYPW3eO37oQYqHIAgD45zORM2sFg99h/LAvfWWnLtF?=
+ =?us-ascii?Q?hHI7LM+AeZiTw5D/UWJSDs2ZoRrTkVhV8ll7epYjB/GsqxukWihzdK25J/Hv?=
+ =?us-ascii?Q?25eKlE/SYxJ1QREArBSQS6L9TrHI5N2pF29lgA0SC+60deu0nu9FRUYCbD3i?=
+ =?us-ascii?Q?OGiBIokqrVCa2CwR5O7PeZSruVXSW5SjMdizK6Xiv9YgXZhCiX7mpZBHZKhD?=
+ =?us-ascii?Q?46B5od9rPJKPV53hyJclBFSEFUiBGbPleecFM/cO4KQNi80OZa0BOnvwQV8a?=
+ =?us-ascii?Q?Zni8q9eX4S1J1uEFC6Lrxo1c07huCKIw6UV8unRdWuikX958vIDzQq2ln4L1?=
+ =?us-ascii?Q?WJ2Y+S4aRaQG3lByYoCGechXcoSMhPiMSGtWovc1Lj0pSF6sYIDc4j+tTrJu?=
+ =?us-ascii?Q?31bQjDYZFxnz5qwJ1RGpFAABeI4mD3rmCgaivY2QfijoKWwRVh5SLnIOrSZj?=
+ =?us-ascii?Q?wMXV3WcofxhWvY2LkTCgpmIk5HpXizpIevoGXoghQx+xmHiqUfQbL2z0zfmG?=
+ =?us-ascii?Q?s802REJy96GAhmxzQIO++os74GYn6tsL1e3auoVq9ulZtByx0fyBpwnMi5Gs?=
+ =?us-ascii?Q?zsLiSb8h9ro94xlKVZ7FC78hzC5EsZuQ1Mk3PXFOx1NcLgmHAnVpnz64eJub?=
+ =?us-ascii?Q?ZECwIDvoD2qZZDHeOs86eNirGxgmqecjGptGMOwPxF+uzT4M5pBGrGQqO1Rm?=
+ =?us-ascii?Q?GN4ZHdG8hc2tlFjrPvUw8mx4LzqJtX1qBD5Hs2LB/V8ePRyAAwAhXlyTGXwN?=
+ =?us-ascii?Q?cqbCzpDXCJ6ZUBIw7WrriRcrEYQrlqhgzZrvvMlHJkRv3g+KSmuWtX2cu47m?=
+ =?us-ascii?Q?0IoVXP7WqWkJU5rL+ze1hSWIzRc+xj1G9M47Eqg4Rnk3goFaIxo1gD3kgH6T?=
+ =?us-ascii?Q?gLB9fPwpKzUJChyhKaNQs4DWgjfqaDbGHWfKeDc6aro2UAcZnPNUFLQrm8Fb?=
+ =?us-ascii?Q?PNi8g2rkVU569L0DUNtO3gy/F1PS8taeXY+9OFTXuicDxTFRKdM3S2Q+7s0j?=
+ =?us-ascii?Q?ViPFfawn5vzc0cryRrUr2AYXNT81KrlGPXMBMzlrr+4DMqLVRGfcjzBp+s3b?=
+ =?us-ascii?Q?M8ixfLOub0/zcOfldtrb60OJ42jIz6/XImbEr8E1FlxgPoqR03L72w2lndph?=
+ =?us-ascii?Q?UXhHHFkpeL61JvusUh3vGiZN0KJ2Nq59EdnfYy5MtfcO2KmdcQqcoUjez181?=
+ =?us-ascii?Q?oDjAoQ2NqfrM8BYpGs73O2KpnyR/b9lHyr47RhueHHmsQOuZxBj74qlzZAB3?=
+ =?us-ascii?Q?KOBgjgntgVuZhLNxVWFu5+ikki4P+hbpZVv3ME+TL/0nth1zS7zqVJhvQ/Ue?=
+ =?us-ascii?Q?gWRNA82rgi7TWUeNyWmGNHHDOZQs9C0XUUEQId++nfeb2kn0knZkwZbsIfDI?=
+ =?us-ascii?Q?NN337ksIIrVrJJ2WjEUEO9rlmDakGGxyNWA+EfIlj8jKSOEA3lVXfnk9txHn?=
+ =?us-ascii?Q?ZSC0Z9R84SP/fnn7T3SVlV2opULwZRCMzB5g9XXxsPO8CMsFEUPEEVZd5eJ5?=
+ =?us-ascii?Q?eSyNBTHVuYjhqTUPY6ckvdsYcL6kiv8BT445Ho6TWZuz2IqOnFwFsS5mUWRl?=
+ =?us-ascii?Q?yQdIjabeiW9s5fjY/bSWhyZg0KZn/Z8O+tJtJJhV6tTaV3T8yJKG43CvEmbi?=
+ =?us-ascii?Q?mhoMaS2ehrG08A0b+o21nTl+K9M8QtsGFxKl7WVXCvj5tLo3JMtwflKnOAuM?=
+ =?us-ascii?Q?fG9y+DQvu2YGRGzBO7La/1jbz3+7I6FL+3F7NrNKfigTvTaHXSYyagvLYPhX?=
+ =?us-ascii?Q?U04qOq9i2Ydr5iKmPzfHCuqvD8qw9A=3D=3D?=
+X-Forefront-Antispam-Report:
+        CIP:205.220.167.175;CTRY:US;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:SKN;H:mx0a-00699d01.pphosted.com;PTR:mx0a-00699d01.pphosted.com;CAT:NONE;SFS:(13230040)(35042699022)(82310400026)(2092899012)(12012899012)(8096899003)(921020)(13003099007);DIR:INB;
+X-ExternalRecipientOutboundConnectors: 5a4d6449-b5aa-499e-86fa-cbe9ad6d9a0c
+X-OriginatorOrg: verbio.us
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Jul 2025 08:49:01.3735
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 476934ca-0bb1-4f14-438b-08ddc057c89e
+X-MS-Exchange-CrossTenant-Id: 5a4d6449-b5aa-499e-86fa-cbe9ad6d9a0c
+X-MS-Exchange-CrossTenant-AuthSource:
+        DS2PEPF00003442.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR17MB4909

@@ -1,0 +1,117 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Mohamed Elasfoury; Support Dnext
+Date: 2025-04-29 16:57:31.461000+00:00
+Subject: RE: Freight Module "Batches" now filters broken
+Message-ID: GV0P278MB132015B9704C0A3C9ABDD4BDF8802@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0255B18F1FC752132FE057BF94802@ZRAP278MB0255.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+I see these ones : 
+
+
+
+ 
+
+Not sure if it’s what you are looking for.
+
+
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io> 
+Sent: Tuesday, April 29, 2025 16:56
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Freight Module "Batches" now filters broken
+
+ 
+
+Did we recover the old stored filters?
+
+ 
+
+________________________________
+
+From: Saber Khalfallah
+Sent: Tuesday, April 29, 2025 5:53 PM
+To: Mohamed Elasfoury; Support Dnext
+Subject: RE: Freight Module "Batches" now filters broken 
+
+ 
+
+Hello
+
+ 
+
+The button is now visible and functioning again
+
+
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Sent: Tuesday, April 29, 2025 15:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Freight Module "Batches" now filters broken
+
+ 
+
+Hi, 
+
+ 
+
+Pacificor contacted us on whatsapp, I think he had some saved "batches" in the freight module that he lost (now called filters), and he is unable to create or use them, can you check what the issue is and forward to dev if it's indeed a bug? 
+
+ 
+
+Message:
+
+
+
+ 
+
+ 
+
+Thanks,
+
+Asfoury

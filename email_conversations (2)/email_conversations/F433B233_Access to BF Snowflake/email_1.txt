@@ -1,0 +1,96 @@
+From: Rifaeddine Hammemi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=380F58A33E7B45658C7AAF6B50898F4F-1919961A-A7>
+To: Rory Deverell
+Date: 2025-06-03 10:53:19.073000+00:00
+Subject: Access to BF Snowflake
+Message-ID: GV0P278MB11886BFF0C39640D196D72D7EB6DA@GV0P278MB1188.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Hello Rory,
+
+
+Hope you are doing well.
+
+You may access our snowflake through this URL: app.snowflake.com/mqjshrj/gq42038
+
+
+Using these credentials:
+
+Username: BF-RDEVERELL
+Password : mqw_rhp.WPG*jbd4tzx
+
+
+And here is a guide on how to setup ODBC on your machine:
+
+1.	
+	Download Snowflake Driver <https://sfc-repo.snowflakecomputing.com/odbc/win64/3.0.2/snowflake64_odbc-3.0.2.msi>  through this link :
+	https://sfc-repo.snowflakecomputing.com/odbc/win64/3.0.2/snowflake64_odbc-3.0.2.msi
+
+
+       2-  Open ODBC
+
+
+
+2.	
+	 Add data source:
+
+	1.	
+		
+
+
+3.	
+	Select Snowflake
+
+	1.	
+		
+
+
+4.	
+	Fill
+	Data Source : “Snowflake Power Query” not “Snowflake”, permit to have the same label as other users in case you share files connected to snowflake/odbc.
+
+	1.	
+		
+
+Use your snowflake username, password, the server, the database, warehouse and tracing as above.
+
+
+
+5.	
+	Click OK
+
+
+6.	
+	Connect with Excel
+
+	1.	
+		
+
+Please feel free to reach out if you have any questions.
+
+ 
+
+Looking forward to your hearing back from you.
+
+ 
+
+Best regards,
+
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+

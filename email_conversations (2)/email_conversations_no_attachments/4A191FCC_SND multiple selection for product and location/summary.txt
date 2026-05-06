@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the DNEXR SND feature no longer allows multiple selections for products and locations, specifically for vegetable oils.
+
+**Context**: The user is an external user representing a Customer Organization. The issue pertains to the DNEXR SND feature, which is used for product selection in the context of inventory or order management.
+
+**Solution**: The Support Agent acknowledged the issue and confirmed that they would escalate the request to the development team for review. It is recommended that users check for updates or feature changes in the product documentation to stay informed about functionality.

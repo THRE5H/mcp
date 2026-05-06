@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether specific data related to Brazilian farmer selling was available on the platform or API.
+
+**Context**: The user is an external user from a Customer Organization seeking data from a Service Provider's platform. The inquiry pertains to datasets used in the Farmer Selling Dashboard.
+
+**Solution**: The Support Agent provided a table listing the relevant dataset codes and names accessible via the API. The customer was encouraged to reach out for further assistance if needed, confirming that the requested data was available.

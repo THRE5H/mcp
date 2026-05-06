@@ -1,0 +1,129 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Support Dnext
+Date: 2025-04-29 18:40:52.832000+00:00
+Subject: DNEXT Platform - Update on data sharing 
+Message-ID: GV0P278MB132002127807D6CD9B9702D4F8802@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear All,
+
+ 
+
+We are continuously working to improve your experience on our data platform. As part of our ongoing enhancements, we are automating the sharing of datasets, tradeflows, and dashboards based on your subscription. This update aims to streamline access and ensure you always have the most relevant data available for you.
+
+ 
+
+Key Points:
+
+*	Automated Access: You will automatically receive access to the resources included in your subscription.
+*	Dynamic Updates: Any changes or updates to your resources will be reflected in your access dynamically.
+
+Impact on Current Users:
+
+*	For clients using APIs, please note that the datasets and tradeflow UIDs will be updated.
+
+
+Below are examples of tradeflows with their old and new codes:
+
+ 
+
+Type of resource
+
+Name
+
+Old Code
+
+New Code
+
+TradeMatrix
+
+Corn Tradeflow
+
+dnexr-crn
+
+viserion-6739954d-a4f8-4436-a7bc-f57bf3b79f20
+
+TradeMatrix
+
+Soybean and Soybean Meal Tradeflow
+
+dnexr-sbssbm
+
+viserion-aeeac93d-91f3-46e3-be59-9b3348a33467
+
+TradeMatrix
+
+Rapeseed Tradeflow
+
+dnexr-rapeseed
+
+viserion-3b71dab3-76c8-4db8-847a-7519c8134bfd
+
+TradeMatrix
+
+Rapeseed Meal Tradeflow
+
+dnexr-rapeseedmeal
+
+viserion-5ba0c264-848c-4eeb-b0a0-f376d508f0f5
+
+TradeMatrix
+
+Sunflower Meal Tradeflow
+
+dnexr-sunflowermeal
+
+viserion-a6147637-fd55-409c-8a97-8acba6a96570
+
+TradeMatrix
+
+Sunflower Seed Tradeflow
+
+dnexr-sunflowerseed
+
+viserion-c65d07b6-47ec-4374-becf-6d6375dad006
+
+TradeMatrix
+
+Soft Wheat Tradeflow
+
+dnexr-swht
+
+viserion-b17c9bc6-607c-4d01-88fa-a29399c56e7f
+
+TradeMatrix
+
+Vegoils Tradeflow
+
+dnexr-vegoils
+
+viserion-815bca88-4208-40f5-a903-5b1ae5cd98f6
+
+ 
+
+This change would take effect starting from 5 May 2025
+
+If you have any questions or concerns, please do not hesitate to reach out . 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

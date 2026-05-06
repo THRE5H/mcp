@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access the Verbio environment and requested access.
+
+**Context**: The user is an external user from Customer Organization seeking access to the Verbio environment, a service provided by Service Provider. The request was made via email due to access issues.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials to access the Verbio environment. The customer was advised to use the provided username and password for future logins, ensuring they have the correct access moving forward.

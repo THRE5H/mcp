@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "A client requested to have monthly data included in a dataset either by adding a monthly data column or by creating a new dataset with monthly data. The existing dataset contains weekly data, and there was confusion about whether to aggregate weekly data into monthly or to provide actual monthly data.",
+    "solution": "If monthly data is available, create a new dataset specifically for the monthly data rather than aggregating weekly data into monthly. Do not estimate or sum weekly data to produce monthly data. The easiest and recommended approach is to create a new dataset with the monthly data source. For example, use official monthly data sources such as the EIA monthly data (https://www.eia.gov/totalenergy/data/monthly/) to build the monthly dataset. Once the monthly dataset is created, share the dataset link for verification before distribution to clients.",
+    "keywords": [
+      "monthly data",
+      "dataset creation",
+      "weekly data",
+      "data aggregation",
+      "data frequency",
+      "new dataset",
+      "EIA monthly data",
+      "data source",
+      "data mapping",
+      "period mapping"
+    ],
+    "category": "How-to Guide"
+  }
+}

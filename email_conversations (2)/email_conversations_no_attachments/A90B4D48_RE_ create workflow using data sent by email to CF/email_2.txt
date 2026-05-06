@@ -1,0 +1,73 @@
+From: Rajbir Singh <Rajbir@cfgtrading.ch>
+To: Saber Khalfallah; Pablo Figueroa; Support Dnext
+Date: 2025-04-07 16:33:01.606000+00:00
+Subject: RE: create workflow using data sent by email to CFG bot email
+Message-ID: GV0P278MB0829BCB7D871D2CBE1113384DEAA2@GV0P278MB0829.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132052EA9152B1172EDE7D65F8AA2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks a lot 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, April 7, 2025 4:52 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Rajbir Singh <Rajbir@cfgtrading.ch>
+Subject: RE: create workflow using data sent by email to CFG bot email
+
+ 
+
+Hello , 
+
+ 
+
+@Rajbir Singh <mailto:rajbir@cfgtrading.ch>  Hello and thank you for reaching out .
+
+ 
+
+If you have more files, could you please send to this email address : bot+cfg@data.dnext.io <mailto:bot+cfg@data.dnext.io>  , it could greatly help us in establishing the workflow for the scrapping part.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Monday, April 7, 2025 12:47
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Rajbir Singh <rajbir@cfgtrading.ch <mailto:rajbir@cfgtrading.ch> >
+Subject: create workflow using data sent by email to CFG bot email
+
+ 
+
+Hi guys, can you please check the email sent to the CFG environment and create customs dataset using this file?
+
+workflow should be triggered by the email.
+
+ 
+
+ 
+
+Regards,
+
+Pablo

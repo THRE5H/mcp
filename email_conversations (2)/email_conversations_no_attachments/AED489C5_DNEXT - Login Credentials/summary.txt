@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the DNEXT environment to access the service.
+
+**Context**: The user is an external user requesting access to the DNEXT platform. The issue arose in the context of needing to log into the https://masoceans.dnext.io environment.
+
+**Solution**: The Support Agent provided the customer with their username and password for the DNEXT platform. It is recommended that the customer securely store their credentials and change the password after the initial login for enhanced security.

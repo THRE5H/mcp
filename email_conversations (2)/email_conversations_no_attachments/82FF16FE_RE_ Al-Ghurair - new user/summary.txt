@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of user credentials for a new employee in the Al-Ghurair environment and asked for confirmation once completed.
+
+**Context**: The user is an external user from a Customer Organization. The request involves the Service Provider's system for user management. The request was made in response to a new employee joining the Customer Organization.
+
+**Solution**: The Support Agent confirmed that the user credentials were successfully created. It is recommended to ensure timely updates and confirmations for similar user management requests in the future.

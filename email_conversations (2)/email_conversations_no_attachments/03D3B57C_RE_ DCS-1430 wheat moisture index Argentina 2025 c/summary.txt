@@ -1,0 +1,5 @@
+**Problem**: The customer needed an update on the wheat moisture index for the 2025 crop in Argentina, as the data source had not yet released the information.
+
+**Context**: The customer is an external user from Customer Organization, inquiring about a specific agricultural data product related to the 2025 crop. The inquiry occurred in June 2025, with the user noting that the data was still pending release.
+
+**Solution**: The Support Agent confirmed that the information had been updated but clarified that the 2025 crop data was now considered outdated, as they were currently focused on the 2026 crop. The agent advised the customer to monitor the data source for future updates.

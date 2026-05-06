@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the Intertek Palm Malaysia dataset on the Thul platform and inquired about the possibility of creating a simple dashboard similar to one previously done for another project.
+
+**Context**: The user is an internal user from Customer Organization seeking data from the Service Provider's Thul platform. The request involves integrating a specific dataset and creating a dashboard for analysis.
+
+**Solution**: The Support Agent shared the dataset on the Thul environment, providing the dataset code for access. Additionally, confirmation was given that the Malaysia Palm Oil data is now available on the platform, indicating successful resolution of the request. It is recommended to follow up on dashboard creation based on the available dataset.

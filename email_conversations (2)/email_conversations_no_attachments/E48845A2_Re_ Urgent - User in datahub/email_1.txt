@@ -1,0 +1,43 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Sami Jaballah; Support Dnext
+Date: 2025-09-09 16:45:47.725000+00:00
+Subject: Re: Urgent - User in datahub
+Message-ID: ZR3P278MB1226B6523D874B214628FD1EF50FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677AA13D0BAD8C13EA4E16A880FA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+The user is created.
+
+Thanks, 
+Jebrane.
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 09 September 2025 16:29
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Urgent - User in datahub 
+ 
+
+Hello Jebrane,
+
+ 
+
+Please add the user :
+
+Anuj Singhal
+
+acsing1980@gmail.com <mailto:acsing1980@gmail.com> 
+
+ 
+
+in the environment DataHub.
+
+ 
+
+Many thanks
+
+Sami

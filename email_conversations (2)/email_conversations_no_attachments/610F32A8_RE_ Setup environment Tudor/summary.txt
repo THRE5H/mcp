@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new environment for a client, Tudor, specifically for access to a dataset through a platform and APIs.
+
+**Context**: The user is a member of the DevOps team at Customer Organization. The request involves the setup of the environment datahub.dnext.io for the client Tudor, with a specific dataset required for access starting from August 1, 2025.
+
+**Solution**: The Support Agent confirmed that the environment datahub is ready and the requested dataset has been shared within it. It is recommended to ensure that user access details are provided promptly for further configuration.

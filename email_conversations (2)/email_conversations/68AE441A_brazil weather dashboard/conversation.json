@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "brazil weather dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext",
+      "cc": "Lucas Rosa; Jebrane Ben Salem",
+      "received_time": "2025-03-02 19:05:47.793000+00:00",
+      "sent_time": "2025-03-02 19:05:45+00:00",
+      "body_text": " \r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<span style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\"><img size=\"143102\" contenttype=\"image/png\" style=\"max-width: 938px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:00c5ecff-7c06-479d-9848-0ddc0df082b3\"></span>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "68AE441A77157D4EABAD952B9D8D72B3",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900027DD674440000",
+      "size": 352763,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB071742F627312253398D562FEBCE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "brazil weather dashboard"
+}

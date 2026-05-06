@@ -1,0 +1,117 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Rafael Bucciarelli; Support Dnext
+Date: 2025-04-28 21:59:32.837000+00:00
+Subject: RE: [EXTERNAL] RE: mistake in wasde data
+Message-ID: GV0P278MB0211ED19E7000E9BE8839AF298812@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR11MB8543D0C160995139B8BCCFCC96812@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+I found the error. Thank you.
+
+Guillaume
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com> 
+Sent: Monday, 28 April 2025 22:56
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: mistake in wasde data
+
+ 
+
+The 1998-11-10 wasde has some cotton mapped to SWHT for year 1998/1999
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Monday, April 28, 2025 4:34 PM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: mistake in wasde data
+
+ 
+
+Rafael,
+
+ 
+
+Hereis what i see. Basically, I cannot read the below. Do you have a better table or something where i can see the data and thus, correct the error. Tlks
+
+gg
+
+ 
+
+
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Monday, 28 April 2025 21:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: mistake in wasde data
+
+ 
+
+Hi, 
+
+ 
+
+Please check: 
+
+   Source                        Source_MappedName Product Product_MappedName Location Location_MappedName       Item Item_MappedName Cut-off Date   Value Value Period Value Period_MappedName  Value Period multiplier Value Period Aggregation Type Value Period Aggregation Type_MappedName  Crop Year Value Unit    Value Unit_MappedName  Value Unit multiplier     Publication Date
+
+38   USDA  United States Department of Agriculture    SWHT         Soft wheat      USA       United States  use_total       use_total   1998-11-10  2543.0         YEAR                    Year                      1.0                           SUM                                      Sum  1998/1999        BSH                   Bushel              1000000.0  1998-11-10 00:00:00      
+
+39   USDA  United States Department of Agriculture    SWHT         Soft wheat      USA       United States  use_total       use_total   1998-11-10    15.1         YEAR                    Year                      1.0                           SUM                                      Sum  1998/1999      BALES  Cotton Bale Statistical              1000000.0  1998-11-10 00:00:00     
+
+ 
+
+ 
+
+Returned by dnexr-usda-wasde-world-snd-monthly
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

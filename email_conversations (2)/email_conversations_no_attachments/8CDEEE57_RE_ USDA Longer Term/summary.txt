@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to historical spreads of bean oil NZ on the platform but was informed that this feature is not available.
+
+**Context**: The user is an external user from a trading company seeking data from a service provider's platform. The inquiry involves the inability to access specific commodity data (bean oil NZ) and ongoing issues with the Soybean USA Baseline Supply and Demand report.
+
+**Solution**: The support agent clarified that the platform does not have redistribution rights for CBOT futures prices, including bean oil NZ. The agent also recommended that the customer send future requests to the support email for quicker resolution. The issue with the Soybean report is being addressed and updates will be provided.

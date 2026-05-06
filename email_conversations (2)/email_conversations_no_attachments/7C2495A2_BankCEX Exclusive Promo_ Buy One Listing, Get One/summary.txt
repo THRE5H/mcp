@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about an exclusive promotional offer from BankCEX that allows them to buy one listing and receive another for free, but they need clarification on the eligibility and terms of the promotion.
+
+**Context**: The customer is an external user interested in listing their token on the BankCEX exchange. The promotion is time-sensitive, ending on April 30, 2025, and involves specific conditions regarding token eligibility and previous negotiations.
+
+**Solution**: The support team provided detailed information about the promotion, including eligibility criteria and terms. The customer was advised to ensure their token meets the requirements and to contact the support team for further assistance in booking their listing. Best practices include reviewing the full terms and conditions before proceeding.

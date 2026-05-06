@@ -1,0 +1,78 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2025-07-29 07:45:37.548000+00:00
+Subject: RE: Canada Alberta Moisture - Region Numbering
+Message-ID: ZR3P278MB1353A577BD1404448A850990F625A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226278510EC6F692B0246BBF55AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Good morning Jebrane,
+
+ 
+
+Thank you!
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: Tuesday, July 29, 2025 1:28 AM
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: Canada Alberta Moisture - Region Numbering
+
+ 
+
+Hello, 
+
+ 
+
+Fixed
+
+ 
+
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: 25 July 2025 08:49
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >
+Subject: Re: Canada Alberta Moisture - Region Numbering 
+
+ 
+
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+
+________________________________
+
+De : Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Envoyé : Friday, July 25, 2025 8:32:06 AM
+À : Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc : Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >
+Objet : Canada Alberta Moisture - Region Numbering 
+
+ 
+
+Hello,
+
+ 
+
+In the official regional distribution we have different numbering. Could we do a quick fix, please?
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

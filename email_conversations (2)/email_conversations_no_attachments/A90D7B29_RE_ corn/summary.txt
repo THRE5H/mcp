@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add the Shell group back to the corn distribution list, clarifying that it was not Graincorp that needed to be added.
+
+**Context**: The user is an external user from a Partner Company. The issue involves the corn distribution list related to communications about corn trading. The customer had previously sent instructions for this addition but was unsure if they were implemented.
+
+**Solution**: The Support Team confirmed that the Shell group, including the specified contact, was successfully added to the corn distribution list. It is recommended to verify distribution list changes regularly to ensure all necessary parties are included.

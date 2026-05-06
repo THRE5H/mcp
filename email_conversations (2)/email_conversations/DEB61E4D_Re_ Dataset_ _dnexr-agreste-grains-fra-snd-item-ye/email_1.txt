@@ -1,0 +1,87 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Quentin Doublet; Iheb Mhamdi; Jebrane Ben Salem; Support Dnext; Crop_Tunisia
+Date: 2026-01-12 15:08:37.562000+00:00
+Subject: Re: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+Message-ID: ZRAP278MB0527801F774CA21FD465EFED9681A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB08013183CBE47A0BB8D4DD4E8F83A@ZRAP278MB0801.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png
+
+================================================================================
+
+Hello,
+
+The script has been fixed; however, there is currently a bug in the workflow. Our dev team is actively working on resolving it.
+This is the ticket link : https://dnext.atlassian.net/browse/DNP-6508?search_id=b7a7d8ad-d2eb-4488-ba7d-34fc8c8e991e <https://dnext.atlassian.net/browse/DNP-6508?search_id=b7a7d8ad-d2eb-4488-ba7d-34fc8c8e991e> 
+
+Best,
+Nour
+
+________________________________
+
+From: Quentin Doublet <quentin.doublet@blackfryers.io>
+Sent: Saturday, January 10, 2026 3:01 PM
+To: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Crop_Tunisia <Crop_TN@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken 
+
+Iheb,
+
+Well noted and thank you for having looked at it in details.
+I will look at the new version and check if I find the numbers already in the dataset, to make sure this is still the right source.
+Will do that on Monday.
+
+Rgds
+
+
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Friday, January 9, 2026 5:40:04 PM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Quentin Doublet <quentin.doublet@blackfryers.io>; Support Dnext <support@dnext.io>; Crop_Tunisia <Crop_TN@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+ 
+Hello @Jebrane Ben Salem <mailto:jebrane.bensalem@dnext.io> ,
+It appears that the source has completely changed its publication structure. Previously, the data was provided as a ZIP file containing multiple folders, each with several files per commodity and full historical coverage.
+The source now publishes a single Excel file that only includes the latest figures and follows a different data structure.
+As a result, this cannot be fixed today, as both the code and the underlying logic need to be reworked. 
+@Nour Meddeb <mailto:nour.meddeb@dnext.io>  will adjust this next week after verifying the new structure with Quentin.
+
+Old Publication:
+
+
+
+
+
+New Publication:
+
+
+
+Thanks,
+Iheb
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Friday, January 9, 2026 4:15 PM
+To: Quentin Doublet <quentin.doublet@blackfryers.io>; Support Dnext <support@dnext.io>; Crop_Tunisia <Crop_TN@dnext.io>
+Subject: Re: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+ 
+Adding @Crop_Tunisia <mailto:Crop_TN@dnext.io> 
+________________________________
+
+From: Quentin Doublet <quentin.doublet@blackfryers.io>
+Sent: 09 January 2026 16:13
+To: Support Dnext <support@dnext.io>
+Subject: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+ 
+Dear Support team,
+
+Could you please check and repair the workflow associated to the dnexr-agreste-grains-fra-snd-item-yearly dataset ?
+
+The first step, "extract" is in error.
+
+Thanks in advance for your help on this
+
+Regards,
+
+Quentin

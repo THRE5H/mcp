@@ -1,0 +1,15 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2026-01-09 15:17:18.137000+00:00
+Subject: crush margin missing in calc
+Message-ID: ZR0P278MB077303B448227B2007DB0D209882A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, can you please investigate why the margin doesn’t appear in this table here ?
+
+What is the data missing ? thanks
+
+ 
+
+

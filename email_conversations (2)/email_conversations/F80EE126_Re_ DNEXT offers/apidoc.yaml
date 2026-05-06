@@ -1,0 +1,374 @@
+openapi: 3.0.0
+servers:
+    - url: https://api.dnext.io/v1.0
+info:
+    description: Platform API
+    version: 1.0.0
+    title: Dnext API
+
+tags:
+    - name: Auth
+      description: Retrieve your bearer token
+    - name: Dataset
+      description: List and download datasets
+    - name: Tradeflow
+      description: List and download tradeflows
+    - name: Task
+      description: Monitoring ongoing tasks
+
+components:
+    securitySchemes:
+        bearerAuth:
+            type: http
+            scheme: bearer
+    schemas: {}
+    responses:
+        AllClear:
+            description: Success
+        UnauthorizedError:
+            description: Access token is missing or invalid
+        DoesNotExists:
+            description: Resource not found
+        InternalServerError:
+            description: Internal Server Error. The server failed to process the request.
+
+security:
+    - bearerAuth: []
+
+paths:
+    /auth/custom-login:
+        post:
+            tags:
+                - Auth
+            summary: Retrieve your bearer token with your email and password
+            description: |
+                This endpoint allows you to retrieve a bearer token by providing your organization's code and valid login credentials.
+                The API accepts a JSON payload containing your `email` and `password`. These credentials will be used to authenticate your user account.
+
+                **Request Body**:
+                - `email`: Your registered email address (type: string)
+                - `password`: The password associated with your account (type: string)
+
+                **Query**:
+                - `org`: This is your organization code (type:string)
+
+                Make sure you use `application/json` for the "Content-Type" header.
+
+            parameters:
+                - in: query
+                  name: org
+                  required: true
+                  schema:
+                      type: string
+                  description: The code of the organization to which the user belongs.
+
+            requestBody:
+                required: true
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                email:
+                                    type: string
+                                    description: The email address associated with the account.
+                                password:
+                                    type: string
+                                    description: The password associated with the account.
+                                organization:
+                                    type: string
+                                    description: The code of your organization.
+                            required:
+                                - email
+                                - password
+                                - organization
+            responses:
+                '200':
+                    description: successful operation
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    token:
+                                        type: string
+                                        description: The bearer token to authenticate further requests.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+
+    /data/datasets:
+        get:
+            tags:
+                - Dataset
+            summary: List all datasets
+            description: |
+                This endpoint returns a list of all datasets available in the platform. Each dataset is represented by an object with the fields: `id`, `code`, `name`, and `active` status. The response will be a JSON array of datasets.
+            security:
+                - bearerAuth: []
+            responses:
+                '200':
+                    description: A list of datasets.
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    success:
+                                        type: boolean
+                                        description: Whether the request was successful or not.
+                                    result:
+                                        type: array
+                                        items:
+                                            type: object
+                                            properties:
+                                                id:
+                                                    type: string
+                                                    description: The unique identifier of the dataset.
+                                                code:
+                                                    type: string
+                                                    description: The unique code for the dataset.
+                                                name:
+                                                    type: string
+                                                    description: The name of the dataset.
+                                                active:
+                                                    type: boolean
+                                                    description: Indicates whether the dataset is active.
+                                        description: A list of dataset objects.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'
+                '500':
+                    description: Internal Server Error. The server failed to process the request.
+    /data/datasets/{code}/download:
+        post:
+            tags:
+                - Dataset
+            summary: Download a dataset.
+            description: Initiates the download of a dataset and returns the status of the task. The download URL will only be valid once the task is completed. You can check the status of the task using the Task status API.
+            parameters:
+                - name: code
+                  in: path
+                  required: true
+                  description: The code of the dataset to download.
+                  schema:
+                      type: string
+            security:
+                - bearerAuth: []
+            requestBody:
+                content:
+                    application/json:
+                        schema:
+                            type: object
+            responses:
+                '200':
+                    description: Task successfully started. URL for downloading dataset and task status is returned. The URL will be valid only after the task is completed. Use the task status endpoint to track progress.
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    result:
+                                        type: object
+                                        properties:
+                                            url:
+                                                type: string
+                                                description: The pre-signed URL to download the dataset. This URL will be valid only once the task has finished processing.
+                                    task:
+                                        type: object
+                                        properties:
+                                            id:
+                                                type: string
+                                                description: The task ID.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'
+                '500':
+                    $ref: '#/components/responses/InternalServerError'
+
+    /fundamentals/tradeflows:
+        get:
+            tags:
+                - Tradeflow
+            summary: List all tradeflows
+            description: |
+                This endpoint returns a list of all tradeflows available in the platform. Each tradeflow is represented by an object with the fields: `id`, `code`, and `name`. The response will be a JSON array of tradeflows.
+            security:
+                - bearerAuth: []
+            responses:
+                '200':
+                    description: A list of tradeflows.
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    success:
+                                        type: boolean
+                                        description: Whether the request was successful or not.
+                                    result:
+                                        type: array
+                                        items:
+                                            type: object
+                                            properties:
+                                                id:
+                                                    type: string
+                                                    description: The unique identifier of the tradeflow.
+                                                code:
+                                                    type: string
+                                                    description: The unique code for the tradeflow.
+                                                name:
+                                                    type: string
+                                                    description: The name of the tradeflow.
+                                        description: A list of tradeflow objects.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'
+                '500':
+                    description: Internal Server Error. The server failed to process the request.
+    /fundamentals/tradeflows/{code}/download:
+        post:
+            tags:
+                - Tradeflow
+            summary: Prepare a download file for a tradeflow's content.
+            description: |
+                This endpoint prepares a download file with the content of a specific tradeflow. The return is provided through a signed URL once the task is completed. The download URL will be valid only after the task has finished processing. Use the Task status API to track the task progress.
+            parameters:
+                - name: code
+                  in: path
+                  required: true
+                  description: The unique code of the tradeflow.
+                  schema:
+                      type: string
+            requestBody:
+                content:
+                    application/json:
+                        schema:
+                            type: object
+                            properties:
+                                intraflows:
+                                    type: object
+                                    properties:
+                                        strategy:
+                                            type: string
+                                            enum:
+                                                - include
+                                                - exclude
+                                            default: exclude
+                                forecasts:
+                                    type: object
+                                    properties:
+                                        strategy:
+                                            type: string
+                                            enum:
+                                                - include
+                                                - exclude
+                                            default: include
+                                        list:
+                                            type: array
+                                            items:
+                                                type: string
+                                            description: List of forecast code to be used for this tradeflow.
+                                row:
+                                    type: boolean
+                                    description: Include Rest Of the World
+                                    default: false
+                                format:
+                                    type: string
+                                    enum:
+                                        - csv
+                                        - json
+                                    default: csv
+            security:
+                - bearerAuth: []
+            responses:
+                '200':
+                    description: Task successfully started. The signed URL for downloading the tradeflow content is returned. The URL will be valid only after the task is completed.
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    result:
+                                        type: object
+                                        properties:
+                                            url:
+                                                type: string
+                                                description: The pre-signed URL to download the tradeflow content. This URL will be valid only once the task has finished processing.
+                                    task:
+                                        type: object
+                                        properties:
+                                            id:
+                                                type: string
+                                                description: The task ID.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'
+                '500':
+                    $ref: '#/components/responses/InternalServerError'
+
+    /tasks/{id}:
+        get:
+            tags:
+                - Task
+            summary: Get a task status.
+            description: Get a task by id and return it's status.
+            parameters:
+                - name: id
+                  in: path
+                  required: true
+                  description: Task id
+                  schema:
+                      type: string
+            security:
+                - bearerAuth: []
+            responses:
+                '200':
+                    description: Task retrieved successfully, status is returned
+                    content:
+                        application/json:
+                            schema:
+                                type: object
+                                properties:
+                                    status:
+                                        type: string
+                                        enum:
+                                            - RUNNING
+                                            - SUCCEEDED
+                                            - ABORTED
+                                            - FAILED
+                                        description: The status of the task. Possible values are RUNNING, SUCCEEDED, ABORTED and FAILED.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'
+    /tasks/{id}/abort:
+        post:
+            tags:
+                - Task
+            summary: Abort a task.
+            description: Abort a task by id.
+            parameters:
+                - name: id
+                  in: path
+                  required: true
+                  description: Task id
+                  schema:
+                      type: string
+            requestBody:
+                content:
+                    application/json:
+                        schema:
+                            type: object
+            security:
+                - bearerAuth: []
+            responses:
+                '200':
+                    description: successful operation.
+                '401':
+                    $ref: '#/components/responses/UnauthorizedError'
+                '404':
+                    $ref: '#/components/responses/DoesNotExists'

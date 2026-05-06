@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Palm dashboard is not functioning correctly, resulting in significant missing data.
+
+**Context**: The user is an external user from a Customer Organization experiencing issues with the Palm dashboard feature of a service provided by a Service Provider. The problem arose in a specific configuration that may have contributed to the data loss.
+
+**Solution**: The Support Agent investigated the configuration settings and identified a misalignment that was causing the data to be omitted. After adjusting the settings, the dashboard was restored to full functionality. It is recommended to regularly check configuration settings to prevent similar issues in the future.

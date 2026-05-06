@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the Deheus platform, indicating they were unable to log in.
+
+**Context**: The user is a Data Analyst from Customer Organization. The request was made for access to the Deheus platform, which is hosted by the Service Provider.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials for the Deheus platform, including the username and password. The issue was resolved by granting access, and it is recommended that the customer securely store their login information for future use.

@@ -1,0 +1,54 @@
+From: Amna Khemiri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B5D810A87F5643FAB9C232C794D7B567-31F265D5-32>
+To: Customer Success
+Date: 2025-12-16 09:50:12.162000+00:00
+Subject: Data Quality 16/12/2025
+Message-ID: ZRAP278MB0351E9A483F29852604BA985E5AAA@ZRAP278MB0351.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello team,
+I’d like to inform you that we are currently experiencing issues with several workflows that have failed during the load or extract phase. Specifically:
+
+1.	
+	Greenleaf Workflows
+
+	*	
+		Chinimandi Daily Sugar Prices
+	*	
+		NCDEX Daily Indian Sugar Prices
+		These workflows failed during the load phase without an apparent reason.
+
+2.	
+	DNEXR 
+
+	*	
+		China Future Prices
+		This workflow also failed in the load phase.
+
+3.	
+	Fuels World Future Prices
+	    This workflow failed during the extract phase.
+
+I will be investigating the load phase failures in coordination with the support team to identify the root cause and resolve the issue as soon as possible. Additionally, I will handle the extract phase failure for the Fuels World Future Prices workflow separately.
+I will keep you updated on our progress and provide further details once the investigation is complete. 
+Best regards,
+
+
+Amna Khemiri
+
+Data Analyst
+
+                                                                                                   amna.khemiri@dnext.io
+
++21696583738 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+

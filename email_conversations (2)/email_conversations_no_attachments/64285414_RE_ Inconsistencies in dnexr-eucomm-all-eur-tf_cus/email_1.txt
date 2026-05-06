@@ -1,0 +1,100 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Benoit Baliguet; Support Dnext; Wassim Mandhouj; Oussama Hmidene
+Date: 2025-11-04 13:29:41.334000+00:00
+Subject: RE: Inconsistencies in dnexr-eucomm-all-eur-tf_customs-monthly
+Message-ID: GV0P278MB1320B73DC899FF17A5FB4842F8C4A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1317371B651559EF6913172381C4A@GV0P278MB1317.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+I have checked the workflow  of the livestock eucomm customs dataset : dnexr-eucomm-livestock_-eur-tf_customs-monthly
+
+ 
+
+And for example, this product “BOVINE_ANIMALS_BEEF_MEAT_FROZEN” is mapped to the hs code : 0202XXXX.
+
+ 
+
+In the screenshot below I m showcasing rows with qty set to 0 .
+
+
+but when checking the source data , no matching HS code was found 
+
+
+
+
+
+ 
+
+@Wassim Mandhouj <mailto:wassim.mandhouj@dnext.io> @Oussama Hmidene <mailto:oussama.hmidene@dnext.io> 
+
+ 
+
+Can you please check it out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Benoit Baliguet <benoit.baliguet@dnext.io> 
+Sent: Tuesday, November 4, 2025 10:31
+To: Support Dnext <support@dnext.io>
+Subject: Inconsistencies in dnexr-eucomm-all-eur-tf_customs-monthly
+
+ 
+
+Hi Support,
+
+ 
+
+I have been reported some inconsistencies in dataset dnexr-eucomm-all-eur-tf_customs-monthly, with a small group of products always having a quantity set to 0 (PORK_MEAT, WHT, BOVINE_ANIMALS_BEEF_MEAT_FRESH, BOVINE_ANIMALS_BEEF_MEAT_FROZEN).
+
+ 
+
+Query:
+
+ 
+
+SELECT "Product", COUNT(*) AS "countp"
+
+FROM "dnexr-eucomm-all-eur-tf_customs-monthly"
+
+GROUP BY "Product"
+
+HAVING MAX("Quantity") = 0
+
+ORDER BY "countp" DESC
+
+LIMIT 100;
+
+ 
+
+Can you double check if this is expected?
+
+ 
+
+Benoît

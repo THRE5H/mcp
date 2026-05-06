@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the promotional offer for listing and IEO services on the NexDAX Exchange, specifically seeking clarification on the pricing and process for their token listing.
+
+**Context**: The user is an external user representing a project interested in listing their token on a cryptocurrency exchange. The product involved is the listing and IEO services offered by the NexDAX Exchange, which is currently promoting a seasonal discount.
+
+**Solution**: The support team provided detailed information about the various listing packages and their respective prices, including promotional discounts. The customer was advised to submit a listing and IEO request through the NexDAX website to proceed with the process. Best practices for token integration were also mentioned, including potential additional fees for non-ERC20 tokens.

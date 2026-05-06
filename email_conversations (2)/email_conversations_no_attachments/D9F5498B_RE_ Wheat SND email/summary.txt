@@ -1,0 +1,5 @@
+**Problem**: The User requested to be added to the distribution list for WHT SND update emails.
+
+**Context**: The User is an external user from a Customer Organization, specifically a Commercial Commodity Analyst. The request was made to the Customer Support of a Service Provider regarding email distribution for updates related to wheat.
+
+**Solution**: The Support Agent confirmed that the User has been successfully added to the GrainCorp distribution list. The Support Agent encouraged the User to reach out for any further questions or assistance.

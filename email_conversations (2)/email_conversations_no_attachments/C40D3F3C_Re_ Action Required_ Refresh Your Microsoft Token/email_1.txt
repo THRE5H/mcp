@@ -1,0 +1,63 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext
+Date: 2026-01-18 17:44:11.259000+00:00
+Subject: Re: Action Required: Refresh Your Microsoft Token
+Message-ID: ZR3P278MB1226A206DA9A0C5F45196D55F58BA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0505674133CC4E4D3D99C2828A8BA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Louis,
+
+No need to do anything, I’ll refresh it for u 
+________________________________
+
+De : Louis Olive <louis.olive@dnext.io>
+Envoyé : Sunday, January 18, 2026 4:18:26 PM
+À : Support Dnext <support@dnext.io>
+Cc : Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Objet : FW: Action Required: Refresh Your Microsoft Token 
+ 
+
+[Not Urgent]
+
+ 
+
+Hello,
+
+ 
+
+I don’t really understand what I am supposed to do here.
+
+Could you give me a hand on that on Monday please?
+
+ 
+
+Have a great weekend,
+
+ 
+
+Louis
+
+ 
+
+From: noreply@dnext.io <noreply@dnext.io> 
+Sent: Friday, January 16, 2026 7:03 AM
+To: Louis Olive <louis.olive@dnext.io>
+Subject: FW: Action Required: Refresh Your Microsoft Token
+
+ 
+
+Hello Louis Olive,
+
+We wanted to let you know that your Microsoft access token has expired. To continue using DNEXT seamlessly, please refresh your token by going to your account settings: https://dnexr.dnext.io/profile. 
+
+Concerned dataset that has been affected:
+AGRESTE AGS France Production Finals & Estimates monthly (dnexr-agreste-grain-oilseeds-fra-snd-item-monthly-1) 
+
+Workflow: https://dnexr.dnext.io/workflows/a867e2cc-88ea-457d-a5d4-0b27a3afc758/edit/exporting <https://dnexr.dnext.io/workflows/a867e2cc-88ea-457d-a5d4-0b27a3afc758/edit/exporting>  
+
+If you have any questions or need assistance, feel free to reach out to our support team. 
+
+Thank you,
+Dnext Team

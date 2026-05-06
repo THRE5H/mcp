@@ -1,0 +1,5 @@
+**Problem**: The customer reported intermittent timeout errors when calling data from the API, which caused scheduled tasks to fail. They sought assistance in resolving this issue.
+
+**Context**: The user is an external user from a Customer Organization using the API provided by a Service Provider. The issue arose while attempting to download large datasets, which led to inconsistent API behavior.
+
+**Solution**: The Support Agent recommended increasing the wait time in the script to 30 seconds when downloading large files, which resolved the timeout issue. The customer was provided with a revised code snippet that incorporated this change, and they were advised to adjust the wait time for future large dataset downloads to prevent similar issues.

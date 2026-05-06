@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-06 10:16:23.310000+00:00
+Subject: Re: India Precipitation Dashboard not working
+Message-ID: ZR3P278MB1226500A2A5BF37AD600871BF5F62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717B3115E842DF85C3CA2E2EBF72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello, 
+
+Fixed. 
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 06 February 2025 00:59
+To: Support Dnext <support@dnext.io>
+Subject: India Precipitation Dashboard not working 
+ 
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer needed clarification regarding the expiration date of the contract with BAM, which was set to end on 01.10.2025.
+
+**Context**: The user is an internal user from Customer Organization, inquiring about contract details related to their organization. The inquiry was prompted by a notification about multiple contracts expiring soon.
+
+**Solution**: The Support Agent confirmed the expiration date of the contract with BAM as 01.10.2025. It is recommended that the customer monitor contract expiration dates regularly to ensure timely renewals and avoid service interruptions.

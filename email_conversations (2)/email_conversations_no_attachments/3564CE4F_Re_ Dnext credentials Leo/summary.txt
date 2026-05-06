@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a new access account for a new joiner, Leo, on the Dnext platform and asked for the credentials to be shared with him.
+
+**Context**: The user is an external user from Customer Organization requesting support from the Service Provider. The request was made to facilitate access for a new employee to the Dnext platform.
+
+**Solution**: Access to the Dnext platform was successfully created for Leo, and the credentials were shared with him privately by the Support Agent. It is recommended to ensure that new joiners are onboarded with access promptly to avoid delays in their work.

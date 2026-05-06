@@ -1,0 +1,5 @@
+**Problem**: The customer reported an error with the workflow named "dnexr-agreste-grains-fra-snd-item-yearly," indicating it was not functioning correctly.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team regarding a specific workflow issue. The problem arose within the context of a technical workflow that is critical for the user's operations.
+
+**Solution**: The issue was resolved by a Team Member who fixed the workflow, confirming that it is now operational. It is recommended that the user monitor the workflow for any future issues and report them promptly to ensure continuous functionality.

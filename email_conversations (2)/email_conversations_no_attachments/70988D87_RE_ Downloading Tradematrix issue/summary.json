@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is able to view the Tradematrix on the portal but cannot find or use the download button to download data.",
+    "solution": "To resolve the issue where the download button is not visible or functional, log out of the platform completely and then log back in. After re-login, the download button will be accessible via the three dots menu in the Tradematrix interface, enabling the user to download the data as usual.",
+    "keywords": [
+      "Tradematrix",
+      "download issue",
+      "download button missing",
+      "log out",
+      "log in",
+      "three dots menu",
+      "portal",
+      "data download"
+    ],
+    "category": "Download Problem"
+  }
+}

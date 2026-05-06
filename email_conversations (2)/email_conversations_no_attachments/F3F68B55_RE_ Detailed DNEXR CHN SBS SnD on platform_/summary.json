@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users want to view detailed line items such as 'Carry Out Import' for China's Soybeans Supply and Demand (SND) data on the Oilseeds Dashboard within the platform, similar to what is available via the API.",
+    "solution": "The platform has been updated to include the 'Carry Out Import' line item on the Oilseeds SND Dashboard for China. Users can now directly view this detailed monthly data on the dashboard without needing to access the API. For additional line items to be added, users can request them to be included on the dashboard.",
+    "keywords": [
+      "Oilseeds Dashboard",
+      "China Soybeans SND",
+      "Carry Out Import",
+      "detailed line items",
+      "monthly data",
+      "platform update",
+      "API data visibility"
+    ],
+    "category": "Feature Explanation"
+  }
+}

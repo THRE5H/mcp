@@ -1,0 +1,100 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Guillaume Goudy; Bastien Lambert; Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2025-11-12 10:34:40.331000+00:00
+Subject: Re: Weather > Dashboard for Brazil > port = NOT updated
+Message-ID: GV0P278MB0591FE07272C1FEE0BDC2A43F8CCA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211A30F28EDF1693B9428A298CCA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+Attachments: image001_1.png, image002_1.png, image.png
+
+================================================================================
+
+
+Thanks Jebrane.
+
+@Martin Keller <mailto:martin.keller@dnext.io>  will be able to help. I would like to add one more question.
+
+Our maps are showing updated date at 11Nov (updated), which is one day old Vs file. Why we have this dif?
+
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, November 12, 2025 06:28
+To: Bastien Lambert <bastien.lambert@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: RE: Weather > Dashboard for Brazil > port = NOT updated 
+
+
+Adding Martin and Lucas...
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: Wednesday, 12 November 2025 04:59
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Weather > Dashboard for Brazil > port = NOT updated
+
+ 
+
+Any idea where this file is coming from? No idea about this process
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: Wednesday, November 12, 2025 2:48 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: Weather > Dashboard for Brazil > port = NOT updated
+
+ 
+
+Adding @Bastien Lambert <mailto:bastien.lambert@dnext.io> , 
+
+ 
+
+The file in Dropbox is not updated since 10-Nov(2 days ago) and we're using it this dataset : dnexr-inmet-ags-bra-weather_actual-daily
+
+ 
+
+
+
+ 
+
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 11 November 2025 18:46
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Weather > Dashboard for Brazil > port = NOT updated
+
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+ 

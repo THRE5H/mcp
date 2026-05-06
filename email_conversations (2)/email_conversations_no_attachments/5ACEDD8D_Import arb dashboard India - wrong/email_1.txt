@@ -1,0 +1,27 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Rahiman KN
+Date: 2025-11-11 15:06:50.900000+00:00
+Subject: Import arb dashboard India - wrong
+Message-ID: ZR0P278MB0773174D5903A0D5E35E36F798CFA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Dashboard below is updated as of the 6th Nov, we should be at the 10th Nov normally.
+
+Also, reviewing import parity of palm at -100 ? youre reporting -19 @Rahiman KN <mailto:Rahiman.kn@dnext.io>  in your daily calc.
+
+Could you guys please crosscheck before tonight and fix ?
+
+ 
+
+Thanks
+
+ 
+
+ 
+
+

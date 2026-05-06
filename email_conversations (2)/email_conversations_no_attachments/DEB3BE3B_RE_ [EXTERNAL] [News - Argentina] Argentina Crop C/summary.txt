@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access a specific page related to Argentina's crop conditions and requested an alternative path to view the information.
+
+**Context**: The user is an external user from a Customer Organization seeking information from a Service Provider's dashboard. The issue arose on December 9, 2025, after the user attempted to access the dashboard that provides updates on crop conditions.
+
+**Solution**: The Support Team Member confirmed that the dashboard issue was resolved, allowing the user to visualize the data. They informed the customer that the dashboard may take time to load due to the heavy data load and encouraged the user to reach out if further difficulties were encountered.

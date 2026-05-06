@@ -1,0 +1,60 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Support Dnext
+Date: 2025-12-11 11:49:56.419000+00:00
+Subject: Re: DCS-2064 Product Check
+Message-ID: GVAP278MB0150DFEFFC9C12EE3356F36098A1A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0100019b0cf01345-0c8af788-f17d-423e-9522-51c5e5843825-000000@email.amazonses.com
+Attachments: jira-generated-image-static-20341c05-c753-4a3f-adf, jira-generated-image-static-949fbd8f-5dc8-46c5-a46, jira-generated-image-static-bca588b5-c544-4625-8c2, image.png
+
+================================================================================
+
+Hello team
+
+Previously POME data was much smaller numbers than what we have currently. Please let me know what has changed between previous version and the version today? 
+
+
+
+After Feb 2025, POME exports are restricted and no exports are happening. I check for 23069090 on BPS and it confirms no exports after Feb 2025.
+
+
+Kindly look into.
+
+Regards,
+Aditya Jeripotula
+
+
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net>
+Sent: 11 December 2025 17:23
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Subject: DCS-2064 Product Check
+ 
+—-—-—-—
+Reply above this line.
+
+Saber Khalfallah commented:
+
+Hello ,
+
+the hs code we are using is 23066090
+
+and this is the number for January & February which match what we have in the dashboard for that HS code.
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/41587/attachment/29861> 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/41587/attachment/29860> 
+
+Saber Khalfallah Customer Support
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/41587/attachment/29862> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2064?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImZlOWY1MGQyMDNiODBmMGJiOWY4ODM5OTkxOGVhZTBkZmZmYWQ4YmY5NTIzZmFhOGYxM2VhNzU2OWRkNGFkMTMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTEyMzQiLCJpc3N1ZSI6IkRDUy0yMDY0In0sImV4cCI6MTc2Nzg2NzgxNSwiaWF0IjoxNzY1NDQ4NjE1fQ.GJdV6tRwOonZv4RVk98tQq37wNB6HGFrkqjpafE5IZo&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2064/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImZiMzc3ZTM4YTRkOGRhZTRlODE1MjA4NWUyMDNmMWQ4YzA0N2FhMzlmZTJlNTM1ZjQxOGIzY2VmYjk1ZjgxMDQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6NjViOGFiM2EtOGE2MC00NWVjLThhY2YtYTU1N2E2MGUxYjlkIiwiaXNzdWUiOiJEQ1MtMjA2NCJ9LCJleHAiOjE3Njc4Njc4MTUsImlhdCI6MTc2NTQ0ODYxNX0.2AmPUDR9MzIRRgPtZn0F0pGyVhIGjn7N8EPptkEHqh4> 
+
+This is shared with Aditya Jeripotula and Bastien.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on December 11, 2025 11:23:35 AM CET
+ <http://use1-track.atlassian.com/CI0/0100019b0cf01345-0c8af788-f17d-423e-9522-51c5e5843825-000000/JFKw0RR-MdQ7qNcmXCBigZYAOS9G-8-9f8WbrnlJ_Uk=435> 

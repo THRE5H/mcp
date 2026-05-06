@@ -1,0 +1,39 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Pablo Figueroa; Support Dnext; Jebrane Ben Salem; Guillaume Goudy
+Date: 2025-03-25 13:00:14.905000+00:00
+Subject: Re: Request to add regions in Black Sea Weather Dashboards
+Message-ID: GV0P278MB0591002F9D6430B868A3C8D4F8A72@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717DD4BB1ED145EB91AD29AEBA72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_4.png, image_5.png
+
+================================================================================
+
+Agreed Pablo.
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Tuesday, March 25, 2025 7:09:27 AM
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: Request to add regions in Black Sea Weather Dashboards 
+ 
+Hi guys, would it be possible to add the following changes:
+
+
+
+
+1.	
+	in the panel views, leave this selection as default. (@Lucas Rosa <mailto:lucas.rosa@dnext.io>  / @Guillaume Goudy <mailto:guillaume.goudy@dnext.io>  agree?)
+
+this would make the map look a bit clearer and then if needed the user selects the other regions
+
+
+
+
+
+2.	
+	In Ukraine we need to have regional breakdown as we have for Russia. Breakdown is attached in the excel file.
+3.	
+	in the soil moisture and snow cover dashboard can we add the same regional breakdown for both Russia and Ukraine?
+
+
+

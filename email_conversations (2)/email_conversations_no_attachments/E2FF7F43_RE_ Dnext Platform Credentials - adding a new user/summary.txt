@@ -1,0 +1,5 @@
+**Problem**: The customer needed to add a new user, Gregorio, to the Dnext Platform but encountered issues with email communication regarding the request.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance with the Dnext Platform. The request involved adding a new user and ensuring proper communication among team members.
+
+**Solution**: The Support Agent confirmed that a new email address for support was created and that the support team would handle the request for adding the new user. It is recommended to ensure all relevant team members are included in communication channels for future requests.

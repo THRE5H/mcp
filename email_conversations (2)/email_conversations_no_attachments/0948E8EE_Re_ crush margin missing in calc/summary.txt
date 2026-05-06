@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the crush margin was missing from a specific table in the dashboard and requested an investigation into the missing data.
+
+**Context**: The user is an external user from Customer Organization seeking support from the Service Provider. The issue involved a dashboard feature that was not displaying the expected margin data.
+
+**Solution**: The Support Agent identified that the dashboard refresh was blocked, which was the cause of the missing margin. After resolving the refresh issue, the margin appeared correctly in the table. It is recommended to monitor dashboard refreshes to prevent similar issues in the future.

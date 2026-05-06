@@ -1,0 +1,5 @@
+**Problem**: The Customer requested the deletion of multiple datasets from their account.
+
+**Context**: The Customer is an internal user from the Customer Organization, seeking assistance from a Support Agent regarding dataset management. The request involved specific datasets related to market intelligence.
+
+**Solution**: The Support Agent confirmed the successful deletion of the requested datasets. It is recommended that users regularly review their datasets to ensure only necessary data is retained, preventing clutter and potential confusion in the future.

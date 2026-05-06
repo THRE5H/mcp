@@ -1,0 +1,21 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-09-25 09:12:16.325000+00:00
+Subject: Weather Dashboard Issue
+Message-ID: ZR0P278MB0505DE76050CDD17B74DBECA8A1FA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I am writing to inquire about the soil moisture graph on the European weather dashboard. When I view the data, the graph appears to be missing information or is not displaying as expected.
+
+Could you please confirm if this is a known issue maybe a temporary gap in the data or a problem with the display?
+
+
+
+ 
+
+Louis

@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "How to set up a trial demo account with restricted access to specific dashboards and data for a client team.",
+    "solution": "To provide a trial demo account with controlled access, follow these steps: 1) Identify the specific dashboards and tradeflows to be accessible during the trial, focusing on relevant data such as palm oil statistics and related industry information. 2) Configure the demo environment URL (e.g., https://demo4.dnext.io) and prepare credentials for the trial users. 3) Assign access to the selected dashboards, including but not limited to: GnO Crop (Indonesia and Malaysia palm oil stats), GnO Economics (Futures, Margin Analysis, Palm Oil Export Levy & Duty), Customs (Southeast Asia), Lineups (Asia South East), SND (Vegoils, Biodiesel Stats, Palm Oil Stocks), Weather (Malindo), and Trade Matrix (DNEXR-vegoils). 4) Add trial users to relevant distribution lists for updates (e.g., vegoils distribution list). 5) Verify and update the demo environment to ensure all requested dashboards are present and correctly configured, addressing any missing pages or incorrect regional data. 6) Provide reports via email for the trial duration (e.g., two weeks). 7) Communicate the demo environment URL and credentials securely to the trial users. This approach ensures clients have focused access to relevant data without overwhelming them, facilitating an effective trial experience.",
+    "keywords": [
+      "demo account",
+      "trial setup",
+      "dashboard access",
+      "palm oil data",
+      "GnO Crop",
+      "GnO Economics",
+      "SND",
+      "Trade Matrix",
+      "distribution list",
+      "demo environment",
+      "restricted access",
+      "trial configuration"
+    ],
+    "category": "Configuration"
+  }
+}

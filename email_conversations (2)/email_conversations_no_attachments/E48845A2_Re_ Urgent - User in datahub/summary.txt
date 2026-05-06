@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user to the DataHub environment.
+
+**Context**: The request was made by an external user from Customer Organization to a Support Agent at Service Provider. The issue involved user management within the DataHub product.
+
+**Solution**: The Support Agent successfully created the user in the DataHub environment as requested. It is recommended to verify user access and permissions after creation to ensure proper functionality.

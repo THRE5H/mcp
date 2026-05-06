@@ -1,0 +1,73 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Mohamed Elasfoury; Support Dnext
+Date: 2025-04-24 14:01:13.401000+00:00
+Subject: RE: AGD Freight Rates Sharing Problem
+Message-ID: ZR3P278MB1323DEDB3C08F4F3D05BD9C5F8852@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB02469163250E2FB8C706AC4394852@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Just checked and everything seems to be correct :
+
+ 
+
+This is the dataset : 
+
+
+ 
+
+ 
+
+And this is the freight module : 
+
+ 
+
+
+
+
+ 
+
+Did they elaborate more on whats missing exactly or give me the contact of the one who reported this so I can check more with him
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io> 
+Sent: Thursday, April 24, 2025 13:46
+To: Support Dnext <support@dnext.io>
+Subject: AGD Freight Rates Sharing Problem
+
+ 
+
+Hi, 
+
+ 
+
+AGD have reported that the latest freight rates they can see on their environment is the 4th of April, on DNEXR the latest is yesterday, so it seems that there is a sharing bug or a problem with the contract . Could you have a look? Thanks
+
+ 
+
+Asfoury

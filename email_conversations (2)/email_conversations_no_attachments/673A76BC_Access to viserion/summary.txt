@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the Viserion environment for three specific email accounts associated with their organization. 
+
+**Context**: The user is a Data Analyst from a Customer Organization seeking access to a service provided by the Service Provider. The request involves specific email accounts that require access to both the Viserion environment and Snowflake.
+
+**Solution**: The Support Agent verified the access requirements and granted permissions for the requested email accounts in the Viserion environment. The customer was informed of the successful access setup and was advised to follow standard access request procedures for future needs.

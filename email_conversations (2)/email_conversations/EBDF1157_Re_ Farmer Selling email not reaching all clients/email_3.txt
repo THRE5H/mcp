@@ -1,0 +1,11 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-02-05 10:58:26.684000+00:00
+Subject: Farmer Selling email not reaching all clients
+Message-ID: GV0P278MB0717EDE0C7B75DA75EEAE34AEBF72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi guys can we check the dl´s we are using for the daily farmer selling email?
+
+Etienne from Saftco is not receiving it for example. it should be sent to grains clients, in case we are only sending to Grains & Oilseeds clients.

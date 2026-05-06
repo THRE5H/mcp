@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the lineups for October in the Tradematrix are either not displaying or are extremely small, and do not match the data provided in a previous email.
+
+**Context**: The user is an external user from the Customer Organization, experiencing issues with the Tradematrix feature. The problem may stem from either the platform or the data feeding into it, as indicated by the customer's uncertainty.
+
+**Solution**: The Support Agent acknowledged the issue and began investigating it. Further actions are needed to determine whether the problem is related to the platform or the data. It is recommended that the customer provide additional examples or screenshots to assist in troubleshooting.

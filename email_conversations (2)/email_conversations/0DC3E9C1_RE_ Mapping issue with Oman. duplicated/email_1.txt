@@ -1,0 +1,42 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-25 14:00:02.122000+00:00
+Subject: RE: Mapping issue with Oman. duplicated
+Message-ID: ZR0P278MB0505C2DF2ED8114797A9BD768AA72@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717A61F12849E221B1F8780EBA72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Noted.
+
+It can be deleted directly since there is no related dataset.
+
+However, there seems to be a bug—when attempting to delete it, a warning appears stating that the reference is in use and cannot be removed. I will create a ticket for this.
+
+Louis
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Tuesday, March 25, 2025 1:55 PM
+To: Support Dnext <support@dnext.io>
+Cc: Louis Olive <louis.olive@dnext.io>
+Subject: Re: Mapping issue with Oman. duplicated
+
+ 
+
+the one which is wrong is OMAN. as we always use the three letter ISO code
+
+________________________________
+
+From: Pablo Figueroa
+Sent: Tuesday, March 25, 2025 1:49 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Louis Olive <louis.olive@dnext.io <mailto:louis.olive@dnext.io> >
+Subject: Mapping issue with Oman. duplicated 
+
+ 
+
+
+
+ 

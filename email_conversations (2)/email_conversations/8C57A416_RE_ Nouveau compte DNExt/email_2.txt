@@ -1,0 +1,98 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Benoit Breuil; Guillaume Goudy; Support Dnext; Ivo Brites Traca
+Date: 2025-06-10 14:55:13.904000+00:00
+Subject: RE: Nouveau compte DNExt
+Message-ID: GV0P278MB1320B38D50C57ED226BB171FF86AA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01488428AD8F9B1719121FC6986AA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Benoit, 
+
+ 
+
+Hope all is well .
+
+ 
+
+A user account has been created for Ivo but when I tried sending the login credentials I received a delivery failure notification:  
+
+ 
+
+
+
+ 
+
+Could you kindly confirm if the email address provided for the account is correct?
+
+ 
+
+If the email address appears to be correct, it might be worth checking if there are any technical issues or restrictions on your email server that could be blocking the delivery. 
+
+It could be helpful to consult with your IT department to see if there are any configurations, such as spam filters or server-side issues, that might be affecting the email delivery.
+
+ 
+
+In the meantime, if you could provide an alternative way to send the login credentials, I would be happy to proceed with that method.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Tuesday, June 10, 2025 14:01
+To: Benoit Breuil <Benoit.Breuil@verbio.ch>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Brites Traca Ivo (VERBIO) <ivo.britestraca@verbio.ch>; Cordelier David (VInternational) <David.Cordelier@verbio.de>
+Subject: RE: Nouveau compte DNExt
+
+ 
+
+@Support Dnext <mailto:support@dnext.io>  can you guys take care of the below
+
+ 
+
+Thanks
+
+ 
+
+From: Breuil Benoit (VInternational) <Benoit.Breuil@verbio.ch <mailto:Benoit.Breuil@verbio.ch> > 
+Sent: Tuesday, June 10, 2025 2:59 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Cc: Brites Traca Ivo (VERBIO) <ivo.britestraca@verbio.ch <mailto:ivo.britestraca@verbio.ch> >; Cordelier David (VInternational) <David.Cordelier@verbio.de <mailto:David.Cordelier@verbio.de> >
+Subject: Nouveau compte DNExt
+
+ 
+
+Bonjour Guillaume, Bastien,
+
+ 
+
+Je ne sais plus à qui il faut s’adresser chez vous pour avoir un nouveau compte, mais est-ce que vous pourriez en créer un pour notre nouveau trader, Ivo, en copie ? 
+
+ 
+
+Merci d’avance !
+
+ 
+
+Benoît

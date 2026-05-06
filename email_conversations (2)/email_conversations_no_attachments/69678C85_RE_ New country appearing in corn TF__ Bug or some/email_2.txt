@@ -1,0 +1,73 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Nicolas Chaperon; Guillaume Goudy; Support Dnext
+Date: 2025-05-21 10:11:17.963000+00:00
+Subject: RE: New country appearing in corn TF?? Bug or someone did this change?
+Message-ID: GV0P278MB13200A4C177620A0BE469D9FF89EA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0622316E76E5DA247A60B6FEE69EA@GV0P278MB0622.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+I remember a client reporting this not long ago
+
+
+
+
+ 
+
+I checked with @Guillaume Goudy <mailto:guillaume.goudy@dnext.io>  at the time and he asked me to revert it to how it was  
+
+ 
+
+So, it’s likely that I was the one who placed Sudan in North Africa, since the client mentioned that was how it was initially.
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nicolas Chaperon <nicolas.chaperon@dnext.io> 
+Sent: Wednesday, May 21, 2025 9:36
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: New country appearing in corn TF?? Bug or someone did this change?
+
+ 
+
+I'll remove it now and have a look on who applies this.
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 21 May 2025 10:33
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: New country appearing in corn TF?? Bug or someone did this change? 
+
+ 
+
+What is happening in the corn TF?
+
+I did not change anything and I have a new country showing up and in the wrong region. See below. Someone has put Sudan in North Africa. Did not add Sudan and definitely not North Africa.
+
+gg
+
+

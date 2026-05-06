@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Trade flow data for Dried Distillers Grains with Solubles (DDGS) was initially missing or incomplete for Brazil, causing discrepancies in export figures shown in the TradeMatrix module.",
+    "solution": "To access the DDGS trade flow data, users should go to the TradeMatrix module and search for 'Dried Distillers Grains with Solubles' in the name column or use the direct URL format: https://[domain]/fundamentals/tradematrix/[identifier]. The Brazil export data was updated to reflect accurate figures matching customs reports for 2025. The update included adding missing HS codes to ensure all relevant export data is captured. Users should verify the updated data in the TradeMatrix after these corrections.",
+    "keywords": [
+      "TradeMatrix",
+      "DDGS",
+      "Dried Distillers Grains with Solubles",
+      "trade flow",
+      "Brazil export data",
+      "HS codes",
+      "data update",
+      "customs data",
+      "export figures",
+      "data query"
+    ],
+    "category": "How-to Guide"
+  }
+}

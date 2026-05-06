@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of two specific datasets from the system.
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance from the Support Team of the Service Provider. The request involved two datasets related to cash daily data on edible oils.
+
+**Solution**: The Support Agent confirmed that the datasets were successfully deleted as requested. It is recommended that users verify dataset codes before requesting deletion to ensure accuracy.

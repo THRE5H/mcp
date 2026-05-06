@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the latest SBS trade flows were not visible in the dashboard and requested confirmation once the updates were pushed.
+
+**Context**: The customer is an external user from a Customer Organization, seeking updates on trade flows related to the Oilseeds SND feature of a data management system provided by a Service Provider. The issue involved discrepancies between the trade matrix and the dashboard data.
+
+**Solution**: The Support Agent investigated the issue and confirmed that the trade matrix and dashboard numbers matched. After further inquiry, the development team identified the problem and worked on a fix. The issue was eventually resolved, and the customer confirmed visibility of the latest updates. It is recommended to ensure that trade flow codes are checked for accuracy in future queries.

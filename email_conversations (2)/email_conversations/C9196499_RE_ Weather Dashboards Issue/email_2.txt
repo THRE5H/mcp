@@ -1,0 +1,81 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext
+Date: 2025-06-10 10:55:55.928000+00:00
+Subject: Re: Weather Dashboards Issue
+Message-ID: ZR3P278MB1226D136CB66DDC90F22E611F56AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0505006EEC35574AE4B155828A6AA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+Attachments: image003.png, image004.png, image005.png, image.png
+
+================================================================================
+
+Hello Louis, 
+
+I fixed all the issues mentioned. Also I checked with Louis, so @Support Dnext <mailto:support@dnext.io>  thanks to close this ticket.
+
+
+
+Jebrane.
+
+________________________________
+
+From: Louis Olive <louis.olive@dnext.io>
+Sent: 10 June 2025 09:08
+To: Support Dnext <support@dnext.io>
+Subject: RE: Weather Dashboards Issue
+ 
+
+Hello Again,
+
+ 
+
+In addition to the view, that are not matching, the countries filters are not matching.
+
+
+Louis
+
+ 
+
+ 
+
+From: Louis Olive
+Sent: Tuesday, June 10, 2025 9:51 AM
+To: Support Dnext <support@dnext.io>
+Subject: Weather Dashboards Issue
+
+ 
+
+Hello,
+
+ 
+
+I would like to report two additional bugs I've encountered on the weather dashboard. These may be related to the button disappearing issue I reported over the weekend.
+
+ 
+
+Bug #1: Graph Button Becomes Unresponsive
+
+When attempting to click on the graph option, the button becomes grayed out and unresponsive. I am unable to click on it or access the graph functionality.
+
+Steps to Reproduce:
+
+*	Navigate to the weather dashboard
+*	Attempt to click on the graph option button
+*	Observe that the button becomes grayed out and non-functional
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Bug #2: Inconsistent Default Country Selection
+
+The default view for country selection is not consistent between different weather dashboards. Each dashboard shows different default countries selected, creating an inconsistent user experience.
+
+ 
+
+Louis

@@ -1,0 +1,5 @@
+**Problem**: The customer was confused about the steps needed to refresh their expired Microsoft access token to continue using the service.
+
+**Context**: The user is an external user of the Service Provider's platform, DNEXT. The issue arose due to the expiration of the Microsoft access token, which affected access to a specific dataset related to agricultural production.
+
+**Solution**: The Support Agent offered to refresh the token on behalf of the customer, eliminating the need for the customer to take any action. It is recommended that users regularly check their token status to avoid similar issues in the future.

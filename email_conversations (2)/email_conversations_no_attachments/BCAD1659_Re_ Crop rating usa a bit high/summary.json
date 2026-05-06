@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Crop rating data for the USA showed unexpectedly high values due to duplicated state reported conditions in the dataset.",
+    "solution": "The issue was caused by updating crop condition values for winter wheat in two datasets, leading to duplicated data points. To fix this, discard all previous updates for the 2025 crop and keep only one dataset update. Additionally, remove duplicated entries such as specific state data (e.g., Kansas) from the dataset to correct the crop rating values. This approach prevents duplication and ensures accurate crop condition reporting.",
+    "keywords": [
+      "crop rating",
+      "USA",
+      "high values",
+      "duplicated data",
+      "winter wheat",
+      "dataset update",
+      "crop condition values",
+      "data correction",
+      "state reported conditions"
+    ],
+    "category": "Data Correction"
+  }
+}

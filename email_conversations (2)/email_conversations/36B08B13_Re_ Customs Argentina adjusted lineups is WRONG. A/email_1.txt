@@ -1,0 +1,195 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Léonard Berney; Khalil Mekki; Guillaume Goudy; Support Dnext; Dnext Customs
+Date: 2026-01-15 12:08:18.368000+00:00
+Subject: Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all
+Message-ID: ZR3P278MB12260B52197A4CCA614EEE56F58CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB033882810F6A3C9D3D090C59E78CA@GV0P278MB0338.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+I just find the issue in the SQL query (the column country Partner should be in the equation: a."Country Partner" = b."Country Partner") 
+PS: our old numbers (for previous years) can be wrong! 
+
+I update this code for Corn, please @Khalil Mekki <mailto:khalil.mekki@dnext.io>  check if all good you can update the SQL query in the data prep
+I checked the lineups dataset in November we just have 2 Values for Corn (Yemen and Saudia) 
+
+
+WITH "Indec_raw" as (
+    SELECT "Country Partner" :"Code"::string as "Country Partner",
+        "Product" :"Code"::string as "Product",
+        "Quantity" * "Quantity Unit multiplier" as "Quantity",
+        "Date Reporter",
+        "Quantity Unit multiplier"
+    FROM "DNEXR"."DATASET"."dnexr-structured-indec-gno-arg-tf_customs-monthly"
+    WHERE "Country Reporter" :"Code" = 'ARG'
+        and "Trade Direction" :"Code" = 'Export'
+        and "Date Reporter" >= '2018-03-01'
+),
+"reference_product" as (
+    SELECT DISTINCT "CODE",
+        "HIERARCHY"
+    FROM DNEXR.REFERENCE."product"
+),
+"Indec_descendant" as (
+    SELECT "Indec_raw"."Country Partner",
+        'CRN' as "Product",
+        "Indec_raw"."Quantity",
+        "Indec_raw"."Date Reporter",
+        "reference_product"."HIERARCHY"
+    FROM "Indec_raw"
+        LEFT JOIN "reference_product" on "Indec_raw"."Product" = "reference_product"."CODE"
+    WHERE STARTSWITH(
+            "HIERARCHY",
+            (
+                SELECT "HIERARCHY"
+                FROM "reference_product"
+                WHERE "reference_product"."CODE" = 'CRN'
+            )
+        )
+
+
+),
+"Fertimport_raw" as (
+    SELECT "Product" :"Code"::string as "Product",
+        "Quantity Unit_Multiplicator",
+        "Quantity" * "Quantity Unit_Multiplicator" as "Quantity",
+        DATE_FROM_PARTS(YEAR("ETS Reporter"), MONTH("ETS Reporter"), 1) as "Date Reporter",
+        "Country Partner" :"Code"::string as "Country Partner"
+    FROM "DNEXR"."DATASET"."dnexr-structured-fertimport-ags-arg-tf_lineups_vessel-weekly"
+    WHERE "Country Reporter" :"Code" = 'ARG'
+        and "Trade Direction" :"Code" = 'Export'
+        and "Product Origin" :"Code" = 'ARG'
+        and "ETS Reporter" >= '2018-03-01'
+),
+"Fertimport_descendant" as (
+    SELECT "Fertimport_raw"."Country Partner",
+        'CRN' as "Product",
+        "Fertimport_raw"."Quantity",
+        "Fertimport_raw"."Date Reporter",
+        "reference_product"."HIERARCHY"
+    FROM "Fertimport_raw"
+        LEFT JOIN "reference_product" on "Fertimport_raw"."Product" = "reference_product"."CODE"
+    WHERE STARTSWITH(
+            "HIERARCHY",
+            (
+                SELECT "HIERARCHY"
+                FROM "reference_product"
+                WHERE "reference_product"."CODE" = 'CRN'
+            )
+        )
+
+)
+,
+"Fertimport_ratio" as (
+    SELECT a."Date Reporter",
+        a."Product",
+        a."Country Partner",
+        a."Quantity" / b."Quantity_all" as "ratio"
+    FROM (
+            SELECT "Country Partner",
+                "Product",
+                "Date Reporter",
+                SUM("Quantity") as "Quantity"
+            FROM "Fertimport_descendant"
+            GROUP BY "Country Partner",
+                "Product",
+                "Date Reporter"
+        ) a
+        LEFT JOIN (
+            SELECT "Product",
+                "Date Reporter",
+                SUM("Quantity") as "Quantity_all",
+                "Fertimport_descendant"."Country Partner" as "Country Partner"
+            FROM "Fertimport_descendant"
+            GROUP BY "Product",
+                "Date Reporter","Country Partner"
+        ) b ON a."Date Reporter" = b."Date Reporter"
+        AND a."Product" = b."Product" and a."Country Partner" = b."Country Partner"
+)
+
+
+
+SELECT a."Date Reporter",
+    a."Product",
+    a."Country Partner",
+    a."ratio" * b."Quantity" as "Quantity"
+FROM "Fertimport_ratio" a
+    LEFT JOIN (
+        SELECT "Date Reporter",
+            "Product",
+            SUM("Quantity") as "Quantity",
+        "Indec_descendant"."Country Partner" as "Country Partner",
+        FROM "Indec_descendant"
+        GROUP BY "Date Reporter",
+            "Product","Country Partner"
+    ) b ON a."Date Reporter" = b."Date Reporter"
+    AND a."Product" = b."Product" and a."Country Partner" = b."Country Partner"
+
+
+
+
+________________________________
+
+From: Léonard Berney <leonard.berney@dnext.io>
+Sent: 15 January 2026 10:49
+To: Khalil Mekki <khalil.mekki@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Dnext Customs <Customs@dnext.io>
+Subject: RE: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+Hello,
+
+I have no idea what this dataprep is about. Who is the owner of this?
+________________________________
+
+De : Khalil Mekki <khalil.mekki@dnext.io>
+Envoyé : jeudi 15 janvier 2026 10:36
+À : Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Dnext Customs <Customs@dnext.io>
+Objet : Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+Hello,
+I have checked both customs and lineups data do not have those numbers. There is a SQL dataprep that is combining both customs and lineups to get the customs lineups adjusted data, and I have already shared the dataprep with @Léonard Berney <mailto:leonard.berney@dnext.io>  and have got no response from him.
+This is the dataprep link: https://dnexr.dnext.io/data-prep/dnexr-arg-crt-pre/edit/preparation
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, January 14, 2026 8:01:41 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Dnext Customs <Customs@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+@Léonard Berney <mailto:leonard.berney@dnext.io> , @Khalil Mekki <mailto:khalil.mekki@dnext.io>  and @Dnext Customs <mailto:Customs@dnext.io>  can u check this please ? 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 14 January 2026 00:45
+To: Support Dnext <support@dnext.io>
+Subject: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+
+
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

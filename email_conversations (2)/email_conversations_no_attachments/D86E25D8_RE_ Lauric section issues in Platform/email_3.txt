@@ -1,0 +1,30 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-07-01 13:57:17.288000+00:00
+Subject: Fw: Lauric section issues in Platform
+Message-ID: GVAP278MB0246EBE8168385868CE887E89441A@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB00243D570A3239C1CAFBC103EA41A@GVAP278MB0024.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+
+________________________________
+
+From: Rahiman KN <Rahiman.kn@dnext.io>
+Sent: Tuesday, July 1, 2025 2:49 PM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Cc: Sami Jaballah <sami.jaballah@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: Lauric section issues in Platform 
+ 
+
+Dear Mohamed & others,
+
+On platform, in our lauric section (Trade matrix), the data for Coconut exports from Philippines and Indonesia are shown as official numbers from PSA and BPS respectively. However the official numbers shown on website and platform are different, even for historic years. Moreover the official declared numbers are still in grey color. 
+
+Pls rectify or suggest.
+
+ 
+
+Rgds
+
+KNR

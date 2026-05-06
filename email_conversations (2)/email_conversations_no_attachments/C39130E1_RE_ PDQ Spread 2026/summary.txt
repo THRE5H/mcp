@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of the year 2026 to a drop-down list in a dashboard but was informed that the data only extended to December 2025.
+
+**Context**: The customer is an external user from the Customer Organization, seeking to utilize a feature of the Service Provider's dashboard related to grain and oilseed economics. The issue arose due to a limitation in the data source used for the dashboard.
+
+**Solution**: The Support Agent identified that the script was running with a static date range and adjusted it to include 2026. After refreshing the dashboard, the customer confirmed that the issue was resolved and expressed gratitude for the assistance. It is recommended to periodically review and update scripts to ensure data availability.

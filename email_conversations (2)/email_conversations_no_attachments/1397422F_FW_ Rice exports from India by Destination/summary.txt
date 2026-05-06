@@ -1,0 +1,5 @@
+**Problem**: The Customer is requesting a breakdown of rice exports from India for the last two years.
+
+**Context**: The User is a Director of Indian Operations at a Partner Company, seeking specific export data from a Service Provider. The inquiry pertains to agricultural export statistics, which may involve data analysis or reporting.
+
+**Solution**: The Support Agent was asked to check the availability of the requested export breakdown. No specific resolution was provided in the email thread, and further action may be needed to gather the data. It is recommended to verify data sources and ensure timely responses to such requests in the future.

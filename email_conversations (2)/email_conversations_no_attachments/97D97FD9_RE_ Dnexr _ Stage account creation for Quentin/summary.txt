@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of Dnexr and Stage accounts for a new team member at Blackfryers, including the need for access to the BF environment.
+
+**Context**: The user is an external user from the Customer Organization. The request involves account creation for the Dnexr and Stage platforms, with the new team member's email provided for account setup.
+
+**Solution**: The Support Agent confirmed that user accounts were successfully created for the new team member on the Dnexr, Stage, and Blackfryers platforms. Login credentials were sent to the user's email address, ensuring access was granted as requested. It is recommended to verify account access upon first login to ensure all permissions are correctly set.

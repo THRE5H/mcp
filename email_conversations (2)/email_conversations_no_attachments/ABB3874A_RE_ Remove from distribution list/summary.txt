@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a user from a distribution list, as the user had left their organization.
+
+**Context**: The customer is an internal user from Customer Organization requesting support from the Service Provider. The issue involves a distribution list that includes a former employee of Customer Organization.
+
+**Solution**: The Support Agent confirmed that the user had been removed previously but was still part of a distribution list managed by Customer Organization. It was recommended to verify the distribution list settings to ensure the removal is effective across all lists.

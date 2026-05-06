@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of an email address from the DL-Raizen distribution list because the associated individual was no longer with the company.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance from the Customer Support team of Service Provider. The request involved modifying a distribution list within the organization's email system.
+
+**Solution**: The Support Agent promptly removed the specified email address from the DL-Raizen distribution list as requested. The customer confirmed the completion of the task and expressed gratitude. It is recommended to regularly review distribution lists to ensure they remain up-to-date.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a user from a distribution list due to delivery failures related to the user's email address.
+
+**Context**: The customer is an external user from Customer Organization, and the issue involves email communication with a user at Service Provider. The email delivery failed with a 'Recipient not found' error, indicating that the email address may no longer be valid.
+
+**Solution**: The Support Agent informed the customer that they cannot remove the user from the distribution list themselves and need to contact the relevant team for assistance. It was recommended to reach out to the appropriate contacts for removal from the list to prevent further delivery issues.

@@ -1,0 +1,23 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Mohamed Elasfoury; Support Dnext
+Date: 2025-04-14 09:26:56.224000+00:00
+Subject: Re: Broken Customs Dashboard
+Message-ID: GV0P278MB0306725F0A4D574AE65B9ADBF5B32@GV0P278MB0306.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0251CBCD4270F43327BAC3C794B62@ZR0P278MB0251.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello,
+We are aware of the issue; it will be resolved no later than today.
+Thanks,
+Khalil
+________________________________
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Sent: Friday, April 11, 2025 5:42 PM
+To: Support Dnext <support@dnext.io>
+Cc: Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Broken Customs Dashboard 
+ 
+Something broke with the customs dashboards, the product grouping seems to have been removed for certain products:

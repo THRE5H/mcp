@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset identified as "dnexr-ndrc-steel-chn-cash-weekly."
+
+**Context**: The user is a Data Analyst from Customer Organization. The request was made to the Customer Support team of the Service Provider regarding a dataset management issue.
+
+**Solution**: The Support Agent confirmed that the dataset deletion was successfully completed. It is recommended for users to verify dataset names before requesting deletion to avoid accidental loss of important data.

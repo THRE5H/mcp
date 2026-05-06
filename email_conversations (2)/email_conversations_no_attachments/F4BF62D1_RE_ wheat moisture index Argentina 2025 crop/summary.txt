@@ -1,0 +1,5 @@
+**Problem**: The customer requested an update for the 2025 moisture index for wheat, indicating that the report had not been updated.
+
+**Context**: The customer is an external user, a Senior Analyst in Grains & Oilseeds at a Customer Organization. The inquiry pertains to a moisture index report related to wheat for the 2025 crop, which was not current at the time of the request.
+
+**Solution**: The Support Agent confirmed that the report was updated and clarified that the 2025 crop data is now available, although it is noted that the source has not yet released the data for the current 2026 crop. It is recommended to regularly check for updates from the source to ensure timely access to the latest information.

@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Data for Paraguay customs imports is updated through April 2025, but exports data is only available through January 2025, causing a mismatch in data recency.",
+    "solution": "The issue was caused by a small bug in a newly created data processing script that led to the mismatch between import and export data timing. The bug was identified and fixed, resolving the data discrepancy. Additionally, it was recognized that the current HealthCheck system does not detect such timing mismatches between import and export data. A request has been made to add this check to the HealthCheck process to automatically flag similar issues in the future, preventing recurrence.",
+    "keywords": [
+      "Paraguay customs",
+      "data mismatch",
+      "import export timing",
+      "data recency",
+      "data quality",
+      "HealthCheck",
+      "data processing script bug",
+      "data validation",
+      "customs data",
+      "data update frequency"
+    ],
+    "category": "Error Resolution"
+  }
+}

@@ -1,0 +1,79 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Jebrane Ben Salem; Guillaume Goudy; Support Dnext; Crop_Tunisia; Nader Ltaief; Pablo Figueroa; Nour Meddeb
+Date: 2026-01-08 14:10:34.848000+00:00
+Subject: Re: SND/Argentina/export registrations = broken. Data not showing and corn last data is november
+Message-ID: ZR0P278MB033295A74E9EE4138184C2BB9D85A@ZR0P278MB0332.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12260AC0951B2236B97A29A4F585A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello everyone,
+The issue regarding Export License vs. FS has been resolved.
+Regarding the corn data not being updated since November, I reviewed the data pipelines and found that the crop year (season) is calculated in Snowflake. As shown in the code below, the crop year is derived from the shipment_date_from column (FECHA DE INICIO PER in the source):
+
+*	
+	if the month is strictly greater than February, the crop year corresponds to the calendar year
+*	
+	otherwise, it is calculated as year − 1.
+
+After reviewing both the source data and the datasets, the only records that meet this condition are those displayed in the screenshots below (24 Sept, 25 Sept and 7 Nov ) and the cumulated sum is the same in the source, dataset, and dashboard 305,000
+Adding @Pablo Figueroa <mailto:pablo.figueroa@dnext.io>  to check if the season calculations are still the same or not
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Thanks,
+Iheb
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Thursday, January 8, 2026 11:51 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Crop_Tunisia <Crop_TN@dnext.io>; Nader Ltaief <nader.ltaief@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: SND/Argentina/export registrations = broken. Data not showing and corn last data is november 
+ 
+Adding @Crop_Tunisia <mailto:Crop_TN@dnext.io>  
+@Nader Ltaief <mailto:nader.ltaief@dnext.io>  / @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io>  can u check this ASAP please
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 08 January 2026 11:48
+To: Support Dnext <support@dnext.io>
+Subject: SND/Argentina/export registrations = broken. Data not showing and corn last data is november 
+ 
+
+
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

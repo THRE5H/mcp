@@ -1,0 +1,39 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-07-30 14:49:15.979000+00:00
+Subject: Setup environment Tudor
+Message-ID: GVAP278MB0677A0EBA5887C3B6DE41E418824A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+The DevOps team created a new client environment:
+
+datahub.dnext.io
+
+ 
+
+It will be used for different client. Our first need is for the client: Tudor: access to 1 dataset:
+
+dnexr-dnexr-sug-bra-tf-lineups-vessel-daily-1
+
+ 
+
+They will access it though the platform + APIs.
+
+Contract start: 01.08.2025
+
+Contract End: 31.07.2026
+
+ 
+
+If you can setup this environment. I will send you later the users.
+
+ 
+
+Many thanks
+
+Sami

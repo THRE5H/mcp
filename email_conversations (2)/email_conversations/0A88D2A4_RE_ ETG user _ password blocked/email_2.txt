@@ -1,0 +1,14 @@
+From: Camila Baldin </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9535F91BD2BE46A397A66390D64C36C3-4D1800BF-73>
+To: Support Dnext
+Date: 2025-12-12 16:23:19.595000+00:00
+Subject: ETG user / password blocked
+Message-ID: ZR1P278MB12473732A586D5FF5987030898AEA@ZR1P278MB1247.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi @Support Dnext <mailto:support@dnext.io> ,
+Could you please check the access of Barry Maas ("Barry Maas" <barry.maas@etgworld.com>) to Sugar Platform, by sending him a email to reset his password?
+
+He is receiving the error below:
+

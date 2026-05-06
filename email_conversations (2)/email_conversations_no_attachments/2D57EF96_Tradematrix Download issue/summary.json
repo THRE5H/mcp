@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience issues with the download button in the Soft Wheat TradeMatrix and confusion about TradeMatrix code formats.",
+    "solution": "Access the Soft Wheat TradeMatrix via the URL format https://[domain]/fundamentals/tradematrix/sucden-[uuid]. Use TradeMatrix codes in the 'sucden-xxxx-xxxx' format instead of the deprecated 'dnexr-xxxx-xxxx' format. The new 'sucden' codes are linked to the updated system, ensuring that any updates or changes to resources are dynamically reflected. The download button in the TradeMatrix interface is now fully functional and available for use.",
+    "keywords": [
+      "TradeMatrix",
+      "download button",
+      "code format",
+      "sucden",
+      "dnexr",
+      "deprecated",
+      "dynamic updates",
+      "Soft Wheat",
+      "URL format"
+    ],
+    "category": "Download Problem"
+  }
+}

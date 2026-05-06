@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the Dnext platform but did not have an account set up.
+
+**Context**: The user is an external user from a Customer Organization. The request was made to the Service Provider's support team for assistance in gaining access to their platform.
+
+**Solution**: A user account was created for the customer on the Dnext platform, and login credentials were sent to their inbox. The Support Agent offered further assistance and a walkthrough of the platform if needed.

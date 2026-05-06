@@ -1,0 +1,181 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Matias Meligrana; Bastien Lambert
+Date: 2025-04-09 11:52:01.463000+00:00
+Subject: RE: USDA Longer Term
+Message-ID: GV0P278MB132048C7167CC1F02CB3AC00F8B42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AS8P120MB0456C5EA20622D7107C288EA90B52@AS8P120MB0456.EURP120.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Matias , 
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+For this question  : 
+
+“I need to see historical spreads of bean oil NZ, is possible in the platform?”
+
+For now we have only Soybean and Soybean Meal , and we are actively working on adding Soybean Oil 
+
+ 
+
+You can find the report by going to Dashboards > Economics > Oilseeds > Cash (see image below for visual aid) 
+
+ 
+
+
+
+ 
+
+For the Soybean USA Baseline Supply and demand report , we are currently troubleshooting the issue and it will be fixed soon , we will keep you updated
+
+ 
+
+Also I recommend that you always send these requests to support@dnext.io <mailto:support@dnext.io>  as they will be treated faster and more efficiently
+
+ 
+
+If you have any other question or inquiriy , please do not hesitate to reach out.
+
+ 
+
+Thank for your patience and understanding
+
+ 
+
+Best regards, 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Matias.Meligrana@shell.com <Matias.Meligrana@shell.com> 
+Sent: Tuesday, April 8, 2025 19:34
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: USDA Longer Term
+
+ 
+
+I need to see historical spreads of bean oil NZ, is possible in the platform?
+
+ 
+
+Thanks
+
+ 
+
+Matias
+
+ 
+
+From: Meligrana, Matias STUSCO-STP/LL7 
+Sent: Tuesday, April 8, 2025 1:21 PM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: RE: USDA Longer Term
+
+ 
+
+Can you check if this is all good?
+
+ 
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, March 28, 2025 4:18 AM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Meligrana, Matias STUSCO-STP/LL7 <Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com> >
+Subject: RE: USDA Longer Term
+
+ 
+
+Think Secure. This email is from an external source. 
+
+Hello , 
+
+ 
+
+@Matias Meligrana <mailto:Matias.Meligrana@shell.com>  the Baseline Report is now adjusted to show data until 2034/35
+
+ 
+
+
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Friday, March 28, 2025 8:55
+To: Matias Meligrana <Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com> >
+Subject: RE: USDA Longer Term
+
+ 
+
+Hi Matias,
+
+ 
+
+I reported the issue with the support, they are working on it
+
+ 
+
+From: Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com>  <Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com> > 
+Sent: Thursday, March 27, 2025 7:20 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: USDA Longer Term
+
+ 
+
+Hi Bastien, any feedback on longer term view in the platform?
+
+
+
+ 
+
+________________________________
+
+Companies within the Shell Trading business may monitor, record and archive corporate communications for legal, regulatory and/or business purposes. Such communications will be controlled by Shell Energy North America (US) LP on behalf of all Shell Trading entities within the United States and by Shell International Trading and Shipping Company Ltd for all other Shell Trading entities (“Shell”). Shell processes such corporate communications, including any communications transferred to and/or received from third parties, across various corporate communication channels (e.g., e-mail, voice call, instant messaging, etc.) in a legally compliant manner. Do not include any personal data, including sensitive personal data, in your corporate communications and do not transfer or share any personal data that you may receive from a third party. Any communication deemed to include personal data will be reported as a data privacy breach. To understand how Shell processes your personal data, please refer to the Shell Global Privacy Notice at link https://www.shell.com/privacy/ex-employee-notice.html <https://www.shell.com/privacy/ex-employee-notice.html> . 
+
+ 
+
+________________________________
+
+Companies within the Shell Trading business may monitor, record and archive corporate communications for legal, regulatory and/or business purposes. Such communications will be controlled by Shell Energy North America (US) LP on behalf of all Shell Trading entities within the United States and by Shell International Trading and Shipping Company Ltd for all other Shell Trading entities (“Shell”). Shell processes such corporate communications, including any communications transferred to and/or received from third parties, across various corporate communication channels (e.g., e-mail, voice call, instant messaging, etc.) in a legally compliant manner. Do not include any personal data, including sensitive personal data, in your corporate communications and do not transfer or share any personal data that you may receive from a third party. Any communication deemed to include personal data will be reported as a data privacy breach. To understand how Shell processes your personal data, please refer to the Shell Global Privacy Notice at link https://www.shell.com/privacy/ex-employee-notice.html <https://www.shell.com/privacy/ex-employee-notice.html> . 

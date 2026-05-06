@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Login Viserion",
+      "from": "daniel.wyczolkowski@viserion.co",
+      "from_name": "Daniel Wyczolkowski",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2025-12-01 17:33:22.187000+00:00",
+      "sent_time": "2025-12-01 17:33:11+00:00",
+      "body_text": "Requesting a platform login for:\r\n\r\n \r\n\r\ndaniel.wyczolkowski@viserion.co\r\n\r\n \r\n\r\n \r\n\r\nThank you kindly,\r\n\r\n \r\n\r\nDaniel Wyczolkowski, M.S, CFA\r\n\r\n(224)250-3675\r\n\r\n \r\n",
+      "body_html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head>\r\n\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style><!--\r\n/* Font Definitions */\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\r\n@font-face\r\n\t{font-family:Aptos;}\r\n/* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tmso-ligatures:standardcontextual;}\r\nspan.EmailStyle17\r\n\t{mso-style-type:personal-compose;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tcolor:windowtext;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:1.0in 1.0in 1.0in 1.0in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n--></style>\r\n</head>\r\n<body lang=\"EN-US\" link=\"#467886\" vlink=\"#96607D\" style=\"word-wrap:break-word\">\r\n<div class=\"WordSection1\">\r\n<p class=\"MsoNormal\">Requesting a platform login for:<o:p></o:p></p>\r\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\r\n<p class=\"MsoNormal\">daniel.wyczolkowski@viserion.co<o:p></o:p></p>\r\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\r\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\r\n<p class=\"MsoNormal\">Thank you kindly,<o:p></o:p></p>\r\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\r\n<p class=\"MsoNormal\">Daniel Wyczolkowski, M.S, CFA<o:p></o:p></p>\r\n<p class=\"MsoNormal\">(224)250-3675<o:p></o:p></p>\r\n<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "FF55162000A1464B9250B13397257C91",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900033137188A0000",
+      "size": 65130,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "SA1PR22MB4721D668289353C89E6D4483F8DBA@SA1PR22MB4721.namprd22.prod.outlook.com",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Login Viserion"
+}

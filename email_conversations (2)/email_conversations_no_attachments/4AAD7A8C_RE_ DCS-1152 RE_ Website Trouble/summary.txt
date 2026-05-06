@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log into their account and reported that there were no login attempts recorded for their user account.
+
+**Context**: The user is an external customer of a Service Provider. The issue involves access to the Service Provider's website, specifically related to user login functionality. The customer reached out for support after experiencing login difficulties.
+
+**Solution**: The Support Agent reviewed the logs and confirmed no login attempts were found for the customer. They proposed a Teams call to troubleshoot the issue further and assist the customer in resolving it. The next step is to schedule a meeting to investigate the problem together.

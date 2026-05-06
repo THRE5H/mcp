@@ -1,0 +1,68 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Enea Albertoli; Support Dnext
+Date: 2025-11-28 15:16:30.847000+00:00
+Subject: RE: Fuels World Future Prices
+Message-ID: GV0P278MB1320A7882748FCAEE64F1B65F8DCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353DDF8548DD45EEC6EE117F6DCA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello ,
+
+ 
+
+Fixed.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Friday, November 28, 2025 13:40
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Fuels World Future Prices
+
+ 
+
+ 
+
+Hello,
+
+ 
+
+May you please check this datset, it has an extraction error?
+
+ 
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/usages
+
+ 
+
+Thank you!
+
+ 
+
+Enea

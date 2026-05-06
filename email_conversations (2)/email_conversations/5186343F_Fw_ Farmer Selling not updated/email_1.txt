@@ -1,0 +1,70 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Support Dnext
+Date: 2025-07-29 14:31:47.657000+00:00
+Subject: Fw: Farmer Selling not updated
+Message-ID: ZR3P278MB12265514B91DFD94C5967570F525A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717A27CDDB765A66EEC1129EB25A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image1.png, image2.png
+
+================================================================================
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 29 July 2025 14:11
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Nader Ltaief <nader.ltaief@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Subject: Re: Farmer Selling not updated 
+ 
+solved. workflow in error. just rerun it
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, July 29, 2025 2:57 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>; Support Dnext <support@dnext.io>; Nader Ltaief <nader.ltaief@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Farmer Selling not updated 
+ 
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io>  and @Wassim Mandhouj <mailto:wassim.mandhouj@dnext.io> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 29 July 2025 13:50
+To: Nour Meddeb <nour.meddeb@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Farmer Selling not updated 
+ 
+Hi can we check why the email is not showing the correct data from yesterday?
+
+quite relevant to have this updated asap.
+
+
+________________________________
+
+From: News Dnext <news@dnext.io>
+Sent: Tuesday, July 29, 2025 8:00 AM
+To: Nour Meddeb <nour.meddeb@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Argentina Farmer Selling News 
+ 
+Executive Summary 
+
+Daily Argentina farmer selling in thousand tons: 
+ 
+
+Accumulated farmer selling (official source, lagged by 1 week): 
+
+2025 Crop Farmer Selling: 
+ 
+
+Details: 
+
+
+
+You can use the dashboard located in Dashboards -> Supply and Demand -> Argentina -> Farmer Selling where you can interact with the data.
+
+
+
+Best regards,
+
+DNEXT INTELLIGENCE

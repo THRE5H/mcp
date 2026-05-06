@@ -1,0 +1,5 @@
+**Problem**: The customer requested access for a user to the DNEXR and Stage environments.
+
+**Context**: The request was made by a Data Analyst from the Customer Organization on behalf of a user needing access to specific environments related to the Service Provider's platform.
+
+**Solution**: The Support Team processed the access request for the user and confirmed that access was granted to both DNEXR and Stage environments. It is recommended to regularly review user access permissions to ensure compliance and security.

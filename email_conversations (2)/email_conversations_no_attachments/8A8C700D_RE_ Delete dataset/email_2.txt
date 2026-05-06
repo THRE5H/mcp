@@ -1,0 +1,17 @@
+From: Farouk Jaziri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=56EB0DDE3BEB4C54A071554F6047B7E1-5FA702FC-B0>
+To: Support Dnext
+Date: 2025-05-30 12:15:53.506000+00:00
+Subject: Delete dataset
+Message-ID: GVAP278MB03582156E5AD227633E51B36FC61A@GVAP278MB0358.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Support,
+
+Can you please delete this dataset on dnexr?
+dnexr-china-feed-network-animal-feed-chn-snd-item-monthly
+
+It has a wrong structure.
+
+Best,
+Farouk

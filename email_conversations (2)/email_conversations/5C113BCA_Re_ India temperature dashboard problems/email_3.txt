@@ -1,0 +1,40 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-06 12:35:01.599000+00:00
+Subject: Re: India temperature dashboard problems
+Message-ID: ZR3P278MB122601F322A340981304D1D9F5CA2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071704F06C87E72A638F0431EBCB2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_10.png, image_11.png, image_12.png, image_13.png, image_14.png
+
+================================================================================
+
+Hello, 
+
+Fixed, 
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 05 March 2025 18:15
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: India temperature dashboard problems 
+ 
+no data for some days
+
+
+
+when selectint the state, numbers are wrong
+
+
+
+
+this is the landing page
+
+
+
+
+
+

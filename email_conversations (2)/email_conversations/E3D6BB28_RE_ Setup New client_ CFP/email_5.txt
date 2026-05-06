@@ -1,0 +1,30 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-10-15 06:35:55.130000+00:00
+Subject: Setup New client: CFP
+Message-ID: GVAP278MB0677E497EE00B02A5214047888E8A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: CFP.dnext.io
+
+*	Client name: CFP Energy - UK
+*	Same access as QUADRA (Soybeans and Vegoils)
+*	Contract start: 01.10.2025
+*	Contract End: 30.09.2026
+
+ 
+
+The list of users will be sent later.
+
+ 
+
+Many thanks
+
+Sami
+
+ 

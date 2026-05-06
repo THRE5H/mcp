@@ -1,0 +1,5 @@
+**Problem**: The customer reported that custom dashboards in the BF environment are not displaying data, although they function correctly in the DNEXR environment. 
+
+**Context**: The user is an external user from the Customer Organization. The issue involves custom dashboards within the BF environment, suggesting a potential permissions-related problem affecting data visibility.
+
+**Solution**: The Support Agent was asked to investigate potential permission issues that might be causing the data display problem in the BF environment. No resolution was provided in the email, and further investigation is needed to confirm the permissions and resolve the issue.

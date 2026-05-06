@@ -1,0 +1,226 @@
+From: Golay, Jean <Jean.Golay@ectp.com>
+To: Saber Khalfallah; Guillaume Goudy; Support Dnext
+Date: 2025-02-04 14:30:39.337000+00:00
+Subject: RE: Issue in dowloading safrinha corn planting
+Message-ID: DB7PR07MB410528A79A4AB00785FCDF8BE5F42@DB7PR07MB4105.eurprd07.prod.outlook.com
+In-Reply-To: GV0P278MB1320172FABB54F80788ACEFEF8F42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber,
+
+ 
+
+Thank you very much. I could retrieve the data I wanted through the links you added at the end of your email.
+
+ 
+
+Best regards,
+
+Jean
+
+ 
+
+Jean​​​​ 
+
+ 
+
+
+Golay
+
+	
+WTC II, Route de Pre‑bois 29, 2nd Floor, Case Postale 149
+
+
+Geneva
+
+
+, 
+
+1215
+
+
+T 
+
+ +41 22 562 0420 <tel:+41%2022%20562%200420> 
+
+ | 
+
+F  
+
+ +41 22 562 04 01 <fax:+41%2022%20562%2004%2001> 
+
+M  
+
+ +41 79 660 34 39
+
+ 	 	 	
+Jean.Golay@ectp.com
+
+  
+
+
+
+
+
+
+
+
+ectp.com
+
+Engelhart
+
+Commodities
+
+
+Trading
+
+
+Partners
+
+
+Visit our website at http://www.ectp.com
+The content of this message is confidential and was intended solely to its recipient. In case this message is received by mistake, please destroy it and notify the sender immediately. Electronic mails are not a safe channel for data transmission and the sender accepts NO liability for eventual errors, delays, loss, interception or virus infection. When necessary, the receiver must request a hard-copy version.
+ 
+Collection and Use of Your Personal Information
+At Engelhart we are committed to taking all reasonable steps to ensure compliance with the requirements of Data Protection and Privacy laws and regulations. Engelhart may collect personal information that you voluntarily provide, which may include your name, address, email address, contact information, billing information, etc. For example, Engelhart collects personal information when you request or provide certain services or products.
+ We use this information for carefully considered business purposes. For more information please read our Data Privacy Policy.
+
+
+  
+
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Tuesday, February 4, 2025 1:32 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Golay, Jean <Jean.Golay@ectp.com>
+Subject: RE: Issue in dowloading safrinha corn planting
+
+ 
+
+	CAUTION: External email. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Hello Everyone
+
+ 
+
+@Jean Golay <mailto:Jean.golay@ectp.com>  Hello
+
+ 
+
+I hope this email finds you well  
+
+ 
+
+To download the data, navigate to Dashboards Module 
+
+
+
+ 
+
+Then go to the Crop Tab look for Brazil Expand the button and look for Crop Progress 
+
+ 
+
+
+
+ 
+
+Once there you will see a report choose IMEA :
+
+ 
+
+
+
+ 
+
+Then hover your mouse on the matrix and a menu will show up click on the three dots and choose Export Data 
+
+ 
+
+
+
+ 
+
+Choose “Underlying Data” option and click Export 
+
+ 
+
+
+
+ 
+
+Also you can download the raw data used to create the report from the Datasets Module : 
+
+ 
+
+
+
+ 
+
+Here are the four datasets for IMEA : 
+
+https://ectp.dnext.io/datasets/ectp-9240869c-f98a-4d4e-97fe-6ffa6fbc60f7/ <https://urldefense.com/v3/__https:/ectp.dnext.io/datasets/ectp-9240869c-f98a-4d4e-97fe-6ffa6fbc60f7/__;!!JVh_Qfuk4otXm3Mt0g!5bUS2t21H56pjQrrqHzbu6axExZyp84Tw-5Tw73IDv6Y0VdiQV_Hsq1bE-cnSi--VSrF2i4f_7WtiYNDN7d1UPcoq4DV$>   for Corn Harvesting 
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-9d87640a-dad6-40c8-a7de-42432d1ccef5 <https://urldefense.com/v3/__https:/ectp.dnext.io/datasets/ectp-9d87640a-dad6-40c8-a7de-42432d1ccef5__;!!JVh_Qfuk4otXm3Mt0g!5bUS2t21H56pjQrrqHzbu6axExZyp84Tw-5Tw73IDv6Y0VdiQV_Hsq1bE-cnSi--VSrF2i4f_7WtiYNDN7d1UO6-OmCt$>  for Corn Planting
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-4a484baf-518d-40d8-8547-2c43ee456636/ <https://urldefense.com/v3/__https:/ectp.dnext.io/datasets/ectp-4a484baf-518d-40d8-8547-2c43ee456636/__;!!JVh_Qfuk4otXm3Mt0g!5bUS2t21H56pjQrrqHzbu6axExZyp84Tw-5Tw73IDv6Y0VdiQV_Hsq1bE-cnSi--VSrF2i4f_7WtiYNDN7d1UEWoTJZN$>  for Soybean Harvesting
+
+ 
+
+https://ectp.dnext.io/datasets/ectp-075980c6-3ea0-41a9-99d1-b3986a88e1b6 <https://urldefense.com/v3/__https:/ectp.dnext.io/datasets/ectp-075980c6-3ea0-41a9-99d1-b3986a88e1b6__;!!JVh_Qfuk4otXm3Mt0g!5bUS2t21H56pjQrrqHzbu6axExZyp84Tw-5Tw73IDv6Y0VdiQV_Hsq1bE-cnSi--VSrF2i4f_7WtiYNDN7d1UDDGbxGo$>  for Soybean Planting
+
+ 
+
+please let us know if this helps you 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!JVh_Qfuk4otXm3Mt0g!5bUS2t21H56pjQrrqHzbu6axExZyp84Tw-5Tw73IDv6Y0VdiQV_Hsq1bE-cnSi--VSrF2i4f_7WtiYNDN7d1UM1IrF-a$> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Tuesday, February 4, 2025 11:15
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jean Golay <Jean.golay@ectp.com <mailto:Jean.golay@ectp.com> >
+Subject: Issue in dowloading safrinha corn planting
+
+ 
+
+Saber,
+
+Hope all is well. See message sent by Jean Golay from ECTP
+
+ 
+
+“Hi guys, I cannot manage to download the crop progress data (safrinha corn planting for all the years available) from Idea from your platform. Could you help me?”
+
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,14 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-07 12:47:24.045000+00:00
+Subject: create workflow using data sent by email to CFG bot email
+Message-ID: GV0P278MB0717507567688E2D658DED8CEBAA2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi guys, can you please check the email sent to the CFG environment and create customs dataset using this file?
+workflow should be triggered by the email.
+
+
+Regards,
+Pablo

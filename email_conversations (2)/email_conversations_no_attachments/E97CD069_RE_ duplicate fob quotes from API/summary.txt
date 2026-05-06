@@ -1,0 +1,5 @@
+**Problem**: The customer reported receiving duplicate FOB quotes for the same day, origin, and product combination and requested clarification on how to interpret these values.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Service Provider regarding an API feature that provides FOB quotes. The inquiry involved specific data for March and highlighted confusion over duplicate entries.
+
+**Solution**: The Support Agent clarified that the duplicates were due to missing reference columns indicating different Futures Contracts. The Agent also provided a code to access the Soybean CNF, FOB, and Freight dataset via the API. The customer was encouraged to reach out for further questions.

@@ -1,0 +1,5 @@
+**Problem**: The customer is onboarding a new client, Continental Industries Group, Inc., and needs to confirm if additional resources, specifically weather dashboards, should be added to their environment for Urea and Fertilizers.
+
+**Context**: The user is an internal user from the Customer Organization, working with the Service Provider. The environment for the new client has been set up at cig.dnext.io, with a contract period from April 1, 2025, to March 31, 2028. 
+
+**Solution**: The Support Team is reviewing the existing resources and discussing the necessity of adding weather dashboards for the client. Confirmation on the additional resources will be sought from the relevant team member, ensuring that the client’s needs are fully met. It is recommended to assess client requirements thoroughly during onboarding to avoid missing critical resources.

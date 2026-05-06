@@ -1,0 +1,244 @@
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-11-28 09:12:23.388000+00:00
+Subject: RE: Ethanol tab under GnO Economics: Data not visible
+Message-ID: DX1PPFEEC67B8139549C502012C24328B69D8DCA@DX1PPFEEC67B813.AREP273.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320F4463997F844D3B977BAF8DCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Saber,
+
+ 
+
+Thanks for below. I am able to see a few but not all. 
+
+ 
+
+Not able to see anything in below 3 tabs:
+
+ 
+
+
+
+ 
+
+Thanks and Regards
+
+ 
+
+Saurabh Arora	​​​​	
+Specialist ‑ Research, Trading & Resources	
+Al Ghurair Foods
+​	
+M 	
++971 56 4159599	
+		
+E 	
+Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> 	
+	
+al-ghurair.com <https://www.al-ghurair.com/en> 	
+Great Place to Work® Certified 2025‑2026 in UAE | Top Employer in UAE 2025	
+​The information contained in this communication is intended solely for the use of the individual, or entity to whom it is addressed to, and 
+others authorized to receive it. If you are not the intended recipient, any copying, distribution or use of this email or its attachments, or of the
+information contained therein, is strictly prohibited. The company accepts no liability for any damages caused by any virus if transmitted by this 
+email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the company.
+	
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Friday, November 28, 2025 12:08 PM
+To: Saurabh Arora <Saurabh.Arora@al-ghurair.com>; Support Dnext <support@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Ethanol tab under GnO Economics: Data not visible
+
+ 
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+ 
+
+Hello Saurabh,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+You should now be able to see the Ethanol in the USA Ethanol Tab.
+
+ 
+
+As for your second inquiry no the address was not changed and we did receive your request there is just a bug in jira which they are currently working on.
+
+ 
+
+Please let me know if all is working well on your end.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io [dnext.io] <https://urldefense.com/v3/__http:/www.dnext.io/__;!!B9kcw6nmAe_Ck72takQepg!WnBjas3XKU2XyR7I8oAEu1xrJFfr5-Jv6Qhq0wrLq4I3qTPmruCCTFny5q3PFrfC6S1FvA1vPqx2oi90Vd2yA7M5g_5q6pQXfzs$> 
+
+ 
+
+ 
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> > 
+Sent: Friday, November 28, 2025 8:57
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: Ethanol tab under GnO Economics: Data not visible
+
+ 
+
+Dear Saber,
+
+ 
+
+I am not able to view USA Ethanol tab under GnO Economics. All tabs are showing blank with no charts or values. 
+
+ 
+
+Can you pls check and update. Find below the screenshot for the same. 
+
+ 
+
+
+
+ 
+
+Also, the support couldn’t be created when I emailed to support@dnext.io <mailto:support@dnext.io>  . Is there a change in support desk email id? 
+
+ 
+
+Thanks and Regards
+
+ 
+
+Saurabh Arora
+
+​​​​
+
+Specialist ‑ Research, Trading & Resources
+
+Al Ghurair Foods
+​
+
+	
+M 
+
++971 56 4159599
+
+	
+		
+	
+E 
+
+Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> 
+
+	
+
+
+	
+al-ghurair.com <https://www.al-ghurair.com/en> 
+
+	
+Great Place to Work® Certified 2025‑2026 in UAE | Top Employer in UAE 2025
+
+	
+​The information contained in this communication is intended solely for the use of the individual, or entity to whom it is addressed to, and 
+others authorized to receive it. If you are not the intended recipient, any copying, distribution or use of this email or its attachments, or of the
+information contained therein, is strictly prohibited. The company accepts no liability for any damages caused by any virus if transmitted by this 
+email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the company.
+
+	
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> > 
+Sent: Friday, November 28, 2025 11:52 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Ethanol tab under GnO Economics: Data not visible
+
+ 
+
+Forgot to attach the screenshot for the same. Pls find below: 
+
+ 
+
+
+
+ 
+
+Saurabh Arora
+
+​​​​
+
+Specialist ‑ Research, Trading & Resources
+
+Al Ghurair Foods
+​
+
+	
+M 
+
++971 56 4159599
+
+	
+		
+	
+E 
+
+Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> 
+
+	
+
+
+	
+al-ghurair.com <https://www.al-ghurair.com/en> 
+
+	
+Great Place to Work® Certified 2025‑2026 in UAE | Top Employer in UAE 2025
+
+	
+​The information contained in this communication is intended solely for the use of the individual, or entity to whom it is addressed to, and 
+others authorized to receive it. If you are not the intended recipient, any copying, distribution or use of this email or its attachments, or of the
+information contained therein, is strictly prohibited. The company accepts no liability for any damages caused by any virus if transmitted by this 
+email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the company.
+
+	
+
+From: Saurabh Arora 
+Sent: Friday, November 28, 2025 11:51 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Ethanol tab under GnO Economics: Data not visible
+
+ 
+
+Dear Team,
+
+ 
+
+I am not able to view USA Ethanol tab under GnO Economics. All tabs are showing blank with no charts or values. 
+
+ 
+
+Can you pls check and update the same. 
+
+ 
+
+Thanks and Regards

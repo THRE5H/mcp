@@ -1,0 +1,255 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robero Ruiz
+Date: 2025-09-24 11:11:55.217000+00:00
+Subject: RE: [EXTERNAL] RE: MLP Project: cotton production data Pakistan
+Message-ID: GV0P278MB132099145E0193032918C46CF81CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB23814252612CEB917344384C8D1CA@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+Thank you for your feedback.
+
+ 
+
+Will check it right now
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: Wednesday, September 24, 2025 10:29
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: MLP Project: cotton production data Pakistan
+
+ 
+
+Hi Saber, 
+
+ 
+
+Hope that you’re doing well. I tested the new dataset (thul-55b2939d-9504-11f0-9422-02abcd39fb87) and it’s looking great.
+
+ 
+
+I noticed though that new data is now being updated, as the report of Sep 18 is not included. Can we add as recurring task a weekly update?
+
+ 
+
+Thanks and regards.
+
+ 
+
+From: Ruiz, Roberto 
+Sent: Friday, September 19, 2025 8:54 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] RE: MLP Project: cotton production data Pakistan
+
+ 
+
+Hello Saber,
+
+ 
+
+That was very fast! Thanks for the quick response, I’ll have a look at the data now.
+
+ 
+
+Thanks and regards
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, September 19, 2025 6:08 AM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: MLP Project: cotton production data Pakistan
+
+ 
+
+Hello Roberto,
+
+ 
+
+I hope you are well.
+
+ 
+
+The data is now available in the platform 
+the code for the dataset is : thul-55b2939d-9504-11f0-9422-02abcd39fb87
+
+ 
+
+Please let me know if you need anything else or if there is anything to adjust in the dataset.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Thursday, September 18, 2025 17:40
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: MLP Project: cotton production data Pakistan
+
+ 
+
+Hello Roberto,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+We will get it done and let you know once it is ready.
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Thursday, September 18, 2025 8:10
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: MLP Project: cotton production data Pakistan
+
+ 
+
+Hi Saber,
+
+ 
+
+Hope this email finds you well!
+
+ 
+
+I wanted to ask for support to create a new production dataset that captures bi-weekly cotton production statistics from Pakistan.
+
+ 
+
+The historical files (and future reports) are published in pdf format in the following link:
+
+ 
+
+https://www.pcga.org/arrival-reports/ <https://www.pcga.org/arrival-reports/> 
+
+ 
+
+From the reports, we only need 3 values (highlighted in red below in the latest report)
+
+ 
+
+Total Arrivals Punjab (in bales)
+
+Total Arrivals Sindh (in bales)
+
+Total Arrivals Pakistan (in bales)
+
+ 
+
+
+
+ 
+
+ 
+
+Let me know please if this is feasible, happy to jump in a call if there’s any questions.
+
+ 
+
+Regards
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a user, Rajbir Singh, from the CFG system.
+
+**Context**: The customer is an external user, specifically the CEO of a technology company. The request pertains to user management within the CFG system of the Service Provider.
+
+**Solution**: The Support Agent confirmed that the removal of the user from the CFG system was successfully completed. It is recommended to communicate any future user management requests promptly to ensure timely processing.

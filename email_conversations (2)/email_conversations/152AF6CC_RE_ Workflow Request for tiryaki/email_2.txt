@@ -1,0 +1,155 @@
+From: Rami Setti </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=036A9635ED9843EB80E4BDCADCE9EB2B-8A20A08D-8D>
+To: Support Dnext
+Date: 2025-09-30 13:47:03.331000+00:00
+Subject: Workflow Request for tiryaki
+Message-ID: ZR1P278MB1279CBE326BC63800D8F64BEF71AA@ZR1P278MB1279.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: VI1PR06MB44455F0AB4F0689B5B2DE414D41AA@VI1PR06MB4445.eurprd06.prod.outlook.com
+Attachments: image001.png
+
+================================================================================
+
+Hello,
+I wanted to check if it’s possible to create the workflow requested by the client. They mentioned:
+"Another subject – can we create another workflow on the DNext platform for Africa-destined vessels? I need the vessels’ data from the same origins to Venezuela. It’s not as urgent as the previous request. I have already merged and extracted the data, but it takes time."
+Thanks in advance for your help.
+Best regards,
+Rami
+
+
+________________________________
+
+From: Ömer Oğuz <omer.oguz@tiryaki.com.tr>
+Sent: Tuesday, September 30, 2025 10:32
+To: Rami Setti <rami.setti@dnext.io>
+Subject: RE: D-Lineup GNO AF 2025-09-29 
+
+
+Hi Rami,
+I have a quick question,
+
+SBS
+
+BRA
+
+9516703
+
+AGROPROSPERIS 1
+
+               34,000
+
+6.08.2025
+
+14.08.2025
+
+17.08.2025
+
+itacoatiara
+
+9.08.2025
+
+16.08.2025
+
+        32,998
+
+NGA
+
+Nigeria
+
+ 
+
+OLAM
+
+Sailed
+
+29.09.2025
+
+SBS
+
+BRA
+
+ 
+
+ESL AFRICA
+
+ 
+
+ 
+
+ 
+
+ 
+
+porto do acu
+
+3.10.2025
+
+5.10.2025
+
+        15,000
+
+NGA
+
+Nigeria
+
+ 
+
+ 
+
+Announced
+
+29.09.2025
+
+ 
+
+This is from my table that I extract form your data, I need  to shipper and charterer information for these two shipment to Nigeria.  Can you help me on that if it is possible.
+
+Thank you so much in advance.
+
+
+
+Another subject, Can we create another workflow on dnext platform like africa destinated vessels. I need the vessels data from same origins to Venezuela. It is not as important as previous information. I already merge and extract it but it take times.
+Again thank you in advance.
+
+Ömer Oğuz
+
+Market Research Team Member
+
+
+
+TİRYAKİ AGRO GIDA SAN. ve TİC. A.Ş
+Istanbul Office:
+Adress     : Beylerbeyi Mah. Şemsi Efendi Sok. Yağcılar Köşkü No:16 Beylerbeyi / İSTANBUL
+
+GSM         : +90 5316658830
+E-mail      : omer.oguz@tiryaki.com.tr <mailto:omer.oguz@tiryaki.com.tr> 
+Web         : www.tiryaki.com.tr <http://www.tiryaki.com.tr/> 
+
+ 
+
+From: rami.setti@dnext.io <rami.setti@dnext.io>
+Sent: 30 Eylül 2025 Salı 00:49
+To: Ömer Oğuz <omer.oguz@tiryaki.com.tr>
+Subject: D-Lineup GNO AF 2025-09-29
+
+ 
+
+Hi Ömer,
+
+Please find attached the Brazil, Argentina, United States and Canada D-Lineup vessels announced to Africa as of Sep 24, 2025.
+Let us know if you have any remarks or suggestions.
+
+Best regards,
+
+Rami Setti
+Data Scientist
+
+rami.setti@dnext.io <mailto:rami.setti@dnext.io> 
+
+ <https://protect.checkpoint.com/v2/r02/___http:/wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io*2F/1/010201999773af3e-8768bf50-33a3-4587-aad5-b1fc228e5112-000000/rbbURQqsMFrUmqd_7U2ZozsVa4Q=445___.YzJlOnRpcnlha2ljaGVja3BvaW50OmM6bzozMzliMDFjMjkwMWUxMzcwNGZlYTVhY2UwODk0MmI4NTo3OmYwNTM6NmUxNzkxMjZkMmVhMGRlNGUwNGVlNjU1M2UxOTcwOGU0NjdjNjdhYTkyYTdmYjQ3Y2FhM2VmYjc5MTI5NjgxZTpoOlQ6Tg> 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <https://protect.checkpoint.com/v2/r02/___http:/wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io*2F/2/010201999773af3e-8768bf50-33a3-4587-aad5-b1fc228e5112-000000/Low0w6_sAaDTICH8fNmWuBNTyK0=445___.YzJlOnRpcnlha2ljaGVja3BvaW50OmM6bzozMzliMDFjMjkwMWUxMzcwNGZlYTVhY2UwODk0MmI4NTo3OjNmZWE6MzA0MDJmMDUxM2JmNTVkYjYwYzJjZGY3ZWNiMTk3MGI2NGExZWI3OWM2Nzc2ZTAxZGEwNWQyNTFkNjkwOWRhNDpoOlQ6Tg> 
+
+ 
+
+ <https://outlook.office.com/mail/inbox/id/AAQkADdhMjY0YmE3LTdiNzEtNDdiMy1hNTkyLTMyMzI0YmJiOTFhOAAQAJbcnIJ%2FNQZDj5C5z0OHasY%3D?nativeVersion=1.2025.916.400> 

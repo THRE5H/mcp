@@ -1,0 +1,5 @@
+**Problem**: The customer reported an inability to access workflow metadata through a specific link, indicating a potential service disruption.
+
+**Context**: The user is an external user from Customer Organization seeking support from the Service Provider. The issue arose due to a temporary downtime of the workflows feature, which was acknowledged by the support team.
+
+**Solution**: The support team confirmed that the workflows were down for approximately ten minutes. After this brief outage, access was restored, and the customer was informed that the issue should now be resolved. It is recommended to monitor service status for any future disruptions.

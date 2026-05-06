@@ -1,0 +1,34 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa; Guillaume Goudy; Bastien Lambert; Martin Keller
+Date: 2025-03-02 23:05:10.317000+00:00
+Subject: Re: brazil precip dashboard with strange values
+Message-ID: ZR3P278MB12264BD085C00E744C2EECB7F5CE2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07178D024F1022B5D7BE3CF4EBCE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello, 
+
+Me and Martin we were Analysing the Issue, and now normally all is good, except the Weird values for 25-Feb(We're working on it now)
+But the rest is fixed for Precipitation and temperature.
+
+
+
+Thanks, 
+Jebrane.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 02 March 2025 19:26
+To: Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: brazil precip dashboard with strange values 
+ 
+Hi, i think there is something weird here once the user selects the following.
+
+happens the same if ECMWF is selected. talking with Lucas, it seems something is not ok.
+
+can we check the brazil dashboards? temperature is also showing crazy values
+
+

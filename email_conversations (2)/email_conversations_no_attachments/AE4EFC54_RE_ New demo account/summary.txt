@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a free demo account for a new user and asked for onboarding assistance.
+
+**Context**: The customer is an internal user from the Customer Organization requesting support from the Customer Support Team of the Service Provider. The demo account is intended for a trial period of 15 days, focusing on commodities like corn and oilseeds/vegoils.
+
+**Solution**: The Customer Support Team created the demo account and sent the login credentials to the new user. They also scheduled an onboarding session with the user to assist with platform navigation. It is recommended to ensure timely communication and onboarding for new users to enhance their experience.

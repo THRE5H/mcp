@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users cannot filter or remove certain crop years (e.g., 26/27 and 27/28) in the TradeMatrix date filter view.",
+    "solution": "To adjust the visible crop years in TradeMatrix, go to the 'Configuration' menu, then select 'View' settings where you can change which crop years are displayed. This allows filtering out unwanted crop years. Note that currently these settings are not saved in the URL, so configuration changes may need to be reapplied if the page is refreshed or revisited.",
+    "keywords": [
+      "TradeMatrix",
+      "date filter",
+      "crop year filter",
+      "configuration",
+      "view settings",
+      "filter dates",
+      "remove crop years"
+    ],
+    "category": "Configuration"
+  }
+}

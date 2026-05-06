@@ -1,0 +1,5 @@
+**Problem**: The customer is requesting an update to the table numbers for the DCS-2129 Corn Import Parity into China, extending the data to November/December 2026.
+
+**Context**: The customer is an external user from a Customer Organization seeking assistance from a Support Agent at a Service Provider. The request involves a specific data update related to corn import parity metrics.
+
+**Solution**: The Support Agent requested additional details from the customer to clarify where the updates are needed, which will help in addressing the request effectively. The customer has yet to respond with the required specifics for further action.

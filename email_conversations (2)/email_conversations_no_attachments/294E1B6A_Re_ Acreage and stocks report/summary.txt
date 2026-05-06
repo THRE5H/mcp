@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a team member to the distribution list for reports and provide them access to the platform.
+
+**Context**: The user is an external user from the Brazil Team of a Partner Company. The request was made in the context of accessing reports related to acreage and stocks, which are critical for market analysis.
+
+**Solution**: The Support Team created a user account for the team member on the platform and sent the login credentials via email. The team member was also added to the distribution list for reports, and they were advised to reach out if they encounter any issues logging in.

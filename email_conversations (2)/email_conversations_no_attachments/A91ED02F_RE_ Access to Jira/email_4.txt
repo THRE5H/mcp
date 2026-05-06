@@ -1,0 +1,61 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rahiman KN; Support Dnext
+Date: 2025-10-31 12:52:41.891000+00:00
+Subject: RE: Access to Jira
+Message-ID: GV0P278MB1320AC73617AF7C5990F397FF8F8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB00247183E7B4D15AD5B14B95EAF8A@GVAP278MB0024.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Do you mean stage access ?  you cannot visualize dashboard on Jira 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Rahiman KN <Rahiman.kn@dnext.io> 
+Sent: Friday, October 31, 2025 12:07
+To: Support Dnext <support@dnext.io>
+Subject: Access to Jira
+
+ 
+
+Hi,
+
+Kindly activate my credentials in JIRA -  dnext.atlassian.net <https://id.atlassian.com/login?continue=https%3A%2F%2Fdnext.atlassian.net%2Fbrowse%2FDCP-727%3FatlOrigin%3DeyJpIjoiODcyZmIyNDkzNzBhNDIwMTk0ZjIzZjFmOTMxNjYyOWIiLCJwIjoibXN0ZWFtcy1qaXJhIn0>  for accessing the vegoil dashboard under preparation especially for Conference. It is being prepared by Farouk and team. 
+
+ 
+
+Rgds
+
+KNR
+
+ 
+
+ 
+
+ 

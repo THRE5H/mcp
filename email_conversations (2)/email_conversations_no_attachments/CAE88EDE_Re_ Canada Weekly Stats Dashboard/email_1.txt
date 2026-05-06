@@ -1,0 +1,30 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Jebrane Ben Salem; Pablo Figueroa; Support Dnext
+Date: 2025-08-06 15:16:34.560000+00:00
+Subject: Re: Canada Weekly Stats Dashboard
+Message-ID: ZRAP278MB05278CB78A490147FE402EE2962DA@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12265F3C61031E16546DAF82F522A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+The issue has been resolved.
+Best regards,
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, August 5, 2025 1:33 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: Canada Weekly Stats Dashboard 
+
+Adding @Nour Meddeb <mailto:nour.meddeb@dnext.io>  
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 05 August 2025 13:31
+To: Support Dnext <support@dnext.io>
+Subject: Canada Weekly Stats Dashboard
+ 
+
+issue in 2024/25 affecting all products and all variables in other dashboards

@@ -1,0 +1,5 @@
+**Problem**: The customer needed to schedule a platform onboarding session but had scheduling conflicts due to team members being unavailable during the proposed times.
+
+**Context**: The customer is an external user from the Customer Organization, reaching out to the Customer Support team at the Service Provider regarding onboarding for their platform. The initial proposed times were not suitable due to key team members being out of the office.
+
+**Solution**: The Support Agent proposed new time slots for the onboarding session, accommodating the customer's request. The customer confirmed a suitable time, and the Support Agent sent a calendar invite to all relevant users with access to the platform.

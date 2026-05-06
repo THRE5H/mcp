@@ -1,0 +1,51 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Support Dnext; Bastien Lambert
+Date: 2025-11-12 02:48:25.971000+00:00
+Subject: Re: Weather > Dashboard for Brazil > port = NOT updated
+Message-ID: ZR3P278MB1226B8B5E529986254CC3F82F5CCA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02116533420375983CC7D98998CFA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Bastien Lambert <mailto:bastien.lambert@dnext.io> , 
+
+The file in Dropbox is not updated since 10-Nov(2 days ago) and we're using it this dataset : dnexr-inmet-ags-bra-weather_actual-daily
+
+
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 11 November 2025 18:46
+To: Support Dnext <support@dnext.io>
+Subject: Weather > Dashboard for Brazil > port = NOT updated 
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

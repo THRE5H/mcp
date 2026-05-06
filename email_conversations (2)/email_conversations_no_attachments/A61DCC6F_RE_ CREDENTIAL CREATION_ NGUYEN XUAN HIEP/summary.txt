@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a user credential for an individual, Mr. Nguyen Xuan Hiep, to access a platform.
+
+**Context**: The request was made by a Trade Execution Executive from a Customer Organization to a Support Agent at a Service Provider. The email included the user's email address for credential creation.
+
+**Solution**: The Support Agent successfully created the user account for Mr. Nguyen Xuan Hiep and sent the login credentials to the provided email address. It is recommended to verify the receipt of credentials and to reach out for further assistance if needed.

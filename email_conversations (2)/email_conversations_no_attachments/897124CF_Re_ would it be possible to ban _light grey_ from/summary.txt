@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of "light grey" from the color palette used in all dashboards due to its unreadability in charts.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue pertains to the dashboard feature of the service, where the color choice is affecting data visibility.
+
+**Solution**: The Support Agent confirmed that it is possible to ban "light grey" from the palette, but it will require some time to implement. The team will prioritize any urgent dashboards as they begin working on the updates.

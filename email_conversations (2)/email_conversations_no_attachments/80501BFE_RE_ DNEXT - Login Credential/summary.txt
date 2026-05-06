@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to find any information related to fertilizers in the dashboard after changing their password.
+
+**Context**: The user is a Senior Fertilizer Advisor at a Customer Organization. They are using the DNEXT platform, which provides dashboards for various agricultural products, including fertilizers. The inquiry occurred shortly after the user successfully logged in and changed their password.
+
+**Solution**: The Support Agent recommended a demo session to walk the customer through the platform's features and assist with locating the fertilizer dashboards. The customer was informed that fertilizer-related data is available in specific sections of the platform, and the Support Agent is awaiting confirmation of a suitable time for the demo.

@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to view the estimate evolution for corn production in Argentina, while the soybean data was accessible. They were seeking assistance to resolve this issue.
+
+**Context**: The user is an external user from a Customer Organization, reaching out to a Support Team at a Service Provider regarding a dashboard feature. The issue arose from confusion over the Seasonal Month filter settings in the dashboard.
+
+**Solution**: The Support Team investigated and identified that the problem was due to the Seasonal Month filter. When "Select All" is selected, total values are displayed, while selecting a specific month shows only that month's data. The dashboard issue has been fixed, and users are advised to refer to the SND Main Tables for better understanding of the selections.

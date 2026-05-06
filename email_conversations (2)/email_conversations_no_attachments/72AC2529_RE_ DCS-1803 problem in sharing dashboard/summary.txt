@@ -1,0 +1,5 @@
+**Problem**: The customer reported that when hovering over the dashboards module, they only see "Sugar" instead of the expected "Business Categories," despite not having access to any dashboards related to "Sugar."
+
+**Context**: The user is an external user from Customer Organization. The issue involves the dashboard sharing feature in a software product provided by Service Provider. The customer is seeking clarification on dashboard visibility and access permissions.
+
+**Solution**: The Support Agent confirmed that the issue has been fixed. A ticket was created for further investigation, and the resolution was communicated to the customer. It is recommended to ensure proper access permissions are set for dashboard visibility to prevent similar issues in the future.

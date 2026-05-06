@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the raw sugar trade matrix was not refreshing in the DVT environment, despite being updated in the DNEXR environment. They were uncertain if this issue was due to a bug or a problem with the sharing contract.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue involves the trade matrix feature in the DVT environment, which is expected to refresh automatically based on the updates from DNEXR.
+
+**Solution**: The Support Agent confirmed that the trade matrix is set to refresh automatically on DNEXR every day at 9 AM, which should extend to DVT. They indicated that the refresh appears to be functioning correctly, suggesting that the customer verify if there are any other underlying issues affecting the DVT environment.

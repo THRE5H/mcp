@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing difficulties visualizing charts due to recent color selections in the dashboards, specifically requesting the removal of grey and very soft tones.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider regarding a dashboard feature. The issue arose after recent updates that altered the color scheme, impacting chart visibility.
+
+**Solution**: The Support Agent requested additional details about the specific colors to be changed, as no images were provided in the initial email. Further clarification from the customer is needed to proceed with the adjustments to the dashboard colors.

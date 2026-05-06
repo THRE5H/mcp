@@ -1,0 +1,392 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-09-03 11:11:51.329000+00:00
+Subject: RE: FW: China G&O Daily Commentary 2025.09.02
+Message-ID: GV0P278MB132086529D9F05F913BB2C1EF801A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02115827ABB70F199D1E3E8D9801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+done
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Wednesday, September 3, 2025 11:08
+To: Support Dnext <support@dnext.io>
+Subject: FW: FW: China G&O Daily Commentary 2025.09.02
+
+ 
+
+Please delete from Amaggi
+
+ 
+
+From: postmaster@amaggi.com.py <mailto:postmaster@amaggi.com.py>  <postmaster@amaggi.com.py <mailto:postmaster@amaggi.com.py> > 
+Sent: Wednesday, 3 September 2025 12:06
+To: Guillaume Goudy
+Subject: Non remis : FW: China G&O Daily Commentary 2025.09.02
+
+ 
+
+
+
+Votre message envoyé à fausto.zaldivar@amaggi.com.py <mailto:fausto.zaldivar@amaggi.com.py>  n’a pas pu être remis.
+
+Nous n’avons pas trouvé fausto.zaldivar sur amaggi.com.py.
+
+guillaume.goudy 
+
+Office 365 
+
+fausto.zaldivar 
+
+Action requise 
+
+	Destinataire 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adresse de destinataire inconnue 
+
+		
+ 
+
+Résolution
+
+L’adresse est peut-être mal orthographiée, ou celle-ci n’existe pas. Essayez une ou plusieurs des solutions suivantes :
+
+*        Renvoyez le message en suivant cette procédure : dans Outlook, ouvrez cette notification d’échec de remise et sélectionnez Renvoyer dans le ruban Rapport. Dans Outlook sur le web, sélectionnez cette notification d’échec de remise, puis sélectionnez le lien « Pour renvoyer ce message, cliquez ici ». Supprimez et tapez à nouveau l’intégralité de l’adresse du destinataire. Si vous êtes invité à choisir une suggestion dans la liste de saisie semi-automatique, ne le faites pas. Après avoir entré l’adresse complète, cliquez sur Envoyer.
+
+*        Contactez le destinataire (par exemple, par téléphone) pour vérifier l’existence et l’exactitude de l’adresse.
+
+*        Le destinataire a peut-être configuré le transfert du courrier vers une adresse incorrecte. Demandez-lui de vérifier que les mécanismes de transfert configurés fonctionnent correctement.
+
+*        Effacez la liste de saisie semi-automatique des destinataires dans Outlook ou Outlook sur le web en suivant les étapes décrites dans l’article Corriger les problèmes de remise des courriers pour le code d’erreur 5.1.10 dans Office 365 <https://go.microsoft.com/fwlink/?LinkId=532972> , puis en renvoyant le courrier. Tapez à nouveau l’intégralité de l’adresse de courrier du destinataire avant de sélectionner Envoyer.
+
+Si le problème persiste, transférez ce message à l’administrateur de votre courrier. Si vous êtes un administrateur de courrier, consultez la section Plus d’informations pour les administrateurs de courrier ci-dessous.
+
+
+Ce conseil vous a été utile ? Envoyer des commentaires à Microsoft <https://go.microsoft.com/fwlink/?LinkId=525921> . 
+
+________________________________
+
+
+Plus d’informations pour les administrateurs de courrier
+
+Code d’état : 550 5.1.10 
+
+Nous avons rencontré cette erreur, car l’expéditeur a envoyé un message à une adresse e-mail hébergée par Office 365, mais l’adresse est incorrecte ou n’existe pas sur le domaine de destination. L’erreur a été signalée par le serveur de courrier du domaine du destinataire, mais la plupart du temps, ce problème doit être résolu par l’expéditeur du message. Si les étapes décrites dans la section Résolution ci-dessus ne permettent pas de résoudre le problème et que vous êtes l’administrateur du courrier du destinataire, essayez une ou plusieurs des solutions suivantes :
+
+L’adresse e-mail existe et est correcte - Vérifiez que l’adresse du destinataire existe, est appropriée et accepte les messages.
+
+Synchronisez vos annuaires - Si vous disposez d’un environnement hybride et si vous utilisez la synchronisation d’annuaires, assurez-vous que l’adresse e-mail du destinataire est correctement synchronisée avec Office 365 et votre annuaire local.
+
+Règle de transfert errante - Recherchez les règles de transfert qui ne se comportent pas comme prévu. Le transfert peut être configuré par un administrateur via les règles de flux de courriers ou les paramètres d’adresse de transfert de boîte aux lettres, ou par le destinataire via la fonctionnalité Règles de boîte de réception.
+
+Une licence valide est attribuée au destinataire - Vérifiez qu’une licence Office 365 est attribuée au destinataire. Pour lui attribuer une licence, l’administrateur du courrier du destinataire peut utiliser le Centre d’administration Office 365 (Utilisateurs > Utilisateur actifs > sélectionnez le destinataire > Licence attribuée > Modifier).
+
+Les paramètres de flux de courriers et enregistrements MX ne sont pas corrects - Une configuration erronée des paramètres du flux de courriers ou de l’enregistrement MX peut être à l’origine de cette erreur. Vérifiez vos paramètres de flux de courriers Office 365 pour vous assurer que votre domaine et les connecteurs de flux de courriers sont configurés correctement. Par ailleurs, contactez votre bureau d’enregistrement de domaines pour vérifier que les enregistrements MX associés à votre domaine sont correctement configurés.
+
+Pour obtenir des informations et des conseils supplémentaires sur la résolution de ce problème, consultez l’article Corriger les problèmes de remise des messages pour le code d’erreur 5.1.10 dans Office 365 <https://go.microsoft.com/fwlink/?LinkId=532972> .
+
+Détails du message d’origine
+
+Date et heure de création :
+
+03/09/2025 10:05:23
+
+Adresse de l’expéditeur :
+
+guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
+Adresse du destinataire :
+
+fausto.zaldivar@amaggi.com.py <mailto:fausto.zaldivar@amaggi.com.py> 
+
+Objet :
+
+FW: China G&O Daily Commentary 2025.09.02
+
+
+Détails de l’erreur
+
+Erreur :
+
+550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient fausto.zaldivar@amaggi.com.py <mailto:fausto.zaldivar@amaggi.com.py>  not found by SMTP address lookup 
+
+Message rejeté par :
+
+RO2P215MB1798.LAMP215.PROD.OUTLOOK.COM
+
+
+Détails de notification
+
+Envoyé par :
+
+RO2P215MB1798.LAMP215.PROD.OUTLOOK.COM 
+
+ 
+
+Tronçons de message
+
+TRONÇON
+
+HEURE (UTC)
+
+DE
+
+À
+
+AVEC
+
+DURÉE DU RELAIS
+
+1
+
+03/09/2025
+10:05:23
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+mapi
+
+*
+
+2
+
+03/09/2025
+10:05:23
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+ZR3P278MB1456.CHEP278.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+*
+
+3
+
+03/09/2025
+10:05:34
+
+ZRAP278CU002.outbound.protection.outlook.com
+
+BL02EPF0001A106.mail.protection.outlook.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+11 s
+
+4
+
+03/09/2025
+10:05:35
+
+BL02EPF0001A106.namprd05.prod.outlook.com
+
+BN9PR03CA0748.outlook.office365.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+1 s
+
+5
+
+03/09/2025
+10:05:36
+
+BN9PR03CA0748.namprd03.prod.outlook.com
+
+RO2P215MB1798.LAMP215.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+1 s
+
+En-têtes du message d’origine
+
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=p8OsaVwFal+BdyfrlbxBujMtVl6HZxVpGOYvHAOeGjfEFzQhES00jneGVjuwsrfaQEWki5Xlez7iCNQxJebw9igLTW9tIxdgXsQUrAHyyyXb0nQQjXNMGJfrAA6/xIFDKrnbekKJmtqgX/vSI0mdWxFIaQs2lq7yWxJmQfyLfGFewUmRSR6bUNB6zOcRyP5FVZFKKz0nN9zXZgygawI1PM4g7i/mQKFbj0YvTNaGcDU+y9DtRmlKQWNvGV1T/tPrBzk2PykRdasqhfKjViAtDcV1GX0ofk4fLYqTfqsVBbFUjhHlElJET3fuVeCjD2w0pTtPP9DWJluyBfTdA/L0cw==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=LTjsT20GXZ/M1XH1TzHEg+4BgHy+NKq00lhbjkGahpY=;
+ b=YlTYDWfRwoN4I1RuMN/200a3ErFVPnAYqUDQU9rOKwo8JVaTrMgKDKfayojjqdcXm/SUGfpdMcwBop+FOSHV3ZFjgXtCOU0Wvc1Eg8YsN7ylLHuzaCzJpL3N0Ted+U/N4kwsHvoOI3g8V3LuLesKJOmLPJx6kZKPLxjj8w8HP9RK0BjQMaKtwrAIj7fbgE3CqGcZP/ycdM5ELcSPeTko5IASHnrxPWy3lmTkr17QX80l8GMtgkkPe4IMlq5xpE8rBzEUtluG1DcowlyqiSmLRaE+BTIV4j/cgZKvQ3jp1QPNYqnHIkG8sse1ctaIgHv2fcSbvS84xw1EH016KChq6w==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 2a01:111:f403:c213::) smtp.rcpttodomain=amaggi.com.py smtp.mailfrom=dnext.io;
+ dmarc=pass (p=quarantine sp=quarantine pct=100) action=none
+ header.from=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com; arc=pass (0 oda=1 ltdi=1
+ spf=[1,1,smtp.mailfrom=dnext.io] dkim=[1,1,header.d=dnext.io]
+ dmarc=[1,1,header.from=dnext.io])
+Received: from BN9PR03CA0748.namprd03.prod.outlook.com (2603:10b6:408:110::33)
+ by RO2P215MB1798.LAMP215.PROD.OUTLOOK.COM (2603:10d6:10:6a::9) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9073.25; Wed, 3 Sep 2025 10:05:36 +0000
+Received: from BL02EPF0001A106.namprd05.prod.outlook.com
+ (2603:10b6:408:110:cafe::21) by BN9PR03CA0748.outlook.office365.com
+ (2603:10b6:408:110::33) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9094.17 via Frontend Transport; Wed,
+ 3 Sep 2025 10:05:35 +0000
+Authentication-Results: spf=pass (sender IP is 2a01:111:f403:c213::)
+ smtp.mailfrom=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com;dmarc=pass action=none header.from=dnext.io;
+Received-SPF: Pass (protection.outlook.com: domain of dnext.io designates
+ 2a01:111:f403:c213:: as permitted sender) receiver=protection.outlook.com;
+ client-ip=2a01:111:f403:c213::;
+ helo=ZRAP278CU002.outbound.protection.outlook.com; pr=C
+Received: from ZRAP278CU002.outbound.protection.outlook.com
+ (2a01:111:f403:c213::) by BL02EPF0001A106.mail.protection.outlook.com
+ (2603:10b6:22e:400:0:1002:0:b) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9094.14 via Frontend Transport; Wed,
+ 3 Sep 2025 10:05:34 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=y1audkR901M7afyG9nOkVheO/bwwiz3GLs1ipw/2/JEV9ommeiyRJihRqxbEe8qj+Wv8w63Rxz+NcP4rfy7i0DfPT5VV/BN3ebkd00Yj9DLWUkezIClNsmEJij9oTksnPg01/P0cm5VBjZ//je+HPNd4kb0k5LKuxQrLosgKRzETUs7jh2Oc1q3xgcATPhu/KEc9Tl5r/Ga1EPGUFLeQm0PDu5RHwPXWRRrNgO6KpNf1tVUDmD/MYkfEI+3rGeJnuLMloThuyVZ/dJpQh5u4g6q/MuUnwjY8vTwWGXaxwpEG3eyLu4btc4Gl1QBVFIgmyavkDNn06crjxZ1uaQrVRg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=LTjsT20GXZ/M1XH1TzHEg+4BgHy+NKq00lhbjkGahpY=;
+ b=fqzyQtrz7QcR6QOQ5vmCSAtwNf35UTNYGVS/1+cGtaKhzcnwPsKRWe/g4jjffUhO3xgqWX0z3JYmFwYAVuYaUAgXYWr6+eXwCYcvgIZLiTvueVb37z0IbgkxH+HJIu3r+zZu5teaQbJ9zJ7N9UIcMmXJEeKj/TxFnpBsRPEsYYM2/l87gh9TnGPHV7MsHcAqHbqhFzeOKqzgQNCbbb1APoXXL8NPL3DtOQnBzJc//Bvl+YB03KjilNV3JTE+iLSzVl1H/42WMMMLMSSA7TgtzfZPPW8uYV3YZWhwPRhbgoBny82xEZQ2pEIok7wS3eg+qf2ir3Y/e3weAZC16flixQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io;
+ dkim=pass header.d=dnext.io; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=LTjsT20GXZ/M1XH1TzHEg+4BgHy+NKq00lhbjkGahpY=;
+ b=DQliHPTepqlSkAtLNxx0hEInYI3Wauz6GT9j54kCLAnYfPxvwUFXkGXJ0qCC003yfxt5cYAU8Og3DTzJBKkFJij6S67QtKROFWnhih7iuMuNQYWOompjU9CXXUN8F2tmmu+fAcSmhX0nYB9S17d6Bs1MqGsG3COZu47MLCbA0JsBbR8VVjTBbF/zfvcA1VLCp9yAOz8UjcXpPPVixNH0ve1wP5DhzaK9FhE091n9hmg84Nqz2Cle7SiE2iPL6HOKazp8EBFwpe+I+XwTJLhD5iZ0mDA0VkjO/SGRZSCLMDjNz6nqd4lhkYKJQwKMwp3rrl5BL5O8sx90+HKGt/i8AQ==
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:30::7) by
+ ZR3P278MB1456.CHEP278.PROD.OUTLOOK.COM (2603:10a6:910:a0::13) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9073.27; Wed, 3 Sep 2025 10:05:23 +0000
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221]) by GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221%6]) with mapi id 15.20.9073.026; Wed, 3 Sep 2025
+ 10:05:23 +0000
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: FW: China G&O Daily Commentary 2025.09.02
+Thread-Topic: China G&O Daily Commentary 2025.09.02
+Thread-Index: AQHcG/VcXwCLSgBcmESLNGnwjComo7R/svvggAGJWzA=
+Date: Wed, 3 Sep 2025 10:05:23 +0000
+Message-ID: <GV0P278MB02117984FEC551E20E82EA369801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02117984FEC551E20E82EA369801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+References: <BJXPR01MB078954A62DCD529FA66649E5AC072@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn <mailto:BJXPR01MB078954A62DCD529FA66649E5AC072@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn> >
+ <BJXPR01MB07894C526DE09142CFB1C0D1AC062@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn <mailto:BJXPR01MB07894C526DE09142CFB1C0D1AC062@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn> >
+ <TYXPR01MB1583655592D5D34E4A9BFC41A006A@TYXPR01MB1583.jpnprd01.prod.outlook.com <mailto:TYXPR01MB1583655592D5D34E4A9BFC41A006A@TYXPR01MB1583.jpnprd01.prod.outlook.com> >
+In-Reply-To: <TYXPR01MB1583655592D5D34E4A9BFC41A006A@TYXPR01MB1583.jpnprd01.prod.outlook.com <mailto:TYXPR01MB1583655592D5D34E4A9BFC41A006A@TYXPR01MB1583.jpnprd01.prod.outlook.com> >
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=dnext.io;
+x-ms-traffictypediagnostic:
+                GV0P278MB0211:EE_|ZR3P278MB1456:EE_|BL02EPF0001A106:EE_|RO2P215MB1798:EE_
+X-MS-Office365-Filtering-Correlation-Id: 21fab01c-4b1d-4a51-059e-08ddead16c9c
+x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|1800799024|7416014|376014|366016|4053099003|38070700018|8096899003|27013499003;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?2qDCG4H1qQibF9QLCkAs6TevgA13+dXrF2wCQ9CLWUdRH3kIeE76jk4qwVfQ?=
+ =?us-ascii?Q?wcv/IKd+EPuVanC87oFjdEnW7eUk0iU412SL4z4Y3fa5ZGYYZhubuwNn5oJv?=
+ =?us-ascii?Q?Euxd7+Vb5XlnAddDFzusKgRAcGHcKKHOyJRbsod6xUQNP4610hnx/UOvd5wo?=
+ =?us-ascii?Q?nzgM7hYY9aHW5OkO5wQ98nzh8xBfL9ez5gtqoZLyrBzNfht/XVWSn1lzQ4V3?=
+ =?us-ascii?Q?3UN7H4Rsvf8j9G2W69Bbk8xapQlYcbytMy5C4/sS3y9ToL6vjsnm0zK3zsXC?=
+ =?us-ascii?Q?0VA7zij+s+cYpt3H30uBWKI/wQIIiBKzwCAddV8WrLcMyf5InuuhilIDTey/?=
+ =?us-ascii?Q?Wh7SqDhuxaDJuErnJa+8vkV5NNLt2NtDgHw4uSw2Ey5otDiCgQX8SMy/XiXx?=
+ =?us-ascii?Q?ehiCcNhyVME08iGp1hQJHOxUPD0G/Gwt9j6/Tp0T7w+dqa3y92qTXlhDYq00?=
+ =?us-ascii?Q?VXOGoW/fK7lrfI3zsaKHsvqWo7MAJfClwb+vIxdxLuu/N80ankdhEzTgUUrN?=
+ =?us-ascii?Q?mdc09uRJGl5py7Xd8QbiQqSihQJeZAKTTGBMWpXN8tkcTzS3tLtSyYQkwAx/?=
+ =?us-ascii?Q?OuCwBRS/78xrFfciVyteDeKBDV3mjwb6DQ6WTgzM41tM3/wSxDaC8GSKh7Ua?=
+ =?us-ascii?Q?Rs3c+Ch+Lqi4JMz0QcqbLzZ6qbo3nHfl9ndjgyBq3NNpQe+ytrGqw+xgCyJO?=
+ =?us-ascii?Q?tNmUDZTu7Xf8kZai1knpiIRiP2M+amjnYcSCX2nOAJ4AuvYlHwDBCAdvo6N2?=
+ =?us-ascii?Q?DSn0BMQT45LKRhrx9YuXwoGtzZiOnEbJpvcK61qQ4IT6XLtstYXyqLw85jWt?=
+ =?us-ascii?Q?wsRZSY+gi0iz7sfncMs6L6D2egnVZd7j4p3CSjtQe+XIo4r59QUEmQkk90eW?=
+ =?us-ascii?Q?y2f/AKQa/10HBr+07wrw17T2vOckEzfX5LcG1pN32L/9Kf7IzvpBnTcH6XPG?=
+ =?us-ascii?Q?gfh2elE6oXkLhQmhngyuAHUAqgtMHrj+6m3QKe98xRqanIx2OayFXerFUVAM?=
+ =?us-ascii?Q?it0ilhH36P14geZYKl5MqEWvOI4ujqjUKo4fGQZpX+ZsDbqe+giHrmKztSmn?=
+ =?us-ascii?Q?HXRNmpcLcZ8AB2f0U8zcw7sTEWNg/vBc9MSSyZOMkpEHuSh5n4R/P5yf1A4S?=
+ =?us-ascii?Q?uMJyaMEAmTH4k5tR8b4bvDoi6Fp6d+F3mJWvVETj7uBbTnOjWfsnCmK/XSOB?=
+ =?us-ascii?Q?HEPJOgpVKIQmfGeGD+N6/HMAS5TP4iXOl9rJgYdXUKVUKu1jrPVF9uNnhIwj?=
+ =?us-ascii?Q?W5fYChIWV8cju9Y0sPUPSFdpalVPIkyDsV2p6BPZFkbjblmEB3tG52SU8VLW?=
+ =?us-ascii?Q?Wn8dtqjjDn/NAgRJsyVsPLu26SyEB0BnEKHkxQlvC3jlUW5t9sM+oMjrHmuc?=
+ =?us-ascii?Q?ijJ1E3B2zgwKOl9mQUy/f3NqOmioH9Ff+QmhLDn1/XSlkIbOP/3T2lCrihkI?=
+ =?us-ascii?Q?/5qbWZY6xIrJ1OFYuohJvuypm09gwqFWa1NB47a79kDzzmnFgVgstA=3D=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(7416014)(376014)(366016)(4053099003)(38070700018)(8096899003)(27013499003);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-Original-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-Original-0:
+                   =?us-ascii?Q?zXQopp8n/s6CCnS0MyXS2isaoVd40jH3FbOMO+FbRjFpLypAH+ulaRbAOXxF?=
+ =?us-ascii?Q?Ej5UxGlHiYqyJWoX4rHjqIx83VmMBBViHokgEZ48iC61dD1NKHYKwydMmfez?=
+ =?us-ascii?Q?BINzeQPOpposRWe5adOcr6aiuxAzaPhsRufBk6s7Xic8cu7n+hXZPu0bpw+r?=
+ =?us-ascii?Q?FjAkQq8bItJfj4z3QFNLme0HMebsneMXTyEu3u1WyvcGXiKPdogMuxk+pcFn?=
+ =?us-ascii?Q?8KE0lpDN0KV1lnKaWAlIT617hgPskbFB0jjBnfErS5DdPdwe2g8Hokhhx83U?=
+ =?us-ascii?Q?80ELiRUBXkvxBo6YNb1yfcro7aPbCisg4SbrpHh3qnoPLgdYZLyhB4dpZ9h1?=
+ =?us-ascii?Q?/s4clOU2HfvEZVt2ucHAC5ofiRBKSxqVvUj6Bo+qG+Czax87HEDAtEy4iskx?=
+ =?us-ascii?Q?euzs9hVIqSJK1Qsv6mLYQiIxh/yy1OkFq/XaVWSEmPPAJKzJLcYBCJ8N39++?=
+ =?us-ascii?Q?5UBcC3wMnOhn98klPYCcJrBPPC10OPk05mCcXwpn2omnUo1bDFojk8wZPIHe?=
+ =?us-ascii?Q?9DClV/9HJZ2QUxJB0COkUHx2xl4gu+xfmsg3OvSeoEI2azYJjdQRuZjM5/DD?=
+ =?us-ascii?Q?7iNT0vZNkAWaIaTwSNQCgWKtbyN+/U9b9nnpmTXI1IoHn+9pdBpcVZqOyaiV?=
+ =?us-ascii?Q?o/m+01gXKyeuyqpcNOLqjI5zlffD5G0R1iwI0n/zgh7B11zvizfDBd1ykdnL?=
+ =?us-ascii?Q?nrkPLrn3vfgAZ5keR+lTtqp04xkc0tscmyyVvF5ry85efbgOSWRQayH+u7Jg?=
+ =?us-ascii?Q?pJJnGU2ZBKeuqt4q08UwzYIXkE2bjHwPJ5EX+ed7MkpPdrepCZ3hIzmz8Nkl?=
+ =?us-ascii?Q?lqLl+qwOphntUOZpF6gamqOJfp85CZbt++0xZQFT8Dyuh9aDEmNnH5xUMfuO?=
+ =?us-ascii?Q?8eaM4Ss5otj0w/h6yfIbaA1Zyjc4lnMSjjmHBneGgZVccnUBRoq+FAFgYftK?=
+ =?us-ascii?Q?cbtR65616NvVHoDWfjfj9rM0N28QHwqun+4el6W+SxmzsKGbUKktxrrryOhY?=
+ =?us-ascii?Q?Uah88eHYWfJlPhhZyjAWVNVw2eAaxdjvPo7xOHoiDyjrOx2QQKs7LSLQzR6C?=
+ =?us-ascii?Q?npaMYQ5RN1IImuokOdQNBR/owDm9moL44grjQ6zbiYIrFUYF5YxC1yYqY2VJ?=
+ =?us-ascii?Q?e0WlNbHAxtX6CHLYwQcBomvBJ79rJddanaSH6Xub5TBgv2K9esTENIx2dBgF?=
+ =?us-ascii?Q?nMABsUdtfkodAdWBXfHtkalE8xiNDwjYjnEQvJ4aw21mD21U6ZbvI6c6ypBo?=
+ =?us-ascii?Q?g91SNDWB79m6ARbnYtpovXCrpkgN3souEw6FwM07h1TADgjibRQc1fIorqzB?=
+ =?us-ascii?Q?24an+Ay/2KeAKoAgX3A99dV1bspS+Aw6eEY2HT+UWeP/q8yLxNYCgeka/coe?=
+ =?us-ascii?Q?VsbV/sumxrvHzrgc+iGqRHlw5YCO3s/fLLz0T497TRFFFWUGVYabbddywvUR?=
+ =?us-ascii?Q?9FqOoa66ftazKIL95dW6Hi32/8FElbdsVTjk5z6EItBlN0V/u+hE3h+RkI1n?=
+ =?us-ascii?Q?bl7y18mUsxC53Lz5t2HkPSiqZFQhYDiS8J9sPE8GyFblMtEJ3gHoJb2RrVHv?=
+ =?us-ascii?Q?0WKTQg0o6uA/RavQKFkBEsFGj6FAb2lTsJ45xL3O?=
+Content-Type: multipart/related;
+         boundary="_005_GV0P278MB02117984FEC551E20E82EA369801AGV0P278MB0211CHEP_";
+                   type="multipart/alternative"
+MIME-Version: 1.0
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: ZR3P278MB1456
+To: Undisclosed recipients:;
+Return-Path: guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 546a42ab-5568-488e-94a8-44075b345b81:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BL02EPF0001A106.namprd05.prod.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: BL02EPF0001A106.namprd05.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+                   440dfbb5-b891-47ce-85a0-08ddead165b3

@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Confusion about the regional grouping of Sudan in the corn TradeMatrix dataset, specifically whether Sudan is grouped under 'NAFRICA' or 'MEAST'.",
+    "solution": "Sudan was initially grouped under 'MEAST' in the corn TradeMatrix. It was later changed to 'NAFRICA' but has now been reverted back to the original grouping under 'MEAST'. This adjustment clarifies the current regional classification of Sudan in the TradeMatrix data.",
+    "keywords": [
+      "TradeMatrix",
+      "corn",
+      "regional grouping",
+      "Sudan",
+      "NAFRICA",
+      "MEAST",
+      "data classification",
+      "dataset adjustment"
+    ],
+    "category": "Configuration"
+  }
+}

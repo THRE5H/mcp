@@ -1,0 +1,39 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Pablo Figueroa
+Date: 2025-09-03 10:37:10.434000+00:00
+Subject: Re: DCS-1669 RE: Adjustments to the DNext BF Environment
+Message-ID: GV0P278MB1366712C610DC2AF6B7225A4E601A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 010101990eeb6a85-73e62b54-676a-463d-84ac-dc411c7f242a-000000@us-west-2.amazonses.com
+
+================================================================================
+
+I've seen request regarding movements on the dashboard for bf environment maybe it's related.
+________________________________
+
+From: Pablo Figueroa <jira@dnext.atlassian.net>
+Sent: 03 September 2025 11:32
+To: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: DCS-1669 RE: Adjustments to the DNext BF Environment 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Pablo Figueroa commented:
+
+hi is it possible that some dashboards disappeared form the platform? 
+i cannot find them either in the BF section.
+
+example is the EU commission SND and the apparent use SND´s we had.
+
+also missing the individual countries official snd dashboards.
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1669?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImI0MTJlODk1MGMyMGY4NTk5OWRmZjYxOTI1YWIwYzllMzRjMDFhMzZlODQ0ZmQzYWVlZjY1NDljNzQxYWIxY2YiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMjEiLCJpc3N1ZSI6IkRDUy0xNjY5In0sImV4cCI6MTc1OTMxMTEzMiwiaWF0IjoxNzU2ODkxOTMyfQ.JslKMpBt0qVpZONyipbeu2-6OBFhCYZ_GnzcXNoHPgc&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1669/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjI0ZWIyODhjYTJmNGZlYmM1YmZkMWMyYjBmMzJjZWI5NzY2NjYxMGYyNWYwYzkwZjc5M2MwMzJmNjVhOTBlYzYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjQ4YmQ2NzExLTM5NmUtNDMyNC05MDY0LThhYmY3NGU2ODJlMyIsImlzc3VlIjoiRENTLTE2NjkifSwiZXhwIjoxNzU5MzExMTMyLCJpYXQiOjE3NTY4OTE5MzJ9.Y2b1YNle5FbkOnixe3LPYhlfdJ-OslLWgRhDNrvWc9g> 
+
+This is shared with Saber Khalfallah, Pablo Figueroa, Nicolas Chaperon, and 2 other people.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 03 September 2025 11:32:12 CEST 
+ <http://usw2-track.atlassian.com/CI0/010101990eeb6a85-73e62b54-676a-463d-84ac-dc411c7f242a-000000/lircferK5Wc_T8k18PlbmXZ48qRGkowxzEZxGcch8Gw=421> 

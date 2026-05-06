@@ -1,0 +1,5 @@
+**Problem**: The User reported an issue where a partner was unable to access the forecast for the sbssbm tradeflow. The User requested assistance in ensuring that the forecast was shared with the partner's environment.
+
+**Context**: The User is an internal member of the Customer Organization, and the issue involves the TradeMatrix product. The partner affected by this issue is Trafigura, and the request was made to the Customer Support team for resolution.
+
+**Solution**: The Support Agent confirmed that the TradeMatrix is now displaying the forecast correctly, resolving the access issue for the partner. The Agent encouraged the User to reach out for further assistance if needed, ensuring ongoing support.

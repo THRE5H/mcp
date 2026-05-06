@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the soil moisture graph on the European weather dashboard is missing information or not displaying correctly, and requested confirmation on whether this is a known issue.
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance from the Support Team of the Service Provider regarding a specific feature of the weather dashboard. The inquiry suggests potential data display issues that may affect user experience.
+
+**Solution**: The Support Team acknowledged the issue and a Team Member indicated they would investigate the matter. However, no resolution or updates were provided in the subsequent communications, indicating that the issue remains unresolved at this time. It is recommended to monitor the dashboard for updates and report any further discrepancies.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing the platform and required login credentials to do so.
+
+**Context**: The user is an external user from the Customer Organization seeking access to a service provided by the Service Provider. The issue involved the need for login credentials and instructions for the initial login process.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials and detailed steps to change the password upon first login. The outcome confirmed that the user could access the platform and was advised to follow the outlined instructions for security purposes.

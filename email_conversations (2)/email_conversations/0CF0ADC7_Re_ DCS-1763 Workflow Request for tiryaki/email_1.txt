@@ -1,0 +1,45 @@
+From: Rami Setti </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=036A9635ED9843EB80E4BDCADCE9EB2B-8A20A08D-8D>
+To: Support Dnext
+Date: 2025-09-30 15:16:52.732000+00:00
+Subject: Re: DCS-1763 Workflow Request for tiryaki
+Message-ID: ZR1P278MB127971345951E51CF0BC42BAF71AA@ZR1P278MB1279.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 010101999abfa094-9ebb60f3-23b3-4f5e-bbb8-1f77122a978d-000000@us-west-2.amazonses.com
+Attachments: jira-generated-image-static-7230e4c0-3f9d-463f-b52
+
+================================================================================
+
+All good Saber. Thanks.
+________________________________
+
+De : Saber Khalfallah <jira@dnext.atlassian.net>
+Envoyé : mardi 30 septembre 2025 15:11
+À : Rami Setti <rami.setti@dnext.io>
+Objet : DCS-1763 Workflow Request for tiryaki 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Rami ,
+
+The workflow we are gonna create with their data you mean ?
+
+Cause I think most of the data on Africa that we have is missing the origin for importers and destination for exporters. @Skander Ghamgui <mailto:skander.ghamgui@dnext.io>  correct me if I’m wrong.
+
+If you could provide me with further information that would be helpful.
+Thanks
+Best regards,
+
+Saber Khalfallah Customer Support	 saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 	 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/36228/attachment/25302> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1763?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjIxY2UzYjVhNGY5ZWJmZDBlYzQxMmY4YzE2MjAzNTA1ZTkyMWQwMjVkMTQyODM2YzBiODk5NmFhMDljNzMyYzQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwNTIiLCJpc3N1ZSI6IkRDUy0xNzYzIn0sImV4cCI6MTc2MTY1NzA3MiwiaWF0IjoxNzU5MjM3ODcyfQ.BnPg01Ch9YOreT2BUXTPBhYFvUvzRhqyy3MfjFeUrS4&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1763/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjliZGE5MDdlZjBiMjZjODA1Yzc2M2UwNGEyZDhlNzZkNTQ5YjllYjY5MTJlZDJkYTczZTY3ZTVjMzY2YjdiZTIiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOmY4NTgxMTQ4LTg1ZWMtNDc0Yi04OGNkLWYzNTM5NzI3ZWIzZSIsImlzc3VlIjoiRENTLTE3NjMifSwiZXhwIjoxNzYxNjU3MDcyLCJpYXQiOjE3NTkyMzc4NzJ9.GBdGHeoUOYCjayjWFKlFug08zUU92TXCUjwD22mfQkI> 
+
+This is shared with Rami Setti et GHAMGUI Skander.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Envoyé le 30 septembre 2025 15:11:13 CEST 
+ <http://usw2-track.atlassian.com/CI0/010101999abfa094-9ebb60f3-23b3-4f5e-bbb8-1f77122a978d-000000/eMvoOYsiOynBJTZ1dfUel1TLQitK12jC4iIyY2EFzgA=424> 

@@ -1,0 +1,15 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Martin Keller
+Date: 2025-07-02 10:48:53.868000+00:00
+Subject: Date offset, temperature
+Message-ID: GV0P278MB01482C3C5091FF45FFBA29439840A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello guys,
+
+ 
+
+I can tell you that this is wrong. Maybe a date offset. Im dying here with the temps, it is not 24.7 degrees
+
+

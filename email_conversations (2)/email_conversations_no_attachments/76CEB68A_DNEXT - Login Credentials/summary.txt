@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the DNEXT platform to access the staging environment.
+
+**Context**: The user is an external user requesting access to the DNEXT platform. The issue arose in the context of needing to log into the https://stage.dnext.io environment.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials, including the username and password. The issue was resolved by ensuring the customer had the correct information to access the platform. It is recommended that users keep their credentials secure and change passwords regularly for security purposes.

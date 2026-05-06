@@ -1,0 +1,5 @@
+**Problem**: The customer reported multiple issues with the Indonesia Lineups Dashboard, including a malfunctioning month selection slider, inappropriate product categorization, and requests for data consistency. They also requested changes to the Malaysia (Palm Oil) page and inquired about viewing charts as tables.
+
+**Context**: The customer is an external user from a Customer Organization using the Lineups Dashboard feature provided by a Service Provider. The issues were identified during the use of the dashboard, which is critical for analyzing palm oil data.
+
+**Solution**: The Support Team acknowledged the issues and confirmed they were actively working on resolving them, with updates expected soon. They also agreed to implement the requested table view for charts. It is recommended to maintain consistent data formats and ensure all functionalities are thoroughly tested before deployment.

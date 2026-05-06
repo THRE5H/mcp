@@ -1,0 +1,13 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Nour Meddeb
+Date: 2025-08-28 15:18:59.143000+00:00
+Subject: Update of argentina stocks
+Message-ID: GV0P278MB0717516A5F6EF952DE9832AEEB3BA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+there is a new update of this data. can we check the dashboard?
+
+https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Argentina/1356a2fe-b8d5-42d3-85e7-6e9f4b0f9378
+

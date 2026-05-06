@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User cannot find a way to select the reporter country in the EU customs data to see export volumes from specific countries like France.",
+    "solution": "Use the dedicated page for reporter countries in the platform, which includes a slicer control allowing users to select the desired reporter country. This enables filtering and viewing export data specific to that country.",
+    "keywords": [
+      "EU customs",
+      "reporter country",
+      "export data",
+      "data filtering",
+      "slicer",
+      "country selection",
+      "trade data"
+    ],
+    "category": "Platform Navigation"
+  }
+}

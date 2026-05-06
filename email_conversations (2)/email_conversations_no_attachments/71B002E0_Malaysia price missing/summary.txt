@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the price for Malaysia has not been updated since the 4th, indicating a potential issue with pricing information.
+
+**Context**: The user is an external user from a Customer Organization. The issue pertains to a pricing feature for a product or service offered by the Service Provider. The situation suggests a possible delay in data updates affecting pricing visibility.
+
+**Solution**: The Support Agent acknowledged the issue and escalated it to the relevant team for investigation. They confirmed that the pricing data would be reviewed and updated promptly. It is recommended to regularly check for updates and report any discrepancies immediately to ensure accurate pricing information.

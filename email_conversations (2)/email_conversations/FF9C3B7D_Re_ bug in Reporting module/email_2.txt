@@ -1,0 +1,34 @@
+From: Farouk Jaziri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=56EB0DDE3BEB4C54A071554F6047B7E1-5FA702FC-B0>
+To: Support Dnext
+Date: 2025-09-11 10:38:36.465000+00:00
+Subject: bug in Reporting module
+Message-ID: GVAP278MB035820636C37E0C51563EBC3FC09A@GVAP278MB0358.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+I'm trying to follow livestock usa report, and I wanted to import specific columns, but the output columns are different from the one I specified.
+https://dnexr.dnext.io/reports/873a80e0-8316-4c8a-8a23-bb65d5711464/edit/notebook
+
+
+
+
+Farouk Jaziri
+
+Data Analyst
+
+                                                                                                    farouk.djaziri@dnext.io <mailto:farouk.djaziri@dnext.io> 
+
++216 25 992 985
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+

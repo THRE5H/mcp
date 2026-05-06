@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "A user needs access to specific fertilizer-related resources including dashboards, the urea trade matrix, and fertilizer datasets, but the existing DNEXR platform access grants unrestricted access to all data without resource-level control.",
+    "solution": "To provide controlled access to specific fertilizer resources without granting full DNEXR platform access, set up a demo environment that includes all required fertilizer resources. Revoke the user's DNEXR access and grant access to the demo environment instead. Note that the demo environment does not support downloading data such as tradematrix or datasets; if downloading is required, the full platform access or another solution must be considered. For users who do not need to download data, the demo environment suffices for viewing and interacting with the required resources.",
+    "keywords": [
+      "DNEXR",
+      "platform access",
+      "resource-level access",
+      "fertilizer dashboards",
+      "urea trade matrix",
+      "fertilizer datasets",
+      "demo environment",
+      "access control",
+      "data download limitation"
+    ],
+    "category": "Access Issue"
+  }
+}

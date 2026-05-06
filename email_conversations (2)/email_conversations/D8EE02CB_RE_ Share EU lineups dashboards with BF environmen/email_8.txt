@@ -1,0 +1,42 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Quentin Doublet; Support Dnext
+Date: 2025-08-27 15:52:57.091000+00:00
+Subject: Share EU lineups dashboards with BF environment
+Message-ID: GV0P278MB07170475158F272E3199DD12EB38A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211559C8623DAB37C2E514A9838A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+Hi Saber, can we share this dashboards with the BF environment?
+
+
+
+
+Thanks,
+Pablo
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, August 27, 2025 4:46 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Quentin Doublet <quentin.doublet@blackfryers.io>
+Subject: RE: EU Lineups Dashboards to share with BF environment 
+ 
+
+Shold be good
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Wednesday, 27 August 2025 16:43
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Quentin Doublet <quentin.doublet@blackfryers.io>
+Subject: EU Lineups Dashboards to share with BF environment
+
+ 
+
+Hi, @Guillaume Goudy <mailto:guillaume.goudy@dnext.io> , just to confirm if there is any of the EU lineup dashboards that we cannot share in the BF environment. cases of spain and portugal in case the source does not allow.
+
+ 
+
+France has been fixed and i think is ready. 

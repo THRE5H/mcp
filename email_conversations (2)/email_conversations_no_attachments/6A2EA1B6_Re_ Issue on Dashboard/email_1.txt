@@ -1,0 +1,38 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext
+Date: 2025-03-25 10:23:02.593000+00:00
+Subject: Re: Issue on Dashboard
+Message-ID: ZR3P278MB1226F02CC3D445D3518A26EBF5A72@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB05054C4A8E3E4D0E9F2DD3C08AA72@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+It’s working perfectly on my end. Could you please refresh the dashboard? It may be an issue with Microsoft Power BI servers.
+Thanks,
+Jebrane
+
+________________________________
+
+From: Louis Olive <louis.olive@dnext.io>
+Sent: 25 March 2025 10:14
+To: Support Dnext <support@dnext.io>
+Subject: Issue on Dashboard 
+ 
+
+Hello,
+
+ 
+
+I'm experiencing an issue with the weather dashboard. When I try to copy the output using the embedded function, an error appears.
+
+Additionally, taking a screenshot isn’t an option, as the title displays below the chart.
+
+Could you take a look at this?
+
+Thanks,
+
+
+Louis
+
+

@@ -1,0 +1,40 @@
+From: John Stansfield </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ADF99C30AB334415984CBF2F45D0C5A0-JOHN.STANSF>
+To: Support Dnext
+Date: 2025-06-26 16:02:07.939000+00:00
+Subject: Re: DCS-1447 Fw: CS Brazil / ETG question
+Message-ID: GV0P278MB0605D1BC7A0052F5525042BB857AA@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 01010197ac928394-0c0425a6-f3fd-42a4-98e6-93e2ff30ffb5-000000@us-west-2.amazonses.com
+Attachments: jira-generated-image-static-78c04cb2-58b9-420c-83e, jira-generated-image-static-f289732b-b9de-4a1c-ad6
+
+================================================================================
+
+All working now
+
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net>
+Sent: 26 June 2025 15:09
+To: John Stansfield <john.stansfield@dnext.io>
+Subject: DCS-1447 Fw: CS Brazil / ETG question 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Should be good now
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/32590/attachment/21873> 
+
+Saber Khalfallah Customer Support	 saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 	 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/32590/attachment/21872> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1447?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjJiMWJiZTk5ZWU2Nzk2N2U2NjZlYWFiOTJmOGYzNzAzMTM3N2I3MmY3NzgzYzhiOTZlNjk5MmJiNWEyM2ZjM2YiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMTIiLCJpc3N1ZSI6IkRDUy0xNDQ3In0sImV4cCI6MTc1MzM2NjE3MSwiaWF0IjoxNzUwOTQ2OTcxfQ.3OdY201VSU939SU4a4XQ7vUsA1Jyh92ZCjMdg4YTj2A&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1447/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjhjZmViYjJmYzc2MjZmM2EwODRiMzMxNDE4YWE1OTA1OTFlMTkwNzcyYmI0OTcyZGVkYmY1ZGU4ZjljMTU5MWYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjdlYmNjMjE4LTUzZmEtNDI0MC1hNzRiLWRiZGVmYjY5YjY2MCIsImlzc3VlIjoiRENTLTE0NDcifSwiZXhwIjoxNzUzMzY2MTcxLCJpYXQiOjE3NTA5NDY5NzF9.vHlkGxCGrQ-SsGdGQYqg-jMm4UdLVneNBRPfX4yHbT4> 
+
+This is shared with JOHN STANSFIELD and guillaume goudy.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 26 June 2025 16:09:31 CEST 
+ <http://atlassian-trk.prd.msg.ss-inf.net/CI0/01010197ac928394-0c0425a6-f3fd-42a4-98e6-93e2ff30ffb5-000000/K4oqViGWiNZXJY6bkvyQ700YIuANhrJ8NPUwXZPH1Jg=411> 

@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need access to Dnext SnD datasets via Dropbox or alternative platforms and require yearly aggregated data instead of only monthly data. Additionally, users seek guidance on technical aspects such as sample SQL queries for data preparation.",
+    "solution": "1. Access to Dnext SnD datasets is provided via a Dropbox folder titled DNEXT_VAM. Alternative delivery platforms like SharePoint can be used if access is granted.\n2. The datasets are updated monthly by default and do not include yearly aggregated values. However, processed datasets with yearly values can be created upon request for each of the five Dnext SnD datasets (Corn, Oilseeds, Wheat, Veggie Oil, Wheat by Class).\n3. Sample SQL queries for data preparation are provided to assist users in querying the datasets. Examples include selecting specific product codes and filtering data for recent years using SQL syntax.\n4. Training sessions can be arranged to walk users through the technical aspects of the platform.\n5. Oilseeds SnD Excel files were added to the Dropbox upon request.",
+    "keywords": [
+      "Dnext SnD",
+      "Dropbox access",
+      "dataset delivery",
+      "yearly data aggregation",
+      "monthly data",
+      "processed datasets",
+      "SQL queries",
+      "data preparation",
+      "training session",
+      "SharePoint",
+      "data platform",
+      "Oilseeds dataset"
+    ],
+    "category": "How-to Guide"
+  }
+}

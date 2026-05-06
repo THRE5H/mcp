@@ -1,0 +1,78 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Leticia Viracao; Support Dnext
+Date: 2025-03-26 11:43:50.406000+00:00
+Subject: Re: CREATE VISUALS - COST OF PRODUCTION IMEA DATA 
+Message-ID: ZR3P278MB1226FD05E4A839018F91A949F5A62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226186E351F8127C9CCC495F5CD2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Dear Leticia, 
+
+Kind reminder in case you missed my Email.
+
+Thanks, 
+Jebrane Ben Salem.
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 27 February 2025 20:40
+To: Leticia Viracao <leticia.viracao@amaggi.com.br>; Support Dnext <support@dnext.io>
+Cc: Rodrigo Loto <rodrigo.loto@amaggi.com.br>; Fellipe Pavin <fellipe.pavin@amaggi.com.br>; Customer Success <customer.success@dnext.io>
+Subject: Re: CREATE VISUALS - COST OF PRODUCTION IMEA DATA 
+ 
+
+Dear Leticia,
+
+Thank you for reaching out.
+
+To create visuals, you have a couple of options:
+
+*	You can build a dashboard using Power BI and integrate it into the platform.
+*	Alternatively, you can consume the data locally and create visuals using Excel.
+
+If you're interested in using Power BI with the Cost of Production (COP) data, we’d be happy to assist you. Let us know your availability, and we can schedule a meeting to guide you through the process.
+
+Looking forward to your response.
+
+Best regards,
+
+
+Jebrane Ben Salem
+
+
+________________________________
+
+De : Leticia Viracao <leticia.viracao@amaggi.com.br>
+Envoyé : jeudi, février 27, 2025 8:25:56 PM
+À : Support Dnext <support@dnext.io>
+Cc : Rodrigo Loto <rodrigo.loto@amaggi.com.br>; Fellipe Pavin <fellipe.pavin@amaggi.com.br>
+Objet : CREATE VISUALS - COST OF PRODUCTION IMEA DATA 
+
+
+Dears,
+
+I'd like to work on the data from IMEA cost of production, what do I need to fill in the fields below to be able to create visuals?
+
+
+
+Regards,
+
+ 
+
+Leticia Viracao
+
+Vendas
+
+Matriz
+
+	
+AMAGGI <http://www.amaggi.com.br> 
+
+ 
+
+ 
+
+ 
+

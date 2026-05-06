@@ -1,0 +1,5 @@
+**Problem**: The customer requested additional demo logins for two users to test the DNEXT platform as they are evaluating it against other systems.
+
+**Context**: The users are external users from Customer Organization, seeking to test the DNEXT service. The initial request was made by a User, and the Customer Support team was involved in fulfilling this request.
+
+**Solution**: The Customer Support team successfully created user accounts for the additional users and sent their login credentials privately. The users confirmed receipt of their credentials, indicating that the issue was resolved. It is recommended to ensure that all users change their passwords upon first login for security purposes.

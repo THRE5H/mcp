@@ -1,0 +1,176 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Bastien Lambert; Mohamed Chabbouh; Dnext Lineups; Support Dnext; Jebrane Ben Salem
+Date: 2025-11-25 15:58:38.763000+00:00
+Subject: Re: MALAYSIA PALM OIL EXPORT SUMMARY -25TH NOVEMBER 2025 
+Message-ID: ZRAP278MB033538851C64454E8C010A4383D1A@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB077326E7C59FB5C1E129215F98D1A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Bastien,
+Malaysia is up to date we can't make an automated refresh because it's consuming a shared dataset
+@Jebrane Ben Salem <mailto:jebrane.bensalem@dnext.io>  Can you make a scheduled refresh on Power BI service every 5 days?
+Thanks
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: Tuesday, November 25, 2025 3:06 PM
+To: Mohamed Chabbouh <mohamed.chabbouh@dnext.io>; Dnext Lineups <lineups@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: MALAYSIA PALM OIL EXPORT SUMMARY -25TH NOVEMBER 2025 
+ 
+
+No…this is a pdf but they send  an excel file alongside this.
+
+ 
+
+From: Mohamed Chabbouh <mohamed.chabbouh@dnext.io> 
+Sent: Tuesday, November 25, 2025 11:50 AM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Dnext Lineups <lineups@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: MALAYSIA PALM OIL EXPORT SUMMARY -25TH NOVEMBER 2025 
+
+ 
+
+Hello Bastien,
+
+ 
+
+This file looks like a summary of Lineups.
+
+Should we create a dataset for it ?
+
+If yes, should we put all the grades, destinations and load ports as columns and the dates as rows?
+
+ 
+
+Best Regards,
+
+ 
+
+ 
+
+________________________________
+
+De : Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Envoyé : mardi 25 novembre 2025 12:18
+À : Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Objet : FW: MALAYSIA PALM OIL EXPORT SUMMARY -25TH NOVEMBER 2025 
+
+ 
+
+Hi, i dont have this updated, can you please check the process.
+
+Thanks
+
+ 
+
+From: CHE RAZINAH BINTI SULTAN MYDIN Intertek <che.razinah@intertek.com <mailto:che.razinah@intertek.com> > 
+Sent: Tuesday, November 25, 2025 10:30 AM
+Subject: MALAYSIA PALM OIL EXPORT SUMMARY -25TH NOVEMBER 2025 
+
+ 
+
+Good Day, 
+
+We enclose herewith the scan copy of the Malaysia Summary for your kind attention.
+
+ 
+
+ 
+
+
+
+ 
+
+Best Regards, 
+
+Che Razinah Sultan Mydin
+
+Senior Operations Assistant
+
+Agricultural Services
+
+ 
+
+Office       :  +604 2614818
+
+www.intertek.com <http://www.intertek.com/> 
+
+ 
+
+
+
+ 
+
+ITS Testing Services (M) Sdn Bhd 
+
+Suite 04-01, Sri Weld, 3A Pengkalan Weld 10300 Penang, Malaysia
+
+ 
+
+ 
+
+TERMS AND CONDITIONS OF BUSINESS
+
+The issuance of this document does not exonerate any party from exercising all their rights and discharging all their liabilities under contract of Sale.  Stipulations to the contrary are not binding on ITS Testing Services (M) Sdn. Bhd.
+
+ 
+
+All activities are undertaken on the basis of the applicable ITS Testing Services (M) Sdn. Bhd. Terms and Conditions of Business.  No party should attempt to use or rely upon the contents of this document without having read and understood the Terms and Conditions applicable thereto.  A copy of which can be obtained from our website at www.intertek.com/terms/ <http://www.intertek.com/terms/>  or will be provided upon request.
+
+ 
+
+“As required under ISO 17020 (Malaysia Inspection Bodies Accreditation Scheme (MIBAS)-AP2 , the Standard Malaysia auditor may conduct an audit at our client site in accordance with the Witnessing of inspection conducted by Intertek  Malaysia as at when required or necessary.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Total Quality. Assured. 
+
+________________________________
+
+CONFIDENTIALITY NOTICE 
+This e-mail may contain confidential or privileged information, if you are not the intended recipient, or the person responsible for delivering the message to the intended recipient then please notify us by return e-mail immediately. Should you have received this e-mail in error then you should not copy this for any purpose nor disclose its contents to any other person.
+
+Intertek is dedicated to Customer Service and welcomes your feedback. Please visit http://www.intertek.com/email-feedback/ to send us your suggestions or comments. We thank you for your time. 
+
+Except where explicitly agreed in writing, all work and services performed by Intertek is subject to our Standard Terms and Conditions of Business which can be obtained at our website: http://www.intertek.com/terms/ Should you have any difficulty obtaining these from the web site, please contact us immediately and we will send a copy by return. 

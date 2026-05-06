@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the DNEXT platform to participate in an upcoming demo session.
+
+**Context**: The user is an external user preparing for a demo session on the DNEXT platform. The request was made to the Customer Support team for access to the platform.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials, including the username and password, to access the platform for the demo session. It is recommended that the customer securely store these credentials for future use.

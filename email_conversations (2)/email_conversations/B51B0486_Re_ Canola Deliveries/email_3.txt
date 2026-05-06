@@ -1,0 +1,34 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-11-26 12:09:03.621000+00:00
+Subject: Re: Canola Deliveries
+Message-ID: ZR3P278MB13536D003695245ED6B71F56F6DEA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13535264BEFDB39E5820C9E6F6DEA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Pasting for the record the old version's screenshot in yellow
+
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: Wednesday, November 26, 2025 12:05 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Canola Deliveries 
+
+Hello Support Team,
+
+It appears that the new weekly deliveries dashboards shows excessive Canola volumes.
+https://dnexr.dnext.io/dashboard/*/SND/Canada/2b698019-0f8f-4c95-a224-7473f4aa3ef8
+
+
+
+Old version
+
+
+Best,
+
+Enea

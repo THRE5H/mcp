@@ -1,0 +1,162 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Jebrane Ben Salem; Aya Sakli; Guillaume Goudy; Saber Khalfallah; Support Dnext
+Date: 2025-08-18 18:19:46.283000+00:00
+Subject: RE: Platform Catalog 
+Message-ID: GV0P278MB05911DC96E876DBEFFBFD889F831A@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226FD2E0AECD73F42D04C1BF531A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+But those guys are potential clients, not yet. But in my view worth to share. Simple and visual
+
+ 
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: segunda-feira, 18 de agosto de 2025 14:18
+To: Lucas Rosa <lucas.rosa@dnext.io>; Aya Sakli <aya.sakli@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Platform Catalog 
+
+ 
+
+Here, it depends on the category (Customs, Lineups, Supply and Demand, etc.).
+I recommend creating a separate dashboard containing this page, which we could then share with clients.
+
+What do you think ?!
+
+________________________________
+
+De : Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Envoyé : lundi, août 18, 2025 18:11
+À : Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Objet : RE: Platform Catalog
+
+ 
+
+Thats excellent, so i would recommend to add a print with the maps with the regions that we cover.
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: segunda-feira, 18 de agosto de 2025 14:01
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog
+
+ 
+
+Hello all,
+
+For our coverage in terms of locations and products, can you please check this dashboard:
+Other → Dashboards Metadata → Dashboards / Datasets Update : https://dnexr.dnext.io/dashboard/*/Other/Dashboards%20Metadata/43e52ca4-ce2e-4c29-8d49-ec798dd96394
+
+Once there, please review the “Data Overview” page.
+
+________________________________
+
+De : Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Envoyé : lundi, août 18, 2025 17:44
+À : Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Objet : RE: Platform Catalog
+
+ 
+
+Hello All,
+
+ 
+
+I will take a better read ASAP. However, at first sight it will be good to have the list of the countries that we cover.
+
+ 
+
+Thanks
+
+Lucas
+
+ 
+
+From: Aya Sakli <aya.sakli@dnext.io <mailto:aya.sakli@dnext.io> >
+Sent: segunda-feira, 18 de agosto de 2025 13:13
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog
+
+ 
+
+Hello everyone,
+
+ 
+
+This is the first version of the platform catalogue I’ve prepared. Could you please confirm if this meets your request? 
+
+Not all dashboards are included yet, we will add the remaining ones after your confirmation.
+
+ 
+
+Best regards,
+
+ 
+
+Aya
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 12 August 2025 09:43
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Catalog
+
+ 
+
+He means (i think) a list of data we have available in the platform...easier would be to do it by category
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Tuesday, 12 August 2025 10:30
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Platform Catalog
+
+ 
+
+Hello Lucas,
+
+ 
+
+Could you please clarify what you mean by platform catalogue 
+
+ 
+
+Best regards
+
+ 
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: Monday, August 11, 2025 7:30:57 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Platform Catalog
+
+ 
+
+Hello Support, hop is all good on your side.
+
+ 
+
+Could you please send a platform catalog for Andre (his email is below) and cc myself on this.
+
+ 
+
+andre.petry@slcagricola.com.br <mailto:andre.petry@slcagricola.com.br> 
+
+ 
+
+Thanks
+
+Lucas
+
+ 

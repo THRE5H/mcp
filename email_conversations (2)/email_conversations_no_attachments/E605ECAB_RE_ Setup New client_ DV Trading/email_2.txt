@@ -1,0 +1,48 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-11-05 09:21:42.217000+00:00
+Subject: Setup New client: DV Trading
+Message-ID: GVAP278MB0677BD450798685B78258DB988C5A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0677E497EE00B02A5214047888E8A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: dvtrading.dnext.io
+
+*	Client name: DV Trading LLC
+*	Commodities: Sugar
+*	Same access as DRW
+*	Contract start: 01.11.2025
+*	Contract End: 31.10.2026
+
+ 
+
+Here is the users to be created:
+
+Samy
+
+Deramchi
+
+sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> 
+
+Alessandra
+
+Carruthers
+
+acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> 
+
+ 
+
+Please do not send them before the approval.
+
+ 
+
+Many thanks
+
+Sami
+
+ 

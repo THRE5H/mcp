@@ -1,0 +1,151 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robero Ruiz
+Date: 2025-05-07 19:27:20.938000+00:00
+Subject: RE: Corn SnD
+Message-ID: GV0P278MB13202B4E515C497E7A152536F888A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320D7E1D8F05DF27AF84FBFF8892@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+The FSI use values in the dataset for the latest publication date should correspond with  FSI use values in the report.
+
+ 
+
+We apologize for any inconvenience this may have caused
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Tuesday, May 6, 2025 11:09
+To: Robero Ruiz <Roberto.Ruiz@mlp.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Corn SnD
+
+ 
+
+Hello Roberto,
+
+ 
+
+I m checking with the team internally will get back to you soon with an answer 
+
+ 
+
+The code tho does not seem to be the correct one 
+
+Code for corn SND dataset : thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Tuesday, May 6, 2025 9:38
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Corn SnD
+
+ 
+
+Hi Saber,
+
+ 
+
+Can you please confirm if the code for the corn SnD dataset that I’m using is correct?
+
+ 
+
+code = 'thul-6739954d-a4f8-4436-a7bc-f57bf3b79f20'
+
+ 
+
+I just downloaded the latest data (Mat 5th ) where I see US FSI use at 6.9 bln bsl (see excel snapshot below with the cals) vs the report shared overnight where FSI use is reported at 6.873 bln bsl.
+
+ 
+
+Latest from DB: Sep24 to Aug25
+
+ 
+
+
+
+ 
+
+Report shared:
+
+ 
+
+
+
+ 
+
+ 
+
+Can you please help me understand where the mismatch is coming from?
+
+ 
+
+ 
+
+Thanks
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

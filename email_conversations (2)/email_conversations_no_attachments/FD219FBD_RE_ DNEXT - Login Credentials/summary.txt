@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to the demo environment of a service but was initially provided with incorrect login details for the wrong URL.
+
+**Context**: The user is an external user accessing a demo environment of a software product from a Service Provider. The issue arose when the user was given login credentials for the demo4 environment, which was later changed to demo2.
+
+**Solution**: The Support Agent updated the user with the correct demo environment URL (demo2) while confirming that the same login credentials could be used. It is recommended to verify the environment URL before attempting to log in to avoid similar issues in the future.

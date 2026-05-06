@@ -1,0 +1,5 @@
+**Problem**: The customer pointed out a potential issue with the terminology used in a dataset, specifically that "Consumption" should be replaced with "COMPT" to avoid confusion.
+
+**Context**: The user is an external user providing feedback regarding a dataset from a Service Provider. The feedback pertains to the accuracy of terminology used in the dataset.
+
+**Solution**: The Support Agent acknowledged the feedback and confirmed that they would update the terminology in the dataset to reflect "COMPT" instead of "Consumption." It is recommended to review terminology for clarity in future datasets to prevent similar misunderstandings.

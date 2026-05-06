@@ -1,0 +1,27 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-01 11:53:31.961000+00:00
+Subject: Re: EU Weather dashboard historical data is weird
+Message-ID: GV0P278MB07173929698981CE4C265629EBAC2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717CB6191459CB5CED34F89EBAC2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_22.png, image_23.png
+
+================================================================================
+
+example of romania
+
+missing parts of years.
+
+is the rest of the data correct?
+
+
+
+________________________________
+
+From: Pablo Figueroa
+Sent: Tuesday, April 1, 2025 12:51 PM
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Martin Keller <martin.keller@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: EU Weather dashboard historical data is weird 
+ 
+ 

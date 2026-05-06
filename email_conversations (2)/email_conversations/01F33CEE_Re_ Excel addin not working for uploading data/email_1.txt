@@ -1,0 +1,64 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Guillaume Goudy
+Date: 2025-09-03 10:41:07.958000+00:00
+Subject: Re: Excel addin not working for uploading data
+Message-ID: GV0P278MB13660A67E6E052BEB0D29F79E601A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02114D5929CCA267FD53B8769801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Ticket created, we'll let you know when it's fixed. 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 03 September 2025 11:27
+To: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Excel addin not working for uploading data 
+ 
+
+ 
+
+Downloaded new version = > cannot upload anymore. So we downloaded template and try again but u will see below, it is not working as well….
+
+ 
+
+
+
+ 
+
+Many templates with the same names? Duplicates? Not clear?
+
+ 
+
+
+
+ 
+
+ 
+
+Not uploading
+
+ 
+
+
+
+ 
+
+Then tried again and again not working. 
+
+
+
+ 
+
+ 
+
+Improvements:
+
+Menu as well is not clear. Download and download data. 
+
+I think upload and download data should be called upload template and download template…and then current download should be called download data
+
+ 
+
+ 

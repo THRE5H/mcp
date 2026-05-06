@@ -1,0 +1,59 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext; Khalil Mekki; Skander Ghamgui
+Date: 2025-05-21 08:33:24.769000+00:00
+Subject: RE: Paraguay customs
+Message-ID: GV0P278MB021196B894055B9E9304E807989EA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SJ0PR22MB2557ECC2986AFB91873261E2FE9FA@SJ0PR22MB2557.namprd22.prod.outlook.com
+
+================================================================================
+
+We do not have a check that import/export should contain same timing? Also, frequency...We are in May....how delay is Paraguay source? It should be in the recency check. 
+
+Thank you to scan and see what failed in our quality process.
+
+gg
+
+ 
+
+From: Jennie Campbell <jennie.campbell@viserion.co> 
+Sent: Wednesday, 21 May 2025 00:00
+To: Support Dnext <support@dnext.io>
+Subject: Paraguay customs
+
+ 
+
+Hello,
+
+ 
+
+Can you look into Paraguay customs please? It is showing data through Apr-25 on the imports but the exports are only showing through Jan-25. See below screenshots. I had it on All products and All countries so it shouldn’t be a filtering issue. And it would have loaded something so can’t be that there is none. 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Thanks
+
+Jennie
+
+ 
+
+ 
+
+ 
+
+
+
+Jennie Campbell
+
+Viserion Management Company
+
+914-860-5692
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the specified environment to access the service.
+
+**Context**: The user is an external user seeking access to the Service Provider's platform. The request was made for the environment at https://cig.dnext.io, indicating a need for secure access to the system.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials, including the username and password. The issue was resolved by delivering the information directly, ensuring the customer could access the environment as needed. It is recommended to store credentials securely and change passwords regularly for enhanced security.

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User does not have access to the US customs dataset and needs to obtain it.",
+    "solution": "Access the US customs dataset via the provided direct URL: https://resound.dnext.io/datasets/resound-ec179477-6e21-4475-9bb9-a818415db41b/general. Alternatively, fetch the dataset programmatically using the API with the dataset code 'resound-ec179477-6e21-4475-9bb9-a818415db41b'.",
+    "keywords": [
+      "US customs dataset",
+      "data access",
+      "dataset URL",
+      "API access",
+      "dataset code",
+      "fetch data",
+      "resound dataset"
+    ],
+    "category": "Access Issue"
+  }
+}

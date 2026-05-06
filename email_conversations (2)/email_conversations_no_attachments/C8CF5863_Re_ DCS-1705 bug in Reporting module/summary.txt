@@ -1,0 +1,5 @@
+**Problem**: The customer reported a bug in the Reporting module identified as DCS-1705, which required resolution.
+
+**Context**: The user is a Customer Support representative from Customer Organization. The issue involved a bug in the Reporting module of the service provided by the Service Provider.
+
+**Solution**: The issue was resolved by a Team Member who fixed the bug and instructed the Customer Support representative to close the ticket. It is recommended to monitor the Reporting module for any further issues to ensure stability.

@@ -1,0 +1,5 @@
+**Problem**: The customer experienced issues with Dropbox, including error messages related to formatting. They inquired whether these issues could be due to firewall restrictions from their organization.
+
+**Context**: The user is an external user from a Customer Organization. The issue involves Dropbox and potentially relates to recent changes in Excel's calculation settings. The customer is seeking assistance to identify the root cause of the problem.
+
+**Solution**: The Support Agent identified that the issue was linked to a recent Excel upgrade, specifically the "Format stale values" option under the "Calculation Options" in the Formulas tab. The customer was advised to uncheck this option to resolve the formatting issue. Confirmation of the solution's effectiveness was requested from the customer.

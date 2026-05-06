@@ -1,0 +1,28 @@
+From: Léonard Berney </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=71D79A297AE14390A5EA2CEF3E9FE344-4E657CA0-3C>
+To: Guillaume Goudy; Support Dnext; Rami Setti
+Date: 2025-08-20 14:25:40.404000+00:00
+Subject: RE: Canada lineups looks off
+Message-ID: GV0P278MB0338B1C49D7B8183AC538C29E733A@GV0P278MB0338.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB021170D06BA438B9A82259129833A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+weird. I don't have this issue. Maybe try again?
+
+________________________________
+
+De : Guillaume Goudy <guillaume.goudy@dnext.io>
+Envoyé : mercredi 20 août 2025 14:22
+À : Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Rami Setti <rami.setti@dnext.io>
+Objet : Canada lineups looks off 
+ 
+
+Lineups show no destination?? It seems it is inspection Canada and not our D lineups for Canada…Is it? Oris our lineups have no destination? If so, then we should track them
+
+here somewhere on the Candaian lineups, we should say it is only West coast or East coast ports are missing
+
+ 
+
+ 
+
+

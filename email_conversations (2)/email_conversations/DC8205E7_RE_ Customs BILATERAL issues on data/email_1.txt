@@ -1,0 +1,82 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Nicolas Chaperon; Support Dnext; Khalil Mekki
+Date: 2025-11-28 14:28:54.251000+00:00
+Subject: RE: Customs BILATERAL issues on data
+Message-ID: GV0P278MB13205495D21CD494EED4D26AF8DCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13666F89DFE18BE1598818D3E6DCA@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Khalil Mekki <mailto:khalil.mekki@dnext.io> 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nicolas Chaperon <nicolas.chaperon@dnext.io> 
+Sent: Friday, November 28, 2025 12:44
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Customs BILATERAL issues on data
+
+ 
+
+In the process of the creation of the tradeflowWatch, we are merging the bilateral customs.
+
+ 
+
+Currently starting with:
+
+Https://dnexr.dnext.io/datasets/dnexr-eurostat-all-eur-tf-customs-bilateral-monthly 
+
+https://dnexr.dnext.io/datasets/dnexr-un-comtrade-all-world-tf-customs-bilateral-monthly
+
+ 
+
+During the merge, some weird data appears, such as non country for Country Partner and Country Reporter
+
+ 
+
+
+
+ 
+
+Or Value missing in comtrade (~1/3) of the rows doesn't contains any values. And ~300m rows doesn't have any Quantity
+
+Currency is missing for comtrade
+
+Unit is often missing (mostly N/A)
+
+ 
+
+I see additional fields Bilateral for comtrade:
+
+
+
+ 
+
+It should use category extra fields. What to do with them ? 
+
+ 
+
+ 
+
+ 

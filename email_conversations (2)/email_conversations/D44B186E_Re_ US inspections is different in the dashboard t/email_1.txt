@@ -1,0 +1,93 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Support Dnext; Skander Ghamgui
+Date: 2026-01-21 15:00:40.592000+00:00
+Subject: Re: US inspections is different in the dashboard than in the grids....
+Message-ID: GV0P278MB1213859F8AEDD0A4124BC09EF596A@GV0P278MB1213.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB121361F2E5D96E0D5EC2542CF596A@GV0P278MB1213.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+More details:
+This datasets triggered the dataset refresh after the workflow run:
+You can see the refresh was Via API
+
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 21 January 2026 14:53
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>
+Subject: Re: US inspections is different in the dashboard than in the grids.... 
+ 
+I checked the dashboard the data looks the same:
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 21 January 2026 14:42
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>
+Subject: Re: US inspections is different in the dashboard than in the grids.... 
+ 
+Adding @Skander Ghamgui <mailto:skander.ghamgui@dnext.io> 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 21 January 2026 14:41
+To: Support Dnext <support@dnext.io>
+Subject: US inspections is different in the dashboard than in the grids.... 
+ 
+
+Can u please let me know why is that and that we make sure it does not happen in the future
+
+ 
+
+
+
+ 
+
+Vs 
+
+1564…this dashboard does not show latest data…and is late
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

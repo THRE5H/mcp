@@ -1,0 +1,33 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Jebrane Ben Salem; Guillaume Goudy; Support Dnext
+Date: 2025-07-22 15:01:30.775000+00:00
+Subject: Re: Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg
+Message-ID: GV0P278MB0321BE9933B1DB586501C0A49D5CA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122663FFBB3806EBD348993DF55CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello all,
+There was a mapping problem, it's being updated.
+
+thanks,
+Iheb
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, July 22, 2025 2:29 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg 
+ 
+@Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io>  
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 22 July 2025 14:26
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg 
+ 
+
+

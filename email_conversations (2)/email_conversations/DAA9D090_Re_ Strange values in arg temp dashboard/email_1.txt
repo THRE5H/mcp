@@ -1,0 +1,27 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Saber Khalfallah
+Date: 2025-02-27 12:12:12.023000+00:00
+Subject: Re: Strange values in arg temp dashboard
+Message-ID: ZR3P278MB1226CC5F3F5DB1E1300D272DF5CD2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071755F50D57B64F3E8454B7EBCD2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Pablo, 
+
+As discussed, we don't have a problem in the dashboard. 
+
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  can you close the ticket please! 
+
+Thanks, 
+Jebrane.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 27 February 2025 11:48
+To: Support Dnext <support@dnext.io>
+Subject: Strange values in arg temp dashboard 
+ 
+ 

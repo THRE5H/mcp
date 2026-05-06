@@ -1,0 +1,48 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-05-07 18:29:30.652000+00:00
+Subject: RE: Price update is not up to date in MLP and DNEXR
+Message-ID: GV0P278MB02117B6977364A5F3AF6B74A9888A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02116C267FF45A5BC0089511988C2@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Something is wrong with excel addin or it has a huge delay. I pushed prices today ...probably around mi day. It is still not showing the platform. Still on 5th of May
+
+
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Saturday, 3 May 2025 14:35
+To: Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Price update is not up to date in MLP and DNEXR
+
+ 
+
+HI Saber,
+
+ 
+
+On Monday, Can you check why price in the dashboard for wheat, corn and potentially others are not reflecting latest prices. Take corn and wheat FOB. We pushed price on Friday morning for 1st May but Roberto and me for corn and whear was seeing only prices for 30th. I pushed today May 01st and May 02 and still I see 30th April. 
+
+Roberto from MLP complained about it. 
+
+ 
+
+Thank you
+
+Gg
+
+ 
+
+
+
+ 
+
+
+
+ 

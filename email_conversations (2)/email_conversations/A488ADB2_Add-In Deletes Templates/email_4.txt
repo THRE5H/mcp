@@ -1,0 +1,191 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-10-16 09:53:07.125000+00:00
+Subject: RE: Add-In Deletes Templates
+Message-ID: ZR3P278MB1353CA30F48282B3575E931BF6E9A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB135332D227E2E8CB90F3ED9DF61EA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: Load_File_1.xlsx
+
+================================================================================
+
+Hello,
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+In a dataset the data is updated to the 15th but when I refresh with the add-in I do not see it.
+
+ 
+
+Is this an issue you have encountered before?
+
+ 
+
+Dataset: verbio-biof-eur-cash-daily
+
+ 
+
+Excel file in the attachments.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Enea Albertoli 
+Sent: Friday, September 26, 2025 11:25 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: RE: Add-In Deletes Templates
+
+ 
+
+Hello Saber,
+
+ 
+
+Thank you. We worked on it with Amine and Nicolas this morning.
+
+ 
+
+The dev will implement the fixes this afternoon.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, September 26, 2025 10:45 AM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: RE: Add-In Deletes Templates
+
+ 
+
+Hello Enea, 
+
+ 
+
+Hope all is well.
+
+ 
+
+A ticket is created for the dev team to look into this 
+
+ 
+
+You can follow it by clicking on the link below: 
+
+https://dnext.atlassian.net/browse/DNP-5661
+
+if you want to add any more details please do not hesitate to leave a comment on the ticket.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > 
+Sent: Friday, September 26, 2025 9:24
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: RE: Add-In Deletes Templates
+
+ 
+
+Hello Team,
+
+ 
+
+I had another case of all templates being erased. The file is too big to share but just wanted to inform you:
+
+ 
+
+
+
+ 
+
+ 
+
+From: Enea Albertoli 
+Sent: Friday, September 19, 2025 1:22 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: RE: Add-In shifts Columns, Changes Filter
+
+ 
+
+Hello guys,
+
+ 
+
+Any feedback on how to fix this issue, please?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Enea Albertoli 
+Sent: Thursday, September 18, 2025 11:34 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Add-In shifts Columns, Changes Filter
+
+ 
+
+Hello,
+
+ 
+
+I had an add-in query filtering RSO and CPO, however, now only CPO shows and, what is more, the columns have changed location. As you can see in the screenshot, they are not aligned anymore.
+
+ 
+
+Sending you the file in the attachments.
+
+ 
+
+The dataset is this one: verbio-biof-eur-cash-daily
+
+ 
+
+

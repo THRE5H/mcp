@@ -1,0 +1,103 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Mohamed Elasfoury; Support Dnext
+Date: 2025-11-13 11:20:31.747000+00:00
+Subject: RE: DCS-1939 TM Not Refreshed In DVT Env
+Message-ID: ZR3P278MB1323D0568366D9B9C64AC008F8CDA@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB02469B3E64BCC2DBA3CD531E94CDA@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Should be good now , it was a bug and dev team have fixed it.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io> 
+Sent: Thursday, November 13, 2025 9:52
+To: Support Dnext <support@dnext.io>
+Cc: John Stansfield <john.stansfield@dnext.io>
+Subject: Re: DCS-1939 TM Not Refreshed In DVT Env
+
+ 
+
+Hello Saber, 
+
+ 
+
+Did you check that it was indeed refreshing on their environment? Yesterday it was not updated and they could not see the latest values
+
+ 
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> >
+Sent: Thursday, November 13, 2025 9:40 AM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: DCS-1939 TM Not Refreshed In DVT Env 
+
+ 
+
+—-—-—-—
+
+Reply above this line.
+
+Saber Khalfallah commented:
+
+Hello Mohamed,
+
+It is setup to refresh automatically on dnexr every day at 9 AM
+
+And by extension it should refresh on DVT automatically.
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/39309/attachment/27495> 
+
+Which is working as far as I can see .
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/39309/attachment/27494> 
+
+Or is it something else you mean ?
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/39309/attachment/27493> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1939?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjViYTg0OWI3MWIzNDYwNDE5OTc4NmQxYTE1NTM3NzgyNDBmNzBjMDU5ZDMzZDE3ZmE2YTRhODY1NDJjYzNkNTYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMTciLCJpc3N1ZSI6IkRDUy0xOTM5In0sImV4cCI6MTc2NTQ0MjQyMywiaWF0IjoxNzYzMDIzMjIzfQ.9kNS9LYp8lKdC2khE8Fd1fwzFsC6yvp9kEJU9gZWyMk&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1939/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjljOTQzODJlZTFhNWE2NTI5NDhhNTMwZmQyNTc5YTQzZDQyNmY3MjU0YWVhMDI2ZmUxYzNlMjM2MzQ1ZTE5MTgiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjE2ZjBmYzU2LTNjOGEtNDY0Ny04NzE2LWUxYWZiZjJhYzUzNCIsImlzc3VlIjoiRENTLTE5MzkifSwiZXhwIjoxNzY1NDQyNDIzLCJpYXQiOjE3NjMwMjMyMjN9.JLaLgms-uKiKIKxWHCHM-jUOw6YLxN7mTZ5KreBA5Ps> 
+
+This is shared with Mohamed Elasfoury and JOHN STANSFIELD.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 13 November 2025 09:40:23 CET
+
+ <https://outlook.office.com/mail/inbox/id/AAkALgAAAAAAHYQDEapmEc2byACqAC%2FEWg0A7QFmjv%2BbmECpJLObsKRGEAADL%2BBPlwAA?nativeVersion=1.2025.1027.200> 

@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether Corn and Soybeans FOB and CNF prices were available via the API, as they could not find this information in the Datasets List.
+
+**Context**: The user is an external user from a Customer Organization utilizing a platform provided by a Service Provider. The inquiry pertains to accessing specific pricing data through an API, which is critical for their operations.
+
+**Solution**: The Support Agent confirmed that the requested datasets for World Corn CNF Updates and Soybean CNF daily are available via the API. The customer was advised to reach out for further assistance if needed, ensuring they have access to the necessary data.

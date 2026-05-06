@@ -1,0 +1,5 @@
+**Problem**: The customer reported that their custom calendar is not updating to the latest month and remains stuck on March.
+
+**Context**: The user is an external user utilizing a calendar feature within a software product provided by a Service Provider. The issue arose after a recent update to the calendar functionality.
+
+**Solution**: The Support Agent suggested clearing the browser cache and refreshing the application, which resolved the issue and allowed the calendar to update correctly. It was recommended to regularly clear the cache to prevent similar issues in the future.

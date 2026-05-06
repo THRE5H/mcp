@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the customs calendar was empty and did not include the US schedule.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider regarding a feature of their service. The issue arose when the calendar failed to display any scheduled customs information.
+
+**Solution**: The Support Agent addressed the issue by adding the "Current" month to the customs calendar, which resolved the problem permanently. It is recommended to regularly check the calendar settings to ensure all necessary schedules are displayed.

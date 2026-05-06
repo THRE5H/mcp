@@ -1,0 +1,47 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-06-04 08:49:51.981000+00:00
+Subject: Re: TAXUD data is wrong for corn import. Can u check urgently please. Tksgg
+Message-ID: ZRAP278MB0317265B7B15F03946388CD8F56CA@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02111BF37CA2884BADC95239986DA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+The issue has been resolved. It is probably due to a faulty response from their api as all I had to do was rerun the workflows as they were and it got corrected.
+To avoid such issues, we will activate the healthcheck for all taxud datasets.
+
+Best,
+Khalil
+
+
+
+
+
+Khalil Mekki
+
+Data Analyst
+
+                                                                                                     khalil.mekki@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Tuesday, June 3, 2025 3:29 PM
+To: Support Dnext <support@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: TAXUD data is wrong for corn import. Can u check urgently please. Tksgg 
+ 
+
+

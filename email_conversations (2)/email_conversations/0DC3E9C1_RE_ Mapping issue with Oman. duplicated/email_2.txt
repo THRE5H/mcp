@@ -1,0 +1,20 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-03-25 13:55:16.188000+00:00
+Subject: Re: Mapping issue with Oman. duplicated
+Message-ID: GV0P278MB0717A61F12849E221B1F8780EBA72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717F6B43740DD871B69BEB3EBA72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+the one which is wrong is OMAN. as we always use the three letter ISO code
+________________________________
+
+From: Pablo Figueroa
+Sent: Tuesday, March 25, 2025 1:49 PM
+To: Support Dnext <support@dnext.io>
+Cc: Louis Olive <louis.olive@dnext.io>
+Subject: Mapping issue with Oman. duplicated 
+ 
+ 

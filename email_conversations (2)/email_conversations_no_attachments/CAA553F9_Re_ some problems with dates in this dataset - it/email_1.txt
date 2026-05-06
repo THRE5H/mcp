@@ -1,0 +1,83 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Saber Khalfallah; Bastien Lambert; Support Dnext; Lineups_Tunisia
+Date: 2026-01-19 16:26:41.290000+00:00
+Subject: Re: some problems with dates in this dataset - it shows some ETS in 2027 to 2030
+Message-ID: ZRAP278MB0335C758F8E3A9F6C1945D9D8388A@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13207CEEE1D2B0B0EB88FFB7F888A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Bastien, 
+Thank you for pointing out the problem! 
+It was coming from the source : 
+
+
+And it has been fixed : 
+
+
+Kind Regards,
+Skander
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Monday, January 19, 2026 3:58 PM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Support Dnext <support@dnext.io>; Lineups_Tunisia <Lineups_TN@dnext.io>
+Subject: RE: some problems with dates in this dataset - it shows some ETS in 2027 to 2030 
+ 
+
+Adding @Lineups_Tunisia <mailto:Lineups_TN@dnext.io>  
+the dataset is on the Intertek environment : https://intertek.dnext.io/datasets/intertek-intertek-ags-mys-tf-lineups-vessel-weekly/data-exploration <https://intertek.dnext.io/datasets/intertek-intertek-ags-mys-tf-lineups-vessel-weekly/data-exploration> 
+
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Monday, January 19, 2026 15:55
+To: Support Dnext <support@dnext.io>
+Subject: some problems with dates in this dataset - it shows some ETS in 2027 to 2030
+
+ 
+
+"dnexr-3f9680e0-595f-11ef-891d-026031473607"

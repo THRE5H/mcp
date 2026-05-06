@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to specific fertilizer dashboards, the urea trade matrix, and related datasets on the platform.
+
+**Context**: The user is an external user from the Customer Organization requesting access to resources in the DNEXR platform. The request was made following a discussion on Teams, indicating a need for controlled access to specific datasets rather than full access.
+
+**Solution**: The Support Agent confirmed that the demo environment was set up with the required resources and provided login credentials. Access to the DNEXR platform was revoked for the user, and access to the demo was granted, ensuring the user could utilize the necessary dashboards without downloading datasets.

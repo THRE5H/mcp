@@ -1,0 +1,15 @@
+From: Safi Souai </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=124B3F7E6E024AFC8EF657BE0B0446E1-E2351B57-D9>
+To: Support Dnext
+Date: 2025-04-08 14:50:38.079000+00:00
+Subject: dataset deleting reques
+Message-ID: GVAP278MB01824D83EFFE28147B82A64AE3B52@GVAP278MB0182.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+Can you delete these two datasets please?
+dnexr-hmcrus-all-rus-station-data
+dnexr-hmcrus-all-rus-weather-station-daily
+
+thanks,
+safi.

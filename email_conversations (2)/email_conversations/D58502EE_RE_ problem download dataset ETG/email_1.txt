@@ -1,0 +1,90 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-10-27 12:16:18.120000+00:00
+Subject: RE: problem download dataset ETG
+Message-ID: GV0P278MB13208E38BB61D127F6FC1578F8FCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320ED3BFE20E636A34FAB5BF8FCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Solved , will contact Benjamin and let him know.
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, October 27, 2025 12:13
+To: Bastien Lambert <bastien.lambert@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: problem download dataset ETG
+
+ 
+
+Hello Bastien ,
+
+ 
+
+On it .
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Monday, October 27, 2025 12:11
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: problem download dataset ETG
+
+ 
+
+Hi Saber,
+
+ 
+
+Can you take a look at the below : problem to download a dataset in ETG environment. User is Benjamin Bodart
+
+ 
+
+Thanks
+
+ 

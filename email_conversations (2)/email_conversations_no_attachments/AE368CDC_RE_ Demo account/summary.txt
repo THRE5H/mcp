@@ -1,0 +1,5 @@
+**Problem**: The customer requested a demo account for a colleague, specifying a one-week trial with no download capability, but later expressed confusion about the account being created under the wrong user.
+
+**Context**: The user is an external user from a Customer Organization requesting a demo account for a service provided by a Service Provider. The demo account is intended for agricultural data analysis, specifically for corn or soy.
+
+**Solution**: The Support Team set up the demo account with the requested parameters and provided access credentials. However, the account was mistakenly created under the requestor's name instead of the intended user. The Support Team is advised to correct this by transferring the account to the correct user and ensuring proper communication moving forward.

@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "API integration for pulling SND datasets started receiving zipped files instead of CSV format, causing issues with data processing.",
+    "solution": "The service introduced file compression (zipping) to optimize large downloads, primarily for UI-triggered downloads. However, this compression was unintentionally affecting API calls. The issue was identified and corrected so that the API now delivers datasets in the original CSV format as expected, ensuring compatibility with existing integrations.",
+    "keywords": [
+      "API",
+      "SND datasets",
+      "file compression",
+      "zipped files",
+      "CSV format",
+      "data download",
+      "integration issue",
+      "file format change",
+      "API data pull"
+    ],
+    "category": "Integration Issue"
+  }
+}

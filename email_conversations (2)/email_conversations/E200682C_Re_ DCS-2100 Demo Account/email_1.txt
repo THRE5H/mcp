@@ -1,0 +1,45 @@
+From: Lucas Rosa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D5C5BA4E3FD34A549854A59CBE290BF5-B178D609-28>
+To: Support Dnext
+Date: 2025-12-16 16:06:14.330000+00:00
+Subject: Re: DCS-2100 Demo Account.
+Message-ID: GV0P278MB05917C59C1333F7790555844F8AAA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0100019b27aaaeba-a63093b4-ce18-4c73-bf31-8adc4880e2f7-000000@email.amazonses.com
+Attachments: jira-generated-image-static-8a78ccf1-a418-4ab8-ae2
+
+================================================================================
+
+Any Demo that will expire like today/tomorrow?
+
+They already did 2 calls, so they are waiting the Demo.
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net>
+Sent: Tuesday, December 16, 2025 11:57
+To: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: DCS-2100 Demo Account. 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Lucas,
+
+When is this demo gonna take place ? cause I m afraid for this week all our demo environments are booked.
+
+If it’s urgent we may need to create another demo environment
+
+Adding @Benoit Baliguet <mailto:benoit.baliguet@dnext.io> 
+
+Saber Khalfallah Customer Support	 saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 	 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/41944/attachment/30485> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2100?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImZmMmYzZTc2OTVhMTgwMWVhN2ZkNDI0ZWQyNWE2YjQ2NjUwOTljYzIyMDAwNzMxODVhMDcwNDI0ZTljNmM5OWQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwNjQiLCJpc3N1ZSI6IkRDUy0yMTAwIn0sImV4cCI6MTc2ODMxNjI1NCwiaWF0IjoxNzY1ODk3MDU0fQ.3uP7uvuEvoxch8UNA0zLSB7Y7S1oNfDWkRNIcvnYXLE&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2100/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjFkY2Q3MzNlYmJiMDU2YWJiYjNiMmYzMzgwMDdmODkyZTJiOTFkMTcxMmFhZmJlZjg1NTIyZDI4MDlkODNmNGIiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjhjODFmN2UyLTBkZjYtNDFjYy1hNTQyLTRlMmMzYjY4MDc5YSIsImlzc3VlIjoiRENTLTIxMDAifSwiZXhwIjoxNzY4MzE2MjU0LCJpYXQiOjE3NjU4OTcwNTR9.rddYlMRDZf_N2DWdvPr4zfr-sZundYwEc13GYhLpQWw> 
+
+This is shared with Lucas Rosa Olavio and Benoît Baliguet.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 16 December 2025 15:57:34 CET 
+ <http://use1-track.atlassian.com/CI0/0100019b27aaaeba-a63093b4-ce18-4c73-bf31-8adc4880e2f7-000000/jYnmrtiop7GSW_81IphkBUTgnv1flsfxUDkrHPdYntY=436> 

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "A dashboard used to monitor data recency was not updating correctly due to a mapping problem, causing the issue to go undetected.",
+    "solution": "The issue was resolved by correcting the mapping problem in the dashboard configuration. Additionally, a specific team member was assigned responsibility to monitor the dashboard regularly to ensure it remains up to date and that data recency issues are detected promptly.",
+    "keywords": [
+      "dashboard",
+      "data recency",
+      "mapping problem",
+      "monitoring",
+      "dashboard update",
+      "data freshness",
+      "issue detection"
+    ],
+    "category": "Configuration"
+  }
+}

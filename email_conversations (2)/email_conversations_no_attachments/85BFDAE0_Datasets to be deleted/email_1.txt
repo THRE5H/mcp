@@ -1,0 +1,33 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-07-30 16:45:22.999000+00:00
+Subject: Datasets to be deleted
+Message-ID: GV0P278MB0514424CF0AC870685C4A2A6F024A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+I hope this email finds you well.
+
+I am writing to request the deletion of   datasets from DNEXR
+
+dnexr-istat-white-meat-ita-snd-item-weekly-clone
+dnexr-cme-fert-ind-future-daily
+dnexr-ahdb-livestock-gbr-cash-weekly-3
+dnexr-wagen-agrim-nl-comp-feed-nld-cash-monthly
+dnexr-ismea-italy-gno-price
+dnexr-statpl-livestock-pol-snd-item-monthly
+dnexr-overheindnl-livestock-nld-cash-weekly
+dnexr-uk-live-stock-compound-feed-price-monthly
+ 
+
+
+ 
+
+ 
+
+Best regards,
+
+Nader
+

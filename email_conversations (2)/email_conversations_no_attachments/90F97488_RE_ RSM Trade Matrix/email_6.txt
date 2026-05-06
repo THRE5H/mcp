@@ -1,0 +1,48 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-07-31 12:32:17.695000+00:00
+Subject: RE: RSM Trade Matrix
+Message-ID: ZR3P278MB13531CC84153C850C3C45581F627A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353555DFF5017A241567F8AF627A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Also seems the data does not update properly. Looking at TF used in priority rules, there should be data for first months of 2025, but the update seems not to work.
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Thursday, July 31, 2025 1:24 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RSM Trade Matrix
+
+ 
+
+Hello,
+
+ 
+
+I cannot view or edit data after September 2025.
+
+ 
+
+https://dnexr.dnext.io/fundamentals/tradematrix/dnexr-rapeseedmeal
+
+ 
+
+Both “Settings” and “Configuration” should allow for data to be visualized or edited up until 2026.
+
+ 
+
+
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to remove a specific email address from the mailing list after receiving a delivery failure notification for an email sent to that address.
+
+**Context**: The customer is an external user from Customer Organization attempting to send a weekly report via Office 365 to a recipient at Partner Company. The email delivery failed due to the recipient's address being invalid or not found.
+
+**Solution**: The support team confirmed the removal of the specified email address from the mailing list. It is recommended to verify recipient addresses before sending emails to avoid similar issues in the future.

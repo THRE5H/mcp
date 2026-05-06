@@ -1,0 +1,16 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The China import margins tab was missing from the Economics dashboards, preventing users from consulting corn import margin updates.",
+    "solution": "The China Import Margins Dashboard was restored and made available again on the platform. Users can now access the China import margin data within the Economics dashboards as before.",
+    "keywords": [
+      "China import margins",
+      "Economics dashboard",
+      "missing tab",
+      "corn import margin",
+      "dashboard restoration",
+      "platform access"
+    ],
+    "category": "Platform Navigation"
+  }
+}

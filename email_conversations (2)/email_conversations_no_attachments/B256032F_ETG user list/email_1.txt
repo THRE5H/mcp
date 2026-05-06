@@ -1,0 +1,23 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2026-01-06 16:49:07.303000+00:00
+Subject: ETG user list
+Message-ID: ZR0P278MB07732D0419E7FE6B1392A5379887A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi guys,
+
+ 
+
+Can you please update the list of users in the ETG environment ?
+
+Need to remove the users with the yellow cross.
+
+ 
+
+THanks
+
+ 
+
+

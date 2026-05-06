@@ -1,0 +1,82 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-07-28 15:07:29.963000+00:00
+Subject: RE: Australia - One name many regions
+Message-ID: ZR3P278MB1353B5220E32EFB63410AE02F65AA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353739E9615A03D3274158DF65FA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+May you please fix this issue? It is still ongoing
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Wednesday, July 23, 2025 10:12 AM
+To: Support Dnext <support@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Australia - One name many regions
+
+ 
+
+Hello,
+
+ 
+
+On Jira the status is “Resolved” but I see this morning, that we are doing the official analysis for Australia, that the issue is not resolved.
+
+ 
+
+For example, for “North West” I can see two regions with the same name, which obviously makes the average soil moisture calculations useless.
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1529?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImQ0NjJiN2M2NTMwNTk2ZjZhZTc1MjU4NjhjMWViZjc5MzlkOTc4MDNlNjhlMDgzYTJjY2QyNzgzZTM2NGJjOTMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxOTIiLCJpc3N1ZSI6IkRDUy0xNTI5In0sImV4cCI6MTc1NTUzMTMxNSwiaWF0IjoxNzUzMTEyMTE1fQ.WriY6SWuEJ7769_xZ4UEmlBSyg5nSWKNY8d_XXXpKJM
+
+ 
+
+From: Enea Albertoli 
+Sent: Monday, July 21, 2025 5:34 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >; Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: Australia - One name many regions
+
+ 
+
+Hello!
+
+ 
+
+One name is used for the same regions in the soil moisture for Australia. This happens also for other regions, not just the one shown.
+
+ 
+
+If possible, could we align Precipitation and Soil moisture names, please? You may add the Province to distinguish i.e., VIC - Northern, NSW - Northern, etc.
+
+ 
+
+If possible, would it be possible to use the regional names (official), in the photos below for Victoria and New South Wales, please?
+
+ 
+
+
+
+ 
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with emails not being diverted into the Platform, resulting in missing daily Brazilian port line-ups.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Service Provider. The issue involves the email functionality of the Platform, which is critical for receiving timely updates on port line-ups.
+
+**Solution**: The Support Agent confirmed that there is an ongoing issue and that the Development team is actively working to resolve it. It is recommended for the customer to monitor updates from the Service Provider regarding the resolution timeline.

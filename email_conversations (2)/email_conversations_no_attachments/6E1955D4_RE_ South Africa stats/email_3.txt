@@ -1,0 +1,53 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext; Lucas Rosa
+Date: 2025-06-02 16:32:31.988000+00:00
+Subject: FW: South Africa stats
+Message-ID: GV0P278MB0211926D8E1FE405FA2B8F719862A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB23819560F26150729A8D83518D61A@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Do we ?
+
+Weekly trade data for sure. We use as lineupsfor the corn tradeflow. 
+
+SAGIS deliveries...i think it is farmer selling/delivery. Lucas, did you extract this?
+
+gg
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: Friday, 30 May 2025 17:41
+To: Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: THUL-Team <THUL-Team@mlp.com>
+Subject: South Africa stats
+
+ 
+
+Hello Gg,
+
+ 
+
+I see in the dashboard SAF production estimates from SAGIS. Do you track also the weekly report from SAGIS on deliveries and trade stats? I couldn’t find a dataset with this data.
+
+ 
+
+Thanks!
+
+ 
+
+ 
+
+ 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

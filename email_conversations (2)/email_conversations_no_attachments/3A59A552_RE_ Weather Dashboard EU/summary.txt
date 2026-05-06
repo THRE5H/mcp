@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the soil moisture feature on the EU Weather Dashboard was not functioning properly.
+
+**Context**: The customer is an external user from the Customer Organization, utilizing the Weather Dashboard service provided by the Service Provider. The issue arose on November 3, 2025, indicating a potential outage or malfunction in the dashboard's data display.
+
+**Solution**: The Support Agent addressed the issue and confirmed that the problem was fixed, allowing the customer to access the map. However, the customer later indicated that there were still data issues present. It is recommended to monitor the dashboard for any further discrepancies and to ensure data integrity checks are in place.

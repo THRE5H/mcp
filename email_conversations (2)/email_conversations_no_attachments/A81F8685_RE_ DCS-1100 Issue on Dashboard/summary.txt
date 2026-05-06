@@ -1,0 +1,5 @@
+**Problem**: The customer experienced an issue with the DCS-1100 dashboard not functioning correctly and sought assistance to resolve it.
+
+**Context**: The user is an external user from the Customer Organization, utilizing the DCS-1100 product. The issue was suspected to be related to Microsoft Power BI servers, which may have affected dashboard performance.
+
+**Solution**: The Support Agent recommended refreshing the dashboard, which the customer confirmed resolved the issue after refreshing it twice. It is advisable for users to refresh their dashboards if they encounter similar issues in the future.

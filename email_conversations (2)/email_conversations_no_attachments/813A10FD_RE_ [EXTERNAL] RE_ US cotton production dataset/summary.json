@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs to create a daily updated dataset for US cotton production from a website where the data table is replaced daily without historical access.",
+    "solution": "Set up a recurring task to scrape the daily updated table from the specified URL (https://www.ewrinc.com/cotton/contentPublic/reports/stateReceipts.aspx). Since the table is replaced daily and no history is available on the source site, the solution involves capturing the data each day and appending it to a dataset with a publication date field to track data history over time. The dataset is then made available on the platform with a unique access code, and it updates daily with new data and corresponding publication dates.",
+    "keywords": [
+      "dataset creation",
+      "daily update",
+      "web scraping",
+      "US cotton production",
+      "data history tracking",
+      "recurring task",
+      "data ingestion",
+      "publication date",
+      "data scraping automation"
+    ],
+    "category": "How-to Guide"
+  }
+}

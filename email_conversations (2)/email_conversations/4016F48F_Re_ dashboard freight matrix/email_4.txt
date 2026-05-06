@@ -1,0 +1,130 @@
+From: Jennie Campbell <jennie.campbell@viserion.co>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-02 19:05:51.193000+00:00
+Subject: Re: dashboard freight matrix
+Message-ID: SJ0PR22MB25578DAF0648ACFC8246904BFED8A@SJ0PR22MB2557.namprd22.prod.outlook.com
+In-Reply-To: GV0P278MB132070AC388E3B7463E1F53DF8D8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: image002_1.png, image005_1.png, image.png, image_1.png
+
+================================================================================
+
+Thanks, but I had already looked to make sure I checked the one with the max rows. I can't remember if live connection was a choice, but it is now and I selected it and it gave me 0 date points now. 
+
+   
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Tuesday, December 2, 2025 10:22 AM
+To: Jennie Campbell <jennie.campbell@viserion.co>; Support Dnext <support@dnext.io>
+Subject: RE: dashboard freight matrix 
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Hi Jennie,
+
+ 
+
+Thanks for flagging this.
+
+ 
+
+For the comparison issue, we’ll check internally with the team to see if we can enable viewing both routes on the same chart.
+
+ 
+
+Regarding the download problem: when exporting, please choose Summarized Data, then change the default export option from
+
+“xlsx (Excel) with live connection  500,000 row max”
+
+to
+
+“xlsx (Excel) with live connection  150,000 row max.”
+
+ 
+
+
+
+ 
+
+Using that second option should allow all data points in the chart to download correctly.
+
+ 
+
+Please let me know if you still encounter any difficulties with downloading the data.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Jennie Campbell <jennie.campbell@viserion.co>
+Sent: Tuesday, December 2, 2025 17:37
+To: Support Dnext <support@dnext.io>
+Subject: dashboard freight matrix
+
+ 
+
+Hi,
+
+ 
+
+I wanted to look at soybean freight from USG to China via cape vs panama canal. The matrix chart won't let me select two to see on the same graph together, so I tried to download both to put them together on one chart myself. But when I download, it only gives me 1 point of data (I tried both export as underlying data and summarized data and they both only give one point). When I open excel it looks like the second snapshot. 
+
+Unless it's an immediate fix, can you go and send me the data first please?
+
+ 
+
+       
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Thanks,
+
+Jennie
+
+ 
+
+ 
+
+ 
+
+
+
+Jennie Campbell
+
+Viserion Management Company
+
+914-860-5692
+
+ 

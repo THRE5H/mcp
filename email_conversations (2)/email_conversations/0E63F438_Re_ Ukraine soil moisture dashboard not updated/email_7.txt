@@ -1,0 +1,83 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Pablo Figueroa; Jebrane Ben Salem; Support Dnext
+Date: 2025-03-20 09:00:29.532000+00:00
+Subject: Re: Ukraine soil moisture dashboard not updated
+Message-ID: ZR1P278MB1171EF5D369D4984654AAEEF8BD82@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717B978719E8938CF6FAF9EEBD82@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_12.png, image_13.png
+
+================================================================================
+
+as discussed in the Monday meetings, we produce a new alternative data set that does not use a crop mask. 
+
+This was done in order to avoid some of the issues with "missing" geographies raised by Bastien and Luca, which were due to the crop masks used flagging no crops in them.
+
+The backfill is running this week at a pace of about 2 years per day (quite a bit of data to recompute), so in the absence of technical issues we'll have the full backfill without using crop masks by the weekend.
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 20 March 2025 07:52
+To: Martin Keller <martin.keller@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+before we used to have the data..what have we changed regarding the soil moisture in ukraine?
+________________________________
+
+From: Martin Keller <martin.keller@dnext.io>
+Sent: Thursday, March 20, 2025 4:49 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+back to 2009 for non-cropmasked data as of this morning
+
+backfill continues to add more years
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 20 March 2025 07:48
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+there is only data until 2011?
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, March 19, 2025 7:38 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+For the dashboards, actually we changed just Ukraine. 
+And I let @Martin Keller <mailto:martin.keller@dnext.io>  respond on this part: "what is the difference here? no crop mask? shouldnt we have the crop mask?"
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 19 March 2025 11:23
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+are we changing any other? like Russia and EU?
+
+what is the difference here? no crop mask? shouldnt we have the crop mask?
+
+
+________________________________
+
+From: Jebrane Ben Salem
+Sent: Wednesday, March 19, 2025 7:11 AM
+To: Pablo Figueroa; Support Dnext
+Subject: Re: Ukraine soil moisture dashboard not updated 
+
+Hello Pablo,
+The dashboard has now been updated.
+Please note that we have changed the table name in case you are using it in your code: ERA5_LAND_Ukraine_STATES_NOCROP_View.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 13:12
+To: Support Dnext <support@dnext.io>
+Subject: Ukraine soil moisture dashboard not updated 
+ 
+i think it might be related to the data because my scripts are giving me the same.
+
+

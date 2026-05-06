@@ -1,0 +1,236 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Mohamed Elasfoury
+Date: 2025-05-08 14:10:28.906000+00:00
+Subject: RE: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+Message-ID: SA1PR11MB854379178D244824A8FF6C04968BA@SA1PR11MB8543.namprd11.prod.outlook.com
+In-Reply-To: SA1PR11MB85436DB0C87AA83762EE80DE96CA2@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hi, 
+
+ 
+
+Just following up on the below. 
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+From: Bucciarelli, Rafael 
+Sent: Thursday, March 6, 2025 8:18 AM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Hi, 
+
+ 
+
+Any update on this?
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> > 
+Sent: Friday, February 21, 2025 12:23 PM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: Re: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Hi Rafael, 
+
+ 
+
+No, not yet, unfortunately.
+
+I will try to have them included with next week's reports (Including the regression for sailed).
+
+Sorry for the inconvenience, and thank you in advance for your patience.
+
+ 
+
+Best,
+
+Mohamed 
+
+________________________________
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+
+Sent: Friday, February 21, 2025 6:02 PM
+
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Hi,
+
+ 
+
+Any progress on this?
+
+ 
+
+Could you also do a regression (and plot) for sailed by x date vs y total sailed? Similar to the nominations one but for sailed?
+
+ 
+
+Thanks,
+
+Rafael
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Sent: Monday, February 17, 2025 2:39 PM
+To: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: Re: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Hi Rafael, 
+
+ 
+
+Thank you for the request, I will try to add this to the report as soon as possible
+
+ 
+
+Best,
+
+Mohamed
+
+________________________________
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> >
+Sent: Friday, February 14, 2025 7:31 PM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Subject: RE: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Hi,
+
+ 
+
+ 
+
+
+
+ 
+
+Could you also add a line graph of this data to see the evolution of the regression forecast, sailed, and the DNEXR Forecast? I want to easily be able to see day on day/week on week/month on month change.
+
+ 
+
+Thanks,
+
+Rafael
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Sent: Friday, February 14, 2025 1:23 PM
+Subject: [EXTERNAL] Argentina Grains and Oilseeds Exports - 2025-02-14
+
+ 
+
+Dear all,
+
+Please find attached the Argentina grains and oilseeds D-Lineup report for Feb 14, 2025, as well as two excels, the D-Lineup and times spent at ports.
+Please note that we are using the total time spent at port (Actual Time of Shipping - Actual Time of Arrival).
+
+Please let us know if you have any remarks or suggestions.
+
+Best regards,
+
+Mohamed ELASFOURY
+Data Scientist
+
+mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> 
+
+ <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/1/01020195058d1a37-253c1ec5-505e-4efa-b127-1db9570a6ec3-000000/hLwr6eHvsctEfsEiQs5mQB88L24=413> 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/2/01020195058d1a37-253c1ec5-505e-4efa-b127-1db9570a6ec3-000000/wodn1AWSOfMWKdqIwN99fN9MIDk=413> 
+
+ 
+
+ 
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

@@ -1,0 +1,92 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Jebrane Ben Salem; Aditya Jeripotula; Support Dnext; Skander Ghamgui
+Date: 2025-07-21 10:27:44.724000+00:00
+Subject: RE: ITS Report
+Message-ID: GV0P278MB1320DE3C083B4DA49FC30B23F85DA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148DAD9AC251B83466B0C52985DA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+The one on Intertek was taken care of. Unless it’s another dataset you are talking about.
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Monday, July 21, 2025 10:08
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: ITS Report
+
+ 
+
+Unless overlooked, was this taken care of ?
+
+ 
+
+Thanks
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Thursday, July 17, 2025 3:36 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Skander Ghamgui <skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> >
+Subject: Re: ITS Report
+
+ 
+
+Adding @Skander Ghamgui <mailto:skander.ghamgui@dnext.io> 
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Sent: 17 July 2025 14:35
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: ITS Report 
+
+ 
+
+Is the healthcheck set up on this one ? 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> > 
+Sent: Thursday, July 17, 2025 3:24 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: ITS Report
+
+ 
+
+Dear team
+
+ 
+
+Can you kindly check the below update from ITS for Malaysia. I see many entries under Product column as labelled "Not Available".
+
+ 
+
+    
+
+Regards,
+
+Aditya Jeripotula

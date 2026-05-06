@@ -1,0 +1,5 @@
+**Problem**: The customer requested to stop filtering Colza from COT Matif into Trafigura.
+
+**Context**: The user is an external customer of a service provided by a Customer Organization. The issue involves data filtering within a trading platform.
+
+**Solution**: The Support Agent confirmed that the requested action to stop filtering Colza was completed. It is recommended to communicate any further changes in data filtering preferences promptly to avoid confusion.

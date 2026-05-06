@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about an exclusive promotional offer for listing packages that includes a "Buy One Listing, Get One Free" deal, specifically seeking clarification on the terms and eligibility.
+
+**Context**: The customer is an external user interested in promotional offerings from a cryptocurrency exchange (Service Provider). The promotion is time-sensitive, ending on April 30, 2025, and is aimed at enhancing token visibility across multiple platforms.
+
+**Solution**: The support team provided detailed information about the promotion, including eligibility criteria and terms. They confirmed that the offer is limited to the same token for both exchanges and cannot be combined with other discounts. Users were advised to contact the service provider directly to book their slot and ensure compliance with the promotional terms.

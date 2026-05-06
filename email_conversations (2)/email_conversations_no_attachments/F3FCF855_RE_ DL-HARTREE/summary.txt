@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of an email address from the DL-HARTREE distribution list.
+
+**Context**: The user is an internal user from Customer Organization. The issue involves the email distribution list feature of a service provided by Service Provider. The request was made to ensure that the specified email address is no longer included in communications.
+
+**Solution**: The Support Agent confirmed that the requested email address was successfully removed from the DL-HARTREE distribution list. It is recommended to verify distribution list settings periodically to ensure they are up to date.

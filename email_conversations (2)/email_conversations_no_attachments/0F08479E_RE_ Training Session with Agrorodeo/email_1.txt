@@ -1,0 +1,190 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robertas Lapinskas; Pablo Figueroa; Support Dnext
+Date: 2025-09-10 14:11:17.953000+00:00
+Subject: RE: Training Session with Agrorodeo
+Message-ID: GV0P278MB132007D4CE718FC3BAEC177DF80EA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AM0PR02MB595643AA35264AA1E9B5EA06F407A@AM0PR02MB5956.eurprd02.prod.outlook.com
+
+================================================================================
+
+Hello Robertas,
+
+ 
+
+I hope you’re doing well.
+
+ 
+
+Following up on your inquiry about comparing actual precipitation with forecast values in the weather dashboards, here’s a step-by-step guide:
+
+ 
+
+1.	Open the Weather Dashboards
+
+	a.	Go to Dashboard > Weather, then select the region you want to review.
+
+ 
+
+2.	Access the Comparison Tool
+
+	a.	Click the “Forecast Run Comparison” button. This will take you to the comparison page.
+
+ 
+
+
+
+ 
+
+3.	Choose What to Compare
+
+	a.	In the “Run Selection” filter:
+
+                                                                              i.       Check the box for “Actual” to display observed precipitation.
+
+                                                                           ii.        Select the forecast model(s) you want to compare against.
+
+ 
+
+
+
+ 
+
+ 
+
+4.	View the Results
+
+	b.	Hover your mouse over the chart to see the actual precipitation values versus the forecast runs for the chosen date.
+
+ 
+
+
+
+ 
+
+I hope this helps you find what you are looking for.
+
+ 
+
+Please let me know if you have any other questions or inquiries.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Robertas Lapinskas <robertas.lapinskas@agrorodeo.lt> 
+Sent: Monday, September 1, 2025 15:50
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Training Session with Agrorodeo
+
+ 
+
+I will be back in office next week. Than lets say from Tuesday any time is ok for me
+
+ 
+
+
+
+Robertas Lapinskas
+
+General Manager
+
+AGRORODEO, UAB
+
+Lvivo Business Center
+
+Lvivo g. 37, LT- 09307 Vilnius, Lithuania 
+Tel.: +370 5 2764881, +370 698 12892
+
+www.agrorodeo.lt <http://www.agrorodeo.lt/>    
+
+    
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, September 1, 2025 4:09 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Robertas Lapinskas <robertas.lapinskas@agrorodeo.lt <mailto:robertas.lapinskas@agrorodeo.lt> >
+Subject: RE: Training Session with Agrorodeo
+
+ 
+
+Hello Pablo and Robertas,
+
+ 
+
+Yes, we would be glad to schedule a training session. 
+
+ 
+
+@Robertas Lapinskas <mailto:robertas.lapinskas@agrorodeo.lt>  Please let us know your availability, and we’ll find a time that works best.
+
+ 
+
+Looking forward to it!
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Monday, September 1, 2025 13:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Robertas Lapinskas <robertas.lapinskas@agrorodeo.lt <mailto:robertas.lapinskas@agrorodeo.lt> >
+Subject: Training Session with Agrorodeo
+
+ 
+
+Hi Team, can we schedulle a training session with Agrorodeo?
+
+ 
+
+@Robertas Lapinskas <mailto:robertas.lapinskas@agrorodeo.lt> , please let us know if we should invite more people.
+
+ 
+
+regards,
+
+ 
+
+Pablo

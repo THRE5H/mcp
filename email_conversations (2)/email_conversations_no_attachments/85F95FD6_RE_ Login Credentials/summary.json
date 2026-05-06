@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User logs into the platform but cannot see any dashboards or data after changing the password.",
+    "solution": "After logging in to the platform at https://squarepoint.dnext.io/, users should navigate to the dashboards by clicking the 'Dashboards' button on the left menu. To access the Tradematrix module, go to the 'Fundamentals' button on the left menu, then select 'Tradematrix'. Users will see a list of available tradematrixes and can view any by clicking the 'eye' icon on the right side of each row. Note that some tradematrixes are duplicates from an old system; users should prefer those with codes in the format 'squarepoint-xxxxx-xxxxx-xxxxx' as older ones will be removed soon.",
+    "keywords": [
+      "platform login",
+      "dashboard access",
+      "Tradematrix module",
+      "navigation",
+      "left menu",
+      "squarepoint code format",
+      "data visibility",
+      "user interface"
+    ],
+    "category": "Platform Navigation"
+  }
+}

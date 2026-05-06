@@ -1,0 +1,5 @@
+**Problem**: The customer was provided with credentials for their O365 account but may encounter difficulties logging in.
+
+**Context**: The user is a new employee at Customer Organization, receiving their O365 account credentials from a Support Agent. The situation involves ensuring the user can access their account without issues.
+
+**Solution**: The Support Agent provided the user with their O365 username and password, encouraging them to reach out for assistance if they face any login issues. It is recommended that the user verifies their credentials and checks for any potential login errors.

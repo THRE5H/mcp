@@ -1,0 +1,20 @@
+From: Iulian Gramatki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=34FC2AA9BD71452E98A777350F5A4EFE-21F0C60F-36>
+To: Support Dnext
+Date: 2025-11-14 15:15:18.072000+00:00
+Subject: Update reference subtypes for type location: PORT, PORT_TERMINAL, PORT_BERTH
+Message-ID: GVAP278MB07127DDDF755F61E6210822B87CAA@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Please open a ticket containing the following instructions:
+
+1.	Rename PORT_TERMINAL to PORT
+2.	Create 2 new subtypes: PORT_TERMINAL and PORT_BERTH
+3.	Naming convention for type PORT is PORT_XXXX (not changing)
+4.	Naming convention for type PORT_TERMINAL is TERMINAL_<port_code>_<terminal_code>
+5.	Naming convention for type PORT_BERTH is BERTH_<port_code>_<berth_name>
+6.	Make sure each location of type PORT_TERMINAL has the PORT as the parent
+7.	Make sure each location of type PORT_BERTH has the TERMINAL as the parent
+
+Kind regards
+Iulian Gramatki

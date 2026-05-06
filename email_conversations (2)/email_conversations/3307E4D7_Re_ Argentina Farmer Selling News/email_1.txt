@@ -1,0 +1,40 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: News Dnext; Nour Meddeb
+Date: 2025-12-09 10:02:51.475000+00:00
+Subject: Re: Argentina Farmer Selling News
+Message-ID: GV0P278MB0717B4E217CC4AA0DF6D0701EBA3A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0199652E48F26C34DC96777ABEA3A@GVAP278MB0199.CHEP278.PROD.OUTLOOK.COM
+Attachments: image1.png, image2.png
+
+================================================================================
+
+can we check this? we are sending data as of last thursday. data seems to be ok in the dataset so seems to be an issue with the reporting part
+________________________________
+
+From: News Dnext <news@dnext.io>
+Sent: Tuesday, December 9, 2025 7:00 AM
+To: Nour Meddeb <nour.meddeb@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Argentina Farmer Selling News 
+ 
+Executive Summary 
+
+Daily Argentina farmer selling in thousand tons: 
+ 
+
+Accumulated farmer selling (official source, lagged by 1 week): 
+
+2025 Crop Farmer Selling: 
+ 
+
+Details: 
+
+
+
+You can use the dashboard located in Dashboards -> Supply and Demand -> Argentina -> Farmer Selling where you can interact with the data.
+
+
+
+Best regards,
+
+DNEXT INTELLIGENCE

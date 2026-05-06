@@ -1,0 +1,5 @@
+**Problem**: The customer was having difficulty analyzing data from the dashboard, specifically needing the August vs. November santos value expressed as a spread.
+
+**Context**: The customer is an external user from a Customer Organization seeking assistance with a data export feature in a dashboard provided by a Service Provider. The issue arose after the customer received guidance on exporting data to Excel but found the presentation of the data inadequate for analysis.
+
+**Solution**: The Support Agent proposed a Teams call to gather more details about the customer's needs. Following the discussion, a "Spread" tab was added to the existing Corn CNF dashboard to facilitate the customer's request. The customer was informed of this update and invited to provide feedback.

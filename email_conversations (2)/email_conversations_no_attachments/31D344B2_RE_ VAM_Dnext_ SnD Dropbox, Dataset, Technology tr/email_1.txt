@@ -1,0 +1,368 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Oscar Shi
+Date: 2025-06-11 10:12:10.963000+00:00
+Subject: RE: VAM/Dnext: SnD Dropbox, Dataset, Technology training
+Message-ID: GV0P278MB1320B5686523202BA47EB98CF875A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: BY3PR08MB70271FC951C4D51180F12652CF6AA@BY3PR08MB7027.namprd08.prod.outlook.com
+
+================================================================================
+
+Hello Oscar,
+
+ 
+
+These are two examples of Data prep SQL Queries : 
+
+Example 1 : 
+
+ 
+
+SELECT
+
+"Data Source":Code AS "Source", 
+
+"Country Reporter":Code AS "Country Reporter",
+
+"Country Partner":Code AS "Country Partner",
+
+"Trade Direction":Code AS "Trade Direction",
+
+"Product":Code AS Product,
+
+"Quantity",
+
+"Quantity Unit":Code AS "Quantity Unit",
+
+"Quantity Unit multiplier",
+
+"Date Reporter"
+
+FROM DATASET."dnexr-eucomm-ags-eur-tf_customs-weekly"
+
+WHERE "Product":Code IN ('RSM','RSS','SBM','SBS','SFM')
+
+ 
+
+Example 2 : 
+
+ 
+
+SELECT *
+
+FROM DNEXR.DATASET."dnexr-dnexr-crn-eur-forecast"
+
+WHERE ARRAY_MAX(["Year"]) >= EXTRACT(YEAR FROM CURRENT_DATE) - 10
+
+AND "Product":"Code" = 'CRN'
+
+UNION ALL 
+
+SELECT *
+
+FROM DNEXR.DATASET."dnexr-swht-eur-tf-view"
+
+WHERE ARRAY_MAX(["Year"]) >= EXTRACT(YEAR FROM CURRENT_DATE) - 10 
+
+AND "Product":"Code" = 'SWHT'
+
+UNION ALL 
+
+SELECT *
+
+FROM DNEXR.DATASET."dnexr-bly-eur-tf-view"
+
+WHERE ARRAY_MAX(["Year"]) >= EXTRACT(YEAR FROM CURRENT_DATE) - 10 
+
+AND "Product":"Code" = 'BLY'
+
+ 
+
+We have also added the oilseeds SND files on Dropbox
+
+ 
+
+Please let us know if you have any further questions.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com> 
+Sent: Tuesday, June 10, 2025 19:45
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Subject: Re: VAM/Dnext: SnD Dropbox, Dataset, Technology training
+
+ 
+
+In addition to my question about sample SQL queries...
+
+ 
+
+Re: Dropbox, since our subscription includes Oilseeds Platform access, I hope we also have access to the Oilseed SnD Excel files? Currently our Dropbox does not show Oilseeds (screenshot below)
+
+
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Tuesday, June 10, 2025 10:48 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: VAM/Dnext: SnD Dropbox, Dataset, Technology training 
+
+ 
+
+Hi Saber,
+
+ 
+
+Thank you for the training today. It helped answer many of my questions!
+
+ 
+
+I forgot to ask: could you send me some sample SQL queries for Data Prep when you get a chance?
+
+
+
+ 
+
+Thank you again,
+
+Oscar
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Thursday, June 5, 2025 1:38 PM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: VAM/Dnext: SnD Dropbox, Dataset, Technology training 
+
+ 
+
+Hello Oscar
+
+ 
+
+Regarding the delivery of files, we are open to updating the files on another platform, such as SharePoint or any other alternative , as long as you grant us the necessary access. 
+
+Please let us know if that would be an option for you.
+
+ 
+
+As for the yearly data, we are currently working on processing the datasets to generate yearly values for each of the five Dnext SnD datasets. 
+
+We will keep you informed and notify you once the processed datasets are ready and available on the platform.
+
+ 
+
+Regarding the training session, Tuesday, June 10th 10 am Eastern time works perfectly for me. I will send out the invitation.
+
+ 
+
+Please feel free to reach out if there is anything else I can assist with.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,R99Nh72JCFl10CjviKRJIO2718x5YFTTmaIwS2sMJkxe3I4WErXg8p2VtGxgSh0ri1fY51YC-CKgvHbhfmLZAYR2lVifaIDfuN8uNC2QGw,,&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> > 
+Sent: Wednesday, June 4, 2025 17:27
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: VAM/Dnext: SnD Dropbox, Dataset, Technology training
+
+ 
+
+Hi Saber,
+
+ 
+
+Thank you very much! I inserted my responses (in purple) below in your email:
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Wednesday, June 4, 2025 11:05 AM
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: VAM/Dnext: SnD Dropbox, Dataset, Technology training
+
+ 
+
+Hello Oscar,
+
+ 
+
+Apologies for the delayed response.
+
+ 
+
+We have provided you with access to a DropBox folder titled DNEXT_VAM, and both you and Neil should have received an invite to access it.
+
+Thank you! I confirm that I can access the files.
+
+I assume that to delivery those files, Dropbox is currently your only mechanism. If others exists, please kindly advice.
+
+ 
+
+Regarding the second point, the data is updated monthly, so by default, there are no yearly values. However, if needed, the data can be processed to generate yearly values (you can refer to our SND dashboards for examples).
+
+If you would like, we can create processed dataset where the data is transformed into yearly values for your convenience.
+
+That will be great! Please go ahead and create such processed datasets for each of the five Dnexr SnD datasets (Corn, Oilseeds, Wheat, Veggie Oil, Wheat by Class). 
+
+ 
+
+Additionally, we would be happy to set up a training session to walk you through the technical aspects of the platform.
+
+Please let us know your availability, and we will arrange the session accordingly.
+
+My schedule is very open from now through next Friday May 13. Anything that starts on/after 10am and concludes by 4pm US Eastern time will work for me.
+
+ 
+
+For quicker assistance, kindly direct any requests to support@dnext.io <mailto:support@dnext.io> , and we will ensure they are addressed promptly.
+
+I will keep that in mind! The reason I haven't done so is that when I copied that address before, I often got the following message :
+
+From: Dnext Customer Support <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> > | Sent: Wednesday, May 28, 2025 1:37 PM
+
+To: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> > | Subject: Your request couldn't be created
+
+Your request to support@dnext.io <mailto:support@dnext.io>  could not be created. If you would still like to get help, please contact the team directly.
+
+If you have received this email in error, please ignore it.
+
+ 
+
+ 
+
+Kind regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,_Zlq2nKNKGCsRKb9Ry2WLBf3V42el3fEOneR1UdUG-IQ2LsmtF68Rs1iz2RhX8UmVEPL9rhOOXxfkDOTb0SPYViW2A5Z220E4LVDK_8h&typo=1> 
+
+ 
+
+ 
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: Tuesday, June 3, 2025 18:56
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: VAM/Dnext: SnD Dropbox, Dataset, Technology training
+
+ 
+
+Hi Saber,
+
+ 
+
+I hope this email finds you well. I have several technical questions about accessing Dnext's SnD. If it would make more sense to set up a training session, please let me know.
+
+ 
+
+1. If I remember correctly, you also offer the ability to share Dnext's SnD file via Dropbox. If so, please kindly advise how we can set this up.
+
+ 
+
+2. After exploring, I noticed that the Dnexr SnD Datasets contain exclusively monthly data, without aggregating to market year. Please kindly confirm whether that is the case, and if so, whether there is a machine-readable revenue through which yearly data could be accessed.
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+ 
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

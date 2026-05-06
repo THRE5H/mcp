@@ -1,0 +1,5 @@
+**Problem**: The customer is unable to see the folders in their Dropbox after following the instructions to link their Dnext account to Dropbox, despite receiving confirmation that the process was successful.
+
+**Context**: The customer is an external user from a Customer Organization using the Dnext platform and Dropbox integration. They have attempted to link their accounts but are experiencing issues with the folders not appearing in Dropbox on their PC.
+
+**Solution**: The Support Agent confirmed that the Dropbox invitation was sent successfully and recommended the customer check with their IT department to ensure that Dropbox emails are not being filtered. A Teams call was proposed to assist the customer further, and the agent is prepared to reach out via WhatsApp for immediate assistance.

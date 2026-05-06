@@ -1,0 +1,5 @@
+**Problem**: The Customer requested platform access for a new employee, needing to ensure that the user could log in and utilize the services.
+
+**Context**: The Customer is an external user from a Customer Organization, specifically a Grains Analyst requesting access for a new employee at the Service Provider's platform. The request was made via email to the support team.
+
+**Solution**: The Support Agent created a user account for the new employee on the platform and sent the login credentials directly to their inbox. The Customer was informed that they could reach out for any further assistance if needed.

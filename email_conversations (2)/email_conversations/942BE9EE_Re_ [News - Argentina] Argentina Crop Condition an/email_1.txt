@@ -1,0 +1,391 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Oscar Shi; Support Dnext
+Date: 2025-12-12 20:08:50.830000+00:00
+Subject: Re: [News - Argentina] Argentina Crop Condition and Progress [11 December 2025] - Bolsa de Cereales
+Message-ID: GV0P278MB0321639581D4E780CCBD59599DAEA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: BY5PR08MB62009B6226381C72F7F92D0ECFAEA@BY5PR08MB6200.namprd08.prod.outlook.com
+Attachments: Bolsa de Cereales Since 2000.csv
+
+================================================================================
+
+Hello Oscar,
+
+Regarding your question:
+
+
+Soybean
+
+
+*	Bolsa de Cereales:
+
+	*	Planted area: 18.4 Mha
+
+	*	Harvested area: 16.95 Mha
+
+*	Rosario Grain Exchange:
+
+	*	Planted area: 17.75 Mha
+
+	*	Harvested area: 16.5 Mha
+
+
+Corn
+
+
+*	Bolsa de Cereales:
+
+	*	Planted area: 7.1 Mha
+
+	*	Harvested area: 6.83 Mha
+
+*	Rosario Grain Exchange:
+
+	*	Planted area: 8.3 Mha
+
+	*	Harvested area: 7 Mha
+
+
+
+Please also note that the 9.7 Mha planted corn figure previously mentioned for the Rosario Grain Exchange refers to total corn. Out of this, 8 Mha correspond to corn for grain, while the Bolsa de Cereales reports only grain corn (7.8 Mha).
+Regarding production, Rosario Grain Exchange has released initial estimates of 61 M tons for corn and 47 M tons for soybean.
+However, the more relevant and detailed figures will begin to be published starting February, as previously mentioned.
+For Bolsa de Cereales, I’ve attached a CSV file from our dataset that includes all final figures for wheat, corn, and soybean, covering area planted, area harvested, yield, and production, by region.
+Values are expressed in thousand hectares and thousand tons (the “Unit” column shows hectare or ton, while “Unit multiplier” indicates 1000).
+I'm adding @Support Dnext <mailto:support@dnext.io>  to verify whether you already have this dataset, and if not, they will be added to your platform by Monday.
+If you prefer a dashboard view, this data is already available in GnO Crop → Argentina → Crop Statistics.
+For RGE, we’d be happy to prepare a dataset covering previous years and share it with you as soon as it’s ready.
+Best Regards,
+Iheb Mhamdi
+
+
+
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com>
+Sent: Friday, December 12, 2025 6:09 PM
+To: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: [News - Argentina] Argentina Crop Condition and Progress [11 December 2025] - Bolsa de Cereales 
+ 
+Hi Iheb,
+
+Those are very helpful to know!!
+
+Regarding the planted area, do you happen to have each exchange's last year values at hand?
+
+(As you know, in Argentina often the statistics do not converge, so I find it helpful to think in term of year-over-year percentages.)
+
+Oscar
+
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Friday, December 12, 2025 12:03 PM
+To: Oscar Shi <oshi@valentassetmgmt.com>
+Subject: Re: [News - Argentina] Argentina Crop Condition and Progress [11 December 2025] - Bolsa de Cereales 
+
+Hello Oscar,
+Thanks for reaching out, and you’re very welcome!
+Regarding planted area, the latest releases are already available:
+
+*	
+	Bolsa de Cereales: 7.8 Mha for corn and 17.6 Mha for soybeans
+*	
+	Rosario Grain Exchange: 9.7 Mha for corn and 16.4 Mha for soybeans
+
+As for yield and production, the Rosario Grain Exchange typically starts releasing updates around February, and Bolsa de Cereales usually follows around January-February.
+Best regards,
+Iheb
+
+
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com>
+Sent: Friday, December 12, 2025 4:19 PM
+To: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: [News - Argentina] Argentina Crop Condition and Progress [11 December 2025] - Bolsa de Cereales
+ 
+Hi Iheb,
+
+Thank you very much for your update!
+
+When do you think the exchanges will start to report Corn/Soybean Yield/Area/Production? (Similar to what they've been doing for Wheat below)
+
+
+Wheat – Strong Yields Maintain Record-Level Outlook
+
+
+
+
+*	Crop estimates:
+
+	*	
+		Our estimates are stable at 23.8 MMT
+	*	The Bolsa de Cereales estimates are stable at 25.5 MMT.
+
+	*	The Rosario Grain Exchange estimates are stable at 24.5 MMT.
+
+
+Thank you very much,
+Oscar
+
+
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Friday, December 12, 2025 7:57 AM
+To: DNEXT_ANALYSTS <dnext-analysts@dnext.io>
+Subject: [News - Argentina] Argentina Crop Condition and Progress [11 December 2025] - Bolsa de Cereales
+
+
+Soybean – Planting Progress and Field Conditions
+
+
+
+
+Planting Progress
+
+
+*	Soybean planting reaches 58.6%, after a strong 13.9 p.p. weekly advance.
+
+*	The interannual delay narrows to 5 p.p., with 3.76 p.p. Above the average of the last five seasons, showing significant recovery compared to previous weeks.
+
+*	Second-crop soybean reaches 25% of the intended area.
+
+
+Crop Condition
+
+
+*	99% of planted soybeans are rated Normal to Excellent, and 58% are rated Good to Excellent,
+
+*	91% of fields show Adequate to Optimal moisture conditions.
+
+*	First-crop soybean: first R1 (flowering) lots appear in both core regions under excellent moisture conditions.
+
+
+Regional Situation
+
+
+*	Northern La Pampa and Western Buenos Aires: planting accelerates as excess water recedes.
+
+*	Central Buenos Aires: lack of soil trafficability continues to delay field operations
+
+
+
+Corn – Late-Planting Gains Momentum
+
+
+Planting Progress
+
+
+*	Corn planting reaches 59.2%, gaining traction within the late-season planting window, a weekly progress of 15.2 p.p. and +14.42 vs 5 year average
+
+
+Crop & Soil Conditions
+
+
+*	86% of corn is in Good to Excellent condition.
+
+*	Moisture availability remains very favorable: 94% of the area has Adequate to Optimal reserves.
+
+*	Minimal water stress observed at the national scale.
+
+*	Localized excess moisture persists but does not impact the overall positive scenario.
+
+
+Crop Development
+
+
+*	Late-planted corn is emerging uniformly thanks to strong soil moisture.
+
+*	Early-planted corn begins tasseling (VT) in multiple regions, also benefiting from recent rainfall.
+
+
+
+Wheat – Harvest Moves Past 60% With Strong Yields
+
+
+
+Crop Estimates
+
+
+
+
+*	We increased our estimates UP by 1.17 MMT bringing production up to at 24.97 MMT.
+
+*	The Bolsa de Cereales estimates are stable at 25.5 MMT.
+
+*	The Rosario Grain Exchange raised their estimates by 3.2MMT bringing production up to at 27.7 MMT.
+
+
+Harvest Progress
+
+
+*	Wheat harvest advances to 60.2% of the eligible area after a 14.9 p.p. weekly increase and 6.7 p.p. ahead of the 5-year average.
+
+
+Yield Performance
+
+
+*	Yields from central agricultural regions range broadly 2-8 tons/Ha.
+
+*	Regional averages:
+
+	*	3.7-3.8 tons/Ha in Córdoba and Central-North Santa Fe
+
+	*	4.5 tons/Ha in Entre Ríos
+
+	*	5.6-5.8 tons/Ha in Northern Core Region and Southern Core Region
+
+*	The national yield average rises to 4.14 tons/Ha.
+
+
+Southern Region Update
+
+
+*	About 18% of the crop is still filling grain.
+
+*	First harvests in the southern belt show 3.5-4.8 tons/Ha, exceeding historical zone averages.
+
+*	As the harvest expands in this region, results will consolidate the final performance.
+
+
+
+
+Soybean Crop:
+
+
+
+
+
+
+
+
+
+*	
+	Crop Condition:
+	
+	
+
+
+
+
+
+
+
+
+
+
+*	
+	Water Condition:
+
+
+
+
+
+
+
+
+
+Wheat Crop:
+
+
+
+*	
+	Evolution:
+
+
+
+
+
+
+
+
+
+
+
+
+
+*	
+	Harvest:
+
+
+
+
+
+
+
+
+
+
+Corn Crop:
+
+
+
+*	
+	2025/26 Planting
+
+
+
+
+
+
+
+
+
+
+
+
+
+*	
+	Crop Condition:
+
+
+
+
+
+
+
+
+
+
+
+
+*	
+	Water Condition:
+
+
+
+
+
+
+
+
+
+
+
+
+
+To interact more with the data, you can go to Dashboards -> GnO Crop -> Argentina 
+
+Best regards,
+DNEXT INTELLIGENCE
+
+
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+
+
+
+Disclaimer
+
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

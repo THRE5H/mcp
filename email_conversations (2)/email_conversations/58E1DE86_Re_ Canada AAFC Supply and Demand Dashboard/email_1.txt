@@ -1,0 +1,47 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-08-26 09:51:45.534000+00:00
+Subject: Re: Canada AAFC Supply and Demand Dashboard
+Message-ID: ZRAP278MB0527D57E2AABE003CF27DB2A9639A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07178B2A9B9A472F30F36346EB3EA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Fixed!
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, August 25, 2025 1:11 PM
+To: Nour Meddeb <nour.meddeb@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Canada AAFC Supply and Demand Dashboard 
+ 
+thanks!
+
+is it possible to fix the date of the "Previous Report" so that it´s always 1 month before the latest?
+________________________________
+
+From: Nour Meddeb <nour.meddeb@dnext.io>
+Sent: Monday, August 25, 2025 1:44 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Canada AAFC Supply and Demand Dashboard 
+ 
+Hello, 
+
+Issue has been resolved
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, August 25, 2025 10:51 AM
+To: Support Dnext <support@dnext.io>
+Cc: Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Canada AAFC Supply and Demand Dashboard 
+
+Hi can we check the AAFC dashboard which should have the august data already?
+dataset is updated from emails and the corresponding email was sent last week
+
+

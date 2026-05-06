@@ -1,0 +1,5 @@
+**Problem**: The customer is seeking clarification on specific fields in the Corn SND dataset, particularly regarding 'Protein Use', 'use_flour', and 'Not_Available', which are linked to Ukraine. The customer is unsure about the meanings and implications of these fields.
+
+**Context**: The customer is an external user from a Customer Organization, reviewing the Corn SND dataset provided by a Service Provider. The inquiry arises from confusion over data representation amidst the ongoing situation in Ukraine, impacting the dataset's clarity.
+
+**Solution**: The Support Agent confirmed that 'use_flour' refers to corn usage for flour based on official Ukrainian statistics, while 'Protein Use' corresponds to 'use_groat'. The 'Not_Available' entries are a technical issue that will be resolved soon, as they also represent 'use_groat' values. The customer was encouraged to reach out for further questions or clarifications.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Ukraine data in the dashboard is outdated, with the latest report showing data only up to December 12, while data is available for December 24. 
+
+**Context**: The user is an external user from a Customer Organization utilizing a data reporting dashboard. They highlighted the importance of timely updates as new data on planting is expected soon.
+
+**Solution**: The Support Agent confirmed the issue and initiated a review of the data update process to ensure timely reporting. It was recommended that the user check the dashboard weekly for updates and to report any discrepancies immediately to maintain data accuracy.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset named "dnexr-agrocomp-ags-moz-tf-lineups-vessel-weekly."
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance from the Support Team of the Service Provider. The request was made via email for a dataset deletion.
+
+**Solution**: The Support Agent confirmed the deletion of the requested dataset. It is recommended that users clearly specify dataset names when making deletion requests to ensure accuracy and efficiency.

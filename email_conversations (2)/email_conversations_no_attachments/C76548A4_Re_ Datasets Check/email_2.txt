@@ -1,0 +1,33 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Aya Sakli
+Date: 2025-08-11 14:15:08.254000+00:00
+Subject: Datasets Check 
+Message-ID: ZRAP278MB0527067AB7FDD435089474469628A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+Please find below the list of data sources currently should be inactive or to be deleted:
+
+*	
+	dnexr-fed_statis-livestock-deu-snd_41311-0010 – inactive, last active till 2010
+*	
+	dnexr-fed_statis-livestock-deu-snd_41311-0002 – inactive, last active till 2010
+*	
+	dnexr-fed_statis-livestock-deu-snd_41311-0001 – inactive, last active till 2010
+*	
+	dnexr-agreste-ags-fra-milk-dairy-pt-snd_item-monthly – inactive
+*	
+	dnexr-lonja-grains-esp-cash-weekly-1 – to be deleted (source server down)
+*	
+	dnexr-lonja-grain-oilseeds-esp-cash-weekly-1 – inactive
+*	
+	dnexr-wpl-grains-pol-cash-weekly – inactive (source change, no longer published)
+*	
+	dnexr-agrborsa-grain-oilseeds-ita-cash-weekly-4 – inactive (not in use)
+*	
+	dnexr-conab-crn2-bra-cost_of_production-yearly – inactive (source change)
+*	
+	Dnexr-agrborsa-grain-oilseeds-ita-cash-weekly-3 -inactive 
+
+Kind regards,

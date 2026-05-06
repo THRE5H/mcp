@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download historical customs data as the export tab was disabled for all origin and partner countries.
+
+**Context**: The customer is an external user from a research organization seeking assistance with a data export feature in a customs data dashboard provided by a service provider. The issue persisted across multiple regions, including South America, North America, and the Black Sea.
+
+**Solution**: The support agent enabled the export button for the Argentina dashboard and provided instructions on how to access the data. However, the customer requested that the export functionality be enabled for all regions and countries, indicating that the issue was not fully resolved. The support team noted that some dashboards may have restrictions due to copyright.

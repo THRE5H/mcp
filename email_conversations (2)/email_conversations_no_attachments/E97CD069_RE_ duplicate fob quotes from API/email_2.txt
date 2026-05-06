@@ -1,0 +1,73 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Support Dnext
+Date: 2025-02-20 20:40:05.637000+00:00
+Subject: RE: duplicate fob quotes from API
+Message-ID: SA1PR11MB85435F0B80FEC3ECC1B2C96996C42@SA1PR11MB8543.namprd11.prod.outlook.com
+In-Reply-To: SA1PR11MB85437866CBFF8C094CB3A35196F52@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hi, 
+
+ 
+
+Just following up on this?
+
+ 
+
+Thanks,
+
+Rafael
+
+ 
+
+From: Bucciarelli, Rafael 
+Sent: Monday, February 3, 2025 2:50 PM
+To: support@dnext.io
+Subject: duplicate fob quotes from API
+
+ 
+
+Hi, 
+
+ 
+
+In some cases there are duplicate quotes for FOB values for the same day/origin/product combination: 
+
+
+
+ 
+
+ 
+
+For example for March above. 
+
+ 
+
+How to interpret these values?
+
+ 
+
+Thanks, 
+
+Rafael
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

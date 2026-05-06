@@ -1,0 +1,54 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Farouk Jaziri
+Date: 2026-01-12 16:48:49.694000+00:00
+Subject: Re: PSD Dashboard showing a strange graph
+Message-ID: ZR3P278MB1226666A71CF87E04B34AC79F581A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07175CD4B217D560CDD89C0EEB81A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_4.png, image_5.png, image_6.png
+
+================================================================================
+
+Adding @Farouk Jaziri <mailto:farouk.djaziri@dnext.io> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 12 January 2026 14:34
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: PSD Dashboard showing a strange graph 
+ 
+but here we show two times the same graph? and no title?
+
+either we remove one of them or we add a filter for Item 2 and we show two graphs.
+i would show two graphs being by default the production and stocks.
+would add the stocks to use metric in the table (Stocks/Total Use)
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, January 12, 2026 1:36 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: PSD Dashboard showing a strange graph 
+
+Hello Pablo, 
+
+It's fixed.
+
+
+
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 12 January 2026 08:21
+To: Support Dnext <support@dnext.io>
+Subject: PSD Dashboard showing a strange graph
+ 
+the chart on the bottom left is weird, not sure which is the item it shows. the filters are not controling it.
+
+
+   
+ 

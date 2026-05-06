@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with two contracts in the CNF matrix, indicating that the July delivery was incorrectly recorded, as it should reflect the following year for deliveries after July.
+
+**Context**: The user is an internal user (Data Analyst) at a Customer Organization. The issue involves the CNF matrix used for contract management, and it appears to be a time-sensitive matter that requires attention upon the return of a colleague from vacation.
+
+**Solution**: The Support Team acknowledged the issue and planned to investigate the CNF matrix for discrepancies in the contract dates. It was recommended to review contract entries regularly to ensure accurate delivery timelines and prevent similar issues in the future.

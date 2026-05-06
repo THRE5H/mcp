@@ -1,0 +1,14 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-06-16 12:29:14.314000+00:00
+Subject: Request to delete a newly created dataset 
+Message-ID: GV0P278MB0321DE6F11D9CEE5B7BD77489D70A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+Could you please delete this dataset dnexr-dnexr-bage-grain-oilseeds-arg-benchmark-snd-item-monthly.
+
+
+thanks,
+Iheb

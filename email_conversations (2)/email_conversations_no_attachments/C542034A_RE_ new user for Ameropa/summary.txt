@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user to the platform and mail distribution lists for their organization.
+
+**Context**: The customer is an external user from a Customer Organization, specifically in the Grains & Oilseeds sector. The request involved adding a new user to a service provided by a Service Provider.
+
+**Solution**: The Support Agent successfully added the new user to the platform and mail distribution lists, and sent the login credentials directly to the new user. The new user confirmed successful access to the platform, indicating the issue was resolved.

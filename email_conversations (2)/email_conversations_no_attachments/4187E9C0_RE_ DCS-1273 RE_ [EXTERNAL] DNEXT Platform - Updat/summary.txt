@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download TradeMatrix data due to an incorrect URL for accessing aggregated data.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance with the DNEXT Platform. The issue arose while trying to access aggregated data, which required a specific script for downloading.
+
+**Solution**: The Support Agent provided the correct script to access the TradeMatrix data, including detailed instructions for logging in and downloading the data. The customer was advised to try the provided solution and confirm if it resolved the issue.

@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users observed discrepancies between the daily Argentina farmer selling figures sent by email and the numbers displayed on the platform, causing confusion about which data to trust.",
+    "solution": "The discrepancy issue was fixed by aligning the daily Argentina Farmer Selling email report with the platform data. Starting from the fix date, the daily farmer selling figures are included in the Dnext News email, ensuring consistency between email reports and platform statistics. Users should refer to the platform numbers as the trusted source and can now rely on the updated daily email report for accurate data.",
+    "keywords": [
+      "Argentina farmer selling",
+      "discrepancy",
+      "email report",
+      "platform data",
+      "data alignment",
+      "daily report",
+      "Dnext News",
+      "farmer selling figures"
+    ],
+    "category": "Data Consistency"
+  }
+}

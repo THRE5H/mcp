@@ -1,0 +1,5 @@
+**Problem**: The customer requested the preparation of a contract for a service called Topjian, specifying commodities and contract dates, but was waiting for a user list to proceed.
+
+**Context**: The customer is an external user from Customer Organization, requesting support from the Service Provider's Customer Support Team. The service involves setting up an online platform for commodities management, with a specified start and end date for the contract.
+
+**Solution**: The Support Agent confirmed that the environment for Topjian is ready. They are awaiting the user list from the customer to proceed with the onboarding process. It is recommended to ensure timely communication of user details to facilitate a smooth setup and onboarding session.

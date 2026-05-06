@@ -1,0 +1,27 @@
+From: Baptiste Bach Thai <Baptiste.BachThai@genmills.com>
+To: Support Dnext
+Date: 2025-03-19 16:53:08.218000+00:00
+Subject: Assistance with Dataset Integration GM-Dnr
+Message-ID: DM6PR07MB6108FC3A1F28F50359B33CA290D92@DM6PR07MB6108.namprd07.prod.outlook.com
+Attachments: COTTodayAgriculture31December2024.pdf
+
+================================================================================
+
+Dear Dnext support team,
+
+I recently spoke with Pablo, who informed me that it is possible to integrate a new dataset into the Genmills Dnext online platform.
+I receive a PDF document daily via email and would like to extract data from the first page only to include in our dataset. The structure of the data remains consistent. Please find the attached PDF for your reference.
+Could you guide me on how to set up this new dataset within the Dnext platform?
+Additionally, it would be beneficial to understand how I can automatically extract this data into my Excel files or internal database?
+Thank you for your assistance.
+Best,
+
+Baptiste BACH THAI
+
+EUAU Sourcing Associate Manager Commodities
+
+General Mills Europe & Australasia| Tour Horizons, 30 cours de l’Ile Seguin
+
+92100 Boulogne Billancourt, FRANCE
+
+ 

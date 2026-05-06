@@ -1,0 +1,5 @@
+**Problem**: The customer was concerned that the trade flow data for Brazil regarding Dried Distillers Grains with Solubles (DDGS) was not updated, despite Brazil being a significant exporter.
+
+**Context**: The customer is a Global Purchaser from a Customer Organization. The issue involved the TradeMatrix module of the DNEXT product, specifically regarding the accuracy of trade flow data related to Brazilian exports.
+
+**Solution**: The Support Agent confirmed that the Brazil data had been updated and provided a link to access the trade flow. They also acknowledged the need to add specific HS codes to enhance data accuracy and encouraged the customer to reach out if further discrepancies were noted.

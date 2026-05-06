@@ -1,0 +1,74 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-11-11 11:12:02.330000+00:00
+Subject: CGC Scraping Error
+Message-ID: ZR3P278MB13539916F437593C0104E6A0F6CFA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353DFD876801B6253E3B4E0F6CFA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+There is an error in CGC's scrapping:
+
+*	Normally we already have the data of Nov 2nd: not up to date
+*	Last week we had the data of Oct 26th, which has disappeared: deletions given
+*	 
+
+
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-cgc-ags-can-tf_lineups_vessel-weekly/data-exploration
+
+ 
+
+It could be a question of the format in the source file for the following column:
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+I tried changing the script to account for different date formats:
+
+ 
+
+ 
+
+ 
+
+However, I get this error:
+
+ 
+
+
+
+ 
+
+ 
+
+Could you please give me a hand?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 

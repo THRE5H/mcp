@@ -1,0 +1,20 @@
+From: Wael Kouada </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=94A886E7CA5E48F597E64024218D016E-A30DE024-57>
+To: Support Dnext
+Date: 2025-04-14 14:27:05.945000+00:00
+Subject: Datasets To Be Deleted
+Message-ID: ZR0P278MB0775A4C60E092341FF89A4C595B32@ZR0P278MB0775.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+Please delete those 2 datasets located in Agrocomp : 
+
+
+*	
+	agrocomp-thomas-ags-fra-tf_lineups_vessel-daily
+*	
+	agrocomp-afritramp-all-cmr-tf_lineups_vessel-daily
+
+
+Best regards

@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience intermittent timeout errors when calling the API to download large datasets, causing scheduled tasks to fail or require multiple attempts.",
+    "solution": "Increase the wait time in the polling loop that checks the task status after initiating a dataset download. Instead of relying on a fixed number of retries with fixed sleep intervals, implement a backoff strategy where the wait time starts at 2 seconds and increments by 1 second after each unsuccessful status check, up to a maximum of 30 seconds. This approach controls the real elapsed time more accurately and prevents premature timeout errors. The provided Python script demonstrates how to implement this logic by polling the task status endpoint until the task status is 'SUCCEEDED' or the wait time exceeds 30 seconds. Adjust the wait_time parameter upwards if larger datasets cause timeouts.",
+    "keywords": [
+      "API timeout",
+      "dataset download",
+      "task status polling",
+      "wait time",
+      "backoff strategy",
+      "timeout error",
+      "Python script",
+      "requests",
+      "incremental wait",
+      "large files",
+      "task polling",
+      "retry logic"
+    ],
+    "category": "Error Resolution"
+  }
+}

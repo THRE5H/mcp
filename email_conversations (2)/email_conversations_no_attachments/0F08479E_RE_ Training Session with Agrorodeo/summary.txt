@@ -1,0 +1,5 @@
+**Problem**: The customer requested to schedule a training session with a partner company, Agrorodeo, and inquired about inviting additional participants.
+
+**Context**: The user is an internal user from the Customer Organization, seeking to coordinate a training session involving the Service Provider and Agrorodeo. The communication included multiple confirmations of availability and scheduling preferences.
+
+**Solution**: The Support Agent confirmed the training session for Wednesday, September 10th at 15:00 (GVA time) after receiving availability from the partner. An invitation was to be sent shortly, and the agent encouraged further adjustments if needed. Best practices include confirming participant availability early to facilitate scheduling.

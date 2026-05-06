@@ -1,0 +1,5 @@
+**Problem**: The customer reported issues with dataset updates, specifically that two datasets did not reflect the expected data, including missing price information for certain dates.
+
+**Context**: The customer is an external user from a Customer Organization using a data extraction platform provided by a Service Provider. The datasets are sourced from Excel documents, and the customer manually sent data to clients due to the issues encountered.
+
+**Solution**: The Support Agent investigated and confirmed that the second case was fixed by manually running the workflow, which had not executed automatically. A ticket was created for the development team to further investigate the underlying platform issue. The first case remains unresolved, as the Support Agent initially found no data for the 21st, but the customer and a colleague could see it. Further investigation is ongoing.

@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Scripts for data processing require specific libraries and tools that are missing on the platform, preventing scheduled execution.",
+    "solution": "To enable scheduling of data processing scripts on the platform: 1) Install the Python library 'xmltodict' to support XML parsing required by the AGRIMER Livestock & Meat France CASH weekly script. 2) Install 'mdbtools' and 'pyodbc' to handle Microsoft Access files needed by the Spain Water Level Dashboard script. These installations will allow the scripts to run and be scheduled properly on the platform.",
+    "keywords": [
+      "xmltodict",
+      "python library",
+      "mdbtools",
+      "pyodbc",
+      "Microsoft Access",
+      "script scheduling",
+      "data processing",
+      "platform configuration"
+    ],
+    "category": "Configuration"
+  }
+}

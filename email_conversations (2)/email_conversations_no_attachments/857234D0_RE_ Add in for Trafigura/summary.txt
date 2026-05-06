@@ -1,0 +1,5 @@
+**Problem**: The User requested assistance in installing an Excel add-in to access a specific dataset and replicate SQL query outputs in Excel.
+
+**Context**: The User is from a Partner Company and needs to access the dataset "DATASET"."dnexr-structured-uscensus-gno-usa-tf_customs-monthly" within the Trafigura environment. The Support Agent is assisting with the installation and setup of the add-in.
+
+**Solution**: The Support Agent provided a link to download the .exe installer for the add-in and also offered to send the compressed file for convenience. The User was advised to check with their IT team for approval before proceeding with the installation.

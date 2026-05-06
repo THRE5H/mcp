@@ -1,0 +1,81 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Bastien Lambert; Jebrane Ben Salem; Support Dnext
+Date: 2025-11-12 10:28:24.267000+00:00
+Subject: RE: Weather > Dashboard for Brazil > port = NOT updated
+Message-ID: GV0P278MB0211A30F28EDF1693B9428A298CCA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB07736B548AE400D404B46F7898CCA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding Martin and Lucas...
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Wednesday, 12 November 2025 04:59
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Weather > Dashboard for Brazil > port = NOT updated
+
+ 
+
+Any idea where this file is coming from? No idea about this process
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Wednesday, November 12, 2025 2:48 AM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: Weather > Dashboard for Brazil > port = NOT updated
+
+ 
+
+Adding @Bastien Lambert <mailto:bastien.lambert@dnext.io> , 
+
+ 
+
+The file in Dropbox is not updated since 10-Nov(2 days ago) and we're using it this dataset : dnexr-inmet-ags-bra-weather_actual-daily
+
+ 
+
+
+
+ 
+
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 11 November 2025 18:46
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Weather > Dashboard for Brazil > port = NOT updated 
+
+ 
+
+ 
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to share data from the dnexr environment to the stage environment for testing purposes, specifically any production or 2 that contains data until the end of December 2025.
+
+**Context**: The user is an external user from the Customer Organization requesting support from the Service Provider. The issue involves data sharing between environments within the dnexr system.
+
+**Solution**: The Support Agent confirmed that the request was completed successfully. It is recommended to ensure that future requests for data sharing specify the exact datasets needed to streamline the process.

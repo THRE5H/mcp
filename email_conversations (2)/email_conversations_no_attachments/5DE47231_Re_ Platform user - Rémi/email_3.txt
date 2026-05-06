@@ -1,0 +1,16 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2026-01-05 09:32:21.437000+00:00
+Subject: Platform user - Rémi
+Message-ID: GVAP278MB0677295F7C57E5799B4048E78886A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+Please create a user profile for our new colleague Rémi Lecerf on:
+Dnexr
+Dndev
+
+Thanks you
+Sami

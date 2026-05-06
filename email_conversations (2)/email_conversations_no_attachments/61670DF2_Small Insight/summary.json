@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users may be confused when trying to reference the 'Consumption' field in the dataset because the actual key to use is different.",
+    "solution": "When accessing the dataset, do not use the label 'Consumption' as the key. Instead, use the key 'COMPT' to correctly reference the consumption data. This avoids confusion caused by the mismatch between the displayed label and the actual key name.",
+    "keywords": [
+      "dataset",
+      "key",
+      "Consumption",
+      "COMPT",
+      "data access",
+      "field naming",
+      "data reference"
+    ],
+    "category": "Configuration"
+  }
+}

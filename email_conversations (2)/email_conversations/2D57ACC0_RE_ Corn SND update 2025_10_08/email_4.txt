@@ -1,0 +1,285 @@
+From: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg>
+To: Saber Khalfallah; Guillaume Goudy
+Date: 2025-10-28 02:59:31.178000+00:00
+Subject: RE: Corn SND update 2025_10_08
+Message-ID: SE2PPF7DD0C6E69C1328DB8A617E5E60A09F3FDA@SE2PPF7DD0C6E69.apcprd03.prod.outlook.com
+In-Reply-To: GV0P278MB13206D88C2C82BE440EB3B9AF8FCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: SND_update_2025_10_08_corn.pdf
+
+================================================================================
+
+Hi Saber, 
+
+ 
+
+I realize the data only pertains to 24 Oct. The data I am looking for is the FOB Santos value starting from like 5 years ago. 
+
+ 
+
+As per attached presentation, page 6 there is a Braz Nov basis. I would like to have the raw dataset for this, how could I find it on your platform? 
+
+ 
+
+ 
+
+Best Regards,
+
+Raymond Tan
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, October 27, 2025 10:28 PM
+To: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg>; Support Dnext <support@dnext.io>
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hello Raymond , 
+
+ 
+
+You can either export the data from the Dashboard by following the steps below 
+
+ 
+
+1.	Hover your mouse over the dashboard and look for the ellipsis(…) on the visual then click on it
+
+ 
+
+
+
+ 
+
+2.	Choose “Export Data”
+3.	Choose “Data with current layout”
+4.	Click on export
+
+
+
+ 
+
+Or you can download the CNF dataset directly from the platform by following the link below : 
+
+ 
+
+https://amaggi.dnext.io/datasets/amaggi-a410fb85-d8ab-11ef-82fc-06cd53a4d901
+
+ 
+
+and clicking on “Download” at the top right of the page.
+
+ 
+
+Please let me know if this helps you find what you are looking for . i would be glad to help you further.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> > 
+Sent: Monday, October 27, 2025 15:12
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Saber, 
+
+ 
+
+Thanks for guidance, but how am I able to extract the corn FOB value from Brazil/Santos? 
+
+ 
+
+ 
+
+Best Regards,
+
+Raymond Tan
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, October 27, 2025 7:22 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hello Raymond,
+
+ 
+
+I hope this message finds you well.
+
+ 
+
+To access the corn basis prices, you can find them on the platform through the Corn CNF Dashboard.
+
+ 
+
+
+
+ 
+
+Additionally, you can download the Corn CNF dataset by following these steps:
+
+1.	Navigate to the List of Datasets.
+2.	Use the search function to find “Corn CNF”.
+3.	Click on the eye icon on the right side of the dataset row.
+
+ 
+
+
+
+ 
+
+4.	This will take you to the dataset summary page, where you can download the data by selecting the Download button in the top right corner.
+
+
+
+ 
+
+For your convenience, we also offer an API that allows you to download the data directly. Please find the API Documentation attached for more details.
+
+ 
+
+We also offer an excel add-in that is synchronized with the platform so you can work with platform data on Excel. Please let me know if you are interested and I will be happy to help you set it up.
+
+ 
+
+If you have any questions or need further assistance, please don't hesitate to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Monday, October 27, 2025 11:01
+To: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Raymond,
+
+Extract from a broker report on June 20th 2023
+
+
+
+ 
+
+Data is correct. I also was wondering if there was a mistake but found back the original reports. 
+
+Do you need something else? All the data is in your Amaggi.dnext.io platform. I am adding support who can help in case you do not know how to access it.
+
+Gg
+
+ 
+
+ 
+
+ 
+
+From: Raymond Tan Keng Hoe <raymond.tan@amaggi.sg <mailto:raymond.tan@amaggi.sg> > 
+Sent: Monday, 27 October 2025 09:17
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Melvin Kwok <melvin.kwok@amaggi.sg <mailto:melvin.kwok@amaggi.sg> >
+Subject: RE: Corn SND update 2025_10_08
+
+ 
+
+Hi Guillaume, 
+
+ 
+
+Hope all is well. 
+
+ 
+
+I am looking at your presentation page 6. On the Brz Nov Basis, can you share the raw data file that your side have? I don’t rmb brz basis for Nov going close to zero, only that Aug/Sep went to -5u at the lowest point. 
+
+ 
+
+ 
+
+Best Regards,
+
+Raymond Tan
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Wednesday, October 8, 2025 8:14 PM
+Subject: Corn SND update 2025_10_08
+
+ 
+
+Hi,
+
+ 
+
+Please find enclosed the corn SNDs update this week.
+
+Any question or comment, please let us know.
+
+ 
+
+Regards,
+
+ 
+
+DNEXT Research
+
+ 
+
+
+
+ 
+
+ 

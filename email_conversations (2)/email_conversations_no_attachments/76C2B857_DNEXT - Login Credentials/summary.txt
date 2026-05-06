@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials for the Viserion platform to access their accounts.
+
+**Context**: The user is an external user from Customer Organization requesting access to the Viserion platform, a service provided by Service Provider. The request involved the creation of two accounts for the user.
+
+**Solution**: The Support Agent provided the login credentials for both accounts, confirming that they were successfully created and ready for use. The customer was advised to reach out for any issues accessing the platform.

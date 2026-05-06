@@ -1,0 +1,15 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2026-01-13 15:11:43.563000+00:00
+Subject: SND multiple selection for product and location
+Message-ID: ZR0P278MB0773966979AAEDB630BE29F4988EA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+ 
+
+One client telling me the DNEXR SND doesn’t allow multiple select again.
+
+Can you add that possibility. Vegetable oils in particular thanks

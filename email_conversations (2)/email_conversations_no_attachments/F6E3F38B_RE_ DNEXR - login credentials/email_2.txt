@@ -1,0 +1,16 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sam Tran
+Date: 2025-07-30 08:59:45.606000+00:00
+Subject: DNEXR - login credentials 
+Message-ID: GV0P278MB1320D68E6AC499AFE022C6BFF824A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sam
+
+Kindly find below your login details for the https://dnexr.dnext.io environment 
+
+Username : sam.tran@dnext.io 
+Password : 3v4UhRTRP1IBNv7
+
+Best regards

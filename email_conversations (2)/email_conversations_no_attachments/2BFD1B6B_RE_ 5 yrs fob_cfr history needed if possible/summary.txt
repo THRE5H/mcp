@@ -1,0 +1,5 @@
+**Problem**: The customer requested historical FOB and CFR data for corn and soybean meal, specifically asking for a 5-year timeseries in USD/mt. They later experienced issues downloading the data from the platform.
+
+**Context**: The customer is a trader from a Customer Organization seeking data from a Service Provider's platform. The request involved accessing specific datasets related to agricultural commodities, with a focus on historical pricing data.
+
+**Solution**: The support team provided instructions for accessing the corn dataset on the platform and confirmed that the CFR data was available. After the customer reported a download issue, the support team identified a permission problem, which was resolved. The Soybean Meal dataset was subsequently added to the platform, and the customer was notified to access it.

@@ -1,0 +1,246 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Xavier Raoult de Foresta
+Date: 2025-10-13 17:26:16.751000+00:00
+Subject: RE: Corn Trade matrix / Urgent
+Message-ID: GV0P278MB1320547FA09DF63883D64D37F8EAA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 67060f60e0e94cb28c7983df2cff6d1a@teruva-trading.com
+
+================================================================================
+
+Hello Xavier,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+To re open the forecast in grid view , you just need to load it into the tradematrix 
+
+ 
+
+
+
+ 
+
+Then drag it on the top layer
+
+ 
+
+
+
+And after having made your edits you can  either:
+
+*	Save your changes to the current version of the forecast, or
+*	Publish them as a new version.
+
+So to answer your question the edits can be made only in the tradematrix and then you can save your changes or publish them in a new version
+
+ 
+
+I hope this helps clarify things for you.
+
+ 
+
+I m also available for a quick call to assist you more if you like to .
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: RAOULT DE FORESTA Xavier <XARA@teruva-trading.com> 
+Sent: Monday, October 13, 2025 17:12
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: RE: Corn Trade matrix / Urgent
+
+ 
+
+Hello Saber, once we have created a forecast/scenario and saved it, how can we re-open it and still modify it as a grid/matrix ? I’m struggling to reopen my last grids, the Edit and Vizualise buttons are clickable but the both send to a page to change the name or renew the name of the forecast/dataset…
+
+Thx a lot
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Friday, October 10, 2025 3:08 PM
+To: RAOULT DE FORESTA Xavier <XARA@teruva-trading.com <mailto:XARA@teruva-trading.com> >
+Cc: DBAB Omar <OMDB@teruva-trading.com <mailto:OMDB@teruva-trading.com> >; RACEDO Leandro Daniel <LERA@teruva-trading.com <mailto:LERA@teruva-trading.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Corn Trade matrix
+
+ 
+
+Hello Xavier,
+
+ 
+
+apologies for the inconvenience this may have caused our dev team are actively working on solving this issue. in the meantime, refreshing the page should solve the issue.
+
+ 
+
+as for your second point you should find it in the following path in the folder just make sure to open the .xlsm file for the one with MACROS & VBA not the .xlsx (they have the same name so it can be a bit confusing )
+
+" G&O\05- COUNTRY_ANALYSIS\ARGENTINA\SND\CRN_ARG_SND.xlsm"
+
+
+
+ 
+
+Please let me know if you have any more inquiries or if you need further assistance.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: RAOULT DE FORESTA Xavier <XARA@teruva-trading.com <mailto:XARA@teruva-trading.com> > 
+Sent: Friday, October 10, 2025 9:37
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Omar Dbab <omdb@teruva-trading.com <mailto:omdb@teruva-trading.com> >; Leandro Racedo <lera@teruva-trading.com <mailto:lera@teruva-trading.com> >
+Subject: RE: Corn Trade matrix
+
+ 
+
+Thanks Saber, ok clear
+
+-Also just in case the other path seems to have a similar issues in tradematrix tab this morning still get the following: cf img below
+
+ -btw what is the excel spreadsheet in the Sharepoint where we can do something equivalent to this grids/forecast and adding/deleting monthly exports vs ref(lineup) that pablo and you showed us yesterday? I don’t see it in the CRN ARG SND (only see the SND MTH or export pace but not the Matrix/grids with the delete/refresh VBA button) or WORLD CRN SND Package excel sheet either
+
+thx
+BR, Xavier
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, October 9, 2025 9:31 PM
+To: RAOULT DE FORESTA Xavier <XARA@teruva-trading.com <mailto:XARA@teruva-trading.com> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: DBAB Omar <OMDB@teruva-trading.com <mailto:OMDB@teruva-trading.com> >; RACEDO Leandro Daniel <LERA@teruva-trading.com <mailto:LERA@teruva-trading.com> >
+Subject: RE: Corn Trade matrix
+
+ 
+
+Hello Xavier,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+The path you mentioned seems correct , it appears to be a technical error on our end. Our development team has been notified and is currently investigating the issue.
+
+Just to clarify, the correct way to create a Forecast is via the TradeMatrix:
+
+1.	Click on the Forecast button.
+2.	In the Forecast section, click Create.
+
+
+
+ 
+
+3.	Specify the Name, Code (please use hyphens “-” instead of spaces or underscores for multi-word codes), and Color.
+4.	Once created, click Load in the Forecast section, then check your forecast and move it from the left panel to the right.
+
+ 
+
+ 
+
+
+
+ 
+
+After the forecast has been created, you can input data by directly editing the forecastable cells within the TradeMatrix.
+You can then choose to either:
+
+*	Save your changes to the current version of the forecast, or
+*	Publish them as a new version.
+
+(Please note that older versions cannot be modified , only the latest one can be edited.)
+
+ 
+
+
+
+ 
+
+I hope this helps clarify the process. Please let me know if you have any further questions or need any additional assistance.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: RAOULT DE FORESTA Xavier <XARA@teruva-trading.com <mailto:XARA@teruva-trading.com> > 
+Sent: Thursday, October 9, 2025 17:55
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Omar Dbab <omdb@teruva-trading.com <mailto:omdb@teruva-trading.com> >; Leandro Racedo <lera@teruva-trading.com <mailto:lera@teruva-trading.com> >
+Subject: Corn Trade matrix
+
+ 
+
+Hola Pablo, Saber
+
+can you remind us the path to get to the Matrix or maybe your cloud is down? 
+I went to Tradematrix > corn line > visualize but got some issues and tried Tradematrix> Forecast> corn > Visualize and got the same error below when trying to create scenarios
+
+BR
+
+

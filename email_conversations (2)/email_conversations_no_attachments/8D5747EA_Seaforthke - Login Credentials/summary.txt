@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the Seaforthke platform to access their account.
+
+**Context**: The user is an external user requesting access to a service provided by Customer Organization. The request was made via email to the Customer Support team.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials, including the username and password for the Seaforthke platform. It is recommended that the customer securely store their credentials and change the password upon first login for enhanced security.

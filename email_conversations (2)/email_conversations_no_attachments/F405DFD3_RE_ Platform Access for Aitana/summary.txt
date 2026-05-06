@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a user account for a new user on the platform and asked for the login credentials to be sent directly to that user.
+
+**Context**: The customer is an internal user (Data Analyst) from Customer Organization. The request involves creating a user account on the masoceans platform for a user associated with Partner Company.
+
+**Solution**: The support agent confirmed that the user account was successfully created. It is recommended to ensure that all future user account requests include the necessary user details for efficient processing.

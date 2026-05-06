@@ -1,0 +1,25 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs historical USDA acreage estimates (planted and harvested) for US corn, soybeans, wheat, and cotton from 2000 to 2024, including state and national level estimates from March, June, and final USDA surveys. Existing datasets only include corn, soybeans, and wheat, lacking cotton data.",
+    "solution": "A dataset with historical data from 1995 is available including corn, soybeans, and wheat (Dataset Code: thul-7431afe6-5b54-11ef-891d-026031473607). Upon request, cotton data was collected and added to the same dataset, covering June, March, and final acreage estimates from 2000 to the latest report. The dataset also expanded corn, wheat, and soybean June acreage data back to 2000. Once cotton data is added, it will be included in future updates and reports automatically. Users can access all this data using the same dataset code.",
+    "keywords": [
+      "USDA acreage estimates",
+      "planted and harvested acreage",
+      "corn",
+      "soybeans",
+      "wheat",
+      "cotton",
+      "historical data",
+      "March survey",
+      "June survey",
+      "final estimates",
+      "dataset update",
+      "data expansion",
+      "dataset code",
+      "agricultural data",
+      "state and national level"
+    ],
+    "category": "How-to Guide"
+  }
+}

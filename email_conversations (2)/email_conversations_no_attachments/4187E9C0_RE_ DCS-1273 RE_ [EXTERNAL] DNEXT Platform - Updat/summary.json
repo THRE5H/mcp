@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience issues downloading TradeMatrix aggregated data due to changing download URLs.",
+    "solution": "Use the provided Python script to authenticate and download TradeMatrix aggregated data via the API. Steps include: 1) Log in to the API using email, password, and environment name to obtain an authentication token. 2) Use the token to request the download task for tradeflows with specified parameters (e.g., excluding intraflow strategies, CSV format). 3) Poll the task status until it succeeds or times out. 4) Once ready, retrieve the download URL from the task result and download the CSV data into a pandas DataFrame. Replace placeholders with actual credentials and environment name. This method handles dynamic URLs and automates data retrieval.",
+    "keywords": [
+      "TradeMatrix",
+      "API",
+      "download",
+      "aggregated data",
+      "dynamic URL",
+      "authentication token",
+      "Python script",
+      "requests",
+      "pandas",
+      "CSV",
+      "task polling",
+      "data retrieval"
+    ],
+    "category": "How-to Guide"
+  }
+}

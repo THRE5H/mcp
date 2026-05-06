@@ -1,0 +1,58 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Daron Arakelian; Support Dnext
+Date: 2025-06-04 21:29:09.287000+00:00
+Subject: RE: DNext API/Content Questions
+Message-ID: GV0P278MB02119B2EE2F39D56940CA678986CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: a9c966c813b24cc0916255378d5b6f11@DRWHoldings.com
+
+================================================================================
+
+Hello Daron and thank you for reaching out. We have a support team that will be able to help you tomorrow. I am adding them in this email. 
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Daron Arakelian <darakelian@DRWHoldings.com> 
+Sent: Wednesday, 4 June 2025 20:17
+To: Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Colleen Shutt <cshutt@drwholdings.com>; Alec Davitt <adavitt@DRWHoldings.com>; Mark Anson <manson@DRWUK.COM>
+Subject: DNext API/Content Questions
+
+ 
+
+Hello Guillaume,
+
+ 
+
+I am a developer on the DRW sugar team supporting Christiano with ingesting the DNext data through your API. I had some questions about using the API and then also content of some of the datasets.
+
+ 
+
+Regarding the API, the documentation seems to imply after making a request to download a dataset, one should use the task ID returned to check the status of the download request and then use the URL returned in the download request to retrieve the dataset. In my testing, it seems like fairly consistently I am getting a 404 error using the task ID from the download request with an error message indicating that the task could not be found. Is this expected and if so, how long should I be waiting between initiating a download request and checking the status of the task?
+
+ 
+
+Regarding the content, in the “Tradeflow - Customs - Paraguay All monthly” dataset (id “02ad7225-3f5c-4f3c-a485-3593c634c426”, code “drw-7c39666e-4f14-493f-9b55-21e736347719”) there are duplicate rows with different quantity values. Consider this example:
+
+"2025-05-21","PCB","Paraguay Central Bank","PRY","Paraguay",,,"ARG","Argentina","Import","Import","ETOHUNDENA","Ethanol Undenatured",,,8869.000000,"MT","Metric Ton",0.001000,"2025-01-01",,,,
+
+"2025-05-21","PCB","Paraguay Central Bank","PRY","Paraguay",,,"ARG","Argentina","Import","Import","ETOHUNDENA","Ethanol Undenatured",,,0.000000,"MT","Metric Ton",0.001000,"2025-01-01",,,,
+
+ 
+
+Here, the date reporter value of 2025-01-01 is the same but the values are different. Is this expected data being returned or an error in the report generation? If it is expected, what does this pair of entries signify? I.e. was there an import of the 8,869MT and then it was revised to 0 (or vice versa)?
+
+ 
+
+Your help getting answers to these questions is greatly appreciated!
+
+ 
+
+Thanks,
+
+-Daron
+
+This e-mail and any attachments may contain information that is confidential and proprietary and otherwise protected from disclosure. If you are not the intended recipient of this e-mail, do not read, duplicate or redistribute it by any means. Please immediately delete it and any attachments and notify the sender that you have received it by mistake. Unintended recipients are prohibited from taking action on the basis of information in this e-mail or any attachments. The DRW Companies make no representations that this e-mail or any attachments are free of computer viruses or other defects. 

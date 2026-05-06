@@ -1,0 +1,41 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext; Amine Nafkha
+Date: 2025-09-11 14:28:30.818000+00:00
+Subject: Re: Add-In Filterin does not work
+Message-ID: ZR3P278MB12263E20228B57B9587FFB51F509A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353ADDDF3EEA61CF0213F28F609A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+Adding Amine
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 11 September 2025 13:06
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Add-In Filterin does not work 
+ 
+
+Hello,
+
+ 
+
+I applied this filter but it does not work. May you please tell me what to correct to make it work?
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-eucomm-fuels-eur-cash-weekly/general
+
+ 
+
+Thank you in advance!
+
+ 
+
+Enea

@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "BAM Environment",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL",
+      "from_name": "Sami Jaballah",
+      "to": "Support Dnext",
+      "cc": "Jebrane Ben Salem; Benoit Baliguet",
+      "received_time": "2025-10-01 08:29:46.039000+00:00",
+      "sent_time": "2025-10-01 08:29:43+00:00",
+      "body_text": "Hello,\r\n\r\n \r\n\r\nPlease remove Balyasny users from the environment: bam.dnext.io. The contract has been stopped on 30.09.2025.\r\n\r\n \r\n\r\nDev Team,\r\n\r\nMany thanks to archive the environment after user removal.\r\n\r\n \r\n\r\nKind regards\r\n\r\nSami\r\n\r\n \r\n",
+      "body_html": "<html xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\r\n/* Font Definitions */\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\r\n@font-face\r\n\t{font-family:Aptos;}\r\n/* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tmso-fareast-language:EN-US;}\r\nspan.EmailStyle17\r\n\t{mso-style-type:personal-compose;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tcolor:windowtext;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tfont-size:11.0pt;\r\n\tmso-ligatures:none;\r\n\tmso-fareast-language:EN-US;}\r\n@page WordSection1\r\n\t{size:612.0pt 792.0pt;\r\n\tmargin:70.85pt 70.85pt 70.85pt 70.85pt;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n--></style></head><body lang=FR-CH link=\"#467886\" vlink=\"#96607D\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span lang=EN-US>Hello,<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Please remove Balyasny users from the environment: <b>bam.dnext.io</b>. The contract has been stopped on 30.09.2025.<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Dev Team,<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>Many thanks to archive the environment after user removal.<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Kind regards<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>Sami<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p></div></body></html>",
+      "conversation_id": "DF67AFF93FC34D1CAFBE1E654D117DBC",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900030A5BAC830000",
+      "size": 42058,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GVAP278MB0677AD80ABC7CD1BEAF2C07288E6A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "BAM Environment"
+}

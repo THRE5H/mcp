@@ -1,0 +1,468 @@
+From: Gurjan Lally <Gurjan.Lally@eneselgroup.com>
+To: Martin Viquesnel; Guillaume Goudy
+Date: 2025-11-19 15:52:19.665000+00:00
+Subject: Re: FW: Oilseeds SND update 2025_11_19
+Message-ID: DB9P195MB3067E33A63C6590E70C41B0281D7A@DB9P195MB3067.EURP195.PROD.OUTLOOK.COM
+In-Reply-To: AM9P195MB1233BD5696228B3589E942F297D7A@AM9P195MB1233.EURP195.PROD.OUTLOOK.COM
+Attachments: Outlook-iav5eztd.png
+
+================================================================================
+
+Hi All, 
+
+Confirmed with Martin that ResearchTeam@eneselgroup.com was unexpectedly configured to deny messages originating from outside of our organisation. 
+
+I have changes this and it should now be able to receive emails.
+
+Best,
+Gurjan
+________________________________
+
+From: Martin Viquesnel <martin.viquesnel@eneselgroup.com>
+Sent: Wednesday, November 19, 2025 2:38 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Gurjan Lally <Gurjan.Lally@eneselgroup.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: FW: Oilseeds SND update 2025_11_19 
+ 
+Hey Guillaume,
+
+Copying Gurjan from our Cybersec team.
+
+@Gurjan <mailto:Gurjan.Lally@eneselgroup.com> ,
+
+As discussed, could you have a look at the below and let us know if any firewall on our side preventing the DNext team from sending emails to ResearchTeam@eneselgroup.com?
+
+Thanks a lot!
+
+
+Martin Viquesnel
+
+Head of Strategic Initiatives
+
+ 
+
+Mob    : +971 52 893 2773
+
+Phone: +971 4 422 5305
+
+ 
+
+Email  : martin.viquesnel@eneselgroup.com <mailto:martin.viquesnel@eneselgroup.com> 
+
+ 
+
+Enesel Bulk Logistics DMCC
+
+Office 3404, Jumeirah Business Centre 3
+
+Jumeirah Lake Towers, Cluster Y
+
+Dubai, U.A.E
+
+
+
+Web: http://eneselnet.com/
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, 19 November 2025 17:59
+To: Martin Viquesnel <martin.viquesnel@eneselgroup.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: FW: FW: Oilseeds SND update 2025_11_19 
+ 
+
+Can it be that you have a firewall? It seems we are not authorized on your side.
+
+gg
+
+ 
+
+From: postmaster@eneselgroup.com <postmaster@eneselgroup.com> 
+Sent: Wednesday, 19 November 2025 14:59
+To: Guillaume Goudy
+Subject: Non remis : FW: Oilseeds SND update 2025_11_19
+
+ 
+
+
+
+Votre message envoyé à researchteam@eneselgroup.com n’a pas pu être remis.
+
+Le groupe researchteam n’accepte que les messages en provenance de membres de son organisation ou de personnes figurant sur sa liste d’expéditeurs autorisés. Votre adresse e-mail ne figure pas sur sa liste.
+
+guillaume.goudy 
+
+Office 365 
+
+researchteam 
+
+Expéditeur 
+
+	Action requise 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+		Expéditeur non autorisé 
+
+ 
+
+Résolution
+
+Il semble que vous ne faites pas partie de la même organisation que celle du groupe (ou du sous-groupe) auquel vous envoyez le message, ou que votre adresse e-mail ne figure pas dans la liste des expéditeurs autorisés du groupe. Demandez au propriétaire de ce dernier de vous accorder l’autorisation vous permettant d’envoyer votre message au groupe, puis réessayez. Si le groupe appartient à une organisation qui n’est pas la vôtre, contactez le service clientèle de l’organisation pour obtenir de l’aide. Si le groupe se trouve dans votre organisation et que vous ne connaissez pas son propriétaire, vous pouvez le découvrir en effectuant les opérations suivantes dans Outlook sur le web ou Outlook :
+
+*        Ouvrez le dossier Messages envoyés, puis sélectionnez le message d’origine.
+
+*        Si vous utilisez Outlook sur le web, sélectionnez le nom du groupe qui se trouve dans la ligne À ou Cc. En revanche, si vous utilisez Outlook, double-cliquez sur le nom du groupe dans la ligne À ou Cc.
+
+*        Dans Outlook sur le web, dans la boîte de dialogue contextuelle, sélectionnez Propriétaire. Dans Outlook, sélectionnez Contact. Le nom du propriétaire est répertorié sous Propriétaire.
+
+Le propriétaire du groupe a peut-être volontairement choisi de restreindre les personnes autorisées à envoyer des messages à celui-ci et ne souhaite peut-être pas ajuster la restriction actuelle. Si c’est le cas, vous devrez contacter les membres du groupe par un autre moyen, par exemple, en leur envoyant un courrier à leur adresse e-mail individuelle ou en les contactant par téléphone.
+
+
+Ce conseil vous a été utile ? Envoyer des commentaires à Microsoft <https://go.microsoft.com/fwlink/?LinkId=615007> . 
+
+________________________________
+
+
+Plus d’informations pour les administrateurs de courrier
+
+Code d’état : 550 5.7.133 
+
+Cette erreur se produit lorsque le groupe de distribution, le groupe de sécurité ou le groupe Microsoft 365 est configuré de manière à accepter uniquement les messages en provenance d’expéditeurs authentifiés (c’est-à-dire, les expéditeurs se trouvant dans la même organisation, ou ceux qui ont été ajoutés à la liste des expéditeurs autorisés du groupe).
+
+Pour résoudre le problème, l’administrateur du courrier du destinataire ou le propriétaire du groupe doit soit ajouter l’adresse e-mail de l’expéditeur à la liste des expéditeurs autorisés du groupe, soit modifier le paramètre de gestion de la remise du groupe de manière à accepter les messages en provenance d’expéditeurs internes et externes à l’organisation.
+
+Généralement, seul l’administrateur du courrier du destinataire ou le propriétaire du groupe peut résoudre cette erreur.
+
+Pour plus d’informations et connaître les étapes de résolution de cette erreur, consultez l’article Corriger les problèmes de remise des messages pour le code d’erreur 5.7.133 dans Office 365 <https://go.microsoft.com/fwlink/p/?LinkId=615127> .
+
+Détails du message d’origine
+
+Date et heure de création :
+
+19/11/2025 13:58:23
+
+Adresse de l’expéditeur :
+
+guillaume.goudy@dnext.io
+
+Adresse du destinataire :
+
+researchteam@eneselgroup.com
+
+Objet :
+
+FW: Oilseeds SND update 2025_11_19
+
+
+Détails de l’erreur
+
+Erreur :
+
+550 5.7.133 RESOLVER.RST.SenderNotAuthenticatedForGroup; authentication required; Delivery restriction check failed because the sender was not authenticated when sending to this group 
+
+Message rejeté par :
+
+GV4P195MB3210.EURP195.PROD.OUTLOOK.COM
+
+
+Détails de notification
+
+Envoyé par :
+
+GV4P195MB3210.EURP195.PROD.OUTLOOK.COM 
+
+ 
+
+Tronçons de message
+
+TRONÇON
+
+HEURE (UTC)
+
+DE
+
+À
+
+AVEC
+
+DURÉE DU RELAIS
+
+1
+
+19/11/2025
+13:58:24
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+mapi
+
+1 s
+
+2
+
+19/11/2025
+13:58:24
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+GVAP278MB0972.CHEP278.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+*
+
+3
+
+19/11/2025
+13:58:28
+
+ZRZP278CU001.outbound.protection.outlook.com
+
+AM3PEPF00009B9E.mail.protection.outlook.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+4 s
+
+4
+
+19/11/2025
+13:58:29
+
+AM3PEPF00009B9E.eurprd04.prod.outlook.com
+
+CWLP123CA0183.outlook.office365.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+1 s
+
+5
+
+19/11/2025
+13:58:29
+
+CWLP123CA0183.GBRP123.PROD.OUTLOOK.COM
+
+GV4P195MB3210.EURP195.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+*
+
+En-têtes du message d’origine
+
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=DL2u7iwYpec+oJsNZSjUd/+c+qDn3BQ+TxOiKsCH8x1RmwDkKllNfo8140vVFzeNktwj3leEtcwRRRvciB0MlGpFGxa2PzfdN0OkVIlwA+s3P9O1sEVvm8Gp4p0fgrtthsXalvEreaovHp8aR5SrRCSaD+mkKbVdqblb5V2JO/nS171U8k5xPE/LI13mTd9RsdoN8mcwAC5fF08J9axZc17m6SU85pZIBzb6I0AR8kwMsceDAJVNvmV1kB7c3KT+0lbDFdNiCoxfCRoIWW5PfNcyeoKB2RPeRdX6NZ1zLBFWa5vyjbbbbYZJEzrAgYdD72u8Abslwtw42gPTb+zDtA==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=7k48CHZpW2kzaZgIrUSLK98tlnvIhLpVnG74LzizR/g=;
+ b=Vv2iP5nruDbHGX2kF7iSey8jYHASFGQ0HlTc+h0JOKjPk5FihrU9/5+CXF6SxG6PrG7b7e+CetiVJw1i9DXH7nOFYPngbmZsxueDN3A21y0KhtLcgR5a9gOQlZokoKvIZumLZFCjwKyCoZYiZUGiofBvqcfhOkr/R5dbDVq7Tfj6CWcqZY1HH01Nel1mXUKrdm08li2LDVoDZ8dt1+bU0gfzwACEdIZGXdfBP6or22L3KAieQ+CPxc+UY5FheJ0H9szc92p3jnyYt5IIqlVZWdrhHu+J6hCthgYdTFTdfs0CrelcvE0io7Vw3WJDQj2VCma5ipA/NHk971It9GofUw==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 2a01:111:f403:c213::2) smtp.rcpttodomain=eneselgroup.com
+ smtp.mailfrom=dnext.io; dmarc=pass (p=quarantine sp=quarantine pct=100)
+ action=none header.from=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com; arc=pass (0 oda=1 ltdi=1
+ spf=[1,1,smtp.mailfrom=dnext.io] dkim=[1,1,header.d=dnext.io]
+ dmarc=[1,1,header.from=dnext.io])
+Received: from CWLP123CA0183.GBRP123.PROD.OUTLOOK.COM (2603:10a6:400:19b::12)
+ by GV4P195MB3210.EURP195.PROD.OUTLOOK.COM (2603:10a6:150:2dd::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9320.20; Wed, 19 Nov
+ 2025 13:58:29 +0000
+Received: from AM3PEPF00009B9E.eurprd04.prod.outlook.com
+ (2603:10a6:400:19b:cafe::43) by CWLP123CA0183.outlook.office365.com
+ (2603:10a6:400:19b::12) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9343.10 via Frontend Transport; Wed,
+ 19 Nov 2025 13:58:29 +0000
+Authentication-Results: spf=pass (sender IP is 2a01:111:f403:c213::2)
+ smtp.mailfrom=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com;dmarc=pass action=none header.from=dnext.io;
+Received-SPF: Pass (protection.outlook.com: domain of dnext.io designates
+ 2a01:111:f403:c213::2 as permitted sender) receiver=protection.outlook.com;
+ client-ip=2a01:111:f403:c213::2;
+ helo=ZRZP278CU001.outbound.protection.outlook.com; pr=C
+Received: from ZRZP278CU001.outbound.protection.outlook.com
+ (2a01:111:f403:c213::2) by AM3PEPF00009B9E.mail.protection.outlook.com
+ (2603:10a6:20f:fff4:0:1:0:7) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9343.9 via Frontend Transport; Wed,
+ 19 Nov 2025 13:58:28 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=CX3FJl/BxotmPNX+qcxOmquFedAwQdFy3WOwxoLtKRsNvmbLgWi81j2z2z9kOvo3GKDT8OLfU8ibjHVRf0mJmRPMPt+ZVOtGuqT0+d4DDAQNp1sRXqJQ5TatDTTrhxX/c3dGytE87C/D0RSflCQ7adZ4VcoSxB2ExRIFYOhB6sUYxj3VCoSTiagXHNnnQ7yCly7AEPCiI5e3rOoGdMHL15F5D00EKDULdlHebDhow2R/lVeBAUIDMl4kOFyYjhdOe6lc6FDGqQua5iztxw6lQVg/P6DNYkAYS/UEN/L8jcoo0ezeV6BHybprOwUtyJlEX4r3yrnir6QCpnXsluZx6g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=7k48CHZpW2kzaZgIrUSLK98tlnvIhLpVnG74LzizR/g=;
+ b=GeLdSe8R+ZVKo+ttufXblhlFNqNzQK9IQP4X6J1CpYJEZEQ6pTqFvf0MRlZ4GW/kdtUNz56xSRcrtzRSyvepciZ6VX4PaIc/RiNX6KG/4qi8iEivvxIofQMp3YPN8hd33CCx4ZooOesdwA4N0e4nf83iDX55t2xmJ3PZ7JxsO4ZGd5/OQHHpaadBCGFdINx2xiSIPOFDArbNFteZXUtyjNg9o30XJTaAymBY8w4UqRc3shCUYAQAtWqqx00+kGGFfB3sFywVSAfVD/bRgNSx7x+Cqp/Xb1PaC+XZEsJclohJXkGB9rlsjgC4VZHrSSlWC37BAnOC/PpzEewd9L2E2g==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io;
+ dkim=pass header.d=dnext.io; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=7k48CHZpW2kzaZgIrUSLK98tlnvIhLpVnG74LzizR/g=;
+ b=K+B9ar8EQNPVtRz6Oyb33hUjU39XV2TD73zegG7oT1IqqS45ZvdWUhgOWRVbzoH3qHYa4D1g8KM5fEqxOLE9pg3lbTdGHpdSlAed2/UfHGbGz4NhuW2lg8oQS7ozT6A5dsr2wY4mGYlAr3XdlBJFtYgms8rcpNQG4GMOFPYkhH08tDwYuwtCK02SKU9AOGSUXfecombM4a4qbmbhnZ9stu03scrS7rD8qh4iCfttLEWUqQQiHO6JLJUI4nMLcTXAjJd9RFG3/MCBD6H3k0yr8pfGOMZP/kiGBtetBu/0hl07ACU6GtXcIw4Sv1/9vSO5n0QeS1Wxzp5D0MuUSFLsOg==
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:30::7) by
+ GVAP278MB0972.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:47::11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9343.10; Wed, 19 Nov 2025 13:58:24 +0000
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221]) by GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221%4]) with mapi id 15.20.9343.009; Wed, 19 Nov 2025
+ 13:58:24 +0000
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+To: Team Enesel <researchteam@eneselgroup.com>
+CC: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: FW: Oilseeds SND update 2025_11_19
+Thread-Topic: Oilseeds SND update 2025_11_19
+Thread-Index: AQHcWUxH4V6HRq3/R0Cn2LjVz3lsybT6BmcA
+Date: Wed, 19 Nov 2025 13:58:23 +0000
+Message-ID: <GV0P278MB0211BACD7CFC8EA8522AD13C98D7A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM>
+References: <GV0P278MB02118633DFFAB31D4D5E6C4C98DDA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01484511B9CE8C67A4A330C698DDA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB0151291226E1233C9A1D1ACD98A8A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014859D6D26C935FBCBC5B6E98BAA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014808FDE616ACBCD44CCF4B9884A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01486F790337BC5BEAC91F0E9896A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01485950C0DCAA941F96B9F098722@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014800D9EEA939CD033A1D9298712@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014853B57CB87DC5009FDF38984E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148768AD80FE09CB51CA75B98582@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148ED4D2EEF43907B6427A098342@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01485F0F745B198754655AE298062@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148E628928570AE536E060298172@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148883941CB029F5AD486F198E52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148DC7BE4E5C14CA04D717398EB2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148240668817245A2C4E3AA98F92@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01484ACDBAF469A58737288C98CF2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014867B673518366E77982C498DD2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148ECE1603489CCA34F5FD698A32@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014844D558BB72CC5A83C46C98B12@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014815D0649F56CCC817774598952@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148FA98A7BD00388F47BCED989B2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01485CFF732EBB8E60E8F1FC98692@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01481D22F775DCC93C88F350987F2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148F8454A110D8911D980D0984D2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148DF34EABA80154E45F141985C2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014854559C76833CB5D931F098222@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01483997EE0E9EAE4FB6BE8698372@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01488716AA64A5941DB8B53598052@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148ACFBA63A1EF284CB5F0B98152@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148702B3CE7D2BD43AC47D598192@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB014872B9A015AFED2584581598EE2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB0151BF3E693486E2F323B97998FC2@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB0151E5FDCE9BB42C9F440ED398C22@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB01514F95D06A9F4D1AE6E37698D02@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148807C49147686DE36A6B198A62@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148A6E9E6D024CAB9765CF598B42@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <ZRAP278MB0157404007DD66CC6FA3973398BA2@ZRAP278MB0157.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148C1BCC2C21A1A023E8798988E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148EFC03AE448BC35395F5A989EA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148EF17F12FFA3570E83DFA986CA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148D41D384332B1730697EB9872A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB0151CD0764EB77612A5BA6D39840A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB015193D366A07CB42AA702D69840A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148C048AA9AD57F6E64866C9856A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GVAP278MB0151ACD1FC5DED635A37AEE89824A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148C7BFC0EAA9AAAB763C48982BA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01484C9B81E27FDFDEA186C49838A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01487DAB81A08FE7123852CD9809A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB0148F5282AC60C87E69E511A981CA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <GV0P278MB01488DDAAA8AE47D75D32D4598E1A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM>
+ <ZR0P278MB0773DA9EA8004F6AC0EBF88898F3A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM>
+ <ZR0P278MB0773F06DBDE33F2B5C81E3BD98C5A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM>
+ <ZR0P278MB0773AFAD904AB902A6A0ADFD98D7A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM>
+In-Reply-To: <ZR0P278MB0773AFAD904AB902A6A0ADFD98D7A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM>
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=dnext.io;
+x-ms-traffictypediagnostic:
+              GV0P278MB0211:EE_|GVAP278MB0972:EE_|AM3PEPF00009B9E:EE_|GV4P195MB3210:EE_
+X-MS-Office365-Filtering-Correlation-Id: ab2fd995-1146-4b4f-726d-08de2773b7c5
+x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|376014|366016|1800799024|38070700021|4053099003|8096899003;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?r7Z37MH+TcmL8Bf997pUA7Sr0ToV65xnJXqqGjOLA6VqIpXj7v9kX3Sytw/t?=
+ =?us-ascii?Q?czAk3Mtyq17TyTUiP9coCOD4ZdyP1wyE+QlXBlsf4YUW3X5yUAHEhpEjim3p?=
+ =?us-ascii?Q?MtQdmlzn/qTZNmuM7ED0RvFqO99tSrzVjknJxnzgUbasZs8Q/9YrZLmvCFxN?=
+ =?us-ascii?Q?D5q22yqSBENmlmcDGxK9spmLQBkto2eexAT3HezMouaq7eJ3ft7oskcjoxeC?=
+ =?us-ascii?Q?LJ3rz3hj/0zIdiisRzhFdTt/I5yfnTSRLDuGDe9D9bMEEPGE8fT0J1Nbs8mU?=
+ =?us-ascii?Q?8VbXNiUUWSa/NnwSEow+LZ4MXe7RTIHcVdG+NANWEhFOXhEpZHdX0/l6yKQd?=
+ =?us-ascii?Q?RJs5gYu9trHt058qQhoweao18yOcbUAHgoX+iIKySOXzgUi/giP3dqiYOaht?=
+ =?us-ascii?Q?nIGHYN3zN/FbtvWxyNZxyGrIkuJ+/r3jTG0BrM7NCGRuk3nM5g2k6065jorO?=
+ =?us-ascii?Q?jtpIH3XL95gXFKN3wRjHXzCepVR8ww5eQHjuGduZN2zdGvuSBDMpAWDjJfyk?=
+ =?us-ascii?Q?hReVFv+pACZWT4Gf4iaNDikIsJDHZGtfk7mi87xw45NGh3xMSvDjo7dt/JCx?=
+ =?us-ascii?Q?9S85ey6n6NuxLti2ptwDwWZe11wxUxmhHETiNSvEJOAP2Bc/NraxTZ+fffn1?=
+ =?us-ascii?Q?QOemQoR/fLwt59tfkVBVs/73oac7F/y2fTnbhvSoVADrUxgaBx7kyhVTv8a3?=
+ =?us-ascii?Q?hrZq6l7hCJv5cR+QblSj3O2gUfoE+Rxtul6QXX+G3oSUDkKOA6BgJ0cNWB6i?=
+ =?us-ascii?Q?d0xfNspBUA4xw/H3Xw0vKkCwZXu7u8/HzbhweivEBDftJO0z0ohmmVBVys4H?=
+ =?us-ascii?Q?4Mqr1XLRTLi+dXBiJEnzzOm2slPf5V+keTaPs623R0Ca4is5LKaUuT/ZTKi6?=
+ =?us-ascii?Q?vjKZat3gpaA70HeCoKEhyLMuZWVlYO31snKr9QNA795CmYlLcdbuCQRlnO6q?=
+ =?us-ascii?Q?2cBlS/Mk4NZ1n+5Cjc9MaIJFPYirg1CoWlnagFmIRYIGTbwKCPMr5j+VY6UR?=
+ =?us-ascii?Q?u96ugw5pChiwy7spdAh+6lT0+LIm8c15NaDrpTeJUNhsTR9ej5ou9kM4nu1T?=
+ =?us-ascii?Q?sw9u7+ysNxY+y17vIDUeA3iAMuPNuanfn44nEj9FfRtsLRtrD5C7hKiLjP4i?=
+ =?us-ascii?Q?BNbhWnHVWp4RlTDjfHPAUJprcpOw2zBQqXUT3jIDzK/i3j1t1gAt5iYQPbqF?=
+ =?us-ascii?Q?OL0rKtzBRVvYSEgyXLjawI3VEfWqTuyQ2IXZaX4CnsKT9ce5G6lNeSKYO29V?=
+ =?us-ascii?Q?z13GgnYdmf/B3GeFvUl/mHG77p089eGLRKFa4nOOdjWdR2PC8Du/W39cIdFs?=
+ =?us-ascii?Q?hjHuCZD6g9Kom660pxKnchS5SCBxZ5+ZE5lHVL8EYM3FAv9IzUm6D7ZqSpPI?=
+ =?us-ascii?Q?GmwL2IZjl7TY8uEKf7EBHmcJTRRNt+GkJ0/WIj4/1VyHL6DiT9ruAv8I+abR?=
+ =?us-ascii?Q?a7IHvk8OrungdBjdhWasVWRn2zjGs/ff?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(376014)(366016)(1800799024)(38070700021)(4053099003)(8096899003);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-Original-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-Original-0:
+                   =?us-ascii?Q?QOIjQ0Yi9/TtaQAEyMJ9AfWUjsLFzXDhTrIBVkpZcp8mpmHMud0kEu1mnP34?=
+ =?us-ascii?Q?grtsS0F5suevBVGVH1eE8Ascz/9xr98mR6o7qE185MdOV8X4SvIMohIQJHLC?=
+ =?us-ascii?Q?OxoPzrmSmhxHo442HfXpT38/3S7PP21TlLMXPmI8Kxu4vDPFunErX/heqmZ3?=
+ =?us-ascii?Q?SAWoYC+EEwJkwvKFWeRmSUqMIe/WDw5uh2V2xKIaHE1lYERR7H+nLUfmiC3U?=
+ =?us-ascii?Q?jG0QMUngETUUMlp0iE5EjrnUXlGF1U8aWANBfsf30jXZhhnX7CmY2LvhybEG?=
+ =?us-ascii?Q?kCapXFC7HmCrZuiCwkG/cjqYNSgLAYp16vzfhteJi9mWvbHgKBhRdrxCrIbG?=
+ =?us-ascii?Q?I8mFXknUBA8I3qnDtOzNBm8ls9wTZeyeEYgeZJvtxhMFF+m7ffrMA7/5NDqm?=
+ =?us-ascii?Q?2a321k+XQmLTj+/RXUT6VCK1tiUhCwIzR5jAF3/gEM6SmQbHPzhZ7rCrT9s1?=
+ =?us-ascii?Q?YjDPlF3ybau3RhBpKRUCOpRHKv1JoE3TmA69MDIoHHrcPmIpg0J1vk4C2IZ0?=
+ =?us-ascii?Q?PZTJRlE8QTv545NwsA6iuKa4ADPlH7rD8X18/tp0EhPf24HVpm0ILRxx56zy?=
+ =?us-ascii?Q?q2qKbixVHMFEeBOP5TB1+QMTZVl53HgX8KVe8qQAdqnurcQ0+hHpMQ/BHMwT?=
+ =?us-ascii?Q?FWclRwkGMA0nDIaHxnPbMFNIFlSn7VOet+RwRECnNAMUvcIsTVSTBcKtWKM5?=
+ =?us-ascii?Q?bx+7BtKux/Ky88sI6r+NZfRQjxqPCJaw8ao9H4hI1jjq3+GxOM/QE2aVU17o?=
+ =?us-ascii?Q?AscyHd79LLLraVD5GItjJ64TBPDB1ZWBT9qZrklcdbJL7Oo3j08hwzycOFO+?=
+ =?us-ascii?Q?4XkyYTSYH6zuuJGrvtTxRlR6/blsOs1t7MQymGlsS/p8YHo5cG+tn4yrkbdd?=
+ =?us-ascii?Q?jQh5wmkKLVuUP6oSPcQ4+2nqeQXZVfHxaAY7GC4JPyLs17VNroQ757ueXg4A?=
+ =?us-ascii?Q?OauG36q0taFJLARtY72+DeeafIQw6se1vdnagp/nt1quq9Gei37+O3vJWtFR?=
+ =?us-ascii?Q?KF3CDg875G/hNP+FHqCtCzq069bBmqSYq+4Cg4TS6rz0khRRChvRfzFt8xvm?=
+ =?us-ascii?Q?XcH9vxmtqHPfjVlDAWNFPBGVYCxVsxuVZhzP70fzKD7cX/PbYgcecUuQ5uzD?=
+ =?us-ascii?Q?Q/c+PUkIYj63Y5bTkOJVQmwIAtVJ7/E0OWFMvRDOUECa4/39xoHCtVM6LYAg?=
+ =?us-ascii?Q?9U7DwrE3J1LIrQkApTSjWORIKrGyUrZe4DmeJFYpRUAp9N449wvg2NnjNTde?=
+ =?us-ascii?Q?bGouGSRFEsSKtZrLBNUJJRweATHneKJzVH2qVlTcPrczu4y49/ja7mpdCYVO?=
+ =?us-ascii?Q?M7+dq/cSDpHgY87ONkGDX5DR29ujQibmdMdu+GeILLzHSXhwYsrXtzds/jzD?=
+ =?us-ascii?Q?xdT3jo8VYlfidni80Z/FZZ1ojDS9ZotL4J5yI20I94E34+6Be5+0jo8YLjzs?=
+ =?us-ascii?Q?JDkcx8MSY8tYuvX4Le3YZg/JeRz+8irI1MZIoumfkll52TM5fe6jWbL5dApw?=
+ =?us-ascii?Q?RCWvWgwLAWRmp2azT97IX5F8U79LAUAHElerpnvd+Fd5J3xURtYLi2/K3P1/?=
+ =?us-ascii?Q?MkO2HccVPfSe61oRg6mrAuOyZ6iJJmWNoNV57Y4/?=
+Content-Type: multipart/mixed;
+      boundary="_006_GV0P278MB0211BACD7CFC8EA8522AD13C98D7AGV0P278MB0211CHEP_"
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: GVAP278MB0972
+Return-Path: guillaume.goudy@dnext.io
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 0045c83e-d223-4fdf-bd1f-a3c0c60e16fe:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: AM3PEPF00009B9E.eurprd04.prod.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: AM3PEPF00009B9E.eurprd04.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs:
+                   57557417-987b-48da-91dd-08de2773b490

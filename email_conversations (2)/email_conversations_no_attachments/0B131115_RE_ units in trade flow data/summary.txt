@@ -1,0 +1,5 @@
+**Problem**: The customer requested information on the units used in the trade matrix data, specifically for ethanol, as they were unable to interpret the data without this information.
+
+**Context**: The customer is an external user from a Customer Organization seeking clarification on the trade matrix feature of a data service provided by a Service Provider. The inquiry was prompted by the need for accurate data interpretation in their operations.
+
+**Solution**: The Support Team created a suggestion ticket for the development team to implement unit visibility in the trade matrix. The Support Agent confirmed that the ethanol data is measured in Megaliters and other trade matrices are typically in 1000MT. The team is currently working on enhancing the feature and will notify the customer once implemented.

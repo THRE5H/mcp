@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the data update for the dnexr-pol-idn-tf_lineups_vessel-aggregated, noting that there had been no updates for a week despite receiving data three days prior, and expressed concern about the number of rows.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue pertains to a data aggregation feature that is crucial for monitoring lineups in Indonesia.
+
+**Solution**: The Support Agent addressed the issue and confirmed that it was fixed. It is recommended for users to regularly check for updates and report any discrepancies promptly to ensure data integrity.

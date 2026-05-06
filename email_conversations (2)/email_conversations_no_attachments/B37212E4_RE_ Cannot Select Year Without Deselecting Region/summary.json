@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users are unable to select multiple Canadian regions and a specific year simultaneously on the weather dashboard graph.",
+    "solution": "To select multiple regions and a specific year on the graph, hold down the 'Ctrl' key while selecting the desired year and regions. Alternatively, use the State filter directly to refine selections. This allows multi-selection without deselecting previously chosen options.",
+    "keywords": [
+      "dashboard",
+      "multi-selection",
+      "Ctrl key",
+      "region selection",
+      "year selection",
+      "weather graph",
+      "filter",
+      "State filter"
+    ],
+    "category": "Platform Navigation"
+  }
+}

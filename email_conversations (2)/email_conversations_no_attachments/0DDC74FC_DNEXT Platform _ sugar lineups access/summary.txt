@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance accessing and downloading sugar lineups data from the DNEXT platform for specific regions.
+
+**Context**: The user is an external user from a Customer Organization seeking support from the Service Provider's Customer Support team regarding the DNEXT platform. The issue involves accessing datasets for Thailand and India.
+
+**Solution**: The Support Agent confirmed that the datasets were shared and provided direct links for downloading. They offered further assistance and proposed a demo session to guide the user through the platform's features, including setting up an Excel add-in for data access.

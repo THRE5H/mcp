@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for the Graincorp environment to access the service.
+
+**Context**: The user is an external user requesting access to the Graincorp platform provided by a Service Provider. The request was made via email, indicating a need for assistance with login information.
+
+**Solution**: The Support Agent provided the user with their login credentials, including the username and password, to access the Graincorp environment. It is recommended that the user securely store their credentials and change the password upon first login for enhanced security.

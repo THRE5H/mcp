@@ -1,0 +1,80 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Amna Khemiri
+Date: 2025-12-17 12:33:42.510000+00:00
+Subject: RE: RSS Price not Updated
+Message-ID: ZR3P278MB13531F8F07203EC52065C7FAF6ABA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB032149BFB10F0B9FF4F68EB49DAAA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Amna,
+
+ 
+
+How is the progress on this issue going?
+
+ 
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io> 
+Sent: Tuesday, December 16, 2025 2:21 PM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>; Amna Khemiri <amna.khemiri@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: RSS Price not Updated
+
+ 
+
+Hello Eena,
+@Amna Khemiri <mailto:amna.khemiri@dnext.io>  will fix this. I’ll keep you updated.
+
+Thanks,
+Iheb
+
+ 
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: Tuesday, December 16, 2025 2:07 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Iheb Mhamdi <iheb.mhamdi@dnext.io <mailto:iheb.mhamdi@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: RSS Price not Updated 
+
+ 
+
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Sent: 16 December 2025 11:56
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: RSS Price not Updated 
+
+ 
+
+Dear Support Team,
+
+ 
+
+I hope that this week has started well for you.
+
+ 
+
+May you please give a look at FWFP, the RSS price is not updated.
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/data-exploration
+
+ 
+
+Best,
+
+ 
+
+Enea

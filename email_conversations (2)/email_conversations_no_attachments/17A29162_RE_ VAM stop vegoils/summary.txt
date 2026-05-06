@@ -1,0 +1,5 @@
+**Problem**: The customer requested to stop access to a specific subscription (vegoils) and remove a user from the associated email list.
+
+**Context**: The user is an external user from a Customer Organization, requesting changes related to a subscription service provided by a Service Provider. The request indicates that the user may re-subscribe in the future after hiring a new analyst.
+
+**Solution**: The Support Agent confirmed that the requested action to stop access and remove the user from the email list was successfully completed. It is recommended to monitor subscription needs periodically, especially after new hires, to ensure timely access to required services.

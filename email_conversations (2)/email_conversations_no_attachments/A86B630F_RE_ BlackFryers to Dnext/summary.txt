@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a link to duplicate dashboards from BlackFryers to DNEXR, ensuring that only DNEXR employees could access them while displaying a marketing message to clients.
+
+**Context**: The user is an external user from the Customer Organization requesting a feature related to the Service Provider's dashboard system. The request emphasizes the need for restricted access to certain dashboards for marketing purposes.
+
+**Solution**: The Support Agent confirmed that the requested dashboards were successfully added to DNEXR. A ticket was created for the development team to implement a message for clients accessing the dashboards, ensuring that the marketing message is displayed appropriately.

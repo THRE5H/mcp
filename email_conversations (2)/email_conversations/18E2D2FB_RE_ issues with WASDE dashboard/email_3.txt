@@ -1,0 +1,13 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-12-01 08:27:10.869000+00:00
+Subject: issues with WASDE dashboard
+Message-ID: GV0P278MB071703CB544D0C45D25C4965EBDAA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+Hi guys, we have strange numbers in this dashboard. i spoted this one but im afraid the issue might be affecting other selections as well.
+can we check the numbers. you can focus on the selected seasons which are wrong...the changes in May clearly are confusing seasons and then coming back to the value at the end
+
+

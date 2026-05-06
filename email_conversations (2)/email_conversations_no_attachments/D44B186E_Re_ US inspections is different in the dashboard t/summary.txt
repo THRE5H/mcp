@@ -1,0 +1,5 @@
+**Problem**: The customer reported discrepancies between the US inspections data displayed in the dashboard and the grids, indicating that the dashboard was not showing the latest data and was delayed.
+
+**Context**: The customer is an external user, specifically the CEO of a Customer Organization. The issue pertains to a data visualization feature within the Service Provider's platform, which is expected to reflect real-time data.
+
+**Solution**: The Support Agent reviewed the dashboard and confirmed that the data appeared consistent. They noted that the dataset refresh was triggered via API after the workflow run, suggesting that the refresh process was functioning. It is recommended to monitor the refresh intervals and ensure that the API calls are executed properly to avoid future discrepancies.

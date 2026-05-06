@@ -1,0 +1,11 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2026-01-21 12:11:51.954000+00:00
+Subject: Canada PDq Prices - Filter adjustment
+Message-ID: GV0P278MB0717A2E96FBE59E97579321DEB96A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi guys, can we please change the product, month and year filters on the top part so they are single selection?
+

@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Discrepancy in official coconut export data for Philippines and Indonesia in the Lauric section of the Trade Matrix platform compared to official sources, including differences in historic years and greyed-out official declared numbers.",
+    "solution": "The discrepancy arises because the platform maps only two specific HS codes ('151319' and '151311') for coconut exports, whereas the official sources include all HS codes starting with '1513'. To resolve this, ensure that the platform's data mapping includes all relevant HS codes starting with '1513' to match the official data sources and avoid discrepancies.",
+    "keywords": [
+      "Trade Matrix",
+      "Lauric section",
+      "coconut exports",
+      "Philippines",
+      "Indonesia",
+      "HS codes",
+      "data discrepancy",
+      "official numbers",
+      "PSA",
+      "BPS",
+      "data mapping"
+    ],
+    "category": "Data Mapping Issue"
+  }
+}

@@ -1,0 +1,77 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Daniel Wyczolkowski; Support Dnext
+Date: 2025-12-01 19:17:34.766000+00:00
+Subject: RE: Issue with email verification
+Message-ID: GV0P278MB13206A0D7170D62118CA5083F8DBA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR22MB4721B42D33B302F3397E6D75F8DBA@SA1PR22MB4721.namprd22.prod.outlook.com
+
+================================================================================
+
+Hi Daniel,
+
+ 
+
+This is Saber from the dnext customer support team,pleasure to meet you.
+
+ 
+
+That message appeared because you weren’t yet registered in our jira system. You should have received an invitation now, and once you accept it, everything will work as expected.
+
+ 
+
+Please let me know if you have any questions or if you need further assistance. 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Daniel Wyczolkowski <daniel.wyczolkowski@viserion.co> 
+Sent: Monday, December 1, 2025 18:23
+To: Support Dnext <support@dnext.io>
+Subject: Issue with email verification
+
+ 
+
+I just received a request to verify my email which resulted in the following response:
+
+ 
+
+Try a different account
+
+
+
+Daniel Wyczolkowski
+
+daniel.wyczolkowski@viseriongrain.com <mailto:daniel.wyczolkowski@viseriongrain.com> 
+
+daniel.wyczolkowski@viseriongrain.com <mailto:daniel.wyczolkowski@viseriongrain.com>  doesn't have access to Jira on dnext.atlassian.net.
+
+ 
+
+ 
+
+Daniel Wyczolkowski, M.S, CFA
+
+(224)250-3675
+
+ 

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the lineups in Lineups Indonesia were displaying double the expected quantity.
+
+**Context**: The user is an internal user from Customer Organization. The issue pertains to the Lineups feature within the Service Provider's platform. The problem was identified and communicated on March 7, 2025.
+
+**Solution**: The Support Agent addressed the issue, confirming that it has been fixed. It is recommended to monitor the lineups regularly to ensure accuracy and prevent similar occurrences in the future.

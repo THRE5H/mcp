@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "Review of Low-Usage Tables",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5",
+      "from_name": "Jebrane Ben Salem",
+      "to": "Support Dnext; Benoit Baliguet",
+      "cc": "Nicolas Chaperon",
+      "received_time": "2025-05-27 16:12:48.320000+00:00",
+      "sent_time": "2025-05-27 16:12:44+00:00",
+      "body_text": "Hello Support,\r\nWe’ve identified several tables in the DNEXR database with 0–15 rows. Could you please confirm if these are still needed? If not, thanks to delete all of them.\r\n@Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  I’ve created a ticket to add the unused tables to the dashboard that Nader created : https://dnext.atlassian.net/browse/DNP-4661 <https://dnext.atlassian.net/browse/DNP-4661> \r\nBest regards,\r\nJebrane\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nHello Support,</div>\r\n<div class=\"elementToProof\" style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nWe’ve identified several tables in the DNEXR database with 0–15 rows. Could you please confirm if these are still needed? If not, thanks to delete all of them.</div>\r\n<div class=\"elementToProof\" style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<a href=\"mailto:benoit.baliguet@dnext.io\" id=\"OWAAM983647\" class=\"tWKOu mention ms-bgc-nlr ms-fcl-b\">@Benoit Baliguet</a>&nbsp;I’ve created a ticket to add the unused tables to the dashboard that Nader created :\r\n<a href=\"https://dnext.atlassian.net/browse/DNP-4661\" class=\"MsgExtLink_5a055a62-ec0d-f9fa-849a-aa2ccced244e\">\r\nhttps://dnext.atlassian.net/browse/DNP-4661</a></div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em;\"></div>\r\n<div class=\"elementToProof\" style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nBest regards,<br>\r\nJebrane</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "9E7371C062285B4AA457CFB92B2A3B35",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002B6CD79BE0000",
+      "size": 60960,
+      "has_attachments": true,
+      "attachments": [
+        "Data_Quality_Check.xlsx"
+      ],
+      "message_id": "ZR3P278MB1226FE6B3548559A2F8BB3E8F564A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Review of Low-Usage Tables"
+}

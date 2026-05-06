@@ -1,0 +1,23 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Martin Keller
+Date: 2025-03-18 09:26:00.841000+00:00
+Subject: Re: US weather dashboard: no data before 2010?
+Message-ID: ZR3P278MB12264A719A897CEB9AF60560F5DE2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717B16C6C75DFFEAEFEA641EBDE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello, 
+
+We're working to add more historical data for all countries.
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 02:57
+To: Support Dnext <support@dnext.io>
+Subject: US weather dashboard: no data before 2010? 
+ 
+ 

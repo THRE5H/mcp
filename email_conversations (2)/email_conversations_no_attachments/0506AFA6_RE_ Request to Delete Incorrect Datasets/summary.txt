@@ -1,0 +1,5 @@
+**Problem**: The user requested the deletion of two datasets that were created with an incorrect structure.
+
+**Context**: The user is a Data Analyst from the Customer Organization. The issue involved datasets within the Customer Organization's data management system, specifically those with incorrect structural configurations.
+
+**Solution**: The Support Agent confirmed that the deletion of the specified datasets was completed. It is recommended to verify dataset structures before creation to prevent similar issues in the future.

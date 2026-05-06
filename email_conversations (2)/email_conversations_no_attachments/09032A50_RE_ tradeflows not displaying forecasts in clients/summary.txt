@@ -1,0 +1,5 @@
+**Problem**: The customer reported that forecasts for wheat and corn were not displaying in the tradeflows for specific client environments.
+
+**Context**: The user is an internal user from the Customer Organization reaching out to the Customer Support Team of the Service Provider. The issue involves the tradeflows feature within the service, specifically for the clients Agrorodeo and Sucden.
+
+**Solution**: The Support Team informed the customer that the development team is currently working on a fix for the issue. No further actions were taken at this time, but the customer was updated on the ongoing resolution efforts. It is recommended to monitor updates from the development team regarding the fix.

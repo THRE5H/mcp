@@ -1,0 +1,5 @@
+**Problem**: The customer reported that their credentials for the Excel add-in disappeared unexpectedly, requiring them to re-enter all information. Additionally, they noted that multi-factor authentication (MFA) was not prompted during login.
+
+**Context**: The user is an external user from the Customer Organization experiencing issues with the Excel add-in provided by the Service Provider. The incident occurred on September 11, 2025, and the customer expressed urgency in resolving the credential issue.
+
+**Solution**: The Support Team acknowledged the issue and created a ticket for further investigation, prioritizing it lower than other existing bugs. They explained that the lack of MFA could be due to the login location being recognized, which is unrelated to the add-in issue. Further updates will be provided once the case is resolved.

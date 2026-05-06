@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access the India SEA stats dashboard and reported that the link provided was deprecated. Additionally, they expressed confusion regarding the download format of the DNEXR datasets, which now appears as a zipped folder instead of individual files.
+
+**Context**: The customer is an external user from a partner organization seeking access to specific dashboards and datasets provided by a service provider. The service provider has been experiencing ongoing issues with dashboard accessibility and dataset downloads.
+
+**Solution**: The support agent provided a new link to the India SEA stats dashboard and explained that the zipped folder contains split chunks of the dataset, which need to be merged for full access. The team is working on improving the download process to allow for single-file downloads in the future. The customer acknowledged the response and understood the explanation.

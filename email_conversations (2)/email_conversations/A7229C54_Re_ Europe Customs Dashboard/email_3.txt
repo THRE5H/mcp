@@ -1,0 +1,20 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Khalil Mekki
+Date: 2025-06-30 13:42:27.765000+00:00
+Subject: Re: Europe Customs Dashboard
+Message-ID: ZR3P278MB1226B354608377CD4DC16986F546A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717FAA13C2CEDED5722D5FEEB44A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Khalil Mekki <mailto:khalil.mekki@dnext.io> 
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Monday, June 30, 2025 6:30:00 AM
+À : Support Dnext <support@dnext.io>
+Objet : Europe Customs Dashboard 
+ 
+Hi can we add a filter for the reporter. in this case as we have many reporters i think it makes sense to add this filter
+
+

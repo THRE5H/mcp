@@ -1,0 +1,44 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext; Iheb Mhamdi
+Date: 2025-12-16 14:07:54.112000+00:00
+Subject: Re: RSS Price not Updated
+Message-ID: ZR3P278MB1226C29DD57E8AFC8BE204A8F5AAA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353EB0DF7C2A8A633AA62DEF6AAA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 16 December 2025 11:56
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RSS Price not Updated 
+ 
+
+Dear Support Team,
+
+ 
+
+I hope that this week has started well for you.
+
+ 
+
+May you please give a look at FWFP, the RSS price is not updated.
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/data-exploration
+
+ 
+
+Best,
+
+ 
+
+Enea

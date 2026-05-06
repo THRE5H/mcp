@@ -1,0 +1,79 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Mohamed Chabbouh; Support Dnext
+Date: 2025-07-02 13:44:50.951000+00:00
+Subject: RE: Deleting Dataset
+Message-ID: GV0P278MB1320734088892592B22029D4F840A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB18471D0CC7A6EDD168CFEA4DE040A@GV0P278MB1847.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+It’s done 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mohamed Chabbouh <mohamed.chabbouh@dnext.io> 
+Sent: Wednesday, July 2, 2025 13:42
+To: Support Dnext <support@dnext.io>
+Subject: Deleting Dataset
+
+ 
+
+Greetings,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+could you please delete the dataset with the following code :
+
+ 
+
+dnexr-dnexr-all-vessels-database
+
+ 
+
+Best Regards,
+
+ 
+
+Mohamed Chabbouh
+
+Data Analyst, Trade Flow team
+
+                                                                                                            mohamed.chabbouh@dnext.io <mailto:mohamed.chabbouh@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 

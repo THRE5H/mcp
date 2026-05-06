@@ -1,0 +1,131 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-10-13 15:34:29.059000+00:00
+Subject: RE: Setup Env Neste
+Message-ID: GVAP278MB0677A1AB6939C461978C8FC188EAA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320452E017639AB856D2EF7F8EAA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thank you Saber. I will have a look.
+
+ 
+
+Here are the users to create in NESTE  environment.
+
+- tuukka.vaisanen@neste.com <mailto:tuukka.vaisanen@neste.com> 
+
+- monika.knight@neste.com <mailto:monika.knight@neste.com> 
+
+- jaakko.westerlund@neste.com <mailto:jaakko.westerlund@neste.com> 
+
+- antoine.gain@neste.com <mailto:antoine.gain@neste.com> 
+
+- misha.snobkov@neste.com <mailto:misha.snobkov@neste.com> 
+
+- mikko.tiittala@neste.com <mailto:mikko.tiittala@neste.com> 
+
+- joshua.pedrick@neste.com <mailto:joshua.pedrick@neste.com> 
+
+- randy.hahn@neste.com <mailto:randy.hahn@neste.com> 
+
+- padraig.liddy@neste.com <mailto:padraig.liddy@neste.com> 
+
+- tricia.cheong@neste.com <mailto:tricia.cheong@neste.com> 
+
+- swapnil.kumar@neste.com <mailto:swapnil.kumar@neste.com> 
+
+- minghao.chew@neste.com <mailto:minghao.chew@neste.com> 
+
+- erwan.hemery@neste.com <mailto:erwan.hemery@neste.com> 
+
+- david.neuberg@neste.com <mailto:david.neuberg@neste.com> 
+
+- pim.moree@neste.com <mailto:pim.moree@neste.com> 
+
+ 
+
+Please do not send the users before the final check.
+
+ 
+
+Regards
+
+Sami
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: lundi, 13 octobre 2025 14:13
+To: Sami Jaballah <sami.jaballah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Setup Env Neste
+
+ 
+
+Hello ,
+
+ 
+
+the environment is set up .
+
+ 
+
+please let me know if there is anything to adjust.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> > 
+Sent: Monday, October 13, 2025 7:33
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: Setup Env Neste
+
+ 
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: neste.dnext.io
+
+*	Client name: NESTE Oyj - Finland
+*	Same access as QUADRA (Soybeans and Vegoils)
+*	Contract start: 15.10.2025
+*	Contract End: 14.10.2026
+
+ 
+
+The list of users will be sent later.
+
+ 
+
+Many thanks
+
+Sami
+
+ 

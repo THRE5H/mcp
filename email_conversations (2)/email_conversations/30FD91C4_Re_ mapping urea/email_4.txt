@@ -1,0 +1,57 @@
+From: Elfi Middelbeek </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=E33E0C86765647BC820523F82B89FF83-FE32E896-C7>
+To: Dnext Lineups; Support Dnext
+Date: 2025-10-16 10:26:27.988000+00:00
+Subject: mapping urea
+Message-ID: GV0P278MB12160A901C4E5CF8B9E045AC9DE9A@GV0P278MB1216.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi all,
+
+ 
+
+So I’ve found some issues with the mapping of urea – see two codes below:
+
+ 
+
+Mapping issue found : 
+
+Correct:
+Name : Urea
+Code : FERTDU
+
+ 
+
+Wrong:
+Name : FERTDU
+Code : Urea
+
+ 
+
+However, the second issue is that with the correct mapping it shows FERTDU as product on the platform – but clients will not know this is urea unless we tell them. So it would be better to change it to Name: Urea and Code: UREA – but how easy is this and can we change everything over then so there are no issues?
+
+ 
+
+Thank you!
+
+ 
+
+All the best,
+
+ 
+
+Elfi
+
+ 
+
+ 
+
+Elfi Middelbeek
+
++41 77 267 1175
+
+Head of Fertilizer Analysis
+
+
+
+ 

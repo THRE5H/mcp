@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "TradeFlow Excel Add-in was missing data for certain origins (e.g., USA for soft wheat) and showed discrepancies in data values compared to the TradeMatrix dashboard.",
+    "solution": "The issue was caused by a bug in the TradeFlow Excel Add-in. The bug has been fixed in a new version of the add-in. Users experiencing missing data or discrepancies should update to the corrected version of the Excel Add-in. Installation of the fixed version can be done via a support-guided Teams call to ensure proper setup. After updating, users should refresh their data to see the corrected and complete dataset, including all origins such as the USA.",
+    "keywords": [
+      "TradeFlow",
+      "Excel Add-in",
+      "data missing",
+      "missing origins",
+      "soft wheat",
+      "USA data missing",
+      "data discrepancy",
+      "TradeMatrix dashboard",
+      "bug fix",
+      "addin update",
+      "data refresh"
+    ],
+    "category": "Error Resolution"
+  }
+}

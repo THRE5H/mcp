@@ -1,0 +1,26 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-26 15:16:30.925000+00:00
+Subject: Re: Access to arg prms data for Shell
+Message-ID: ZR3P278MB12263BD4B8857D10816DE339F5A62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717FB27E297E4738EAD8300EBA62@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Pablo, 
+
+Can you provide us more details please.
+
+Thanks, 
+Jebrane.
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 26 March 2025 13:35
+To: Matias Meligrana <Matias.Meligrana@shell.com>; Support Dnext <support@dnext.io>
+Subject: Access to arg prms data for Shell 
+ 
+Hi Support, can you help Matias access the arg prms data?
+
+Thanks,
+Pablo

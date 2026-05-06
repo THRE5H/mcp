@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users noticed that the IMEA Crop Phenology data on the platform stopped updating after the 2023/24 season and wanted to know if IMEA still provides crop phenology data, specifically for soybean progress.",
+    "solution": "The IMEA Crop Phenology data is no longer published directly by IMEA but is estimated by analysts using IMEA planting and harvest data combined with crop cycle information. This phenology data has been assimilated into the Brazil Crop Progress dashboard along with updates for the latest season. Users can now view the IMEA crop phenology by navigating to the platform section: Grains & Oilseeds (GnO Crop) > Brazil > Crop Progress Dashboard.",
+    "keywords": [
+      "IMEA",
+      "crop phenology",
+      "soybean progress",
+      "Brazil Crop Progress dashboard",
+      "planting data",
+      "harvest data",
+      "crop cycle",
+      "data assimilation",
+      "dashboard navigation"
+    ],
+    "category": "Platform Navigation"
+  }
+}

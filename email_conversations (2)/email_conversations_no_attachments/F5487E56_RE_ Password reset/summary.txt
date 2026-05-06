@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to reset their password as they did not receive the password reset email after clicking "Lost password." After receiving the provided credentials, the customer encountered an "Access denied" message when attempting to log in.
+
+**Context**: The user is an external user (Trader) from a Customer Organization seeking assistance with a password reset for a platform provided by a Service Provider. The issue arose despite the customer receiving login credentials from the Support Agent.
+
+**Solution**: The Support Agent provided the customer with their login credentials directly. However, the customer reported an "Access denied" error when attempting to use them. A Teams call was suggested to troubleshoot the issue further, but no resolution was confirmed in the conversation.

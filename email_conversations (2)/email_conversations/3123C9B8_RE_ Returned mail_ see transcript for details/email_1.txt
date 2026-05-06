@@ -1,0 +1,46 @@
+From: Dhia Boukchab </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B9209437468A47CC8D21849D5034A2C0-8631A408-AB>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-11-17 13:57:31.731000+00:00
+Subject: RE: Returned mail: see transcript for details
+Message-ID: ZRZP278MB17578744DBFD18280A268B2F80C9A@ZRZP278MB1757.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211D03E2A3559979F920C8B98C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+It's done.
+
+
+Dhia BOUKCHAB                                                                           
+Customer Support
+dhia.boukchab@dnext.io
+
+
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io | www.dnext.io
+
+
+-----Message d'origine-----
+De : Guillaume Goudy <guillaume.goudy@dnext.io> 
+Envoyé : 17 November 2025 13:49
+À : Support Dnext <support@dnext.io>
+Objet : FW: Returned mail: see transcript for details
+
+Please delete below user in Verbio
+
+-----Original Message-----
+From: Mail Delivery Subsystem <MAILER-DAEMON@mx0a-00699d01.pphosted.com> 
+Sent: Monday, 17 November 2025 13:22
+To: Guillaume Goudy
+Subject: Undeliverable: Returned mail: see transcript for details
+
+The original message was received at Mon, 17 Nov 2025 07:21:53 -0500 from m0276460.ppops.net [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors ----- <tony.hoskins@verbio.us>
+    (reason: 554 5.4.14 Hop count exceeded - possible mail loop ATTR34 [MN1PEPF0000F0E2.namprd04.prod.outlook.com 2025-11-17T12:21:55.319Z 08DE24343B42254B])
+
+   ----- Transcript of session follows ----- ... while talking to verbio-us.mail.protection.outlook.com.:
+>>> DATA
+<<< 554 5.4.14 Hop count exceeded - possible mail loop ATTR34 [MN1PEPF0000F0E2.namprd04.prod.outlook.com 2025-11-17T12:21:55.319Z 08DE24343B42254B]
+554 5.0.0 Service unavailable

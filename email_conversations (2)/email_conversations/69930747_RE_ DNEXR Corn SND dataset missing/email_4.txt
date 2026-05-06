@@ -1,0 +1,158 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: nic; Guillaume Goudy
+Date: 2025-12-02 10:52:15.102000+00:00
+Subject: RE: DNEXR Corn SND dataset missing
+Message-ID: GV0P278MB1320C60D23BBAD6B221651E8F8D8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PAXPR02MB7647F79A17BC4D74E35E34A1CFD8A@PAXPR02MB7647.eurprd02.prod.outlook.com
+
+================================================================================
+
+Hello Nic,
+
+ 
+
+Hope all is well.
+
+ 
+
+Thanks for reaching out and for flagging this. 
+
+ 
+
+We’re reviewing the issue internally and will get back to you as soon as possible with an update.
+
+ 
+
+Kind regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nic Mitoulis <nic@polarstarfunds.com> 
+Sent: Tuesday, December 2, 2025 10:12
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: DNEXR Corn SND dataset missing
+
+ 
+
+Hi Saber and Guillaume
+
+ 
+
+Hope you’re doing well. Just replying to this email as it was our last communication. 
+
+ 
+
+In the Corn SND dataset, it seems some monthly forecasts are actually annual ones. Below are examples for Arg and Brazil production. If I filter out the forecasts and only use the ‘calculations’ then I’ll be missing a lot of future data points so it’s quite difficult to automate our use of the data in our own SNDs.
+
+ 
+
+
+
+ 
+
+Here for Brazil the forecasts/calculations alternate, both of which state a monthly value period but obviously the one is not. They also fall on the same publication date so when constructing the historical SNDs, it becomes a question of which to use – the process of automating this over all countries/commodities for all the datasets we have access to becomes very difficult. 
+
+ 
+
+
+
+ 
+
+Regards
+
+Nic
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, 07 July 2025 18:15
+To: Nic Mitoulis <nic@polarstarfunds.com <mailto:nic@polarstarfunds.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: DNEXR Corn SND dataset missing
+
+ 
+
+Hello Nic,
+
+ 
+
+We are glad to inform you that the issue has been resolved and you should be able find the DNEXR Corn SND dataset on the platform now with the same code as before.
+
+ 
+
+
+
+ 
+
+We apologize for any inconvenience this may have caused and we thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nic Mitoulis <nic@polarstarfunds.com <mailto:nic@polarstarfunds.com> > 
+Sent: Monday, July 7, 2025 7:38
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: DNEXR Corn SND dataset missing
+
+ 
+
+Hi Guillaume and Saber
+
+ 
+
+It seems the DNEXR Corn SND dataset is no longer available on the platform or through the API (the code was “polarstar-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674”). The SND datasets for other commodities are still available though. Could you please assist, thanks.
+
+ 
+
+Regards
+
+Nic
+
+ 
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more Click Here <http://www.mimecast.com/products/> .

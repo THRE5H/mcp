@@ -1,0 +1,5 @@
+**Problem**: The User requested a phone walkthrough of the trial version of the platform and asked for a suitable time to talk.
+
+**Context**: The User is an external user seeking assistance with a trial version of the platform provided by the Service Provider. The User specified a preferred time for the call, which is 10:00 AM US Central Time.
+
+**Solution**: The Support Agent confirmed availability for a phone walkthrough from now until 10:00 AM and again starting at 10:30 AM US Central Time. The User was asked to choose a suitable time for the call to proceed with the walkthrough.

@@ -1,0 +1,149 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Saber Khalfallah; Support Dnext; Dnext Lineups; Léonard Berney; Mohamed Chabbouh; Skander Ghamgui; Wael Kouada
+Date: 2025-08-20 12:55:47.319000+00:00
+Subject: Re: US lineup dashboard
+Message-ID: ZR3P278MB122626438DB0B8A78F3D3770F533A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211101FFD678F1341D9ABCA9833A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+@Mohamed Chabbouh <mailto:mohamed.chabbouh@dnext.io>  @Wael Kouada <mailto:wael.kouada@dnext.io>  @Skander Ghamgui <mailto:skander.ghamgui@dnext.io>  we’re eliminating some data (transport: train). can that be the cause?
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 20 August 2025 12:51
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Dnext Lineups <lineups@dnext.io>; Léonard Berney <leonard.berney@dnext.io>
+Subject: RE: US lineup dashboard 
+ 
+
+Here is the difference between final customs and US lineups...18,000,000 metric tons....this is gigantic...there is no way that our D lineup is so far or it is useless and because it is including inspections, data should be close to final customs.
+
+gg
+
+ 
+
+ 
+
+
+
+ 
+
+From: Guillaume Goudy 
+Sent: Wednesday, 20 August 2025 13:44
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Dnext Lineups <lineups@dnext.io>; Léonard Berney <leonard.berney@dnext.io>
+Subject: RE: US lineup dashboard
+
+ 
+
+I did not see the comment. Tks Jebrane.
+
+US lineups = inspections + something. If something = 0 then US lineups = inspections. If something is not null, then US lineups can be different but inspections is the minimum and thus, we have history and thus, our US lineup dashboard should be quite full...
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Wednesday, 20 August 2025 13:37
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Subject: Re: US lineup dashboard
+
+ 
+
+Leo commented in the ticket: 
+
+"
+
+What you’re saying is that the us d-lineup should be equal to the inspections and it’s not the case?
+
+"
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 20 August 2025 12:29
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Subject: RE: US lineup dashboard 
+
+ 
+
+Leo,
+
+Please see below. This is for you.
+
+gg
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Wednesday, 20 August 2025 13:26
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Subject: Re: US lineup dashboard
+
+ 
+
+Kind reminder! 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: 18 August 2025 14:18
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Subject: RE: US lineup dashboard 
+
+ 
+
+Hello , 
+
+ 
+
+Any updates on this ?
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Thursday, August 7, 2025 17:53
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Subject: Re: US lineup dashboard
+
+ 
+
+Adding @Léonard Berney <mailto:leonard.berney@dnext.io> 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 07 August 2025 17:50
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: US lineup dashboard 
+
+ 
+
+D Lineups should be using inspections and lineups info that we were receiving from Fertimport and now Southport. However, if not Fertimport or Southport, then we are left with inspections. We should use this number to fulfill the lineups part in the US which is not the case today. Numbers looks off. 
+
+Tks for correcting it
+
+gg

@@ -1,0 +1,170 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Matias Meligrana; Pablo Figueroa; Support Dnext
+Date: 2025-03-28 02:16:16.381000+00:00
+Subject: RE: Access to arg prms data for Shell
+Message-ID: GV0P278MB1320FAC2417B59F61E44FB7EF8A02@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AS8P120MB045687E8C75B240683A69BBF90A12@AS8P120MB0456.EURP120.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Matias 
+
+ 
+
+I will be putting your questions between quotes and my answers will be below in red.
+
+ 
+
+Also I would like to propose a brief teams call where we can show you around the Platform , just let us know your availability and we will arrange accordingly
+
+“Yes, can I download a full historical data in a spreadsheet for example?”
+
+ 
+
+I will check this and get back to you asap with an answer / solution 
+
+ 
+
+“How can I see below info in the system (for example I am looking for soybean meal exports by month from the us?”
+
+ 
+
+
+
+ 
+
+You can find this info by navigating to the dashboards Module then Supply and Demand > DNEXR > Oilseeds 
+
+See image Below for visual aid
+
+ 
+
+
+
+ 
+
+You can find the monthly export data for Soybean Meals from the U.S. in the SBM SBS TradeMatrix. To access it:
+
+1.	Go to the "TradeMatrixes" module.
+2.	Look for the row labeled "Soybean and Soybean Meal" in the column name.
+3.	To the right of that row, click on the eye icon to view the TradeMatrix.
+
+ 
+
+
+
+ 
+
+4.	Once inside, you can filter by origin (USA) and product (Soybean Meal) to see the monthly export data.
+5.	You can download a more detailed Excel table by clicking the download button in the top right corner of the screen. Additionally, to download an Excel sheet with the data as displayed in the TradeMatrix, right-click on the bottom half of the table, hover over "Export," and then choose to download either a CSV or Excel file.(see image below for visual aid)
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Matias.Meligrana@shell.com <Matias.Meligrana@shell.com> 
+Sent: Thursday, March 27, 2025 19:53
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Access to arg prms data for Shell
+
+ 
+
+Yes, can I download a full historical data in a spreadsheet for example?
+
+How can I see below info in the system (for example I am looking for soybean meal exports by month from the us?
+
+ 
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, March 26, 2025 9:44 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Meligrana, Matias STUSCO-STP/LL7 <Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Access to arg prms data for Shell
+
+ 
+
+Think Secure. This email is from an external source. 
+
+Hello,
+
+ 
+
+@Matias Meligrana <mailto:Matias.Meligrana@shell.com>  Hello , thank you for reaching out to us 
+
+ 
+
+Is the data you are looking for displayed in this report ? : 
+
+
+
+ 
+
+ 
+
+If not ,could you please provide more details on what you are looking for exactly ?
+
+ 
+
+Best regards ,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Wednesday, March 26, 2025 13:35
+To: Matias Meligrana <Matias.Meligrana@shell.com <mailto:Matias.Meligrana@shell.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Access to arg prms data for Shell
+
+ 
+
+Hi Support, can you help Matias access the arg prms data?
+
+ 
+
+Thanks,
+
+Pablo
+
+ 
+
+________________________________
+
+Companies within the Shell Trading business may monitor, record and archive corporate communications for legal, regulatory and/or business purposes. Such communications will be controlled by Shell Energy North America (US) LP on behalf of all Shell Trading entities within the United States and by Shell International Trading and Shipping Company Ltd for all other Shell Trading entities (“Shell”). Shell processes such corporate communications, including any communications transferred to and/or received from third parties, across various corporate communication channels (e.g., e-mail, voice call, instant messaging, etc.) in a legally compliant manner. Do not include any personal data, including sensitive personal data, in your corporate communications and do not transfer or share any personal data that you may receive from a third party. Any communication deemed to include personal data will be reported as a data privacy breach. To understand how Shell processes your personal data, please refer to the Shell Global Privacy Notice at link https://www.shell.com/privacy/ex-employee-notice.html <https://www.shell.com/privacy/ex-employee-notice.html> . 

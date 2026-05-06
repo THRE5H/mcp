@@ -1,0 +1,501 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-08-07 10:05:27.979000+00:00
+Subject: RE: Corn SND update 2025_08_06 - better copy -
+Message-ID: GV0P278MB13203D4BB5C600B97FB3353AF82CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211D944965E31E8FAD6940B982CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+done
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Thursday, August 7, 2025 9:01
+To: Support Dnext <support@dnext.io>
+Subject: FW: Corn SND update 2025_08_06 - better copy -
+
+ 
+
+Please get this guy out 
+
+Tks
+
+gg
+
+ 
+
+From: postmaster@graincorp.onmicrosoft.com <mailto:postmaster@graincorp.onmicrosoft.com>  <postmaster@graincorp.onmicrosoft.com <mailto:postmaster@graincorp.onmicrosoft.com> > 
+Sent: Thursday, 7 August 2025 09:55
+To: Guillaume Goudy
+Subject: Non remis : Corn SND update 2025_08_06 - better copy -
+
+ 
+
+
+
+Votre message envoyé à plevido@graincorp.com.au <mailto:plevido@graincorp.com.au>  n’a pas pu être remis.
+
+Nous n’avons pas trouvé plevido sur graincorp.com.au.
+
+guillaume.goudy 
+
+Office 365 
+
+plevido 
+
+Action requise 
+
+	Destinataire 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adresse de destinataire inconnue 
+
+		
+ 
+
+Résolution
+
+L’adresse est peut-être mal orthographiée, ou celle-ci n’existe pas. Essayez une ou plusieurs des solutions suivantes :
+
+*        Renvoyez le message en suivant cette procédure : dans Outlook, ouvrez cette notification d’échec de remise et sélectionnez Renvoyer dans le ruban Rapport. Dans Outlook sur le web, sélectionnez cette notification d’échec de remise, puis sélectionnez le lien « Pour renvoyer ce message, cliquez ici ». Supprimez et tapez à nouveau l’intégralité de l’adresse du destinataire. Si vous êtes invité à choisir une suggestion dans la liste de saisie semi-automatique, ne le faites pas. Après avoir entré l’adresse complète, cliquez sur Envoyer.
+
+*        Contactez le destinataire (par exemple, par téléphone) pour vérifier l’existence et l’exactitude de l’adresse.
+
+*        Le destinataire a peut-être configuré le transfert du courrier vers une adresse incorrecte. Demandez-lui de vérifier que les mécanismes de transfert configurés fonctionnent correctement.
+
+*        Effacez la liste de saisie semi-automatique des destinataires dans Outlook ou Outlook sur le web en suivant les étapes décrites dans l’article Corriger les problèmes de remise des courriers pour le code d’erreur 5.1.10 dans Office 365 <https://go.microsoft.com/fwlink/?LinkId=532972> , puis en renvoyant le courrier. Tapez à nouveau l’intégralité de l’adresse de courrier du destinataire avant de sélectionner Envoyer.
+
+Si le problème persiste, transférez ce message à l’administrateur de votre courrier. Si vous êtes un administrateur de courrier, consultez la section Plus d’informations pour les administrateurs de courrier ci-dessous.
+
+
+Ce conseil vous a été utile ? Envoyer des commentaires à Microsoft <https://go.microsoft.com/fwlink/?LinkId=525921> . 
+
+________________________________
+
+
+Plus d’informations pour les administrateurs de courrier
+
+Code d’état : 550 5.1.10 
+
+Nous avons rencontré cette erreur, car l’expéditeur a envoyé un message à une adresse e-mail hébergée par Office 365, mais l’adresse est incorrecte ou n’existe pas sur le domaine de destination. L’erreur a été signalée par le serveur de courrier du domaine du destinataire, mais la plupart du temps, ce problème doit être résolu par l’expéditeur du message. Si les étapes décrites dans la section Résolution ci-dessus ne permettent pas de résoudre le problème et que vous êtes l’administrateur du courrier du destinataire, essayez une ou plusieurs des solutions suivantes :
+
+L’adresse e-mail existe et est correcte - Vérifiez que l’adresse du destinataire existe, est appropriée et accepte les messages.
+
+Synchronisez vos annuaires - Si vous disposez d’un environnement hybride et si vous utilisez la synchronisation d’annuaires, assurez-vous que l’adresse e-mail du destinataire est correctement synchronisée avec Office 365 et votre annuaire local.
+
+Règle de transfert errante - Recherchez les règles de transfert qui ne se comportent pas comme prévu. Le transfert peut être configuré par un administrateur via les règles de flux de courriers ou les paramètres d’adresse de transfert de boîte aux lettres, ou par le destinataire via la fonctionnalité Règles de boîte de réception.
+
+Une licence valide est attribuée au destinataire - Vérifiez qu’une licence Office 365 est attribuée au destinataire. Pour lui attribuer une licence, l’administrateur du courrier du destinataire peut utiliser le Centre d’administration Office 365 (Utilisateurs > Utilisateur actifs > sélectionnez le destinataire > Licence attribuée > Modifier).
+
+Les paramètres de flux de courriers et enregistrements MX ne sont pas corrects - Une configuration erronée des paramètres du flux de courriers ou de l’enregistrement MX peut être à l’origine de cette erreur. Vérifiez vos paramètres de flux de courriers Office 365 pour vous assurer que votre domaine et les connecteurs de flux de courriers sont configurés correctement. Par ailleurs, contactez votre bureau d’enregistrement de domaines pour vérifier que les enregistrements MX associés à votre domaine sont correctement configurés.
+
+Pour obtenir des informations et des conseils supplémentaires sur la résolution de ce problème, consultez l’article Corriger les problèmes de remise des messages pour le code d’erreur 5.1.10 dans Office 365 <https://go.microsoft.com/fwlink/?LinkId=532972> .
+
+Détails du message d’origine
+
+Date et heure de création :
+
+07/08/2025 07:54:00
+
+Adresse de l’expéditeur :
+
+guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
+Adresse du destinataire :
+
+plevido@graincorp.com.au <mailto:plevido@graincorp.com.au> 
+
+Objet :
+
+Corn SND update 2025_08_06 - better copy -
+
+
+Détails de l’erreur
+
+Erreur :
+
+550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient plevido@graincorp.com.au <mailto:plevido@graincorp.com.au>  not found by SMTP address lookup 
+
+Message rejeté par :
+
+PS1PPFB63BA2849.apcprd03.prod.outlook.com
+
+
+Détails de notification
+
+Envoyé par :
+
+PS1PPFB63BA2849.apcprd03.prod.outlook.com 
+
+ 
+
+Tronçons de message
+
+TRONÇON
+
+HEURE (UTC)
+
+DE
+
+À
+
+AVEC
+
+DURÉE DU RELAIS
+
+1
+
+07/08/2025
+07:54:00
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+mapi
+
+*
+
+2
+
+07/08/2025
+07:54:01
+
+GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+GV1PPF82E2A4113.CHEP278.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+1 s
+
+3
+
+07/08/2025
+07:54:34
+
+ZRZP278CU001.outbound.protection.outlook.com
+
+SY2PEPF00004FF2.mail.protection.outlook.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+33 s
+
+4
+
+07/08/2025
+07:54:37
+
+SY2PEPF00004FF2.ausprd01.prod.outlook.com
+
+SY8PR01CA0023.outlook.office365.com
+
+Microsoft SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384)
+
+3 s
+
+5
+
+07/08/2025
+07:54:38
+
+SY8PR01CA0023.ausprd01.prod.outlook.com
+
+PS1PPFB63BA2849.apcprd03.prod.outlook.com
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+1 s
+
+En-têtes du message d’origine
+
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=nXn9dSvhImd5j904y4tId47H34MuS1TqGDy2yk5HQ2dMpKOPZQQZK981GavZGWklyZPuJ8tdJkHT2SpwOK2GfomCqgCgW6crMXLUUzQJ0Jx1FpHtfwZwqAjjzkx7siWGb8fbV3MdLcJXZLldGZKJgdm2Yrwi/vsDIrjksHxwlDIT/nJ30e/1fwlW5jKtH7Z+g1bq9AD+S3hNZi1AG0P1DLksx1nMKbmFfOHxMP3qdVWi97Zg7HJkj8MRAtFHcorJVvC1zBEM1/Vp5QOqytqEAeoG5zFFS/y2SsH3vEWNtEJDdjAPEWwnB76Wice02117dfS4uZjp7CRmuC1XcO12oQ==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=rio0CF74PoD3rM3wvGBCPVGWwOqZYFZvhkD8Q4KPvcU=;
+ b=gs1JX6ki+OxqflOPKVbd17Gjw6Uik+MxbSURTtd3tjUXZaqYHEaJmAmuR0DX8TfbhsdpIipsldsCNZmNP1THYVf/pZFvnJ26gotDXvO5MUNeNGLeJ4nBBsKKHIoEAdxXXDAfyYt1SDBbe9RstHTaGJySxRTtQsrrN2/7HvZgDd36EOpHgEjXDBR94r+2nsixMZ3AvEltiQvZSVx8/3x30ivAyAL3S4KYffXxmENftr+fi5l3hU7g1UMMGfOSolIP5ROJJJpLcRZITlxyWSRA+2DeBfORu8qDfaML+GIvnomgHvMShj5b9F+65pWjj5l3PbvrB6Tku2ySvbg1E3Jq9g==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 2a01:111:f403:c213::2) smtp.rcpttodomain=graincorp.com.au
+ smtp.mailfrom=dnext.io; dmarc=pass (p=quarantine sp=quarantine pct=100)
+ action=none header.from=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com; arc=pass (0 oda=1 ltdi=1
+ spf=[1,1,smtp.mailfrom=dnext.io] dkim=[1,1,header.d=dnext.io]
+ dmarc=[1,1,header.from=dnext.io])
+Received: from SY8PR01CA0023.ausprd01.prod.outlook.com (2603:10c6:10:29c::33)
+ by PS1PPFB63BA2849.apcprd03.prod.outlook.com (2603:1096:308::2e5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9009.14; Thu, 7 Aug
+ 2025 07:54:38 +0000
+Received: from SY2PEPF00004FF2.ausprd01.prod.outlook.com
+ (2603:10c6:10:29c:cafe::93) by SY8PR01CA0023.outlook.office365.com
+ (2603:10c6:10:29c::33) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8989.21 via Frontend Transport; Thu,
+ 7 Aug 2025 07:54:37 +0000
+Authentication-Results: spf=pass (sender IP is 2a01:111:f403:c213::2)
+ smtp.mailfrom=dnext.io; dkim=pass (signature was verified)
+ header.d=dnextio.onmicrosoft.com;dmarc=pass action=none
+ header.from=dnext.io;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of dnext.io designates
+ 2a01:111:f403:c213::2 as permitted sender) receiver=protection.outlook.com;
+ client-ip=2a01:111:f403:c213::2;
+ helo=ZRZP278CU001.outbound.protection.outlook.com; pr=C
+Received: from ZRZP278CU001.outbound.protection.outlook.com
+ (2a01:111:f403:c213::2) by SY2PEPF00004FF2.mail.protection.outlook.com
+ (2603:10c6:18::104) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9009.8 via Frontend Transport; Thu, 7
+ Aug 2025 07:54:34 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=bzRwWEkdPwgBp1lxpuCB4BAhWkfrKfCgaNh+m7jhQ+J8wXzWxb0zcCS8z3gE14k2Z+a5VCrp9UU6vJiS6BI86kKmvVPUULDI+i1/j+X6PbVV3gZsRmhgIOXpINIYpFq8mrGQKILK2KPkw+WJKxvd9tlMBqrrfNl7ZY6im7YUh+2l1OqkLGKmcsfj3D5s/SjsEMicmc/V4of5DjRSI9BHmHr8Suo9FWjF4yxCSzk0TpzLlLPezVIIU8wXd0AsHw+I6QGNrhLQW5JvaZWT8XI6Kw9fvxCAFJuiUgbEuyX4RLZ9gP4K+TuF3b6LoEN9ztkVpiZEOPnOsoV3nOeagt0KbA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=rio0CF74PoD3rM3wvGBCPVGWwOqZYFZvhkD8Q4KPvcU=;
+ b=aoUNpILHOJ3xiDohWBYH/TMXjsQfSPDK/JWffdFOdFQO0TN4VnVNr51Lfea0IowO0MPnJLVYsn2Rw/sduDSr8WuHdHUWC8VZ4TENVvJmgOxbweI2rLzcqjzDM+8C+T3fil+KNX1z8Kc+A1hgyLy8myTPpNHvLN10T9viItVUoeXvE4slAOitc1ne0qdHK2cTZbdjqorlF0to7/p3BrCvNWInMhz8yA6CpWoMNcCbTcQTj3ZPVU8gFKVMY2SbRViX/7XOhpY9ie6s3VmrZgyqNdkqv3Pvo9xUzC7/AHSTpSNGsyFuocOARODXNFHjvfWdM2bm5gav//bssJnpudfU8w==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io;
+ dkim=pass header.d=dnext.io; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=rio0CF74PoD3rM3wvGBCPVGWwOqZYFZvhkD8Q4KPvcU=;
+ b=XwuCqJS0iWCp5x1VX6tReVztwXb2T28iCD8KYYCZ3LoqCYt60ZIra0oyu8/VJsZiuBjAbgpi2sXgLn5g98gRESSkucdW9C0kjbbrl3bSPbPRP5ZuRAyQXPstmirpR5wZ83U4bI2m15mXLhM7qVZ3qhXOxEDccog2hmpK/Zcd301g7cBx/ReXIjlIWTOrK8awI5HBASlyYiM9tHzqv5X/HrERxl/eYgxL2And05zAck4iyz28ezLlsF4hfFuy5CgPUINXyY5Lxc4mgUI6bR6MDYb+nEvP96IShs6lvnhBEZHF5f3UW4rDK4OxfjLGCoUNapW2WfqQladER5meYqPGJg==
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:30::7) by
+ GV1PPF82E2A4113.CHEP278.PROD.OUTLOOK.COM (2603:10a6:718::21b) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9009.15; Thu, 7 Aug 2025 07:54:01 +0000
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::d8ce:d5e7:133c:d0a9]) by GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::d8ce:d5e7:133c:d0a9%7]) with mapi id 15.20.9009.016; Thu, 7 Aug 2025
+ 07:54:00 +0000
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: Corn SND update 2025_08_06 - better copy -
+Thread-Topic: Corn SND update 2025_08_06 - better copy -
+Thread-Index: AQHcB3Bv16tz/fjCJEyURvKh8fxTIw==
+Date: Thu, 7 Aug 2025 07:54:00 +0000
+Message-ID: <GV0P278MB0211A9A9B8695064BDCAF09E982CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0211A9A9B8695064BDCAF09E982CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+References: <GV0P278MB02118633DFFAB31D4D5E6C4C98DDA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02118633DFFAB31D4D5E6C4C98DDA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01484511B9CE8C67A4A330C698DDA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01484511B9CE8C67A4A330C698DDA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GVAP278MB0151291226E1233C9A1D1ACD98A8A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM <mailto:GVAP278MB0151291226E1233C9A1D1ACD98A8A@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014859D6D26C935FBCBC5B6E98BAA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014859D6D26C935FBCBC5B6E98BAA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014808FDE616ACBCD44CCF4B9884A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014808FDE616ACBCD44CCF4B9884A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01486F790337BC5BEAC91F0E9896A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01486F790337BC5BEAC91F0E9896A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01485950C0DCAA941F96B9F098722@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01485950C0DCAA941F96B9F098722@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014800D9EEA939CD033A1D9298712@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014800D9EEA939CD033A1D9298712@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014853B57CB87DC5009FDF38984E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014853B57CB87DC5009FDF38984E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148768AD80FE09CB51CA75B98582@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148768AD80FE09CB51CA75B98582@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148ED4D2EEF43907B6427A098342@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148ED4D2EEF43907B6427A098342@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01485F0F745B198754655AE298062@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01485F0F745B198754655AE298062@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148E628928570AE536E060298172@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148E628928570AE536E060298172@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148883941CB029F5AD486F198E52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148883941CB029F5AD486F198E52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148DC7BE4E5C14CA04D717398EB2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148DC7BE4E5C14CA04D717398EB2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148240668817245A2C4E3AA98F92@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148240668817245A2C4E3AA98F92@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01484ACDBAF469A58737288C98CF2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01484ACDBAF469A58737288C98CF2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014867B673518366E77982C498DD2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014867B673518366E77982C498DD2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148ECE1603489CCA34F5FD698A32@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148ECE1603489CCA34F5FD698A32@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014844D558BB72CC5A83C46C98B12@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014844D558BB72CC5A83C46C98B12@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014815D0649F56CCC817774598952@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014815D0649F56CCC817774598952@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148FA98A7BD00388F47BCED989B2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148FA98A7BD00388F47BCED989B2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01485CFF732EBB8E60E8F1FC98692@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01485CFF732EBB8E60E8F1FC98692@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01481D22F775DCC93C88F350987F2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01481D22F775DCC93C88F350987F2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148F8454A110D8911D980D0984D2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148F8454A110D8911D980D0984D2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148DF34EABA80154E45F141985C2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148DF34EABA80154E45F141985C2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014854559C76833CB5D931F098222@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014854559C76833CB5D931F098222@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01483997EE0E9EAE4FB6BE8698372@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01483997EE0E9EAE4FB6BE8698372@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB01488716AA64A5941DB8B53598052@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01488716AA64A5941DB8B53598052@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148ACFBA63A1EF284CB5F0B98152@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148ACFBA63A1EF284CB5F0B98152@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148702B3CE7D2BD43AC47D598192@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148702B3CE7D2BD43AC47D598192@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB014872B9A015AFED2584581598EE2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB014872B9A015AFED2584581598EE2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GVAP278MB0151BF3E693486E2F323B97998FC2@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM <mailto:GVAP278MB0151BF3E693486E2F323B97998FC2@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM> >
+ <GVAP278MB0151E5FDCE9BB42C9F440ED398C22@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM <mailto:GVAP278MB0151E5FDCE9BB42C9F440ED398C22@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM> >
+ <GVAP278MB01514F95D06A9F4D1AE6E37698D02@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM <mailto:GVAP278MB01514F95D06A9F4D1AE6E37698D02@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148807C49147686DE36A6B198A62@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148807C49147686DE36A6B198A62@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148A6E9E6D024CAB9765CF598B42@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148A6E9E6D024CAB9765CF598B42@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <ZRAP278MB0157404007DD66CC6FA3973398BA2@ZRAP278MB0157.CHEP278.PROD.OUTLOOK.COM <mailto:ZRAP278MB0157404007DD66CC6FA3973398BA2@ZRAP278MB0157.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148C1BCC2C21A1A023E8798988E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148C1BCC2C21A1A023E8798988E2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0148EFC03AE448BC35395F5A989EA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0148EFC03AE448BC35395F5A989EA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB02119AD3851A8B7C1519D81D989EA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02119AD3851A8B7C1519D81D989EA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0211425C469C04B03A54A3EF986CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0211425C469C04B03A54A3EF986CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0211ADF69932C52466FBE9F79872A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0211ADF69932C52466FBE9F79872A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB0211A59F76BF37E9E516B5F79840A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0211A59F76BF37E9E516B5F79840A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB02114D746046369B0C79A3189856A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02114D746046369B0C79A3189856A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+ <GV0P278MB02116C95484570F9A3082D17982DA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02116C95484570F9A3082D17982DA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+In-Reply-To: <GV0P278MB02116C95484570F9A3082D17982DA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02116C95484570F9A3082D17982DA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+Accept-Language: fr-FR, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=dnext.io;
+x-ms-traffictypediagnostic: GV0P278MB0211:EE_|GV1PPF82E2A4113:EE_|SY2PEPF00004FF2:EE_|PS1PPFB63BA2849:EE_
+X-MS-Office365-Filtering-Correlation-Id: 9017fee5-d1a1-4b4e-d282-08ddd587a7b1
+x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|1800799024|7416014|376014|366016|8096899003|27013499003|4053099003|38070700018;
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?MkXitnL/b6TKdjcRTiircRy0L2so7ITKekWZw4cWCnxK2zmHW1RCG3Mq6w3t?=
+ =?us-ascii?Q?aPWs3bwfw831ypNBLcfdhCk5lI+WtqeW6xg2H6uv4rjy7Mr3lPSQWAE6sOfY?=
+ =?us-ascii?Q?Aqd73wnbaif671YW9VIWBS0aUbY50IUTBgiJrt63SrnlBY/sG8GlPr1OODRL?=
+ =?us-ascii?Q?d9V8mt3rBiR3ePreBw9pDa8xJ/KHCOwMzsN85mBrzocDq2r0UncBYt+hck4a?=
+ =?us-ascii?Q?sg23l+eFbn9bGKiixbcRop37mRG2il+Bxht0uCql8ST6uvE7fCzLUcERNFyf?=
+ =?us-ascii?Q?RFqIVx7/d+ozoES1qfipFbG2onqwQDRFZLQ9n+TymruwPWkw3wPH57Wq9NhO?=
+ =?us-ascii?Q?0GNDq/KgICuFMpyFGPPiXq02itAfFTu0VddwSa2c5+qpCIgmmfBoZYvLLux/?=
+ =?us-ascii?Q?iEKlGwMFXkVdTPL4MK/ca0gr/QGtRqXaytC1p5rwt7bMU6GCRpH8LD5ahzrt?=
+ =?us-ascii?Q?wFwdP8dgvVZJWRp9pJKhg7tPf1AjLIIq+zvsWEFP8z8q2ehwW6sjFOq139y8?=
+ =?us-ascii?Q?bGoBSCThe0TPMDQKy/R6QmuOmSKrKcpjTmQKqxHG0j/RvoGvWmhsBoO1w5Fu?=
+ =?us-ascii?Q?UqIHIEqeqQlqSdDsUip86fgAcf794mDdnXdFpBQWav7aV7v3yrCcLUhp6PgX?=
+ =?us-ascii?Q?sGpL4zoUmoNsF0qy+VjsgOQqLrYaXdjs+Y9JaKK7vNS7VxgHEBU4V+xdgo7t?=
+ =?us-ascii?Q?7/iK5ySkjrLKPf3S8aqMpXAjg6ayncUKls/X70Wy9sZLxJ84/p3fi2FViyiZ?=
+ =?us-ascii?Q?STrBRIwATVsW1rXvML/ZlWPmIkXqLEBpthb/B31sbEsmnrBwoN2XrIpNRzOC?=
+ =?us-ascii?Q?EGRiEP7ONqVhmAGuIVLZ+NcXzV0tjjfXvqOIvp10SpncbjGXPkoaqpF6ymGx?=
+ =?us-ascii?Q?U/ASd83Hfy5wwXgWVs9eOhMawLz2cqlR9y0nKEXD9aqkjY+PIXlEHgePYpb0?=
+ =?us-ascii?Q?++1a1Urf/6h6xKB2Z2aRtRUsAYTAYhIzMgiZ74MRDTSa67VWKwosFi5+g/B2?=
+ =?us-ascii?Q?SZA6YoCEBgga9nHuRpoJCff+OuXXwdLBl5cDv1xOVH6DepjPWOsedk/3/TVo?=
+ =?us-ascii?Q?dJTeKEmlSSud+yAwA6RE/oqxULJZO7rj94EQ98VXOMKa1BSyopRYY0Kc+bMG?=
+ =?us-ascii?Q?IPkzwxiqCD2J6If/FRtIsZqgxCLI/ebPleS6Gfby4OZeC2s7hh+n9sWeOeIZ?=
+ =?us-ascii?Q?zuE95Z7zkwDBNe/HbTj/D7Bn11iIgtFiR27+lvQGcHQ4zAZU0XYtBZjZV9Vk?=
+ =?us-ascii?Q?wK5v0J3bKDgslDJY6lYipbiKptp9/TudATA1OFk1gWAwgFWzsKCoGc73Z3Qi?=
+ =?us-ascii?Q?5oEUJ++B4zf+M+yNnZkU5i5EzACfnRJGL1fX5bqgSER/YjAWuwh0QtroomW7?=
+ =?us-ascii?Q?nelINM1kCKflVm67sK1ECLJgG/YXD8G7zm/RTE1KgJZ957/Uy/PWLgGcdID9?=
+ =?us-ascii?Q?Nkia65dniIY=3D?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(7416014)(376014)(366016)(8096899003)(27013499003)(4053099003)(38070700018);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-Original-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-Original-0: =?utf-8?B?L0ovR1ZCbG51SFdHYnpPYWNNc2NkNXZXQkh6Um1QN0xSNzRYY0dWWHFyejNj?=
+ =?utf-8?B?UFpITytPcnpXZ256Z3h5WWhWMFpBOHU5UnZmUGk2aXlFNmFiViswMXBqcCtw?=
+ =?utf-8?B?VHB1SkxybWtMRXRhZ25XU1grbUlrN1hWUHkwN2RyanRiT2x6Q1ExM0xHSHYx?=
+ =?utf-8?B?aHBmMUZpZVd4ZkZJK0I0dnFTWkgwYWlXZzRuV1JQSHRReFhrcTBMUWcxU1dl?=
+ =?utf-8?B?R1pLUDkxV3Z1VXZyaVAwUnpMTlpNd3ROUDVYdUd1ZGsyU2tOa3hQWUVRWFE3?=
+ =?utf-8?B?NTdqRlpVaU81dWtXTDlUV1VVS1MvNlBUZytsV3YrZXU1K3pmTmg0S1ZDUElp?=
+ =?utf-8?B?a1RnR3cveDZSSWVKZzNieWxjQlJUb0ozV1FRbFl2SllwKzI0UStFYzN0b3JI?=
+ =?utf-8?B?NlZOMzM4L0k3R0ZxSU1QLzhsWS9aU1NzZTBoRUsyci8rOERHYTVad3FGMTFw?=
+ =?utf-8?B?ZTQzdk1lSmh5UHhQeDk3cXphNWxycE9YbTExSE16K1kvRE1MajcxUWFlYzBT?=
+ =?utf-8?B?S3B2R0N3VUkwamwyYUtEWEZ1WnVlV2lFYmphUEhYN1V0ckYvalpFbGdSQ05s?=
+ =?utf-8?B?OU5MSysyQjdQbXBjT214RVhQdngrOTVTbzIrQ1g0OGFXVGtpME9wMGRWNXMr?=
+ =?utf-8?B?Tmx6K1RsY1JDdFQzYkUvQVVEWEVNdC82UFJLajFiWDhMQkduYUJBNHIvemFM?=
+ =?utf-8?B?aWtLZkpQNkF0dmd2YmNuV3duTTF3SFk4OXF5T080aHhoeFhzSlc5Yy84K2lP?=
+ =?utf-8?B?dis3amhoYUtNZzRRMnpybWthR1Z6aTFSWHJhQWFrTllMRFRBZG85a1ExRlVZ?=
+ =?utf-8?B?WnJ2UkRpSmovb1VXSzdxRW1nVkltd0thdlJ1RXpUZ2dHbjllVTNRbzRvckl3?=
+ =?utf-8?B?MFdzajVyYnV2b2M3R0lwNnpqUS84aG0rTFdqaG1Qdml3cWZPWG5YU2h5V2o1?=
+ =?utf-8?B?ajdvQ1BYcVY5NFhIMTNsRk1Gb0MxNWpDMzBvR0dLcnBwNU5WNVVEQUpodzlU?=
+ =?utf-8?B?RzF2N3RtN0MwdUJwZ09BRHR5M01QTEdpV010SUh5M3h0SlhHT0NDYXRKOSt6?=
+ =?utf-8?B?Mm92M3F2MzE2MFV6UUkrdjI2SkFHNHNsdFZwL0pQRGI0WCsvSmp3ZVZiNXNC?=
+ =?utf-8?B?QXZXemtmd051OFRNZEExb3Y1SWhEeVA1T0p0ZzBnT2hSTHZCUUNrSXBidWs2?=
+ =?utf-8?B?aE9xbVNrdk1VTU50Q244OHJxTkZLVnNEMXdmc1k5ODNBUWc3MHlCc0hMUUJl?=
+ =?utf-8?B?S3ZmVjB0VVAyVm92WmwrcFpkcUdGTjkxUE1OMmZYZUJUY2xOaGJydFFQRzl0?=
+ =?utf-8?B?enB0bk9HdGs2K1ZqTWRGSXNWRzdKQXlxQUhQOWgrcUdmUkNRNy9FQng3Z3VU?=
+ =?utf-8?B?dXBkZnpKbGh4Q0daMTJXOGcwQW5xRVlMdW51YXQ3eFBBYllLYlQwcGkvWDJp?=
+ =?utf-8?B?NCsrZU5LTGMwdVZ5dnNDUTJxNmw2M0pEQ0ZuVllNOWxFeGZNbGRnTlR3ZGpr?=
+ =?utf-8?B?RDVYUjRnTjEwa3RUczU5eWh0OFVzQWcwOFd2UHo1SnprYkxFc2p2a3NVRkNq?=
+ =?utf-8?B?Q2FNOFVzcW1iM1hRUGxPRUJnUGxaSlNCOW9wUFRzS1F4eVRlN1BRNUhGRHNw?=
+ =?utf-8?B?UGhPN1NHaFJzbmIyOXZYTURWcEYyMnpEcnpPVkdPTDcrSFdYQ2h5a213b2NT?=
+ =?utf-8?B?NDk2d2ZFM3YwU0hUbjc4N1N6b3NnZnFoMjZqV3NIcWROejZTeEs5QjdKYWhr?=
+ =?utf-8?B?MUVsWEo3cDJvQkk0NS9lcTFMdlo3Zk1TK0pQOWhuLzhrWE1kU1I2ODZQMTFi?=
+ =?utf-8?B?ZHd5MEZVL2xFdzhDNGh4bGVSQmg2YmNJS1RncHlmdUhQU0R0Qyt1OU1Xa0Iz?=
+ =?utf-8?B?K09ldHg2MHRsK013L1NSNTBmYVZ2SVQ0MmVYRElZWk85ZEhhLzFCd0huOEU1?=
+ =?utf-8?B?eDIyT1lqQXVjTk9UK1VudVN1ZGtmcVZrck4ycE8vUXdybzlPbGhOU3ZiL2p2?=
+ =?utf-8?B?ZU9SOHpmL0FVbVYvbXZKYW5wRGNZZ2s0L3JFNVFEM1FDV09TbVlNZWJRNXRP?=
+ =?utf-8?B?OEpxcWE4cUwrdmhlRlk0TFJoWlFjQTJsRmpTeXB0WmViaTVzNXVhOHpYYkxD?=
+ =?utf-8?Q?U109bGiQ2kAMJTVw1s9UzWr38?=
+Content-Type: multipart/mixed;
+ boundary="_006_GV0P278MB0211A9A9B8695064BDCAF09E982CAGV0P278MB0211CHEP_"
+MIME-Version: 1.0
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: GV1PPF82E2A4113
+To: Undisclosed recipients:;
+Return-Path: guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 83572310-1061-4dcd-8bd6-e955a568e4cc:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: SY2PEPF00004FF2.ausprd01.prod.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: SY2PEPF00004FF2.ausprd01.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 9194d6ff-9163-4924-dd5a-08ddd5879227
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-Microsoft-Antispam:
+ BCL:0;ARA:13230040|2092899012|12012899012|35042699022|4053099003|8096899003|4076899003;
+X-Microsoft-Antispam-Message-Info:
+        =?us-ascii?Q?2rsGK3tczaVsoGPtxkRzbKZ6WMgH6V9u4g8vhVqGR8ntKV5jvbKFF5M+NLvd?=
+ =?us-ascii?Q?PnIU/qEfOoPFz5RxKeY5zoRoqePnZ7Glh/biRB2oDm7BfgP4WTmbdpA0om8I?=
+ =?us-ascii?Q?4ICTsX6PSmeqPeyCibHjecbGRcPdQRYa+5ndzA7qSSLRA5cgS0dRJf1bQx3Y?=
+ =?us-ascii?Q?bWVxePpNJfgxD63qwWXH6w1w10QXRFZB8oI7BAZSz6pHPKKspg2BDij4Bkuj?=
+ =?us-ascii?Q?HfnZQ7IoclIWK14AktkrLeVCGLgjYvc49Vx26AktrkQ/bdu75O34Cj3Fr3mf?=
+ =?us-ascii?Q?byCcsiaDJwh+bfvk3Q119MlQRVikKxeQxz7cuVVF/BPH8eNaKtFZOfyd/Oha?=
+ =?us-ascii?Q?LfPGn7iN0yktp3yLO6bG/sfL/F4QT3pApOfH2CEV2tZV3KCW1m9z6Y/HfBej?=
+ =?us-ascii?Q?DvyZXQ67OyAIIGnT471XayMBmoneCOQQB8YVNNLlsz51M/JKKB7tdRL5Yz1J?=
+ =?us-ascii?Q?NRNPjlwRjIWMy8iOhg6OAFgBTWvVE9mmkbyPiGuumj3fKcM3dXfzeA1kp8xN?=
+ =?us-ascii?Q?kaliVJlsuai4Kc27vSmuFsrdNtyuj1vAAff9K6wAGt0mGKGXhIqaVYIsLXvo?=
+ =?us-ascii?Q?MmJPKUdTCzuTTEVJfx3Zt4EXYbr6LJogB8shqbVSh7qSoFM1X0T0u3Ddf8dC?=
+ =?us-ascii?Q?KEaQ/XwM6I7QpFQ8MNYMIxD/eRbccVTlKu2a+a5Ysh2kCB38+g3OWJvopNRM?=
+ =?us-ascii?Q?aSrli46UWo0fl4XR56Yn5my1B+bioZVLYqYihuLe59p+GRM32S/oR1JrceUd?=
+ =?us-ascii?Q?uQWEY2eyCePL6j0DrxHSh8ZTdhMqpXLc8B/pHpXA93R7fZ39EVKjxr/fKE52?=
+ =?us-ascii?Q?QESG49WeBZQ1iYr0JDvODrvxLZsxEwfTrcOcx98N5acjpuEpdLPCEeH9uMFu?=
+ =?us-ascii?Q?zrEpvWZ19HaJoDfPFK0xy/hIACYrnHN/smb8+dEP/3RuSngW2cBPwsRgcIC6?=
+ =?us-ascii?Q?UVU9hpdoO32en1FtI59hkhTpJybEo03iaOu32zWHvub4+fhx6ohAeC2rhA19?=
+ =?us-ascii?Q?7v2LijcLlQ/9Z3+lZov7CHAaa+5c20yHtQcBkEjor6XoCMgfIcZsOdw62cFa?=
+ =?us-ascii?Q?J0uXfigyUWTMv50gNaTQ8VL+ka5HIXT/c359/ItoJlJDp6VhqXh2LKONCJhM?=
+ =?us-ascii?Q?hfJsMvxDZAZrr3CdgSaKyM/a1h7wmG8NN96eIJQJIW9O24zpzLyKBWtAJQ49?=
+ =?us-ascii?Q?glSmlhKWwudxKoi7J7A+SKIi77Esl54T2RcKf+d4DWKjOqLhKV1CxvF42OIe?=
+ =?us-ascii?Q?sjRbnkIKAwyeYDzcc0/Txjp15Oyz5f/Z33nriw0P5Plg5IaUmj/hhG6T0wCf?=
+ =?us-ascii?Q?lFSmThLpN521BHPpVAQj3tdI88EQvdD6FAkEf7zIOYjHE2LrnEBL3aLpkDtG?=
+ =?us-ascii?Q?FWFDgvYqdU9eDfowPO//kzlNYNL0tZ8lQKl4KeJJjIU9dMqCuFJblLI8D4xq?=
+ =?us-ascii?Q?+XMd9N403U5nmZFlnZ4qaNswlEQmflDjzvqXoLPj2wW22h/t1nAZ8sSMV3vf?=
+ =?us-ascii?Q?HVhqszgqof2arCqTAsQIqOcusAxEc6nXjVQtdYpBAmA/le9fGyuzjdL6P/va?=
+ =?us-ascii?Q?EQAyMz5Or3RYNyi5OHQNN+MpkWocY6yt0V83onMl18zx1BEAWkzNwKRA9pmI?=
+ =?us-ascii?Q?HcGlh+xn74AcfoAG2dYabEFnINgDMWsoW3JyWC2kKFzvNKcfGWbYM55PlNGZ?=
+ =?us-ascii?Q?JgkToHb+kvlJGOtjtM5tVs4Xm3pXC6WwBGmF35AXbMtH0zW6JAqLq+SL5+Rd?=
+ =?us-ascii?Q?MpqNVlAPU5eQE+mC+JmL10Z//9Nuk59EIZ6i/avIqVznFD0Dny9ZX2Q7deMx?=
+ =?us-ascii?Q?w7XGIRW8afyRPLNFLZrZzPZBBXKiGwgdbWlzMqaJM95jVCPuy4JcTR13rbT9?=
+ =?us-ascii?Q?dWvQ+zhPz8mSlEsd2xWNK9Od6sJSCBXmWnWiKi9rSbDOS/84IDRViM+SJZVL?=
+ =?us-ascii?Q?JI9MPl57Q1S/IslorjV/VJKD7hOni7mtTIEcqj93BXDFIzq+dLFA5Dc1eq2m?=
+ =?us-ascii?Q?vZS+RAQ7AkiIdz7MfCX4Cs2bx1cLUYAYc16Vs4jS30u01tqHC1SzsJ/dNl9r?=
+ =?us-ascii?Q?1Czn5Kyi56ubgKIwK87Jyddeuc4DmPp5dG03bfPfqPHJLjGup+BXuB+P6aqz?=
+ =?us-ascii?Q?bvGPKGjyseQba6ZR+p7CMVRbFV8ZZUSRU790a4DRHivVmmqmSIXnN69lZOgp?=
+ =?us-ascii?Q?fiLsoBt8r86zRuS+m10dp2Nkt9U4JQN4V9ya0ZlKTKQwZ7RJGoJa3Mx6AGDc?=
+ =?us-ascii?Q?HLhnNpZE6GUeE+MNbf4kkOVeGqKNm8qjdgzhPzr7tKbJO7Pdahkl1SnZdAN5?=
+ =?us-ascii?Q?QCbD4YGFYCaFgZxcxVWqJX63ZnU2+f+SOcaeUIDDhiSZomwObuQOIllLBoXD?=
+ =?us-ascii?Q?RVbTdErcMAcAZ4oSZ9OvAiE4t/vxH5n/g6Ju/asz4SQRfoY8m3GDlujqPQX6?=
+ =?us-ascii?Q?BUUX62E0b0w=3D?=
+X-Forefront-Antispam-Report:
+ CIP:2a01:111:f403:c213::2;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:ZRZP278CU001.outbound.protection.outlook.com;PTR:mail-switzerlandnorthazlp170110002.outbound.protection.outlook.com;CAT:NONE;SFS:(13230040)(2092899012)(12012899012)(35042699022)(4053099003)(8096899003)(4076899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 07 Aug 2025 07:54:34.7316
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9017fee5-d1a1-4b4e-d282-08ddd587a7b1
+X-MS-Exchange-CrossTenant-Id: 83572310-1061-4dcd-8bd6-e955a568e4cc
+X-MS-Exchange-CrossTenant-AuthSource: SY2PEPF00004FF2.ausprd01.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PS1PPFB63BA2849

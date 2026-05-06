@@ -1,0 +1,61 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Nader Ltaief; Nour Meddeb; Support Dnext
+Date: 2025-02-24 07:30:04.099000+00:00
+Subject: Changes to BF environment
+Message-ID: GV0P278MB0717C7AD96411C916A780A98EBC12@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Hi guys, not sure who should be doing this but putting all in copy so you are aware.
+
+is it possible to make this changes before today 10pm? sorry for so short notice.
+
+
+Changes to the BF environment:
+
+
+1.	
+	change the name of "Crop Statistics" to "EuroStats Estimates"
+
+
+
+
+2.	
+	TAXUD Dashboard should be in the "Inspections" section
+
+
+
+
+
+
+3.	
+	Add Black sea dashboards:
+
+list is the following.
+
+
+
+4.	
+	Is it possible to delete the category "EU Black Fryers"? it was created for the Dnexr environment but here is redundant as it contains dashboards that are already present inside other categories.
+
+
+
+
+
+5.	
+	Inside the "Meat" category we have the "Production" Dasboard. can we change the name to "Meat Production". otherwise it can be confusing as we have also crop production.
+
+
+
+
+
+
+
+6.	
+	Change the name of the "Meat" Category to "Feed & Livestock" 
+
+
+
+
+

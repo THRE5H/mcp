@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in creating a daily updated dataset for US cotton production, as the source data is refreshed daily and lacks historical access.
+
+**Context**: The customer is an external user from a Customer Organization seeking support from a Service Provider. The request involves scraping data from a specific URL that updates daily, necessitating a recurring task to capture the new information.
+
+**Solution**: The Support Agent confirmed that the dataset is now available on the platform, accessible via a provided code. The dataset will be updated daily, allowing the customer to track data history over time. It is recommended to regularly check the dataset for updates to ensure accurate and timely data access.

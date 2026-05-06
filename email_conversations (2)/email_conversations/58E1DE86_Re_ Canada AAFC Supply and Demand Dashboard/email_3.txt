@@ -1,0 +1,28 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-08-25 12:44:22.817000+00:00
+Subject: Re: Canada AAFC Supply and Demand Dashboard
+Message-ID: ZRAP278MB05277570AC6593E3FC0CC191963EA@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717AF41E71B22084BCE28EEEB3EA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_2.png
+
+================================================================================
+
+Hello, 
+
+Issue has been resolved
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, August 25, 2025 10:51 AM
+To: Support Dnext <support@dnext.io>
+Cc: Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Canada AAFC Supply and Demand Dashboard 
+
+Hi can we check the AAFC dashboard which should have the august data already?
+dataset is updated from emails and the corresponding email was sent last week
+
+

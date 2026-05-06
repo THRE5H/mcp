@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to update their dataset and tradeflow UIDs due to platform changes affecting API access and resource identification.",
+    "solution": "Starting from May 5, 2025, the platform automates access to subscribed datasets, tradeflows, and dashboards with dynamic updates reflecting any changes. Users must update their API integrations to use the new resource UIDs instead of the old codes. For example, the old TradeMatrix code 'dnexr-crn' for Corn Tradeflow is replaced by 'viserion-6739954d-a4f8-4436-a7bc-f57bf3b79f20'. Similar mappings apply to other tradeflows. This ensures continuous and automated access to the most relevant data without manual intervention.",
+    "keywords": [
+      "DNEXT",
+      "TradeMatrix",
+      "tradeflow",
+      "dataset",
+      "UID update",
+      "API integration",
+      "resource codes",
+      "dynamic updates",
+      "data sharing",
+      "subscription access"
+    ],
+    "category": "Configuration"
+  }
+}

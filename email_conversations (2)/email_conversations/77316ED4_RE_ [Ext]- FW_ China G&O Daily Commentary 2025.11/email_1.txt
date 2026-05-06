@@ -1,0 +1,323 @@
+From: Dhia Boukchab </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B9209437468A47CC8D21849D5034A2C0-8631A408-AB>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-11-17 14:08:10.959000+00:00
+Subject: RE: [Ext]- FW: China G&O Daily Commentary 2025.11.17
+Message-ID: ZRZP278MB175774D22EC4B8178C5FA8A880C9A@ZRZP278MB1757.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211F0A9818A4AAF68D9980998C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+ 
+
+Hello,
+
+The user is on their distribution list highlighted below; we cannot remove it ourselves; we need to contact them for it to be removed. 
+
+
+
+
+
+
+
+Cordially,
+
+Dhia BOUKCHAB                                                                           
+
+Customer Support
+
+dhia.boukchab@dnext.io <mailto:dhia.boukchab@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+De : Guillaume Goudy <guillaume.goudy@dnext.io> 
+Envoyé : 17 November 2025 13:25
+À : Support Dnext <support@dnext.io>
+Objet : FW: [Ext]- FW: China G&O Daily Commentary 2025.11.17
+
+ 
+
+Please get below user out
+
+Tks
+
+gg
+
+ 
+
+From: postmaster@jbs.com.br <mailto:postmaster@jbs.com.br>  <postmaster@jbs.com.br <mailto:postmaster@jbs.com.br> > 
+Sent: Monday, 17 November 2025 13:22
+To: globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> 
+Subject: Non remis : [Ext]- FW: China G&O Daily Commentary 2025.11.17
+
+ 
+
+Échec de la remise pour ces destinataires ou groupes :
+
+gabriel.cruz@jbs.com.br <mailto:gabriel.cruz@jbs.com.br> 
+Nous n’avons pas trouvé l’adresse de courrier que vous avez entrée. Vérifiez l’adresse de courrier du destinataire et essayez de renvoyer le message. Si le problème persiste, contactez l’administrateur de votre courrier.
+
+
+
+
+
+
+
+Informations de diagnostic pour les administrateurs :
+
+Serveur de génération : JFMSVMEXCPRD02.corporate.ad
+
+gabriel.cruz@jbs.com.br <mailto:gabriel.cruz@jbs.com.br> 
+Remote Server returned '550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient not found by SMTP address lookup'
+
+En-têtes de message d'origine :
+
+Received: from MTZSVMEXCPRD01A.corporate.ad (10.255.3.43) by
+ JFMSVMEXCPRD02.corporate.ad (10.255.4.128) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1748.39; Mon, 17 Nov 2025 09:21:49 -0300
+Received: from correio.jbs.com.br (10.252.38.2) by
+ MTZSVMEXCPRD01A.corporate.ad (10.255.3.43) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1748.39 via Frontend Transport; Mon, 17 Nov 2025 09:21:49 -0300
+Received: from esa.hc4815-33.iphmx.com (esa.hc4815-33.iphmx.com [207.54.87.31 <http://207.54.87.31> ])
+        (using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+        (No client certificate requested)
+        by correio.jbs.com.br (Postfix) with ESMTPS id 4d96LN4bCQzBrWr
+        for <gabriel.cruz@jbs.com.br <mailto:gabriel.cruz@jbs.com.br> >; Mon, 17 Nov 2025 09:21:48 -0300 (-03)
+X-CSE-ConnectionGUID: ovEAlAGDQrmRWHyzajjGhg==
+X-CSE-MsgGUID: 2fmFliZgQVublQt56+rWxA==
+Received-SPF: Pass (esa.hc4815-33.iphmx.com: domain of
+  globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> 
+  designates 170.10.133.126 <http://170.10.133.126>  as permitted sender)
+  identity=mailfrom; client-ip=170.10.133.126;
+  receiver=esa.hc4815-33.iphmx.com;
+  envelope-from="globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> ";
+  x-sender="globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> ";
+  x-conformance=spf_only; x-record-type="v=spf1";
+  x-record-text="v=spf1 ip4:207.211.31.0/25
+  ip4:205.139.110.0/24 ip4:216.205.24.0/24 ip4:170.10.129.0/24
+  ip4:63.128.21.0/24 ip4:170.10.133.0/24 ip4:185.58.84.93/32
+  ip4:207.211.41.113/32 ip4:207.211.30.64/26
+  ip4:207.211.30.128/25 ip4:216.145.221.0/24
+  ip4:170.10.128.0/24 ip4:170.10.132.56/29 ip4:170.10.132.64/29
+  ~all"
+Authentication-Results: esa.hc4815-33.iphmx.com; spf=Pass smtp.mailfrom=globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:smtp.mailfrom=globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> ; dkim=pass (signature verified) header.i=@jbssa.com <mailto:header.i=@jbssa.com> ; dmarc=fail (p=quarantine dis=none) d=dnext.io
+IronPort-SDR: 691b135b_7XKrOW+r4klfTATalxC99pGTF0TQKSm/mwCeLnlQXxOAZem
+ 7Yt8amAkMHGmi95nBSvQC5nqQ+h78rrNm8m3/Lw==
+X-IronPort-RemoteIP: 170.10.133.126 <http://170.10.133.126> 
+X-IronPort-MID: 69973573
+X-IronPort-Reputation: 4.3
+X-IronPort-Listener: IncomingMail
+X-IronPort-SenderGroup: ACCEPTLIST
+X-IronPort-MailFlowPolicy: $ACCEPTED
+X-IronPort-AV: E=Sophos;i="6.19,311,1754967600"; 
+   d="png'150?scan'150,208,217,150";a="69973573"
+X-Amp-Result: UNKNOWN
+X-Amp-Original-Verdict: FILE UNKNOWN
+X-Amp-File-Uploaded: False
+X-MGA-submission: =?us-ascii?q?MDF/sgoojz59NbpHYvfoXhJVkyhhqkRDgE00MH?=
+ =?us-ascii?q?6F6De+wpIkxIxhEw5zCMQCj3u3FpDaCKu2TEw2M2mPParsMQsOSe3ftx?=
+ =?us-ascii?q?Zxz7IFVY9NOd1t+PQLR9IhmtY7z8Y/l1Tc32mnuuVqDQbsq8DkzSA+JH?=
+ =?us-ascii?q?3JgNSScs66aWQ5yqTxCpp1Qw=3D=3D?=
+Received: from us-smtp-delivery-126.mimecast.com ([170.10.133.126 <http://170.10.133.126> ])
+  by esa9.hc4815-33.iphmx.com with ESMTP/TLS/ECDHE-RSA-AES128-GCM-SHA256; 17 Nov 2025 09:21:46 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=jbssa.com;
+        s=mimecast20220331; t=1763382105;
+        h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+         to:to:cc:mime-version:mime-version:content-type:content-type:
+         in-reply-to:in-reply-to:references:references;
+        bh=/EKLd6e7GfmPnv6KeFkWs/yZxPBuzMCMsSICp6J/yKg=;
+ b=YfbU414MX+8G6MMHyrm3Ak7VD/O49n4zK4Jd3uE18RgK2QsWKLlOLy9J9D0h4R0WNWW5QL
+ SofNbpYsuT4LH1IB4dGIYsdVf6mv5rdaN88p+frs7CSt+aC8hfu1PNsmNRBI3bfI3GcKqE
+ L/OncmE765/t/1dTTKjFpCl8pFHcqxWZIdIACjuSzu7gu+6rhBJkY5fNUrrP6eHa3CHPOx
+ 61CHrGcO6482/QV8EnY66cF8xN2RJs6l+uTZsuikGM2mX3czUcKQuIR8Jg/PYkQFX4OBY0
+     t1dEZk2vmB31dEL6THzeey42A9DjoaG1SfzfH4hK1AmVQnx/zBDIlUdZlFcF8g==
+Received: from CH1PR05CU001.outbound.protection.outlook.com
+ (mail-northcentralusazon11010040.outbound.protection.outlook.com
+ [52.101.193.40 <http://52.101.193.40> ]) by relay.mimecast.com with ESMTP with STARTTLS
+ (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384) id
+ us-mta-80-lPv3iITFMC-Sm3eaSjzVfg-1; Mon, 17 Nov 2025 07:21:42 -0500
+X-MC-Unique: lPv3iITFMC-Sm3eaSjzVfg-1
+X-Mimecast-MFC-AGG-ID: lPv3iITFMC-Sm3eaSjzVfg_1763382101
+Received: from MN2PR15CA0048.namprd15.prod.outlook.com (2603:10b6:208:237::17)
+ by CH2PR19MB3750.namprd19.prod.outlook.com (2603:10b6:610:90::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9320.22; Mon, 17 Nov
+ 2025 12:21:35 +0000
+Received: from BL6PEPF0001AB4F.namprd04.prod.outlook.com
+ (2603:10b6:208:237:cafe::cb) by MN2PR15CA0048.outlook.office365.com
+ (2603:10b6:208:237::17) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.9320.22 via Frontend Transport; Mon,
+ 17 Nov 2025 12:21:33 +0000
+Received: from us-smtp-inbound-delivery-1.mimecast.com (170.10.128.131 <http://170.10.128.131> ) by
+ BL6PEPF0001AB4F.mail.protection.outlook.com (10.167.242.73) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.20.9343.9
+ via Frontend Transport; Mon, 17 Nov 2025 12:21:35 +0000
+Authentication-Results-Original: relay.mimecast.com; dkim=pass
+ header.d=dnextio.onmicrosoft.com header.s=selector1-dnextio-onmicrosoft-com
+ header.b=N9wESi9e;    arc=pass ("microsoft.com:s=arcselector10001:i=1");
+        dmarc=pass (policy=quarantine) header.from=dnext.io;  spf=pass
+ (relay.mimecast.com: domain of guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io>  designates
+ 52.101.188.117 <http://52.101.188.117>  as permitted sender) smtp.mailfrom=guillaume.goudy@dnext.io <mailto:smtp.mailfrom=guillaume.goudy@dnext.io> 
+Received: from GVAP278CU002.outbound.protection.outlook.com
+ (mail-switzerlandwestazon11020117.outbound.protection.outlook.com
+ [52.101.188.117 <http://52.101.188.117> ]) by relay.mimecast.com with ESMTP with STARTTLS
+ (version=TLSv1.3, cipher=TLS_AES_256_GCM_SHA384) id
+ us-mta-17-yhIxvNwjPp2Tjm0oUD1Kxw-1; Mon, 17 Nov 2025 07:21:30 -0500
+X-MC-Unique: yhIxvNwjPp2Tjm0oUD1Kxw-1
+X-Mimecast-MFC-AGG-ID: yhIxvNwjPp2Tjm0oUD1Kxw_1763382088
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:30::7) by
+ GV0P278MB1797.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:70::14) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9320.22; Mon, 17 Nov 2025 12:21:15 +0000
+Received: from GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221]) by GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+ ([fe80::34d6:366c:ec31:221%4]) with mapi id 15.20.9320.021; Mon, 17 Nov 2025
+ 12:21:15 +0000
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: [Ext]- FW: China G&O Daily Commentary 2025.11.17
+Thread-Topic: China G&O Daily Commentary 2025.11.17
+Thread-Index: AdxXtfwddzFu1MgARvi4UsOavNwkIwAANUaAAAE64wA=
+Date: Mon, 17 Nov 2025 12:21:14 +0000
+Message-ID: <GV0P278MB02110A49E5BB3C9D89F2E34B98C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB02110A49E5BB3C9D89F2E34B98C9A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM> >
+References: <BJXPR01MB07896A7591E7790DA7A66118ACC92@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn <mailto:BJXPR01MB07896A7591E7790DA7A66118ACC92@BJXPR01MB0789.CHNPR01.prod.partner.outlook.cn> >
+ <TYCPR01MB11576B761F496E23127CD635DA0C9A@TYCPR01MB11576.jpnprd01.prod.outlook.com <mailto:TYCPR01MB11576B761F496E23127CD635DA0C9A@TYCPR01MB11576.jpnprd01.prod.outlook.com> >
+In-Reply-To: <TYCPR01MB11576B761F496E23127CD635DA0C9A@TYCPR01MB11576.jpnprd01.prod.outlook.com <mailto:TYCPR01MB11576B761F496E23127CD635DA0C9A@TYCPR01MB11576.jpnprd01.prod.outlook.com> >
+Accept-Language: fr-FR, en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-traffictypediagnostic: GV0P278MB0211:EE_|GV0P278MB1797:EE_|BL6PEPF0001AB4F:EE_|CH2PR19MB3750:EE_
+X-MS-Office365-Filtering-Correlation-Id: e6b79254-23eb-4dd6-ba99-08de25d3d9b4
+x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr
+X-MS-Exchange-SenderADCheck: 2
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|366016|1800799024|7416014|376014|27013499003|38070700021|8096899003|4053099003
+X-Microsoft-Antispam-Message-Info-Original: =?us-ascii?Q?KkvxN9VFjiBKsV9hucPFeFDf4K0uP3+t1PLS4UwXgkrJXd7OwoCIj6b+BSx6?=
+ =?us-ascii?Q?Xp6s/5kn8eQ5P2WMyTbutLjXe9dobtbOg1UDnCOzmWDw12kEZDbEgl8L8fnE?=
+ =?us-ascii?Q?eUqvfmI5X/PvAR/vFcYZbO6rfxZ/kVpk76uXpg0YrsYtRHP3AcBschJPEaT/?=
+ =?us-ascii?Q?4tpFT3wFme/uS6SdLWoMnAi53bpgVBb+cEhztlMfJK9zKq7n+iAewaZq8mgJ?=
+ =?us-ascii?Q?Zdj+3V2rOIu6hHK8FUDVWXxfJfYcrnIEcOpys+UC/DP+PfTHQjyOja5FNJlv?=
+ =?us-ascii?Q?Vrjc7/nqmoWbbjsdBl8QtX22vfiBXo2FdlkCwnpbgJ9wXLyLnLrpX/Gv44v/?=
+ =?us-ascii?Q?NqCHE2zwbw2AoQYUj/2c3+CYa3XjCDDCKpzDHWSJJ4Krj5AOPx6AeRsWFZUU?=
+ =?us-ascii?Q?O1wRsegvq2tVm4vIzi0qFnVQ7VuukC8V76YNtpnAX9lMAggtELVWLdGXatpq?=
+ =?us-ascii?Q?Xtu+PrPPLbwJ1AtaAhARBdRGhd5HmYPWjImqnlTGQJfecxIcRIRLUvJvXQl+?=
+ =?us-ascii?Q?3QC/E3phYwM9kcBMXdFgTjeIfph5H6RxhzKh5o92tuQVF2mCXcWZ8xdD7xWG?=
+ =?us-ascii?Q?dyzvOIiMZl6dfP2Df9EVJwW3yrJliFsW/LkMIEmUrj3mX7fGxVDzzCX6zQzA?=
+ =?us-ascii?Q?MsxTqV7Kv360FVjZAYAAv0SrwqMYscUP39dYyHL+QSe/CbN7Abn9Oh0x8Zw+?=
+ =?us-ascii?Q?u55stSdue/GtFbHVIIkguS9iB82E+SqQWK0tBcJpCMAK+hy/AFXqeB6993WA?=
+ =?us-ascii?Q?Ox1O66Q4zU3R4yelI+0Pfue9dDyUL235ONNdTJY5mhz6/SImuhUQsw2qtV8O?=
+ =?us-ascii?Q?AO+tH69QBqQVauFb87Bfe1zuC6H5NIhu5jAPVrX+hnLoyhfE+YIWX/CbqmMc?=
+ =?us-ascii?Q?eQc8MPB0Y1HfqwAgMRElRFt0LR5QOfRxmVzsrMBbcZGjRQlC6mb8pc2BEleL?=
+ =?us-ascii?Q?bZncazCYovLesZJdwlhZoGb6z2vNITIAO4d3b7XbO+7wtfs1GKIrK3NCXq1e?=
+ =?us-ascii?Q?XZv8BlU/fJP5mb9cZndX0SGWx5r3Ya46RoMhkVBl+Fgwt3vJXPnYSBZT/uPg?=
+ =?us-ascii?Q?mpBDW3VEz397bs2Be/1eq07tM+pLk7kICehIiucZv/7D7nVONzF031RmFs94?=
+ =?us-ascii?Q?AAhqetiz10PbRgh5t38Jbx4Yoq5XN5C7x6UfpoxLypo/HiHDWQ6aQ3SAJ6Ok?=
+ =?us-ascii?Q?67aK3NcJfAcK5ZnQPzdAKiGBH6rsojNlXFFhdthS2ttH0aqTZH1dN47MShDM?=
+ =?us-ascii?Q?vPuzQ4sbI5UBelvGWyqlcjJma8+gwfWFn2d8F+SQKd0yns0X+UAA+Q/xacn5?=
+ =?us-ascii?Q?OmciXkn/NF1yFE35pS32AjXibWfo/ZBplnu9B/2SiQCrzU9ENjASxBwutczF?=
+ =?us-ascii?Q?3jGrHqibNXQ36gItG/8vuAsS0l1A4PjUz4UJJUtKMDJ/6OYoJyz+OgLLEk2Q?=
+ =?us-ascii?Q?qcOye14QFShPaCn8oGREnkMGnA1PqfcNtGh/tlFjJvtLfH0zJ+SZIGqpM8va?=
+ =?us-ascii?Q?4yQ1jgEXmFmzSLLfCJ8pU5MTxWiz9xf6b4MJ?=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(1800799024)(7416014)(376014)(27013499003)(38070700021)(8096899003)(4053099003);DIR:OUT;SFP:1102
+MIME-Version: 1.0
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: GV0P278MB1797
+X-Mimecast-MFC-PROC-ID: h1ef91vwDhyizxn9468uV6_PYXFvBDBB4Q8Gm5653JE_1763382088
+X-Mimecast-Impersonation-Protect: Policy=EXTERNAL TAG Impersonation Protection Definition;Similar Internal Domain=false;Similar Monitored External Domain=false;Custom External Domain=false;Mimecast External Domain=false;Newly Observed Domain=false;Internal User Name=false;Custom Display Name List=false;Reply-to Address Mismatch=false;Targeted Threat Dictionary=false;Mimecast Threat Dictionary=false;Custom Threat Dictionary=false;External=true
+To: <Undisclosed@correio.jbs.com.br <mailto:Undisclosed@correio.jbs.com.br> >, <"recipients:"@correio.jbs.com.br <mailto:%22recipients:%22@correio.jbs.com.br> >
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: b2ab471b-a0fe-4e47-93a4-0c5549b48d57:0
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BL6PEPF0001AB4F.namprd04.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 6b2e5c79-3c5e-49ea-ca8e-08de25d3cd42
+X-LD-Processed: b2ab471b-a0fe-4e47-93a4-0c5549b48d57,ExtAddr
+X-MS-Exchange-AtpMessageProperties: SA
+X-Microsoft-Antispam: BCL:0;ARA:13230040|82310400026|376014|14060799003|35042699022|48200799018|9140799003|61400799027|27013499003|4053099003|8096899003|4076899003
+X-Microsoft-Antispam-Message-Info: =?utf-8?B?UEF5QnZTMjRaakpBclFtQjJ2aTFrbHVzS2lTVlZZQjRFbzVNNGtQWGRQQ1RE?=
+ =?utf-8?B?ZTNoVUpVUmVEWEhQR0JxYmRDMFpvV3p1ek5uRXNpZVNuNUhrTElSVWNhL2FV?=
+ =?utf-8?B?Nk9uMmNxUy9yekFVT3JlWHl6czhMSEdwL0t5NHZyanNWWmpkVk9pR0QwK0lm?=
+ =?utf-8?B?cTV6NnFBQmZyS2R4RzA3QTcvMDZoR1Avdk5jZEpIUVJreDV5MWZqamZRbjln?=
+ =?utf-8?B?V3F3TitUU3BDUXFuN1N1V0N6RXBYSWxXZDBka3ZZTHc2Sm9OZ0Y0aGZLRlh4?=
+ =?utf-8?B?MmlBQ3R6aXgvb1FwQXpLVVNCN1JTNS9TWks0WHM5VnoxSlhwcXR0VXBBUmxo?=
+ =?utf-8?B?NHBxc211ZHRKakpmY0R1ZDcwM2pEZDNHTSs3N3JtNVdHV2UvVDRFYnVXNlNF?=
+ =?utf-8?B?L3h3WTZkTVF6RzQxRGIrZThDc2dGc08rbGVmajJnMy84a3dHekRmdGxBb2w5?=
+ =?utf-8?B?eTA0dUxlZGRoQjZ3d0JYOWlpdWw2TzIydk85UnJ0SkR6ZmU3aUFRMEJHMmxI?=
+ =?utf-8?B?ckl4enJsL2kzbVlucmJIaDVlZzgyL25lQkhZV2NhRks5ZlY1VXpKTWMvb1E0?=
+ =?utf-8?B?UXk2QndkZm1pRGZYZ1dwRXZxZUlrcGN4c2d3UUFCOVFrSlJ2b0VNS0REOHlW?=
+ =?utf-8?B?eCsyVkpnOWxucU9HWDVKRnVHcTRKZndxVlptL3EwbHk3SWNCczV3amxla1J2?=
+ =?utf-8?B?bUJBUURveWRqbWpQYXlJd2J3bHkzaHAzZ2duemVyM2RXZURRZEF0di9WSDQv?=
+ =?utf-8?B?SkNUSkptbWVyNUw3Z1lYRHovQzdyM2ZKQU40YWthUkNGTmdqV3B3NkFGNFYv?=
+ =?utf-8?B?bkQyd3habFE4VCtkTEZGZkhGWUpDV29rOUNNcDJZNktBQmw2ZDNZN2UyeDg2?=
+ =?utf-8?B?V1VSanFuSkgxcmFnNldaYmw3Sm9SNnc4bktHSlkvU3ZyajZwKzQyZ0dEWHJL?=
+ =?utf-8?B?WEUreExaODdWRzlJQkJiRzBERjc2OFAzK2wwakU4Qk1heXJ0MWgvTEVTbDBZ?=
+ =?utf-8?B?c0RGSGFGbnluNGJoV1laUDZSclJqdG0ydFEzRDdLODBqZnJxWWRGYzBUc0Z0?=
+ =?utf-8?B?WTlFSE9kY1Fib3dBQzRBZ2VEOHM0NHZWVzlsdmVsZC9PU2xWdXIyclZTR1Ns?=
+ =?utf-8?B?UmJzaXozNmExM3B5aGprdFZhWmpJdG1HWmFyZkFDK0tubmVyN2tJUkwwem9X?=
+ =?utf-8?B?S3lNSy9OR0hWbnpHeWN4SnczbDA1emgxZHJZNnFaTURMUmhRVVFiRjQ2NXZR?=
+ =?utf-8?B?N2hkaVA5cTdZQ21FWDh4cXkzeVViOVl6SkpkcnRmV2VaMjgyZEpLdStDMzZJ?=
+ =?utf-8?B?ZEpiQ1VTTkQ3K0YxMFQ4d3lMMUZGb0x6N2tBNklGaGJXTHFoVDM4YzN5eVBP?=
+ =?utf-8?B?UnQrTEhxdy9YWlI0c3FmeGUveG5QTDc0TisyVEpEY3h1ZzFxVjJCWkR3UVds?=
+ =?utf-8?B?RXVubW1DMzF0a29lS01EWG9hSnV5cnpJNy8rOEJ3c3VHUTdBNzhPY0sxUFJX?=
+ =?utf-8?B?MEN0L2xmRTdWSzhWRkhrc3E2Tk4wSEUzelJxeUYzV01JUVFMVlBYU0VYY09t?=
+ =?utf-8?B?RnA0OTVtVGZyVENCV0RhYkFZVmEwdzduM1NJYU94SSsxZHBIMGRyRCtGaUJm?=
+ =?utf-8?B?VHVLUFIzWVRTOGJPalpGekNsNTc1Y0gza3huOWU5b0Fyam5tLzkydENlM2V5?=
+ =?utf-8?B?empjZXVNc2pQVk85N1BlaVlzYzU4SVFHenVEMVdTZi8wTUpKYnhocEozWDhT?=
+ =?utf-8?B?aVpsd2pkZHNmT3Izajdpc3RJR1hQN0piTmVmdkhVakpRSTNEdVJzNnJnSzZH?=
+ =?utf-8?B?Yjl5L29HaFpvV0lxV0xiMER5ZjFGdThhbWJMenVhaDVGeUxQbkNTZzdKY0Jo?=
+ =?utf-8?B?OVIyejFzeU5BMjJrS1pCdFFLRHhIdlNHTkp1dEp1WUZ4azNpSDZLVDAxMmtV?=
+ =?utf-8?B?NWVRNzdlNzJEYzZ3NDdqQkxZV2VJT1NKRGc4WUY4OFZsd3kzYmFqT1lrVjlU?=
+ =?utf-8?B?Mm5pOWVDTXRKMVBjelFNdVQ5R3h5MTFqNVI0OVduZDdTRFI3RGdQSEE1VnVH?=
+ =?utf-8?B?Nit4MWxGemRKZ2I0ZHlGSmxseVF5cW1ueUNmVnl2d2hwRFdTQUN3U2k0cC9R?=
+ =?utf-8?B?MVFqY0FtVlJiZVdxWkVoY2wzOUp5NWpIRTJEa3B2WVJPbUdIS2JjWDIzUXVU?=
+ =?utf-8?B?Si9GbVFVanlnVmw1TVBZZHpTR0pXZWdNRlFMMkxPUk1XWlErQVNyRnFROEhv?=
+ =?utf-8?B?ZWJDTkhCNE5ydVV6eTRkK2pGeXVjTDhyRmFsaXNVYWVQNmJFOUVsekU5dnhT?=
+ =?utf-8?B?TlhKSjZjeEZ6VVRFdSs1cGh0VjBmNWJQdmJNQitDeHVPT1pCS0ZzZmpROXJL?=
+ =?utf-8?B?cHRPNDV5aEFGZkl3cVhoUlhSRFVob2dadHdUVXJpbW11aUNCbUFXV24wWGZ3?=
+ =?utf-8?B?MWs3U2FmVStKUURpUno1WjBPcWhONWZ5d253NlZWQkdaU1RKSlgyMHk0aklz?=
+ =?utf-8?B?bDRuZzlybFlWdmRpUHZpRUU0U0pQV3VLbW5UQmFuNkE1VzAwTk82V2w2Ui9p?=
+ =?utf-8?B?SVBxb2NkKzJiOEJGVzlsMVQxNWN2NmVRdGNTYkZvejZwTU01TW5vUjlPNzNP?=
+ =?utf-8?B?UlE1VEtvSFJ1QUpvR29VMFZkOEhJUis0bTVNNkFkaVluNXV1Y1piU09CUDQx?=
+ =?utf-8?B?NHlsVXZVYkpucE1qQmpZOWlmQWdPT0RTQjMvYkZPbHpBTmc4b1VTek1ENUxk?=
+ =?utf-8?B?SEdlblRMa2JLT3RMOWtuKy9JSEQ1WDNrTDlvR2tWa2w4ZUd3anZYbmlqS1c2?=
+ =?utf-8?B?c3hMdXdRQVNkWG5maUpNbTQ5R1NRR2Y0RmxjbUpYNTZpN0p0MUZIRDFvWWRQ?=
+ =?utf-8?B?NnVTeVpReUJ4Tm5Dd2FzVFlXaE5XV2JZREkrTktxYjdkTEZrT0dLSWNOWEM4?=
+ =?utf-8?B?eWZNWVdzcVRtR0VQbGsvTFBnZ2hPejJkOE9vMHpsOWtXZTNDaVhhbXc3UUkx?=
+ =?utf-8?B?VS8vSFdRZHhPZFZyT2NKbXRzMkdQTER1YVVpbFVmazhsMnVHWWhNVjVzVjhu?=
+ =?utf-8?B?cGtYQithM0cyNDZVYmVuOFJlRmdyRWpXay9kVEJyVTk4R1B4T0FuZG5YcTl4?=
+ =?utf-8?Q?Id3XzCe3z?=
+X-Forefront-Antispam-Report: CIP:170.10.128.131;CTRY:US;LANG:en;SCL:1;SRV:;IPV:CAL;SFV:NSPM;H:us-smtp-inbound-delivery-1.mimecast.com;PTR:us-smtp-delivery-1.mimecast.com;CAT:NONE;SFS:(13230040)(82310400026)(376014)(14060799003)(35042699022)(48200799018)(9140799003)(61400799027)(27013499003)(4053099003)(8096899003)(4076899003);DIR:OUT;SFP:1101
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 17 Nov 2025 12:21:35.3392
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: e6b79254-23eb-4dd6-ba99-08de25d3d9b4
+X-MS-Exchange-CrossTenant-Id: b2ab471b-a0fe-4e47-93a4-0c5549b48d57
+X-MS-Exchange-CrossTenant-AuthSource: BL6PEPF0001AB4F.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CH2PR19MB3750
+X-Mimecast-Spam-Score: 1
+X-Mimecast-MFC-PROC-ID: Yv7eFvJapE8JqHWHiSQjVjGU8d5z_lYEfnxXu_cSN94_1763382101
+X-Mimecast-Originator: dnext.io
+Content-Language: en-US
+Content-Type: multipart/related;
+ boundary="_006_GV0P278MB02110A49E5BB3C9D89F2E34B98C9AGV0P278MB0211CHEP_";
+        type="multipart/alternative"
+Return-Path:
+ globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com <mailto:globalriskmanagement+srs=hwqot=5z=dnext.io=guillaume.goudy@jbssa.com> 
+
+ 
+
+Disclaimer
+
+The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any computer. This email has been checked for viruses. However, JBS USA Food Company and its constituent companies cannot accept responsibility for loss or damages arising from use of this email or attachments and we recommend that you subject these to your virus checking procedures prior to use.

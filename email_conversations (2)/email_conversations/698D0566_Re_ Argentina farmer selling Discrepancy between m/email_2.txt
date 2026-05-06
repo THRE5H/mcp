@@ -1,0 +1,136 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Wassim Mandhouj; Support Dnext; Nour Meddeb
+Date: 2025-07-02 10:38:38.181000+00:00
+Subject: Re: Argentina farmer selling Discrepancy between mail and platform
+Message-ID: GV0P278MB0717E95F87D0C1A2452507B5EB40A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 49104dd53580443dbf30894ba3231735@freepoint.com
+
+================================================================================
+
+Hi guys, can we check this? i thought we had already fixed this time ago.
+________________________________
+
+From: Tomas Andrieu Moure <tmoure@freepoint.com>
+Sent: Wednesday, July 2, 2025 11:32 AM
+To: Wassim Mandhouj <wassim.mandhouj@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Jingle Yang <jyang@freepoint.com>
+Subject: RE: Argentina farmer selling 
+ 
+
+Hi guys, it is useful to get an email with the daily farmer selling but we see discrepancies between below and the platform. 
+
+When I asked in the past you told me to trust the platform number. 
+
+Is there anything we can do to align? 
+
+Thanks
+
+Tomas
+
+ 
+
+From: Wassim Mandhouj <wassim.mandhouj@dnext.io> 
+Sent: 02 July 2025 08:00
+To: Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Argentina farmer selling
+
+ 
+
+ 
+
+Caution: This email is from an external source.
+From: wassim.mandhouj@dnext.io <mailto:wassim.mandhouj@dnext.io> 
+
+
+
+
+Daily Argentina farmer selling in thousand tons:
+
+2025 Crop Farmer Selling: 
+
+Date
+
+Variable
+
+Corn
+
+Wheat
+
+Soybean
+
+2025-07-01
+
+Priced
+
+223.86
+
+67.90
+
+294.48
+
+2025-07-01
+
+Priced Straight
+
+175.09
+
+48.12
+
+182.12
+
+2025-07-01
+
+To be Fixed
+
+74.25
+
+1.57
+
+65.51
+
+2025-07-01
+
+Total
+
+249.34
+
+49.69
+
+247.64
+
+
+
+
+
+Accumulated farmer selling (official source, lagged by 1 week):
+
+2025 Crop Farmer Selling: 
+
+
+For more details check the dashboard / Statistics / Farmer Selling / Argentina
+
+Note: In case the image does not appear, kindly consider using the latest version of Outlook.
+
+ 
+
+Best regards,
+
+DNEXT INTELLIGENCE
+
+
+
+
+
+
+
+
+
+************************************************************************************ 
+This e-mail (and any associated files) is intended only for the use by the intended recipient and may  
+contain information that is confidential, privileged, subject to copyright or constitutes a trade secret.  
+No confidentiality or privilege is waived or lost by any transmission errors. If you are not the intended  
+recipient you are hereby notified that any dissemination, copying or distribution of this e-mail (and  
+any files associated with this e-mail) is strictly prohibited. If you have received this communication  
+in error, please immediately notify us and delete the original material from your computer.  
+************************************************************************************

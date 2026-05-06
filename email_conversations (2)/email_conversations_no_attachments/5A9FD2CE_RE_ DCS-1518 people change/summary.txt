@@ -1,0 +1,5 @@
+**Problem**: The customer needed to remove platform and Dropbox access for specific individuals associated with their organization.
+
+**Context**: The user is an external user from the Customer Organization. The issue involved access management for a platform and Dropbox service, specifically concerning personnel changes.
+
+**Solution**: The Support Agent confirmed that access for the specified individuals was successfully removed. It is recommended that the Customer Organization regularly review access permissions to ensure they are up-to-date with personnel changes.

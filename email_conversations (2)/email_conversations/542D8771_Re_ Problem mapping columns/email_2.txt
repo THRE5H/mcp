@@ -1,0 +1,22 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Nicolas Chaperon
+Date: 2025-04-24 20:39:43.431000+00:00
+Subject: Problem mapping columns
+Message-ID: GVAP278MB0712305D25FC0F9601ED17FAEB852@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_2.png
+
+================================================================================
+
+hi im changing the columns mapping in this dataset in the BF environment
+https://bf.dnext.io/workflows/76cd4a60-fccd-483d-aa93-a10bff82e22e/edit/namemapping
+
+problem is that we added columns in the file (quote_type for example) but the list is not showing them so cannot assign them 
+
+Input preview shows the dataset correctly
+
+    
+but the list is not showing all the columns
+
+
+
+

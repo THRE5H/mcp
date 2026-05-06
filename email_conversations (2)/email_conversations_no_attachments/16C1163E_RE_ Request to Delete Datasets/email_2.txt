@@ -1,0 +1,17 @@
+From: Ghaith Krifa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=63ECE1530AF0416494C4B3CB118E1096-6B0D7A48-DE>
+To: Dhia Boukchab
+Date: 2026-01-13 10:57:11.882000+00:00
+Subject: Request to Delete Datasets
+Message-ID: ZR0P278MB0234EBD6694EBA98B5B9F8C6F38EA@ZR0P278MB0234.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, Dhiya can you please delete these datasets   
+
+dnexr-vegoils-ind-uns-daily-3
+dnexr-dnexr-vegoils-ind-cash-daily
+dnexr-dnexr-vegoils-ind-uns-daily-2
+dnexr-dnexr-vegoils-ind-uns-weekly
+dnexr-indonesia-biodiesel-estimates-monthly
+
+ <https://email-signature-image.com/signature.gif?u=3854738&e=999737308&v=27b83d938d6edc8d830517f5060e4ddf62dbb26ab0a8cd15f10ac65c7c95ea50> 

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the weekly data for Canadian producer deliveries was missing from the dashboard and requested confirmation once it was updated. Additionally, they inquired about the dataset code for running an API query.
+
+**Context**: The customer is an external user from a Customer Organization using a dashboard feature provided by a Service Provider. The issue involved missing data in the SND section of the dashboard, affecting the customer's ability to access recent information.
+
+**Solution**: The Support Agent confirmed that the dashboard was being updated and provided the dataset code for API queries. Later, the Support Agent followed up to inform the customer that the dashboard had been successfully updated. The customer confirmed that everything was working well.

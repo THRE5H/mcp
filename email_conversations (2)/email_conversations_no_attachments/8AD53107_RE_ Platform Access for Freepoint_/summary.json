@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User cannot access the platform and receives a 'User not found' message, possibly due to using the wrong login URL or forgotten password.",
+    "solution": "To resolve platform access issues: 1) Ensure the user logs in using the correct URL specific to their organization, for example, https://freepoint.dnext.io/. 2) If the user does not remember their password, instruct them to use the 'reset password' feature on the login page and follow the instructions to set a new password. This approach resolves common access problems related to incorrect URLs and forgotten passwords.",
+    "keywords": [
+      "platform access",
+      "login issue",
+      "user not found",
+      "wrong URL",
+      "reset password",
+      "forgot password",
+      "login troubleshooting"
+    ],
+    "category": "Access Issue"
+  }
+}

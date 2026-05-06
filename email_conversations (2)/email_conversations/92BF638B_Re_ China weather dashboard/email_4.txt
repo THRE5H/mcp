@@ -1,0 +1,49 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-02-04 18:40:49.746000+00:00
+Subject: Re: China weather dashboard
+Message-ID: GV0P278MB0717D44C9CD2164DC6C6C003EBF42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717EEB7D2465BA62CE535FDEBF42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_18.png, image_19.png, image_20.png, image_21.png, image_22.png
+
+================================================================================
+
+India i think is more or less the same
+
+
+example of Haryana
+
+i take GEFS and max temps are below average. in the graph but then i go to the map and see all red regardless of the selection in the filters
+
+
+
+
+
+
+________________________________
+
+From: Pablo Figueroa
+Sent: Tuesday, February 4, 2025 6:14 PM
+To: Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Khairedine Abdeljawad <khairedine.abdeljawed@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Martin Keller <martin.keller@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: China weather dashboard 
+ 
+Guys I'm looking at the China weather dashboard we have in the platform and there are many things that are strange...
+
+
+1.	
+	Henan temps in the 11/15 are above normal in the graph but the map shows the opposite (temps 1.23°C below normal for that period).
+2.	
+	The filters in the map are super confusing i never know what im doing there....we just want to see if min or max temp is above or below normal, the max/average/min...i dont know what is doing, and if we are showing the deviation vs the max/min/average of the period selected for me at least is not very useful.
+
+
+
+
+
+
+
+
+
+
+if i select min in the filter then i get this which is telling me that temps are 20°C below!
+

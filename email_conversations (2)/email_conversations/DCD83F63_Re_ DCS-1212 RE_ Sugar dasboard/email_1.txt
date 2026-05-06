@@ -1,0 +1,42 @@
+From: John Stansfield </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ADF99C30AB334415984CBF2F45D0C5A0-JOHN.STANSF>
+To: Support Dnext
+Date: 2025-04-16 15:01:51.870000+00:00
+Subject: Re: DCS-1212 RE: Sugar dasboard
+Message-ID: GV0P278MB0605B3ABCDD54E29200CF1E385BD2@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 010101963ed556c3-418a1634-0d1f-4bf2-8602-30257b956bc7-000000@us-west-2.amazonses.com
+
+================================================================================
+
+It was created for a potential client ( Coca Cola ) who never signed.  I think it can be removed from the sugar part of the dashboard now
+
+
+________________________________
+
+From: Enea Albertoli <jira@dnext.atlassian.net>
+Sent: 16 April 2025 14:41
+To: John Stansfield <john.stansfield@dnext.io>
+Subject: DCS-1212 RE: Sugar dasboard 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Enea Albertoli commented:
+
+Hello John,
+
+Firas a few months ago made a dashboard for the sugar team and used one of the datasets created by Afef for the occasion. He had, therefore, added it to the Sugar Supply in Demand, I figure because he thought it would be useful for sugar analysis.
+
+We currently have a dashboard for this product, biogasoline, and multiple other products on stage <https://stage.dnext.io/dashboard/*/Energy/EU/f936991b-fec7-46ed-973d-fede5955e784>  and it is awaiting final approval to move forward to Dnexr. It will be a major upgrade not only for the availability of multiple products but also for the integration of national datasets along with Eurostat.
+
+Best,
+
+Enea
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1212?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjYxMjNlNjlmMzRhNGFkZTYwNjlkY2RjNGNkYzIwOWE4MjJlYjQ4MzBkNmViNDVjNWMwODcxNjIzMTA1YjI3YTYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMTIiLCJpc3N1ZSI6IkRDUy0xMjEyIn0sImV4cCI6MTc0NzIzMDA5MCwiaWF0IjoxNzQ0ODEwODkwfQ.xR1XFxopt0ujHP81j5oPmB91qz8tNrSSogbzVwAWIIs&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1212/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjdkZjQwZjRmMzI4YTRmZWUyOGEzMzg4NDYyZDUzMTM1NzRiZjU3ODNiNGQ3NzkwODQxYTI4MjAxMThiNzUxOWMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjdlYmNjMjE4LTUzZmEtNDI0MC1hNzRiLWRiZGVmYjY5YjY2MCIsImlzc3VlIjoiRENTLTEyMTIifSwiZXhwIjoxNzQ3MjMwMDkwLCJpYXQiOjE3NDQ4MTA4OTB9.N-bg1Ffmn1CeYhVn3CBTAfROqvF_AnmldmN0PxptCt0> 
+
+This is shared with guillaume goudy, JOHN STANSFIELD, and Enea Albertoli.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 16 April 2025 15:41:30 CEST 
+ <http://atlassian-trk.prd.msg.ss-inf.net/CI0/010101963ed556c3-418a1634-0d1f-4bf2-8602-30257b956bc7-000000/PaKai65yKuEGFx9h7SMvCRgMFFDh8CyMMj0ckl9Wrd4=401> 

@@ -1,0 +1,25 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Email delivery failure with error code 554 5.4.14 indicating a possible mail loop or unknown recipient address in an Office 365 environment.",
+    "solution": "To resolve the 554 5.4.14 'Hop count exceeded - possible mail loop' error and unknown recipient issues in Office 365, follow these steps: 1) Verify the recipient email address is correctly spelled and exists in the destination domain. 2) If using a hybrid environment with directory synchronization, ensure the recipient's email address is properly synchronized between the local directory and Office 365. 3) Check for and correct any misconfigured mail forwarding or inbox rules that might cause mail loops. 4) Review and correct mail flow settings and MX records to ensure they are properly configured for the domain. 5) For mail loops caused by internal relay misconfiguration, change the domain setting from 'Internal Relay' to 'Authoritative' in Office 365. 6) If the recipient mailbox is hosted on-premises and the sender mailbox is in Office 365, ensure an outbound connector is correctly configured in Office 365 to route mail to the on-premises server. 7) Clear the Outlook autocomplete cache for the recipient address and re-enter the full email address manually when resending. These steps help prevent mail loops and ensure proper mail delivery.",
+    "keywords": [
+      "Office 365",
+      "email delivery failure",
+      "554 5.4.14",
+      "mail loop",
+      "hop count exceeded",
+      "unknown recipient",
+      "mail flow configuration",
+      "MX records",
+      "hybrid environment",
+      "directory synchronization",
+      "outbound connector",
+      "internal relay",
+      "authoritative domain",
+      "autocomplete cache",
+      "email forwarding rules"
+    ],
+    "category": "Error Resolution"
+  }
+}

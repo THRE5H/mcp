@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the cumulative average for Argentina did not start on the correct date, leading to inaccurate data representation.
+
+**Context**: The user is an external user from a Customer Organization utilizing a data analytics service provided by a Service Provider. The issue arose during a routine data analysis process.
+
+**Solution**: The Support Agent investigated the data settings and identified a configuration error in the date parameters. After correcting the settings, the cumulative average was recalibrated to start from the appropriate date, resolving the issue. It is recommended that users regularly verify date settings when configuring data analytics tools to prevent similar issues.

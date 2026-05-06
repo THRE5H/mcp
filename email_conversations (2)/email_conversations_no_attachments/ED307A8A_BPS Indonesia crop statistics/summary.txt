@@ -1,0 +1,5 @@
+**Problem**: The customer is seeking guidance on where to input the 2024 BPS crop statistics data, as it is missing from the report. They are also inquiring about the required format for this data.
+
+**Context**: The user is an external user from a Customer Organization working with crop statistics. The inquiry pertains to the integration of new data into an existing report, specifically related to agricultural statistics.
+
+**Solution**: The Support Agent provided instructions on the appropriate section of the reporting system for data input and clarified the required format for submission. The customer was advised to follow the guidelines to ensure proper integration of the statistics into the report.

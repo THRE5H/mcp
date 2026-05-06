@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific datasets from the system.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance from the Service Provider's support team. The request involved multiple datasets related to livestock statistics.
+
+**Solution**: The Support Agent confirmed the completion of the deletion request. It is recommended for users to verify dataset names before submitting deletion requests to ensure accuracy.

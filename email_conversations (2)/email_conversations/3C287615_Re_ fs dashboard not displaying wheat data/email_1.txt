@@ -1,0 +1,20 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Nader Ltaief
+Date: 2025-11-13 18:55:12.385000+00:00
+Subject: Re: fs dashboard not displaying wheat data
+Message-ID: ZR3P278MB12263C71BADE959A6A13C0B8F5CDA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071781A47030D6DAD30F34ABEBCDA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 13 November 2025 18:44
+To: Support Dnext <support@dnext.io>
+Subject: fs dashboard not displaying wheat data 
+ 
+hi, the arg fs works for other products but not for wheat.
+

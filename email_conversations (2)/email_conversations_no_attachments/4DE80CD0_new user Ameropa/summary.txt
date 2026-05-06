@@ -1,0 +1,5 @@
+**Problem**: The customer requested access for a new user at their organization, specifically for the email address ediz.yolcu@ameropa.com.
+
+**Context**: The request was made by a Senior Analyst from Customer Organization, seeking to provide access to a new colleague. The issue involves user account management within the Service Provider's system.
+
+**Solution**: The Support Agent confirmed that access was granted to the requested email address. It is recommended to ensure that all new user requests are submitted promptly to avoid delays in access provisioning.

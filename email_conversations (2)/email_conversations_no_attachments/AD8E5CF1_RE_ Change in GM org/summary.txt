@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new manager to the GM distribution list for weekly commodity reports and to remove the previous manager who has changed roles.
+
+**Context**: The user is an external user (Sourcing Associate Manager) from a Customer Organization. The request involves updating a distribution list related to weekly commodity reports within the context of organizational changes.
+
+**Solution**: The Support Agent confirmed that the new manager, Daniel, has been successfully added to the GM distribution list. It is recommended to regularly review distribution lists following organizational changes to ensure all relevant personnel receive necessary communications.

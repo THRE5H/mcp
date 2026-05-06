@@ -1,0 +1,57 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-12-03 14:30:48.049000+00:00
+Subject: Add in for Trafigura
+Message-ID: ZR0P278MB0773667C08DCC497273D980A98D9A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber,
+
+ 
+
+Léo, in copy of this email, wants to access some data into excel.
+
+Is it possible to help him install the add-in please ? and show how to use.
+
+The dataset that he needs to access is the following, please make sure it is shared with Trafigura environment.
+
+"DATASET"."dnexr-structured-uscensus-gno-usa-tf_customs-monthly"
+
+ 
+
+I use an SQL power query myself, this is what I do.
+
+The goal would be to replicate the output of this on his excel.
+
+ 
+
+Thanks !
+
+ 
+
+****THE SQL CODE BELOW***
+
+ 
+
+SELECT "Country Partner":"Name"::string as "Country Partner", "Trade Direction":"Code"::string as "Trade Direction",
+
+CASE 
+
+    WHEN LEFT("Product":"Source",4) = '1501' THEN 'FATPAP' 
+
+    WHEN LEFT("Product":"Source",4) = '1502' THEN 'FATBAS'
+
+    WHEN LEFT("Product":"Source",4) = '1503' THEN 'LARD'
+
+    WHEN LEFT("Product":"Source",4) = '1516' THEN 'UCO1516'
+
+    WHEN LEFT("Product":"Source",4) = '1518' THEN 'UCO1518' 
+
+    ELSE '' 
+
+END as "Product", "Quantity", "Date Reporter"
+
+FROM "DATASET"."dnexr-structured-uscensus-gno-usa-tf_customs-monthly"
+
+WHERE LEFT("Product":"Source",4) IN ('1501','1502','1503','1516','1518')

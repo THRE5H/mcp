@@ -1,0 +1,5 @@
+**Problem**: The customer requested the login credentials for a new user, Yago, who needed access to the system.
+
+**Context**: The customer is an external user from Customer Organization requesting support from the Service Provider. The inquiry pertains to user account management within the Service Provider's system.
+
+**Solution**: The Support Agent confirmed that an account for Yago had been created and that the login credentials were sent directly to Yago's email address. It is recommended that users check their email for credentials and ensure they have access to the registered email account.

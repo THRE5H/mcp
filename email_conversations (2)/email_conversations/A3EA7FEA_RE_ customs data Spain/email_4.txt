@@ -1,0 +1,107 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Jennie Campbell; Support Dnext
+Date: 2025-02-26 11:21:08.332000+00:00
+Subject: RE: customs data Spain
+Message-ID: GV0P278MB1320A754A9A59D406BAFE531F8C22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SJ0PR22MB255766E7F6144BBF5004BEEDFEC22@SJ0PR22MB2557.namprd22.prod.outlook.com
+
+================================================================================
+
+Hello Jennie 
+
+Thank you for reaching out ! 
+
+ 
+
+It seems that the automatic data refresh scheduling is not working as expected. 
+
+ 
+
+As a result, the data was not up to date and required a manual refresh. 
+
+ 
+
+Now, the data is displayed correctly in the tradematrix.
+
+ 
+
+We are currently working on fixing the issue with the automatic refresh scheduling, and it should be resolved soon.
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Jennie Campbell <jennie.campbell@viserion.co> 
+Sent: Wednesday, February 26, 2025 6:51
+To: Support Dnext <support@dnext.io>
+Subject: customs data Spain
+
+ 
+
+Hello,
+
+ 
+
+The tradematrix is only showing data through Nov-24 (see 2nd screenshot below). The details says that Dec-24 is available. Do you know why it is not showing up?
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Thanks
+
+Jennie
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Jennie Campbell
+
+Viserion Management Company
+
+914-860-5692
+
+ 

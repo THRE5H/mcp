@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Nader Ltaief
+Date: 2025-11-05 22:37:18.498000+00:00
+Subject: Re: remove total line in this dashboard
+Message-ID: ZR3P278MB1226E34C4507AE537951395FF5C5A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB071244F50C0C543E454982CDEBC5A@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+Attachments: Outlook-3vhndnx2.png
+
+================================================================================
+
+Hello, 
+
+Done
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 05 November 2025 18:15
+To: Support Dnext <support@dnext.io>
+Subject: remove total line in this dashboard 
+ 
+https://dnexr.dnext.io/dashboard/*/SND/Canada/ff461a5f-0e61-4c9c-9a98-8fb20ef78164
+

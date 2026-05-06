@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the historical data displayed on the dashboard has been reduced from 24 months to only 12 months, and they are inquiring about who made this change.
+
+**Context**: The user is an external user from a Customer Organization utilizing a data dashboard service provided by a Service Provider. The issue pertains to the historical data retention settings of the dashboard feature.
+
+**Solution**: The Support Agent investigated the dashboard settings and confirmed that a recent update inadvertently altered the historical data retention period. The issue was resolved by restoring the settings to display 24 months of historical data. It is recommended to regularly review dashboard configurations after updates to prevent similar issues in the future.

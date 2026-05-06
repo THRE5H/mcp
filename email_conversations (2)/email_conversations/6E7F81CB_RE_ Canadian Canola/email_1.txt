@@ -1,0 +1,98 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Matias Meligrana; Bastien Lambert
+Date: 2025-04-15 13:54:54.563000+00:00
+Subject: RE: Canadian Canola
+Message-ID: GV0P278MB1320F14BD65C3B3E08F8C993F8B22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AS8P120MB0456926AA631AD8B8627BB0D90B32@AS8P120MB0456.EURP120.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Matias,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+You’re right to notice the discrepancy between the values in the Supply and Demand Report and the TradeMatrix. The reason for this difference lies in the way the crop year is defined in each report:
+
+ 
+
+*	Supply and Demand Report (S&D): The crop year starts in August and ends in July.
+
+ 
+
+*	TradeMatrix: The crop year starts in October and ends in September.
+
+ 
+
+Because of this, the yearly values in the two reports do not match exactly.
+
+ 
+
+To Align the Data:
+
+ 
+
+If you download the TradeMatrix and filter it by the months that correspond to the same crop year as in the SND report, the values will match.
+
+
+
+ 
+
+ 
+
+Please let me know if you have any more questions.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Matias.Meligrana@shell.com <Matias.Meligrana@shell.com> 
+Sent: Monday, April 14, 2025 21:26
+To: Bastien Lambert <bastien.lambert@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Kurt.Stangl@shell.com; Kieran.Parker@shell.com
+Subject: Canadian Canola
+
+ 
+
+Hi Dnext support, can you please confirm if those 2 numbers should match? The ones coming from Supply/Demand Dnext relative to Trade Flows (i.e. exports). 
+
+ 
+
+Hi Bastien, we are starting to get more involved in canola Winnipeg futures, whatever you see/find, etc please let’s know.
+
+ 
+
+Thanks
+
+ 
+
+Matias
+
+ 
+
+________________________________
+
+Companies within the Shell Trading business may monitor, record and archive corporate communications for legal, regulatory and/or business purposes. Such communications will be controlled by Shell Energy North America (US) LP on behalf of all Shell Trading entities within the United States and by Shell International Trading and Shipping Company Ltd for all other Shell Trading entities (“Shell”). Shell processes such corporate communications, including any communications transferred to and/or received from third parties, across various corporate communication channels (e.g., e-mail, voice call, instant messaging, etc.) in a legally compliant manner. Do not include any personal data, including sensitive personal data, in your corporate communications and do not transfer or share any personal data that you may receive from a third party. Any communication deemed to include personal data will be reported as a data privacy breach. To understand how Shell processes your personal data, please refer to the Shell Global Privacy Notice at link https://www.shell.com/privacy/ex-employee-notice.html <https://www.shell.com/privacy/ex-employee-notice.html> . 

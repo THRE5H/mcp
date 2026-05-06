@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log in to the platform and requested assistance to check their access and obtain the updated login link.
+
+**Context**: The user is an external user from a trading company seeking access to a service provider's platform. The issue arose on October 29, 2025, when the user attempted to log in but encountered difficulties.
+
+**Solution**: The support agent confirmed that a user account was created for the customer and provided the login credentials and platform URL via private message. The customer was encouraged to reach out for further assistance if needed.

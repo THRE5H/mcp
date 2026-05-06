@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing an issue where the configuration for “DNEXR – Vegoils” is not being set to official after May, and the matrix is incorrectly filling SFO with 0s instead of the expected forecast.
+
+**Context**: The user is an external user from a Customer Organization utilizing the Tradeflow feature. The issue arises from the configuration settings related to trade priority rules, specifically concerning updates and forecasts.
+
+**Solution**: The Support Agent addressed the issue, indicating that it should be resolved. It is recommended to verify the configuration settings regularly to ensure that updates reflect correctly in the matrix and to monitor forecasts closely to prevent similar issues in the future.

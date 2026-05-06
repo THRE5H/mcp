@@ -1,0 +1,104 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Jebrane Ben Salem; Pablo Figueroa; Saber Khalfallah; Support Dnext
+Date: 2025-11-19 10:43:52.384000+00:00
+Subject: Re: ARG TRuck arrivals dashboard not updated
+Message-ID: ZRAP278MB05271A43856539397945F4D396D7A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12266C95C7621C3B0371FC62F5D7A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+The latest values are displayed when you select others , it seems in the script that the column region is flagged as unknown 
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, November 19, 2025 10:02 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: ARG TRuck arrivals dashboard not updated 
+ 
+Yes @Nour Meddeb <mailto:nour.meddeb@dnext.io>  on it already
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 19 November 2025 10:01
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: ARG TRuck arrivals dashboard not updated 
+ 
+ok but data is not displaying. can we check this?
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, November 19, 2025 9:58 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: ARG TRuck arrivals dashboard not updated 
+
+The dashboard was refreshed yesterday 6pm with API 
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 19 November 2025 09:55
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: ARG TRuck arrivals dashboard not updated
+ 
+dashboard is not updated. maybe is an issue related to the dashboard?
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Wednesday, November 19, 2025 9:50 AM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: RE: ARG TRuck arrivals dashboard not updated
+ 
+
+Hello ,
+
+ 
+
+That is the last data available on the source , it has not been updated yet.
+
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, November 19, 2025 9:45
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: Re: ARG TRuck arrivals dashboard not updated
+
+ 
+
+Adding @Nour Meddeb <mailto:nour.meddeb@dnext.io> 
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: 19 November 2025 09:38
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: ARG TRuck arrivals dashboard not updated
+
+ 
+
+

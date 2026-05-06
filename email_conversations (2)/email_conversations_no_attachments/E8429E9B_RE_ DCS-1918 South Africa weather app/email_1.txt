@@ -1,0 +1,68 @@
+From: Michel Nicaise <michel.nicaise@ameropa.com>
+To: Support Dnext
+Date: 2025-11-11 11:14:07.444000+00:00
+Subject: RE: DCS-1918 South Africa weather app
+Message-ID: GVAP278MB0584AD597544BF43C9E980AA82CFA@GVAP278MB0584.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0101019a725ec588-084d9f3d-2f58-4721-ae09-abb7d20a7ad6-000000@us-west-2.amazonses.com
+
+================================================================================
+
+Thank you for the quick fix, Saber. 
+
+
+have a good day
+
+
+
+Best regards / Meilleures salutations,
+
+Michel Nicaise
+
+Phone: +41 (0) 58 531 29 57
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net> 
+Sent: 11 November 2025 11:03
+To: Michel Nicaise <michel.nicaise@ameropa.com>
+Subject: DCS-1918 South Africa weather app
+
+ 
+
+	External email warning: Please exercise caution when clicking links or opening attachments. 
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Michel,
+
+The south Africa precipitation dashboard has been fixed.
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/39194/attachment/27346> 
+
+Others should be fixed soon as well.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/39194/attachment/27345> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1918?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImNhODQzNjNmNGE1YzVjOWY5NTU5NzU0NzEwYzhlOGNjYzJiYzkxMzk2Mzg5NmRiN2E4NDJiYWNlYTA0OWVlYzMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwNzYiLCJpc3N1ZSI6IkRDUy0xOTE4In0sImV4cCI6MTc2NTI3NDYwMywiaWF0IjoxNzYyODU1NDAzfQ.9vXFAA44H6186JpGQxpcd8QLeVoZ4S0KJBx2sazoLNg&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1918/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjQ1OTZhYzYyOTQ4M2ZlZTg3Y2U0ODViYTA2MjlmNTY1YjExYjkzZWVhODdjNjU3OGRiZmZhMmU2MmIwMzM1NDYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjliMTYzMDhhLTEwYzMtNDQ5MC1hNzFkLWZkZGUzYTYxMDRjMCIsImlzc3VlIjoiRENTLTE5MTgifSwiZXhwIjoxNzY1Mjc0NjAzLCJpYXQiOjE3NjI4NTU0MDN9.a0gs9F3qwTfJEHdgi0P-e_iAgHbomf8OrbNVOWsq4tM> 
+
+This is shared with Ameropa and Michel Nicaise.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on November 11, 2025 11:03:23 AM CET 
+
+

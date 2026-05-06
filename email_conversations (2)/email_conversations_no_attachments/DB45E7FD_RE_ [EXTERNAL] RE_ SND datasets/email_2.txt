@@ -1,0 +1,102 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Robero Ruiz; Saber Khalfallah
+Date: 2025-09-25 11:01:25.188000+00:00
+Subject: RE: [EXTERNAL] RE: SND datasets
+Message-ID: GV0P278MB02116C782738BDBB4A9F497E981FA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB2381E5DCC40C7334D606A1268D1FA@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Can u check and see if you have the update on your side?
+
+Tks for confirming.
+
+gg
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: Thursday, 25 September 2025 10:34
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] RE: SND datasets
+
+ 
+
+Noted Gg, many thanks.
+
+ 
+
+Rgds
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Thursday, September 25, 2025 10:24 AM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] RE: SND datasets
+
+ 
+
+My bad. I forgot to run the process. Doing it now
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Thursday, 25 September 2025 10:19
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: SND datasets
+
+ 
+
+Hi Saber,
+
+ 
+
+Quick note, I’m unable to see the latest updates in the following SND datasets:
+
+ 
+
+Corn
+
+'thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674'
+
+ 
+
+Soybeans
+
+'thul-4c8d416c-7f52-4f39-8643-a386e4c3a443'
+
+ 
+
+ 
+
+Can you please let me know once these datasets are updated? Last values I see are from Sep 10.
+
+ 
+
+Thanks!
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

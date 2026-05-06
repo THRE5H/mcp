@@ -1,0 +1,79 @@
+From: Philippe De Oliveira <p.deoliveira@averecomm.com>
+To: Saber Khalfallah
+Date: 2025-04-09 19:25:12.343000+00:00
+Subject: Re: Sugar TradeMatrix update
+Message-ID: AS8PR08MB642140AB24DE083B595A193280B42@AS8PR08MB6421.eurprd08.prod.outlook.com
+In-Reply-To: GV0P278MB132062080E6E122EFC6B8F46F8B52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: image002.png
+
+================================================================================
+
+many thanks Saber !
+
+We will look into it asap.
+
+Regards
+Philippe 
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Tuesday, April 8, 2025 4:20 PM
+To: Philippe De Oliveira <p.deoliveira@averecomm.com>
+Cc: Support Dnext <support@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Sugar TradeMatrix update 
+ 
+	You don't often get email from saber.khalfallah@dnext.io. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification> 
+	
+
+Hello Philippe,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+We would like to inform you that the fixes to the ‘Raw Sugar Tradeflow’ have been completed. You can now easily differentiate between actual values and forecasted values when downloading the data, by using the ‘Forecast’ column.
+
+*	If the value in the ‘Forecast’ column is TRUE, it indicates that the row contains a forecasted value.
+*	If the value in the ‘Forecast’ column is FALSE, it indicates that the row contains an actual value.
+*	You can also distinguish the actual values and the forecasted values when visualizing the trade matrix (see the image below for visual aid)
+
+
+
+
+ 
+
+We are now working on the white 100s sugar , White 150s sugar and Refined Sugar  tradematrixes to implement the same feature on them as well , and we will let you know once it’s done
+
+ 
+
+If you have any questions or inquiries , please feel free to reach out to us .
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

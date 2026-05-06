@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the platform, specifically asking for the link and password to log in.
+
+**Context**: The user is a Senior Trader from the Customer Organization, seeking onboarding access to the Dnext platform. The request was made after a previous confirmation that the setup for the Customer Organization had been completed.
+
+**Solution**: The Support Agent forwarded the request to the support team, who will create and send the necessary credentials to the user. It is recommended that the user check their email for the credentials and reach out to support if any issues arise.

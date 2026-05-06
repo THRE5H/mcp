@@ -1,0 +1,93 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rafael Bucciarelli; Support Dnext
+Date: 2025-05-16 11:12:02.996000+00:00
+Subject: RE: units in trade flow data
+Message-ID: GV0P278MB1320F0333F865134AF536628F893A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: SA1PR11MB8543A7B31181A7ECA43B9331968BA@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hello Rafael , 
+
+ 
+
+Apologies for the delayed response.
+
+ 
+
+We are currently working on implementing the unit in the Tradematrix visual and API data, we will let you know once it’s implemented
+
+ 
+
+For the ethanol Tradematrix it’s in Megaliters (1million liters).
+
+As for the rest most of them are in 1000MT.
+
+ 
+
+If you have doubts about a certain Tradematrix’s unit, please do not hesitate to reach out.
+
+Please let us know if you have any more questions or concerns
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com> 
+Sent: Thursday, May 8, 2025 16:36
+To: Support Dnext <support@dnext.io>
+Subject: units in trade flow data
+
+ 
+
+Hi, 
+
+ 
+
+Is there any way to see units in the trade matrix data? For example the ethanol one?
+
+ 
+
+Best, 
+
+Rafael
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

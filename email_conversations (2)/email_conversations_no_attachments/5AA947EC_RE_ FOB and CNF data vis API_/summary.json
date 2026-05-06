@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users want to access Corn and Soybean FOB and CNF price data via the platform's API but cannot find the relevant datasets in the dataset list.",
+    "solution": "The FOB and CNF price data for Corn and Soybeans are available via the API under specific dataset codes. For World Corn CNF Updates, use the dataset code 'vam-a410fb85-d8ab-11ef-82fc-06cd53a4d901'. For Soybean world CNF daily data, use the dataset code 'vam-b327c07f-efd6-11ef-bba5-0a84c630a3f1'. Users can query these datasets through the API to retrieve the relevant FOB and CNF price information.",
+    "keywords": [
+      "FOB prices",
+      "CNF prices",
+      "API access",
+      "dataset codes",
+      "Corn CNF",
+      "Soybean CNF",
+      "price data",
+      "data retrieval",
+      "API datasets"
+    ],
+    "category": "How-to Guide"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unable to access or visualize data on a specific dashboard related to Argentina Crop Condition and Progress.",
+    "solution": "The dashboard issue was fixed by support. Users should be aware that the dashboard loads a heavy amount of data, which may cause some delay in loading times. After the fix, users should be able to visualize the data normally. If difficulties persist, users are advised to report them for further assistance.",
+    "keywords": [
+      "dashboard",
+      "data visualization",
+      "loading issue",
+      "Argentina crop progress",
+      "heavy data load",
+      "dashboard fix",
+      "data access"
+    ],
+    "category": "Platform Navigation"
+  }
+}

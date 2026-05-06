@@ -1,0 +1,5 @@
+**Problem**: The customer requested a one-week trial of services for INCASI related to Vegoils and needed confirmation when the credentials would be provided to the users.
+
+**Context**: The user is an internal user from the Customer Organization coordinating a trial service for a partner company, INCASI. The trial is set to take place on a demo environment provided by the Service Provider.
+
+**Solution**: The Support Agent confirmed that the demo environment is ready and credentials can be sent immediately. The customer was advised to check the environment for any necessary adjustments before proceeding.

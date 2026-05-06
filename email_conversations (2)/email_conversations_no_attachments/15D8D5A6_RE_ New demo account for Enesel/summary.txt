@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a demo account for two users associated with Enesel.
+
+**Context**: The customer is an external user (CEO & Co-Founder) from a Customer Organization seeking a demo account for a trial involving commodities. The request was made to the Support Team of the Service Provider.
+
+**Solution**: The Support Agent confirmed that the demo account was successfully created and sent to the users' inboxes. It is recommended to ensure that all users are informed of their account details to facilitate access.

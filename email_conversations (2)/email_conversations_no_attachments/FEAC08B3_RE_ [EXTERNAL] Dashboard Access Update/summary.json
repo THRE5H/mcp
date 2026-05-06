@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users are unable to access certain dashboards due to deprecated links and experience changes in dataset download formats where downloads now provide zipped folders containing split dataset chunks instead of single files.",
+    "solution": "For dashboard access issues caused by deprecated links, users should use the updated dashboard URLs provided by support, which reflect the current environment and resource identifiers. Regarding dataset downloads, large datasets are now split into multiple CSV files within a zipped folder to facilitate management of large files. To use the dataset, users must download the zipped folder and merge all CSV files together to reconstruct the full dataset. This approach is a permanent change to handle large datasets, and users should be informed to merge files after download. For smaller datasets, improvements are planned to allow single-file downloads.",
+    "keywords": [
+      "dashboard access",
+      "deprecated link",
+      "updated URL",
+      "dataset download",
+      "zipped folder",
+      "split CSV files",
+      "merge CSV files",
+      "large dataset management",
+      "DNEXR",
+      "data download format"
+    ],
+    "category": "How-to Guide"
+  }
+}

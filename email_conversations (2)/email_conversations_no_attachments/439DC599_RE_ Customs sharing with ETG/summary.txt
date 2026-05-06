@@ -1,0 +1,5 @@
+**Problem**: The customer requested the sharing of all customs datasets and specific dashboards with ETG, emphasizing urgency due to their oilseeds scope.
+
+**Context**: The user is an external user from Customer Organization requesting data from the Service Provider. The request involves sharing customs datasets and dashboards relevant to oilseeds, indicating a need for timely data access.
+
+**Solution**: The Support Agent confirmed that the Customs Calendar and Price Scenario dashboards were shared with ETG. However, certain customs datasets could not be shared due to compliance issues, with a list of blocked datasets provided. It is recommended to ensure compliance checks are in place for future data sharing requests.

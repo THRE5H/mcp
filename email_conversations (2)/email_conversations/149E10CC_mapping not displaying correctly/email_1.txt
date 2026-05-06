@@ -1,0 +1,15 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-28 07:00:15.115000+00:00
+Subject: mapping not displaying correctly
+Message-ID: GV0P278MB07173C59EB6B670B960C773AEB872@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping
+DNext <https://dnexr.dnext.io/datasets/dnexr-ahdb-grains-gbr-snd-item-monthly-1/edit/mapping> 
+DNext
+dnexr.dnext.io
+
+

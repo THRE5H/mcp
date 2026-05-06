@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to historical estimates for a wheat data set (zimb-1a841727-e30f-11ef-b5ba-0a72732f38e5) but found that only the most recent version of estimates was available.
+
+**Context**: The customer is an external user from a Customer Organization seeking assistance from a Support Agent at a Service Provider. The request involves a specific wheat data set and relates to data accessibility.
+
+**Solution**: The Support Agent confirmed that the historical estimates were made available on the platform, providing the customer with the new dataset code (zimb-bb4b2d14-2b3c-11f0-acd2-02abcd39fb87). The customer was advised to reach out for further assistance if needed.

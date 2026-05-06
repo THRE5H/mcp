@@ -1,0 +1,207 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: John Stansfield; Support Dnext
+Date: 2025-07-15 11:18:00.747000+00:00
+Subject: RE: DL-RAIZEN
+Message-ID: GV0P278MB132054F150D40203693086DBF857A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0605B2287495958B278BDF318557A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello ,
+
+ 
+
+It’s done.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io> 
+Sent: Tuesday, July 15, 2025 11:08
+To: Support Dnext <support@dnext.io>
+Subject: DL-RAIZEN
+
+ 
+
+Please can you amend DL-Raizen to remove the address below
+
+ 
+
+Thanks
+
+ 
+
+ 
+
+ 
+
+________________________________
+
+From: Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@dnext.io <mailto:MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@dnext.io> >
+Sent: 15 July 2025 07:32
+To: Jonathan.Garcia@raizen.com <mailto:Jonathan.Garcia@raizen.com>  <Jonathan.Garcia@raizen.com <mailto:Jonathan.Garcia@raizen.com> >
+Subject: Undeliverable: DNEXT: Brazil Sugar Lineups
+
+ 
+
+ <https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470> 
+
+Your message to Jonathan.Garcia@raizen.com <mailto:Jonathan.Garcia@raizen.com>  couldn't be delivered.
+
+Jonathan.Garcia wasn't found at raizen.com.
+
+john.stansfield
+
+Office 365
+
+Jonathan.Garcia
+
+Action Required
+
+	Recipient
+
+					
+Unknown To address
+
+		
+
+ 
+
+How to Fix It
+
+The address might be misspelled or might not exist. Try one or more of the following:
+
+*        Retype the recipient's address, then resend the message - If you're using Outlook, open this non-delivery report message and click Send Again from the menu or ribbon. In Outlook on the web, select this message, and then click the "To send this message again, click here." link located just above the message preview window. In the To or Cc line, delete and then retype the entire recipient's address (ignore any address suggestions). After typing the complete address, click Send to resend the message. If you're using an email program other than Outlook or Outlook on the web, follow its standard way for resending a message. Just be sure to delete and retype the recipient's entire address before resending it.
+
+*        Remove the recipient from the recipient Auto-Complete List, then resend the message - If you're using Outlook or Outlook on the web, follow the steps in the "Remove the recipient from the recipient Auto-Complete List" section of this article <https://go.microsoft.com/fwlink/?LinkId=532972> . Then resend the message. Be sure to delete and retype the recipient's entire address before clicking Send.
+
+*        Contact the recipient by some other means, (by phone, for example) to confirm you're using the right address. Ask them if they've set up an email forwarding rule that could be forwarding your message to an incorrect address.
+
+If the problem continues, ask the recipient to tell their email admin about the problem, and give them the error (and the name of the server that reported it) shown below. It's likely that only the recipient's email admin can fix this problem.
+
+
+Was this helpful? Send feedback to Microsoft <https://go.microsoft.com/fwlink/p/?LinkID=717197> .
+
+________________________________
+
+
+More Info for Email Admins
+
+Status code: 550 5.4.1
+
+This error occurred because a message was sent to an email address hosted by Office 365, but the address doesn't exist in the receiving organization's Office 365 directory. Directory Based Edge Blocking (DBEB) is enabled for raizen.com, and DBEB rejects messages addressed to recipients who don't exist in the receiving organization's Office 365 directory. This error is reported by the recipient domain's email server, but most often it can be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:
+
+Check that the email address exists and is correct - Confirm that the recipient address exists in your Office 365 directory, is correct, and is accepting messages.
+
+Synchronize your directories - Make sure directory synchronization is working correctly, and that the recipient's email address exists in both Office 365 and in your on-premises directory.
+
+Check for errant forwarding rules - Check for forwarding rules for the original recipient that might be trying to forward the message to an invalid address. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Forwarding or Inbox Rules features.
+
+Make sure the recipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license to them (Users > Active Users > Select the recipient > Assigned License > Edit).
+
+Make sure that mail flow settings and MX records are correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are set up correctly.
+
+For more information and additional tips to fix this issue, see this article <https://go.microsoft.com/fwlink/?LinkId=532972> .
+
+Original Message Details
+
+Created Date:
+
+7/15/2025 6:32:27 AM
+
+Sender Address:
+
+john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> 
+
+Recipient Address:
+
+Jonathan.Garcia@raizen.com <mailto:Jonathan.Garcia@raizen.com> 
+
+Subject:
+
+DNEXT: Brazil Sugar Lineups
+
+
+Error Details
+
+Error:
+
+550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [MWH0EPF000989E8.namprd02.prod.outlook.com 2025-07-15T06:32:35.922Z 08DDBF5D36BDC332]
+
+Message rejected by:
+
+MWH0EPF000989E8.mail.protection.outlook.com
+
+
+Notification Details
+
+Sent by:
+
+ZR5P278MB2083.CHEP278.PROD.OUTLOOK.COM
+
+ 
+
+Message Hops
+
+HOP
+
+TIME (UTC)
+
+FROM
+
+TO
+
+WITH
+
+RELAY TIME
+
+1
+
+7/15/2025
+6:32:27 AM
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+mapi
+
+*
+
+2
+
+7/15/2025
+6:32:28 AM
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+ZR5P278MB2083.CHEP278.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+1 sec
+
+Original Message Headers
+
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none; b=H4E8XLSHrEXdnGcZqJnfOBf55Il8eTtn4JI9HdGrsmypIGxzpSGg3wXvAGfZHrDvecCpq3ULjIYDOr2zdcqGuRfoz8N/zvBxjKzQzVL0Al+pHTNLQn1nMf/flBI3psoboHHpmPCxWuVhPNy850lZZlZUdoHlcaJJNc88MGTFaRPGNyytlqKONtdlRuEq0M0ZVf/stHEO5rerNPHqpDiqmukSf8NEGlfnBUqOB+LtvSFo35CnaJer1PNzK9n67camXFw1zvOwSazK9VKSoTO6bxM9u5kCSX38jK6UWfMCtvmbwqyhwMZ0HgK3yP3SNtolNMRsIr5djTe4+ETipoydJw== ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=zUj7+Bt2+/7f9LQCgFv/X9sXwonDa61ykl/s3aat2Mc=; b=pdDFIrgO5jSJWzE+3PhS1eg9h3VL+vrnBRDcOO67L20IaT3tLHHZBx82Z9Aiytw91IKeNcbeBibImPa4AhpNQGc/CKJPyy7Ntg8npfOXvH0WYnZuqW7A1Asw9X+7oppoondgFdyMxgjJAloydWHAG7IO66wUuqn4GJrvNa1x3zOnCPNhcjsIEnUS3ugF4WnudykKeAFEJvtXGtNIJFmfMigV0OrtC5UDucPU/cR28UpW2uCGgV6dC5+UXL1v49IObVjasVl5cB8xywuZnCQ95qkR3F/dzjnySjc+KdTW3nhMnMNZkpPe+wSYxupkq4NYln1i2arlq29ED8s8v6msig== ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io; dkim=pass header.d=dnext.io; arc=none DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=zUj7+Bt2+/7f9LQCgFv/X9sXwonDa61ykl/s3aat2Mc=; b=dBagJ/GrFKlWJZZUE/+2AbeRArhNi5nvnoL//gXUyi1JdS9ECf6iKiMjDX2dRYfcXpTRHnjGsJZ9IHRMkaqliIMBz2Fu21I9/pqr4dpvx2tWK8gu354qemOs/yL+gwpxbE8esLj6lqT4zxJp/CYfWQrvS2NHRaYX/maiXGkQs2dhqDOddu0JQqddsC5Y2WCKYAYgXGFFW8K/zEu/jAnizFoSgWaYqt/SyXQk/TCLDFQ4jKSBGui+6iyMF67uUxSTOcjA1YKiB3UgfxcE6RVwEZTjRJmTqU2Z7+YeZ31dk2embInBevY7G52T0NQ40mccZbzAQ4N9N2KGEhg9AW0P9Q== Received: from GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:40::6) by ZR5P278MB2083.CHEP278.PROD.OUTLOOK.COM (2603:10a6:910:b0::15) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8922.32; Tue, 15 Jul 2025 06:32:28 +0000 Received: from GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM ([fe80::ec78:f76f:1e1b:a377]) by GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM ([fe80::ec78:f76f:1e1b:a377%5]) with mapi id 15.20.8922.028; Tue, 15 Jul 2025 06:32:27 +0000 From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > Subject: DNEXT: Brazil Sugar Lineups Thread-Topic: DNEXT: Brazil Sugar Lineups Thread-Index: AQHb9VGFDXI1v+gW/UKm87nd8al/xbQyuP3q Date: Tue, 15 Jul 2025 06:32:27 +0000 Message-ID: <GV0P278MB06052B9F671091F54E9C5CBC8557A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB06052B9F671091F54E9C5CBC8557A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM> > References: <GV0P278MB01135E2DB8069FC6CCE6FE24EA57A@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01135E2DB8069FC6CCE6FE24EA57A@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM> > In-Reply-To: <GV0P278MB01135E2DB8069FC6CCE6FE24EA57A@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB01135E2DB8069FC6CCE6FE24EA57A@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM> > Accept-Language: en-US Content-Language: en-GB X-MS-Has-Attach: yes X-MS-TNEF-Correlator: msip_labels: authentication-results: dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=dnext.io; x-ms-publictraffictype: Email x-ms-traffictypediagnostic: GV0P278MB0605:EE_|ZR5P278MB2083:EE_ x-ms-office365-filtering-correlation-id: 7ea961e3-4a12-4fbf-3514-08ddc3695e27 x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr x-ms-exchange-senderadcheck: 1 x-ms-exchange-antispam-relay: 0 x-microsoft-antispam: BCL:0;ARA:13230040|376014|1800799024|7416014|366016|4053099003|27013499003|8096899003|38070700018; x-microsoft-antispam-message-info: =?iso-8859-1?Q?cuk9ZJKPVk7L6hLhytpCjWeNAnZTN9mJVtO7i6Rw6Z97onJGYwZuTjeB4I?= =?iso-8859-1?Q?v+6OUVWsgUk3tyQ+QdcEBF3vmRwsn/UNYDRlNWZUzTTI/LUXSX3pzBYDer?= =?iso-8859-1?Q?R86lzmQcC3Kya0Q1tJdp/yg0JEtuI/21ol+8ivJXQ0zkzS3/xpcp9VH9Sp?= =?iso-8859-1?Q?7T2WZvR7kAbbZxcpazJeKIN3vVrxTlJpPXOpMHDZ/FOPilOUXWii6nGfAx?= =?iso-8859-1?Q?usa1MUbxBPnXGk8nBySdHiFuj9ymBkJC4aGOgRZ4eq/N4jhCbsyUOE38Tl?= =?iso-8859-1?Q?lvSEIpsVG8SPdjqT6dC364ukj6u+3dQFpYnpRjKgkycB7oKYFvasglcqzT?= =?iso-8859-1?Q?GBvRkNvryvTCVTKucuj2jcnpUjer7MuRjBD5aPH62wZ0WnWjnAcZ5TBqmb?= =?iso-8859-1?Q?w/zM4n4s+4SZrROFCquaMKKGAhebZSLq2CXh2MsRwav5j3n22nL+JlwboT?= =?iso-8859-1?Q?/dhhvqrS4kW5b1+ppmrCONImLfxZqx2AeNSO2UWQ2LG0pFv9vWcdTDTvL4?= =?iso-8859-1?Q?XYDc6P0oFGgsGycEzkzrK5LBstU1KN2QDj08jqlPpS52lczUNS/Ri5jtHR?= =?iso-8859-1?Q?B0pyfsOUE9Um0Q7kEOfPiffOUODcX4IF9eQs7Z+EtkxzAIOvZ+fO8levH1?= =?iso-8859-1?Q?CLXVE6G2Zoq12rYAvmkXEaVyfmdEjAjTVlkUo/4CyT/xlp600XdxNwEctw?= =?iso-8859-1?Q?xt+hyYBVIzcUTSRo/Q0jR08Y/wEmZCe0WccjwTk4rKzXteb2Lk7nOJIEk0?= =?iso-8859-1?Q?wHW+oCp/kLAXW/9WpdEeIAshzM1NWX4CPnDjoGn49bsR0JkpWKUPzofHA6?= =?iso-8859-1?Q?pS4rpLwbgjZYswYfpZfUvtoDI3XH7PKWt2732AnmtxLSBtFWbc4SMRcRul?= =?iso-8859-1?Q?NgPSitrTjwrG7Lwm0V1i/rzA9+I6Yjf4Nm0Zv/mS38InXwYJg7eTSRbGVw?= =?iso-8859-1?Q?oepNvpjfY8YhMIWvvrrPKxL1rNnwHDQa48e/dDp/aXBXI70CkEaPrDUURS?= =?iso-8859-1?Q?jAo59g7p+FX8YSNt+QReS8C9eyFS7jzgmPNYEXfdF+IkHkMqDFejwEXVc4?= =?iso-8859-1?Q?AsBN8fAZYKewkQiEnCGiyb3ooBIcxahWp7iQbxzdAP5ylSxxT/IudvaKS8?= =?iso-8859-1?Q?UTvQaWBPh5EMnbauZXeRJjNCvZCXDGj1U7o0FsUOhhtSd9oywlRBzSiat0?= =?iso-8859-1?Q?TiVoC/9XPndzLvcKQI2ZFQCM8rEzaea+PxrNQ5Lh18xlP4ytqNnW8ZjfRq?= =?iso-8859-1?Q?VdNAwCJrRZHT2jcLeB1nZbK6tGib+hWqdtspHjtaHYhcHBNinx8K1dxCS6?= =?iso-8859-1?Q?PKy91QzypAQuMazs2520KXT/t58LvBDzjJvYLqgbIBG+q5qKWHwv08i/xY?= =?iso-8859-1?Q?D9TdxynLlhAzBAx3XSelVZjT4OuJr85wkoyWNjk9dMxbfEKQrwi5Qvtruc?= =?iso-8859-1?Q?/mYSWUW2EGC+bEoBH3wkHFiVaJEO/coxk97ujety82+cNSBcFdMc8dKx6Y?= =?iso-8859-1?Q?Q=3D?= x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(376014)(1800799024)(7416014)(366016)(4053099003)(27013499003)(8096899003)(38070700018);DIR:OUT;SFP:1102; x-ms-exchange-antispam-messagedata-chunkcount: 1 x-ms-exchange-antispam-messagedata-0: =?iso-8859-1?Q?7rsX0bjXb/D9FRoZZ2RfkKkLq0e/axuLG8s9oVcAk9/DzmorLPox9tc5+g?= =?iso-8859-1?Q?ownlbHOb7WhfHd+flu75etRL95GjrpN9/b6hvihnTlJm7sL3q4WTGslhAK?= =?iso-8859-1?Q?CZBGVR2ybSumllcD+umIttRxR7voeoku6YYLmCN/lHs0n3gPYiA84et1cZ?= =?iso-8859-1?Q?3AtVEZn0dS1DbmEALIWnBtfK6npgR4x8vT96sZ2iUzZEWGDF+T68LH6JgT?= =?iso-8859-1?Q?d2AGktYqekKLVx1XTYaoW0x1c9OOQxFeWGS0Cm21RMGKQ4LNbVZn2LhpH4?= =?iso-8859-1?Q?AiA/Cgi2hbslvj6vc5ZOIICdi6T1IY4yC3Yqbia2j+oMjMwreZ82wTW2oC?= =?iso-8859-1?Q?hTVH5QDRaCVsFw4czw22Hc0TvTvZMlMJfikon+cVprjFUt/GEPAU9j2LlT?= =?iso-8859-1?Q?sG/kYmJckQCrnVdQ7dMgokItni4pAMe52+t5qPR2kc5vACv2yw8T6eyPKo?= =?iso-8859-1?Q?Hxn2095iHdtAE/uCc6Wvj152B51Fn3EO7bsE90e0DxMWwnIS46gOyHgLm3?= =?iso-8859-1?Q?POp9uX/f25YhH/YSsN4dER+VgpPr9tCApH2Y+o6PjrTf12uxMtS9zgrJ9o?= =?iso-8859-1?Q?ahIbAgStk7ZwI1nmYY8K7yS66P5p3P9xo5FSuk8epuBFQobznLT/R9T5GG?= =?iso-8859-1?Q?t3CHURxplyN0tLcT0nsDYaosPcgEfskg5Of0cMnXn92De+xeDJIGF/0I1/?= =?iso-8859-1?Q?+fzf5uFGAvRBpQwGFZLKZOCOZZx0lCjfwJJGV8XDo6yl0qaoDNcmZJQtyP?= =?iso-8859-1?Q?Yv41Ni1WikQdKJ+l+m+E3Qz5nV2PZgEBiMk6oW3N3sj0xhpJG0Cs4jopjJ?= =?iso-8859-1?Q?ACYWqDRmqU39bhJrffH7rwqSIiB0hTkM3Fddiw2leFu+uHkepm9gMthcJ6?= =?iso-8859-1?Q?Pri2oPoSGxb6hpnlavXoT7Z8PhdFO0k4w4SaJmsBnjjVe9HMbIix1HyKV1?= =?iso-8859-1?Q?elYi1WFQb43nqFBKDilzBtdHMqGpecA+0tUmmQdQq3jE3YY/EV7SGlM5v0?= =?iso-8859-1?Q?FK03h8INqJocSZpZid6DFCV06dL+oG2imgmh9Re5mV3Kv3qd2dtVWPGxob?= =?iso-8859-1?Q?PkftKypcgFjnUasfgBYk96Cadf4RJ+2BNiTMs4187PyUdLv1SNmfNCe0zX?= =?iso-8859-1?Q?6voEaYTZlf+3K+2ewO8ZKRHN9IZ0nX7WmYZh4ce+KMAk7vwmrDJgmpOuPb?= =?iso-8859-1?Q?j+jOZc8NcdXq+ybjBlXxwOTai9yDMbs5E/6Xhfbps55QRvxxzR65A4Su1L?= =?iso-8859-1?Q?k50igVmSOPBtkMdoCE1xSxOmolq8qLmvWylgIu2qvdldYdwiqq5PXyTe8t?= =?iso-8859-1?Q?dwDpXzdj4M70XXt5XVzJPcnRi5Cu1AnEqtIshmsDE1uQQWfJ2R6dT4afeX?= =?iso-8859-1?Q?dsS1QFwQq3t/kpMteRsHczJ2jW0WNbZMpV0b+0G2uPJ8Drq7CKXPqVhQ2o?= =?iso-8859-1?Q?jQeXuNVoRKJgp8NKbav1s6ON8znzXjiChK3FtiZKTvedr065EYxVc0kaY/?= =?iso-8859-1?Q?rQRk8wzCRX2yTTQCBtMnNkf3SMdRY0x/EsFmibrSSj1nQy4g3yOdw2YvaF?= =?iso-8859-1?Q?xdVfT9zsZxBbiSZT3ZemzHsg024QEOl/M0DycuWzduXMfhFPEiKjjRIcQv?= =?iso-8859-1?Q?lnl4s1Brjt2T3yuQR26KzlWWYU84K4JGR6?= Content-Type: multipart/mixed; boundary="_009_GV0P278MB06052B9F671091F54E9C5CBC8557AGV0P278MB0605CHEP_" MIME-Version: 1.0 X-Auto-Response-Suppress: DR, OOF, AutoReply X-OriginatorOrg: dnext.io X-MS-Exchange-CrossTenant-AuthAs: Internal X-MS-Exchange-CrossTenant-AuthSource: GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM X-MS-Exchange-CrossTenant-Network-Message-Id: 7ea961e3-4a12-4fbf-3514-08ddc3695e27 X-MS-Exchange-CrossTenant-originalarrivaltime: 15 Jul 2025 06:32:27.4810 (UTC) X-MS-Exchange-CrossTenant-fromentityheader: Hosted X-MS-Exchange-CrossTenant-id: 6d921f92-f4ce-4ce0-acfa-926878510780 X-MS-Exchange-CrossTenant-mailboxtype: HOSTED X-MS-Exchange-CrossTenant-userprincipalname: MaXaHaMCOnkGMqFSjVmPV4br5hqlpfStxIhL4fdUpEIseI7SRozZMbCDQZTYzDbtIUsWsvo0G0nZ603CTnN6EyfyMpjHy4N+s9lfKnCmKDA= X-MS-Exchange-Transport-CrossTenantHeadersStamped: ZR5P278MB2083 

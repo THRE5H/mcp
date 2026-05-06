@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new environment for NESTE Oyj, including contract details and user access similar to a previous environment.
+
+**Context**: The customer is an external user from a Customer Organization requesting setup from a Service Provider. The environment is for the domain neste.dnext.io, with a contract period from October 15, 2025, to October 14, 2026.
+
+**Solution**: The Support Agent confirmed that the environment was successfully set up. The customer later provided a list of users to be created in the NESTE environment, with a request to hold off on sending the user details until a final check is completed.

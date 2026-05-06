@@ -1,0 +1,5 @@
+**Problem**: The customer was experiencing issues with installing the DNEXT Excel add-in and needed assistance to resolve the installation problem.
+
+**Context**: The user is an external user from a Customer Organization. The product involved is the DNEXT Excel add-in. The customer reached out to the Support Agent for help and was open to a call for assistance.
+
+**Solution**: The Support Agent scheduled a Teams call with the customer, during which they successfully guided the customer through the installation process. The customer confirmed that the add-in was properly installed and functional, successfully downloading a dataset. It is recommended to ensure proper installation steps are followed for future setups.

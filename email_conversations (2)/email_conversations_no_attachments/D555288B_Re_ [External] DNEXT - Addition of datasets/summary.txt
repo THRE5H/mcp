@@ -1,0 +1,5 @@
+**Problem**: The customer wanted to confirm the addition of two datasets, Thailand Sugar Vessels Movement and Lineups Vessel Australia Sugar, to the platform.
+
+**Context**: The customer is an external user from a Customer Organization, reaching out to a Support Agent from the Service Provider regarding updates to the platform. The conversation occurred shortly before the customer went on holiday.
+
+**Solution**: The Support Agent confirmed that the datasets had been successfully added and provided links to access them. The customer was informed to reach out with any further questions upon their return from holiday. No additional actions were required at this time.

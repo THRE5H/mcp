@@ -1,0 +1,32 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Jebrane Ben Salem; Guillaume Goudy; Support Dnext; Wassim Mandhouj
+Date: 2025-04-22 14:41:55.273000+00:00
+Subject: Re: I thought BUCKWHEAT was fixed? I still see BUCKWHEAT instead of Buckwheat
+Message-ID: ZRAP278MB0317F366D1B4156CA1E93D74F5BB2@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12267B89A1380493B561319AF5BB2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+The issue will be resolved in a few minutes, the dashboards needed to be refreshed to get it done. They are being refreshed right now.
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, April 22, 2025 2:34 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: I thought BUCKWHEAT was fixed? I still see BUCKWHEAT instead of Buckwheat 
+ 
+Adding @Khalil Mekki <mailto:khalil.mekki@dnext.io> 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 22 April 2025 14:32
+To: Support Dnext <support@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Subject: I thought BUCKWHEAT was fixed? I still see BUCKWHEAT instead of Buckwheat 
+ 
+
+
+
+ 
+
+ 

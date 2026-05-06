@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of users from the platform and distribution lists, as well as the archiving of the platform instance due to the termination of the contract with the client.
+
+**Context**: The user is an internal user from the Customer Organization, communicating with the Support Team of the Service Provider. The request is related to a client contract that is set to end on December 31, 2025.
+
+**Solution**: The Support Team confirmed that all requested actions were completed successfully. It is recommended to ensure timely communication regarding contract terminations in the future to facilitate similar processes efficiently.

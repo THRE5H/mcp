@@ -1,0 +1,23 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-09-10 12:50:10.507000+00:00
+Subject: Access to Verbio
+Message-ID: GV0P278MB01487E63422D390A24AAD95C980EA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi support,
+
+ 
+
+David, who reads us, is not able to access verbio.dnext.io.
+
+Can you verify if he has access ? if not, please create the access. If yes, please reset the password for him.
+
+ 
+
+Thanks
+
+ 
+
+Bastien 

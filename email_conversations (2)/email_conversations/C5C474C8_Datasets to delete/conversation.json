@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Datasets to delete",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37",
+      "from_name": "Nader Ltaief",
+      "to": "Support Dnext",
+      "cc": "Saber Khalfallah",
+      "received_time": "2025-08-11 10:47:11.780000+00:00",
+      "sent_time": "2025-08-11 10:47:09+00:00",
+      "body_text": "Hi,\r\n\r\nI hope this email finds you well.\r\n\r\nI am writing to request the deletion of   datasets from DNEXR\r\n\r\ndnexr-ahdb-livestock-gbr-cash-weekly-6\r\ndnexr-fed_statis-livestock-deu-snd_41311-0011",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<p style=\"text-align: left; text-indent: 0px; background-color: white; margin: 0px;\" class=\"elementToProof\">\r\n<span style=\"font-family: Aptos, sans-serif; font-size: 12pt; color: rgb(36, 36, 36);\">Hi,</span></p>\r\n<p style=\"text-align: left; text-indent: 0px; background-color: white; margin: 0px;\" class=\"elementToProof\">\r\n<span style=\"font-family: Aptos, sans-serif; font-size: 12pt; color: rgb(36, 36, 36);\">I hope this email&nbsp;finds you well.</span></p>\r\n<p style=\"text-align: left; text-indent: 0px; background-color: white; margin: 0px;\" class=\"elementToProof\">\r\n<span style=\"font-family: Aptos, sans-serif; font-size: 12pt; color: rgb(36, 36, 36);\">I am writing to&nbsp;request the deletion of&nbsp; &nbsp;datasets from DNEXR</span></p>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\ndnexr-ahdb-livestock-gbr-cash-weekly-6</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\ndnexr-fed_statis-livestock-deu-snd_41311-0011</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "C5C474C8BFBF214AA79393ACB474B225",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002E859BA7D0000",
+      "size": 37065,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GV0P278MB0514F36790E6FE80819EB156F028A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Datasets to delete"
+}

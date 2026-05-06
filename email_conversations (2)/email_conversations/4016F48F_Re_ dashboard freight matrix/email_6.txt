@@ -1,0 +1,35 @@
+From: Jennie Campbell <jennie.campbell@viserion.co>
+To: Support Dnext
+Date: 2025-12-02 17:37:06.881000+00:00
+Subject: dashboard freight matrix
+Message-ID: SJ0PR22MB2557A246D916568C675EA26FFED8A@SJ0PR22MB2557.namprd22.prod.outlook.com
+Attachments: image_2.png
+
+================================================================================
+
+Hi,
+
+I wanted to look at soybean freight from USG to China via cape vs panama canal. The matrix chart won't let me select two to see on the same graph together, so I tried to download both to put them together on one chart myself. But when I download, it only gives me 1 point of data (I tried both export as underlying data and summarized data and they both only give one point). When I open excel it looks like the second snapshot. 
+Unless it's an immediate fix, can you go and send me the data first please?
+
+       
+
+
+
+
+
+Thanks,
+Jennie
+
+
+
+
+
+
+Jennie Campbell
+
+Viserion Management Company
+
+914-860-5692
+
+ 

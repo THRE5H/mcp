@@ -1,0 +1,17 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-02-10 09:46:25.585000+00:00
+Subject: Dataset versionning, wrong time display (likely timezone)
+Message-ID: GV0P278MB01488791DA93BDF087637F0698F22@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+This workflow is scheduled to run at 5am Paris time.
+
+I’m in the same time zone. When going to “Version” tab of the view dataset, I see the date is 4.34am, which I suspect is 4.34 UTC = 5.34 Paris time
+
+Moreover, it tells me 5 hours ago, while it’s supposed to be 4 hours ago, but I guess it’s the same problem.
+
+ 
+
+

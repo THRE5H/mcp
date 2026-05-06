@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the "wheat aggregation" trade flow code was not returning any values when accessed via API.
+
+**Context**: The user is an external client of a data platform provided by a Service Provider. The issue arose after a recent update to the platform that automated data sharing and changed trade flow codes.
+
+**Solution**: The Support Agent identified that the URL for downloading the TradeMatrix data changes when accessing aggregated data. They provided the customer with a corrected script to retrieve the data, which included instructions for using their email and password. The customer was advised to test the new script to confirm functionality.

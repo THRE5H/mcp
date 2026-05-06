@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be added to the distribution list for grain reports from the service provider, as they were not receiving the reports.
+
+**Context**: The customer is an external user (Commercial Analyst) from a partner company (Sucden) that subscribes to the grain bulletin service provided by another organization (Dnext). The request was made via email to ensure they receive future reports.
+
+**Solution**: The support team confirmed that the customer was successfully added to the distribution list and would start receiving the reports moving forward. It is recommended that the customer verify receipt of the reports in the future to ensure continued delivery.

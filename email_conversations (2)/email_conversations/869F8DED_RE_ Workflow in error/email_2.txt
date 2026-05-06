@@ -1,0 +1,9 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-03-24 12:52:27.046000+00:00
+Subject: Workflow in error
+Message-ID: GV0P278MB0717B7A2760915C923701566EBA42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+dnexr-agreste-grains-fra-snd-item-yearly 

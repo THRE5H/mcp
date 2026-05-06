@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing discrepancies between the Panel view and the normal view of the Weather Dashboard, specifically regarding the Max Temperature display for selected individual parts.
+
+**Context**: The user is an external user of the Weather Dashboard service provided by a Service Provider. The issue involves inconsistencies in data representation between different views of the dashboard.
+
+**Solution**: The Support Agent investigated the discrepancy and confirmed that it was due to a data refresh issue. They recommended the customer refresh the dashboard and check for updates. The final outcome was that the views aligned correctly after the refresh, and the customer was advised to regularly refresh the dashboard to avoid similar issues in the future.

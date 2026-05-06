@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to access updated IMEA Crop Phenology data for soybeans, as the information stopped at the 2023/24 season. They inquired whether IMEA still provides this data.
+
+**Context**: The customer is an external user from a financial services organization seeking agricultural data. The issue pertains to the IMEA Crop Phenology section of a data platform, which was not updated with the latest season's information.
+
+**Solution**: The support team clarified that IMEA Crop Phenology data is now estimated by analysts and has been integrated into the Brazil Crop Progress dashboard. The customer was directed to access the updated information through the specified navigation path in the platform.

@@ -1,0 +1,12 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-03-18 13:13:03.637000+00:00
+Subject: Ukraine soil moisture dashboard not updated
+Message-ID: GV0P278MB07170EB9729599A8692286D4EBDE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_28.png
+
+================================================================================
+
+i think it might be related to the data because my scripts are giving me the same.
+
+

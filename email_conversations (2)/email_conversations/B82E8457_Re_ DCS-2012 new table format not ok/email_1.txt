@@ -1,0 +1,40 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Support Dnext; Jebrane Ben Salem
+Date: 2025-12-01 18:22:29.850000+00:00
+Subject: Re: DCS-2012 new table format not ok
+Message-ID: GV0P278MB0321E20E982AC22046D32FF79DDBA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0101019adae04487-5f4650e7-760c-4212-ba21-a02b0f69ce25-000000@us-west-2.amazonses.com
+Attachments: image.png
+
+================================================================================
+
+Done, please re-publish 
+
+C:\DNEXT Dropbox\DNEXT_POWERBI\NEW DESIGN -FINAL\GnO Crop
+Crop_Brazil_Crop Progress.pbix
+
+
+________________________________
+
+From: Mohamed Jebrane Ben Salem <jira@dnext.atlassian.net>
+Sent: Monday, December 1, 2025 6:05 PM
+To: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: DCS-2012 new table format not ok 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Mohamed Jebrane Ben Salem commented:
+
+Adding iheb
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2012?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImMwN2JkODRmZWFiZjA2ZWQ1NzE4YjhmMjM0YTRkMTllYjJmNTFmM2NhYzYzYmMxOGJkNTE2YjZjYzA3OTFkNGYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxMzMiLCJpc3N1ZSI6IkRDUy0yMDEyIn0sImV4cCI6MTc2NzAyNzkyMCwiaWF0IjoxNzY0NjA4NzIwfQ.TtjVUSCj31M-Anc7hq5eS3KzVpRSyhE-Ixpc-A6IVps&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2012/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjMwYzJlODhjYjhkMTQ3N2E3ZWIyODY0NmZhODMyODcxNTZiODZmM2JhYWU1ODhjZTdlZGU2OTNlZmY3Zjg5MWEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6MTUwNDlhZmEtYTM2Ny00YWIxLTk3NGQtNWM1ZjNlY2NjNThjIiwiaXNzdWUiOiJEQ1MtMjAxMiJ9LCJleHAiOjE3NjcwMjc5MjAsImlhdCI6MTc2NDYwODcyMH0.q7anwIsobjKc7dtOHQmNIVLl7njLkaqtdLm4nlkTfVc> 
+
+This is shared with Ameropa, Michel Nicaise, and iheb.mhamdi.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on December 1, 2025 6:05:20 PM CET 
+ <http://usw2-track.atlassian.com/CI0/0101019adae04487-5f4650e7-760c-4212-ba21-a02b0f69ce25-000000/fzZD5vR7365Ub9isGIK9KbpFzP334pSNyeUf6f-PxKM=433> 

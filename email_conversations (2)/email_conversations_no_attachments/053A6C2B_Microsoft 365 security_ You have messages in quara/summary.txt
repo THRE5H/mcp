@@ -1,0 +1,5 @@
+**Problem**: The customer received a notification that a message from a specific sender was held in quarantine due to spam filtering, and they needed to review or release it.
+
+**Context**: The user is an external user of Microsoft 365 services. The issue involves the quarantine feature within Microsoft 365 security, where messages are held for review to prevent spam. The notification was sent on April 26, 2025, indicating a specific message that required action.
+
+**Solution**: The customer was advised to review the quarantined message by accessing the Quarantine page in the Security Center. They were provided with links to both review and release the message. It is recommended that users regularly check their quarantine settings to ensure important messages are not mistakenly filtered.

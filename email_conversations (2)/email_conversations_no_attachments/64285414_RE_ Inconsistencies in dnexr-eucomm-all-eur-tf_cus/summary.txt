@@ -1,0 +1,5 @@
+**Problem**: The customer reported inconsistencies in the dataset "dnexr-eucomm-all-eur-tf_customs-monthly," specifically that certain products (PORK_MEAT, WHT, BOVINE_ANIMALS_BEEF_MEAT_FRESH, BOVINE_ANIMALS_BEEF_MEAT_FROZEN) always have a quantity set to 0.
+
+**Context**: The user is an external user from Customer Organization, seeking support from the Service Provider regarding a dataset issue. The inquiry involves a specific SQL query to check product quantities in the customs dataset.
+
+**Solution**: The Support Team investigated the issue and found that the product "BOVINE_ANIMALS_BEEF_MEAT_FROZEN" was mapped to an HS code that did not match any source data, leading to the zero quantity. The team recommended further checks on the mapping and source data to resolve the inconsistencies.

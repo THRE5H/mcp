@@ -1,0 +1,76 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Skander Ghamgui; Support Dnext
+Date: 2025-10-31 11:10:23.078000+00:00
+Subject: RE: Sharing a dataset to dnexr
+Message-ID: GV0P278MB13202F0FF9E56328DD73882FF8F8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB033251B03F074204625693DA83F8A@ZR0P278MB0332.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+It’s done here is its code on dnexr : 
+dnexr-b9b9849e-6c5b-11f0-8b51-02abcd39fb87
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io> 
+Sent: Friday, October 31, 2025 11:06
+To: Support Dnext <support@dnext.io>
+Subject: Sharing a dataset to dnexr
+
+ 
+
+Hello support team,
+
+Can you please share this dataset from masoceans to dnexr please? 
+masoceans-masoceans-all-mdlest-tf-lineups-vessel-monthly
+Thanks,
+
+Skander
+
+ 
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 

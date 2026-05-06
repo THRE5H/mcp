@@ -1,0 +1,58 @@
+From: Aya Sakli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=836A5A4166644149960A649940BB50AE-3BD080A7-42>
+To: Support Dnext
+Date: 2025-09-11 11:40:16.044000+00:00
+Subject: Re: DCS-1705 bug in Reporting module
+Message-ID: ZR1PPFB47A07408A9BA6F270B2D867AA5119A09A@ZR1PPFB47A07408.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 01010199385ab5ae-c5db03fd-fa1f-462e-bd96-5f9819be94bd-000000@us-west-2.amazonses.com
+
+================================================================================
+
+Hello,
+
+Done.
+
+Aya Sakli
+
+Customer Support
+
+                                                                                                     aya.sakli@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+
+
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Mohamed Jebrane Ben Salem <jira@dnext.atlassian.net>
+Sent: 11 September 2025 11:38
+To: Aya Sakli <aya.sakli@dnext.io>
+Subject: DCS-1705 bug in Reporting module 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Mohamed Jebrane Ben Salem commented:
+
+Hello,
+
+Fixed. 
+@Aya Sakli <mailto:aya.sakli@dnext.io>  please close the ticket.
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1705?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImJmYzViMjk1ZTA1NDk0YjBhYmVhNzdjY2I1NTg2MTFkODZlODgxNTlkNjg2NTA2YWI3YjdjN2UzOTliMDQ4N2MiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTE1NjQiLCJpc3N1ZSI6IkRDUy0xNzA1In0sImV4cCI6MTc2MDAwNjI5MiwiaWF0IjoxNzU3NTg3MDkyfQ.8tg9ZoFZ-R57H5kIQxd-X3vtRQp_Hrfa_l5Vj57noYk&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1705/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjI2M2Q5Njc0OTRmZGQ1NGM1YTYyMDY5NTEyMGMzZmQ4NmM1N2QxZGQwNjk1ZjRjOWVlMDBlOTdlYjFjYjc4OGEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMDI4YWQwNDUtNThhMS00NzhhLWI3MTEtNzllMjE5MjhmZWM4IiwiaXNzdWUiOiJEQ1MtMTcwNSJ9LCJleHAiOjE3NjAwMDYyOTIsImlhdCI6MTc1NzU4NzA5Mn0.9QbmS3UaF1Yt4fbuPaz3_qu_NmnohC6n_wWUR15ql3Q> 
+
+This is shared with Farouk Jaziri and Aya Sakli.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 11 September 2025 12:38:12 CEST 
+ <http://usw2-track.atlassian.com/CI0/01010199385ab5ae-c5db03fd-fa1f-462e-bd96-5f9819be94bd-000000/BB4YVBHLrHqMJGr_ocXrwVirIDfNq8FT_38DFygU4qM=422> 

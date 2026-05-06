@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of an individual from the Pacificor email list and platform.
+
+**Context**: The user is an internal user from Customer Organization requesting support from the Service Provider. The request pertains to managing email distribution lists for the Pacificor organization.
+
+**Solution**: The Support Agent confirmed that the removal was completed. It was noted that the Pacificor distribution list only includes members from their organization, suggesting that the individual may have been removed by their own organization as well. No further action is required at this time.

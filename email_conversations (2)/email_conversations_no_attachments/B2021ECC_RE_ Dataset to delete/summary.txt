@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset from the dnexr platform.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team regarding a dataset. The dataset in question is identified by the code "dnexr-bmel-deu-don-level-yearly."
+
+**Solution**: The Support Agent confirmed that the dataset deletion was successfully completed. It is recommended that users verify dataset codes before requesting deletions to ensure accuracy.

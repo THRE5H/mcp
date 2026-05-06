@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a new user account for their trader but encountered issues when trying to send the login credentials due to a delivery failure notification.
+
+**Context**: The user is an external user from a Partner Company requesting a new account for their trader. The product involved is the user account management system of the Service Provider. The customer's IT department is currently investigating email delivery issues that may be affecting the new user's ability to receive external emails.
+
+**Solution**: The Support Agent confirmed that the account was created but could not send the login credentials due to an email delivery failure. The customer was advised to verify the email address and check with their IT department for any restrictions. An alternative method for sending the credentials was suggested while waiting for the email issue to be resolved.

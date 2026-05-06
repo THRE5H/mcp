@@ -1,0 +1,63 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-03-25 11:23:13.578000+00:00
+Subject: RE: Indonesia lineup
+Message-ID: GV0P278MB1320A174D7A2EF0841FA1CBFF8A72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01483F8E61E063D82E2C478A98DF2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Should be good now , 
+
+ 
+
+
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Monday, March 17, 2025 23:43
+To: Support Dnext <support@dnext.io>
+Subject: Indonesia lineup
+
+ 
+
+There is still a problem with Indonesia lineup.
+
+If I select only China, the graph don’t select only China. If I “Select all”, am I seeing China, Europe, India and US or am I seeing everything ? 
+
+If I want to see the last 6 months ? why showing the months in the legend and not year+month ?
+
+ 
+
+Thanks for fixing it
+
+ 
+
+

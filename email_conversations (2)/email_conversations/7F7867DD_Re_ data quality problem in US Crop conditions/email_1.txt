@@ -1,0 +1,51 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Pablo Figueroa; Jebrane Ben Salem; Support Dnext; Saber Khalfallah
+Date: 2025-05-09 11:59:21.274000+00:00
+Subject: Re: data quality problem in US Crop conditions
+Message-ID: GV0P278MB03219B651146FF492E1008AF9D8AA@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071790D7A268029E8D0B3118EB8AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello all,
+
+What I'm seeing is that we currently have at least three different datasets for U.S. crop conditions. Adding to that views and a dataprep.
+
+My plan is to create a new, consolidated dataset with cleaned and corrected data (QuickStat data + the report data). Once we review and approve it, we’ll share only that dataset going forward(As we can not share Views), and I’ll use it in the new dashboard also.
+
+P.S. I’ll apply the same approach to the Crop Progress data as well.
+
+
+
+
+Thanks,
+Iheb
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, May 9, 2025 10:55 AM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: data quality problem in US Crop conditions 
+ 
+as an example, filter by week 19, winter wheat crop conditions. some states (not all) have duplicates
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Friday, May 9, 2025 11:21 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: data quality problem in US Crop conditions 
+ 
+@Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io>  this one needs to be solved ASAP as we’re sharing the datasets with clients.
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Friday, May 9, 2025 10:20:09 AM
+À : Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Cc : Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Objet : data quality problem in US Crop conditions 
+ 
+Hi guys, in the US crop conditions dataset there are duplicates in 2024 (at least).
+
+i know we are solving by calculating an average using the week. point is that publication date is different so a fast remove duplicates does not not work unless we know this.
+
+think this needs to be solved, because if we share this with a client then there will be issues.

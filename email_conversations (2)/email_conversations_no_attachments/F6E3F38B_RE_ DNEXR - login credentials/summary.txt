@@ -1,0 +1,5 @@
+**Problem**: The customer needed updated login credentials after their account was migrated to a new environment.
+
+**Context**: The user is an external user accessing the DNEXR platform. The issue arose due to the migration of accounts from the original environment to a demo environment, requiring new login details.
+
+**Solution**: The support agent provided the customer with new login credentials for the demo environment and confirmed the successful migration. It was recommended that the customer use the demo environment for all future access.

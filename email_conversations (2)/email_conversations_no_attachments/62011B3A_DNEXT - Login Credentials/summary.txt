@@ -1,0 +1,5 @@
+**Problem**: The customer requested their login credentials for the Dnext environment to access the system.
+
+**Context**: The user is an external user seeking access to the Dnext platform. The request involved obtaining login credentials, including a portal URL, email, and password for initial access.
+
+**Solution**: The Support Agent provided the login credentials, including a URL, email, and temporary password. The customer was advised to change the password upon first login for security reasons and was encouraged to reach out if any issues arose during access.

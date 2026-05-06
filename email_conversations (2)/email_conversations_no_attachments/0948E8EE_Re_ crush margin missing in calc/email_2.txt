@@ -1,0 +1,25 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Bastien Lambert; Support Dnext; Afef Matheli
+Date: 2026-01-09 15:21:01.631000+00:00
+Subject: Re: crush margin missing in calc
+Message-ID: ZR3P278MB12267660F91829159DD807C8F582A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB077303B448227B2007DB0D209882A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Afef Matheli <mailto:afef.matheli@dnext.io> 
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 09 January 2026 15:17
+To: Support Dnext <support@dnext.io>
+Subject: crush margin missing in calc 
+ 
+
+Hello, can you please investigate why the margin doesn’t appear in this table here ?
+
+What is the data missing ? thanks
+
+ 
+
+

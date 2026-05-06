@@ -1,0 +1,15 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User cannot find the tab for cash corn prices in the platform interface, although tabs for wheat and soybeans are visible.",
+    "solution": "Cash corn prices are available in the Corn CNF Dashboard. Users should navigate to the Corn CNF Dashboard to view cash corn price data instead of looking for a separate tab like for wheat and soybeans.",
+    "keywords": [
+      "cash corn prices",
+      "corn CNF dashboard",
+      "missing tab",
+      "price data location",
+      "platform navigation"
+    ],
+    "category": "Platform Navigation"
+  }
+}

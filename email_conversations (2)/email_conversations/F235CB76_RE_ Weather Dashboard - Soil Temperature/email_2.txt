@@ -1,0 +1,36 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-09-29 09:46:35.325000+00:00
+Subject: Weather Dashboard - Soil Temperature
+Message-ID: ZR0P278MB0505CD633F9804187E5E57B98A1BA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png
+
+================================================================================
+
+Hello,
+Hope you are doing well.
+
+A daily dose of weather dashboard.
+
+On this dashboard,
+
+
+1.	
+	The default view is not the same as the soil moisutre
+
+
+
+
+
+2.	
+	The filter seems to be off
+
+
+
+The color scale is somewhat misleading IMO
+
+
+
+Louis
+
+

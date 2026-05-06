@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the details and eligibility of the "Buy One Listing, Get One Free" promotion offered by BankCEX, specifically regarding the conditions and limitations of the offer.
+
+**Context**: The user is an external customer interested in listing their token on the BankCEX exchange. The promotion is time-sensitive, ending on April 30, 2025, and involves listing packages that provide additional visibility across multiple platforms.
+
+**Solution**: The support team confirmed the promotion's details, emphasizing that it applies only to the same token for both exchanges and cannot be combined with other offers. The customer was advised to book their slot by contacting the service provider directly through their website or email.

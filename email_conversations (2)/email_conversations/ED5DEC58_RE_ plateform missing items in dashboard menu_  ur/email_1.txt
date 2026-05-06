@@ -1,0 +1,131 @@
+From: Michel Nicaise <michel.nicaise@ameropa.com>
+To: Jebrane Ben Salem; Support Dnext
+Date: 2025-09-18 12:38:04.060000+00:00
+Subject: RE: plateform missing items in dashboard menu/  urgent
+Message-ID: GV0P278MB07012C6780CAECEE6B9E676E8216A@GV0P278MB0701.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122634EF5BEA9EC9DA4C3C4CF516A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thank you to all of you for your quick help. 
+
+I start now to find back my way ! 
+
+ 
+
+Best regards / Meilleures salutations,
+
+Michel Nicaise
+
+Phone: +41 (0) 58 531 29 57
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: 18 September 2025 13:12
+To: Michel Nicaise <michel.nicaise@ameropa.com>; Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Re: plateform missing items in dashboard menu/ urgent
+
+ 
+
+	You don't often get email from jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+
+	
+
+ 
+
+	External email warning: Please exercise caution when clicking links or opening attachments. 
+
+ 
+
+Hello Michel,
+
+Sorry for the inconvenience and thank you for flagging this. The missing crops, inspections, and menu items are due to recent updates and reorganizations we made on the platform (Like GG said)
+
+Here are the main changes:
+
+*	Economics → GnO Economics
+
+*	Supply and Demand → SND
+
+*	G&O SND → BF SND
+
+*	Crop → GnO Crop
+
+	*	
+
+*	In Economics dashboards, we added COP Farmers (replacing Cost of Production), as well as FOB & CNF and Industrial Margin groups.
+
+	*	
+
+*	Inspections can now be found under Lineups → Europe Inspections -TAXUD.
+
+	*	
+
+We made these adjustments to improve organization and clarity. Please let us know if you need any guidance navigating the new structure.
+
+I sent you a team's message already.
+
+Thank you for your understanding. 
+
+Mohamed Jebrane Ben Salem
+
+Head of Data Analysis Team
+
+                                                                                                   jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io>  
+
++216 29 715 739
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+________________________________
+
+From: Michel Nicaise <michel.nicaise@ameropa.com <mailto:michel.nicaise@ameropa.com> >
+Sent: 18 September 2025 09:53
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: plateform missing items in dashboard menu/ urgent
+
+ 
+
+Hello support,
+
+it seems several issues in the plateform; no more crops no more EU inspections….
+menu missing…
+
+please check asap.
+
+thank you
+
+
+
+ 
+
+ 
+
+
+
+Michel Nicaise
+Senior Analyst, Grains & Oilseeds
+ 
+Ameropa AG
+Avenue de Rumine 13, 1005 Lausanne
+Switzerland
++41 58 5312957  +41 79 5666613 
+michel.nicaise@ameropa.com <mailto:michel.nicaise@ameropa.com>  
+www.ameropa.com <http://www.ameropa.com/> 
+
+ 

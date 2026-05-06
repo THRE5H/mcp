@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the daily farmer selling email was not reaching all clients, specifically mentioning that a client from Saftco was not receiving it.
+
+**Context**: The user is an internal user from Customer Organization, and the issue involves the email distribution list for the daily farmer selling email service. The situation arose because Saftco was not included in the Argentina distribution list for this email.
+
+**Solution**: The Support Agent identified that Saftco was missing from the distribution list and added them. The issue was resolved, and the customer was informed that the distribution list was updated. It is recommended to regularly verify the distribution lists to ensure all relevant clients are included.

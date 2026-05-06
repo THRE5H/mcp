@@ -1,0 +1,48 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-10-01 16:48:27.614000+00:00
+Subject: RE: Issues with the Tradematrix or the data feeding the tradematrix - Urgent
+Message-ID: GV0P278MB1320E614C632133A791062F2F8E6A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211F68DC4B43271A1041B1798E6A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Checking it right now.
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Wednesday, October 1, 2025 16:34
+To: Support Dnext <support@dnext.io>
+Cc: Léonard Berney <leonard.berney@dnext.io>; Rami Setti <rami.setti@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: Issues with the Tradematrix or the data feeding the tradematrix - Urgent
+
+ 
+
+Not sure if it is a platform issues or a data issues but the lineups in Oct are not showing up or at extremely small and do not correspond to what is in the email sent by Leonard on D Lineups. See brazil picture as example
+
+ 
+
+

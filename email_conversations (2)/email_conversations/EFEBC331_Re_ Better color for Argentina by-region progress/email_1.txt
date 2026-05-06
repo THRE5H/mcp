@@ -1,0 +1,61 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Lucas Rosa; Oscar Shi; Support Dnext
+Date: 2025-11-18 23:08:16.980000+00:00
+Subject: Re: Better color for Argentina by-region progress map
+Message-ID: ZR3P278MB122639DC5A475E14841F83A9F5D6A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0591C222B26CCDC2477E0C06F8D6A@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello Oscar, 
+
+For the dashboard, we added the legend and updated the colour scale as well:
+-20% - 0% - 30% (max) 
+please let me know if the modifications look good to you.
+
+
+Thanks, 
+Jebrane.
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io>
+Sent: 18 November 2025 21:07
+To: Oscar Shi <oshi@valentassetmgmt.com>; Support Dnext <support@dnext.io>
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: Better color for Argentina by-region progress map
+ 
+Thanks for you feedback Oscar.
+
+Regarding the regions Vs provinces unfortunately will be hard to covert, due to the crop conditions is given by BAGR using those regions, if they have by city we could convert, but last time I checked they doesn’t have this.
+
+Over the map colors need to change! We will take this ASAP. By Monday should be ready.
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com>
+Sent: Tuesday, November 18, 2025 3:48:39 PM
+To: Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Neil Smaldon <nsmaldon@valentassetmgmt.com>
+Subject: Better color for Argentina by-region progress map
+ 
+Hi Support Team,
+
+I've always found the Argentina crop "regions" difficult to track in my head. (Provinces are easier for me.)  So, I was happy to see that your platform mapped the crop progress to those regions!
+
+However, while your color choice of red vs green is intended to denote low vs high, in practice negative numbers are coded green (example below). That makes your maps difficult to read: for example, it's difficult for me to see which regions are behind the Average.
+
+Could you either (1) show a legend next to each map indicating which color represents 0, or (2) modify your color map so that 0 is shown as a (fixed) neutral color?
+
+
+
+Let me know if I didn't make myself clear. Happy to discuss more.
+Oscar
+
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided.
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

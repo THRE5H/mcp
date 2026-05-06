@@ -1,0 +1,5 @@
+**Problem**: The customer experienced an issue where all dashboards on the Dnext platform disappeared, leaving only the "Sugar" button available, which also did not provide any data.
+
+**Context**: The user is an external trader from a Customer Organization seeking assistance with the Dnext platform. They attempted to contact a former support representative, but the email bounced, prompting them to reach out to another contact for help.
+
+**Solution**: The issue was identified as a small technical bug that was fixed by the support team earlier that morning. The customer confirmed that all functionalities were restored and expressed satisfaction with the resolution. It is recommended to report any further issues promptly to ensure quick resolution.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in sharing a specific dataset from one platform (masoceans) to another (dnexr).
+
+**Context**: The user is a Data Analyst from the Trade Flow team at a Customer Organization. The request involved transferring a dataset named "masoceans-masoceans-all-mdlest-tf-lineups-vessel-monthly" to the dnexr platform.
+
+**Solution**: The Support Agent confirmed that the dataset was successfully shared and provided the code for access on dnexr: "dnexr-b9b9849e-6c5b-11f0-8b51-02abcd39fb87". It is recommended to verify dataset accessibility and ensure proper permissions are in place for future transfers.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed to remove two users, Mark Shin and Marco Sampaio, from their dashboard as they were no longer employees, but was unable to do so through the User menu.
+
+**Context**: The customer is an external user from Customer Organization seeking assistance with the Service Provider's platform. The issue arose due to the inability to manage user accounts effectively on the dashboard.
+
+**Solution**: The Support Agent promptly removed the specified users from the platform. The customer was informed of the successful removal and was encouraged to reach out for any further assistance if needed.

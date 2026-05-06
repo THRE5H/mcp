@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a contract for a new environment for a client, including specific access permissions and contract dates.
+
+**Context**: The user is an external user representing a Customer Organization. The product involved is a contract setup for a new environment (cairus.dnext.io) related to commodities (G&O). The request includes replicating access permissions from an existing client (Millennium Topjian).
+
+**Solution**: The Support Agent confirmed the contract setup for the new environment was initiated, ensuring the same access as the specified existing client. It is recommended to verify user access permissions regularly to maintain security and compliance.

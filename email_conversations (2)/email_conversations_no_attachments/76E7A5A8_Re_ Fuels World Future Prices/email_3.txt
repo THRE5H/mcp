@@ -1,0 +1,20 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-11-28 13:39:59.548000+00:00
+Subject: Fuels World Future Prices
+Message-ID: ZR3P278MB1353DDF8548DD45EEC6EE117F6DCA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13536F1D00DA8A17C3A0AA14F6DCA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+
+Hello,
+
+May you please check this datset, it has an extraction error?
+
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/usages
+
+Thank you!
+
+Enea

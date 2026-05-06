@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Dashboards and data categories on the Dnext platform disappeared, with only the 'Sugar' button visible but non-functional, affecting access to trade flow and price information.",
+    "solution": "The issue was caused by a technical bug that was fixed by the support team. After the fix, users should be able to navigate all dashboard categories normally again on both the React app and the website. If problems persist, users are advised to contact support.",
+    "keywords": [
+      "Dnext platform",
+      "dashboard disappearance",
+      "data access issue",
+      "technical bug",
+      "dashboard navigation",
+      "React app",
+      "website",
+      "trade flow data",
+      "price information"
+    ],
+    "category": "Error Resolution"
+  }
+}

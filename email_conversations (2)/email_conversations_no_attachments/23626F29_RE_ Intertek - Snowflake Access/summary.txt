@@ -1,0 +1,5 @@
+**Problem**: The Customer requested access to INTERTEK's Snowflake environment urgently but did not receive a response.
+
+**Context**: The Customer is an external user seeking access to a data platform. The request involves Snowflake, a cloud-based data warehousing service. The Support Agent directed the request to the development team for role attribution.
+
+**Solution**: The Support Agent referred the Customer's request to the development team for further action. No resolution was provided in the conversation, and the Customer's access request remains pending. It is recommended to follow up with the development team to expedite the process.

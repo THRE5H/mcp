@@ -1,0 +1,5 @@
+**Problem**: The customer requested to postpone a scheduled meeting due to running late from another commitment.
+
+**Context**: The user is an external user from a Customer Organization. The meeting involved a walkthrough of the DNEXT Platform, originally scheduled for October 3, 2025, at 5:00 PM CET.
+
+**Solution**: The Support Agent agreed to reschedule the meeting for Monday at 12 AM CET. The customer was informed of the updated invitation, ensuring the meeting would proceed at a more convenient time. It is recommended to confirm availability ahead of meetings to avoid scheduling conflicts.

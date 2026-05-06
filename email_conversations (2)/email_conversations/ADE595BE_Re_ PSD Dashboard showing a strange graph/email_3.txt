@@ -1,0 +1,46 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Jebrane Ben Salem; Support Dnext
+Date: 2026-01-12 14:34:51.316000+00:00
+Subject: Re: PSD Dashboard showing a strange graph
+Message-ID: GV0P278MB07175CD4B217D560CDD89C0EEB81A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12261CE85B56C4D2903FDDD4F581A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_7.png, image_8.png, image_9.png
+
+================================================================================
+
+but here we show two times the same graph? and no title?
+
+either we remove one of them or we add a filter for Item 2 and we show two graphs.
+i would show two graphs being by default the production and stocks.
+would add the stocks to use metric in the table (Stocks/Total Use)
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Monday, January 12, 2026 1:36 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: PSD Dashboard showing a strange graph 
+
+Hello Pablo, 
+
+It's fixed.
+
+
+
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 12 January 2026 08:21
+To: Support Dnext <support@dnext.io>
+Subject: PSD Dashboard showing a strange graph
+ 
+the chart on the bottom left is weird, not sure which is the item it shows. the filters are not controling it.
+
+
+   
+ 

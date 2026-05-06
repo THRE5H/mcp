@@ -1,0 +1,255 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Yiyuan Fang
+Date: 2025-06-23 17:56:48.224000+00:00
+Subject: RE: Do you have the NASS fats and oils dataset
+Message-ID: ZR3P278MB132369F8F2E02BA22B93761CF879A@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13203F87DBC681EB8BB3CCD0F872A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Yiyuan,
+
+ 
+
+I wanted to inform you that we have successfully added all the oils from the NASS report to the dataset.
+
+ 
+
+You can access the updated dataset through the following link on the platform:
+
+ 
+
+https://vags.dnext.io/datasets/vags-cb148487-4c48-11f0-8b51-02abcd39fb87/data-exploration
+
+ 
+
+Should you have any additional inquiries or require further adjustments to the dataset, please feel free to let us know.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, June 18, 2025 16:22
+To: Yiyuan Fang <yif@vitol.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Do you have the NASS fats and oils dataset
+
+ 
+
+Hello Yiyuan,
+
+ 
+
+Apologies for the delayed response.
+
+ 
+
+I have shared the soybean oil to the platform.
+
+ 
+
+Kindly find the link below : 
+
+https://vags.dnext.io/datasets/vags-cb148487-4c48-11f0-8b51-02abcd39fb87/data-exploration <https://vags.dnext.io/datasets/vags-cb148487-4c48-11f0-8b51-02abcd39fb87/data-exploration> 
+
+ 
+
+Regarding the other oils (rapeseed oil, corn oil, etc.), we currently don't have this data processed . However, we are working on it and will add it to the dataset as soon as it's ready.
+
+ 
+
+We will inform you once the updates are complete.
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Yiyuan Fang <yif@Vitol.com <mailto:yif@Vitol.com> > 
+Sent: Wednesday, June 18, 2025 10:40
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: Do you have the NASS fats and oils dataset
+
+ 
+
+Hi, 
+
+ 
+
+Thanks. No, I am not looking for the WASDE or the PSD. I am looking at this, the NASS fats and oils report. 
+
+ 
+
+https://usda.library.cornell.edu/concern/publications/mp48sc77c <https://usda.library.cornell.edu/concern/publications/mp48sc77c> 
+
+ 
+
+ 
+
+In your portal you have the soybean oil monthly production and stocks which comes from this report. If you could share that, and if you have the same for Rapeseed oil, corn oil etc (which are available in this report but only in the pdf form), that’d be great. 
+
+ 
+
+ 
+
+Yiyuan 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: 18 June 2025 11:30
+To: Yiyuan Fang <yif@Vitol.com <mailto:yif@Vitol.com> >
+Subject: RE: Do you have the NASS fats and oils dataset
+
+ 
+
+Dear Yiyuan,
+
+Thank you for your request. We are in the process of sharing the data with you, but we’d like to ensure we are providing the correct dataset.
+
+Is this the data you are looking for ? 
+this is USDA Wasde report : 
+
+
+ 
+
+And this is PSD : 
+
+
+ 
+
+We appreciate your patience and understanding.
+
+Looking forward to your response
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Yiyuan Fang <yif@Vitol.com <mailto:yif@Vitol.com> > 
+Sent: Wednesday, June 18, 2025 10:22
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: FW: Do you have the NASS fats and oils dataset
+
+ 
+
+Hey Saber, 
+
+ 
+
+Could you help me with the request below? I tried to email your support but it doesn’t seem to be working? 
+
+ 
+
+ 
+
+Yiyuan 
+
+
+
+ 
+
+From: Yiyuan Fang 
+Sent: 18 June 2025 11:19
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Do you have the NASS fats and oils dataset 
+
+ 
+
+Hi Dnext support, 
+
+ 
+
+Could you help me find the NASS fats and oils monthly report dataset? It’s not in the ready-download links.
+
+ 
+
+Something along this line, should have all the production, and stocks for Soybean oil, rapeseed oil and corn oil etc. 
+
+ 
+
+Thanks in advance!
+
+ 
+
+Yiyuan
+
+ 
+
+
+
+IMPORTANT: In this email, the terms "Vitol," "Vitol Group," "the Company," or "the Group" may be used for convenience and refer to Vitol Netherlands Cooperatief U.A. and its direct and indirect subsidiaries and affiliates, each of which are separate and distinct legal entities. Further, the words "we," "us," "our," and "ourselves" are used to refer generally to the companies of the Vitol Group.
+
+ 
+
+This email (including all attachments) is confidential and may be privileged. It may be read, copied and used only by the intended recipients, and must not be re-transmitted in any form without our consent. If you have received it in error, please contact us immediately by return email. Please then delete it and do not disclose its contents to any other person.
+
+ 
+
+Security and reliability of email is not guaranteed. Communications should be verified from a mailed or faxed copy. All emails to anyone @vitol.com are communications to the firm and are not private or confidential to any named individual.

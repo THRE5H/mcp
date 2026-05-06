@@ -1,0 +1,5 @@
+**Problem**: The customer reported a bug in the tradematrix configuration and created a ticket for it.
+
+**Context**: The user is an external user from the Customer Organization, and the issue pertains to a feature of the Service Provider's product. The customer communicated the problem to a Support Agent and provided a link to the ticket for tracking.
+
+**Solution**: The Support Agent acknowledged the issue and indicated they would follow up. Later, the customer confirmed that the configuration issue appeared to be resolved. It is recommended to monitor the system for any further anomalies.

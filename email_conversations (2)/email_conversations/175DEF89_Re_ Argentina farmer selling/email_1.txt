@@ -1,0 +1,115 @@
+From: Wassim Mandhouj </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=C23D57FDA749444A8356465D05164B75-WASSIM.MAND>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-04-23 15:03:54.710000+00:00
+Subject: Re: Argentina farmer selling 
+Message-ID: ZRAP278MB0431911D9CF17528B99ED2D193BA2@ZRAP278MB0431.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071719E86A38F6BA23E4CE59EBBA2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image1.png, image2.png, image3.png, image4.png
+
+================================================================================
+
+The was an error in the flow in the power automate part. It's fixed now
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, April 23, 2025 2:55 PM
+To: Wassim Mandhouj <wassim.mandhouj@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Argentina farmer selling 
+ 
+Hi, seems we are not sending this anymore.
+
+we have a client asking for it. something happened?
+
+
+________________________________
+
+From: Wassim Mandhouj
+Sent: Wednesday, April 16, 2025 8:00 AM
+To: Pablo Figueroa
+Cc: Guillaume Goudy; Bastien Lambert
+Subject: Argentina farmer selling 
+
+Daily Argentina farmer selling in thousand tons:
+
+2024 Season (old Crop) Farmer Selling:
+
+
+Date
+Variable
+Corn
+Wheat
+Soybean
+2025-04-15
+Priced
+6.75
+0.92
+11.10
+2025-04-15
+Priced Straight
+5.70
+0.92
+6.59
+2025-04-15
+To be Fixed
+0.28
+0.00
+1.20
+2025-04-15
+Total
+5.97
+0.92
+7.79
+
+
+
+
+2025 (New Crop) Farmer Selling:
+
+
+Date
+Variable
+Corn
+Wheat
+Soybean
+2025-04-15
+Priced
+96.05
+33.43
+106.52
+2025-04-15
+Priced Straight
+90.80
+32.01
+99.59
+2025-04-15
+To be Fixed
+13.33
+7.62
+46.95
+2025-04-15
+Total
+104.14
+39.63
+146.54
+
+
+
+
+Accumulated farmer selling (official source, lagged by 1 week):
+
+2024 Season (old Crop) Farmer Selling:
+
+2025 (New Crop) Farmer Selling:
+
+
+
+
+For more details check the dashboard / Statistics / Farmer Selling / Argentina
+
+Note: In case the image does not appear, kindly consider using the latest version of Outlook.
+
+
+Best regards,
+
+DNEXT INTELLIGENCE

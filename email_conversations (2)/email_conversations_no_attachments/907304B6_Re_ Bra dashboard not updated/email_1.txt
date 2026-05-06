@@ -1,0 +1,79 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Saber Khalfallah; Guillaume Goudy; Support Dnext; Jebrane Ben Salem
+Date: 2025-09-15 18:01:45.671000+00:00
+Subject: Re: Bra dashboard not updated
+Message-ID: GV0P278MB0321CE8403F49D3E915309B89D15A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320122AA6F69FC24DCB40A1F815A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello all,
+The IMEA API is currently down, and no price data for corn is being displayed. Since they provide a dashboard, I manually retrieved the data for now until the API is fixed. The latest available prices are from September 12.
+
+
+
+
+
+
+Thanks, 
+Iheb
+
+
+
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Monday, September 15, 2025 5:52 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: RE: Bra dashboard not updated 
+ 
+
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Monday, September 15, 2025 15:37
+To: Support Dnext <support@dnext.io>
+Subject: Bra dashboard not updated
+
+ 
+
+Last date is 10/09
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 

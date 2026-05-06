@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Update reference subtypes for type location: PORT, PORT_TERMINAL, PORT_BERTH",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=34FC2AA9BD71452E98A777350F5A4EFE-21F0C60F-36",
+      "from_name": "Iulian Gramatki",
+      "to": "Support Dnext",
+      "cc": "Louis Olive; Mohamed Elasfoury; Léonard Berney; Nicolas Chaperon",
+      "received_time": "2025-11-14 15:15:18.072000+00:00",
+      "sent_time": "2025-11-14 15:15:15+00:00",
+      "body_text": "Please open a ticket containing the following instructions:\r\n\r\n1.\tRename PORT_TERMINAL to PORT\r\n2.\tCreate 2 new subtypes: PORT_TERMINAL and PORT_BERTH\r\n3.\tNaming convention for type PORT is PORT_XXXX (not changing)\r\n4.\tNaming convention for type PORT_TERMINAL is TERMINAL_<port_code>_<terminal_code>\r\n5.\tNaming convention for type PORT_BERTH is BERTH_<port_code>_<berth_name>\r\n6.\tMake sure each location of type PORT_TERMINAL has the PORT as the parent\r\n7.\tMake sure each location of type PORT_BERTH has the TERMINAL as the parent\r\n\r\nKind regards\r\nIulian Gramatki\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nPlease open a ticket containing the following instructions:</div>\r\n<ol start=\"1\">\r\n<li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nRename PORT_TERMINAL to PORT</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nCreate 2 new subtypes: PORT_TERMINAL and PORT_BERTH</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nNaming convention for type PORT is PORT_XXXX (not changing)</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nNaming convention for type PORT_TERMINAL is TERMINAL_&lt;port_code&gt;_&lt;terminal_code&gt;</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nNaming convention for type PORT_BERTH is BERTH_&lt;port_code&gt;_&lt;berth_name&gt;</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nMake sure each location of type PORT_TERMINAL has the PORT as the parent</li><li style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nMake sure each location of type PORT_BERTH has the TERMINAL as the parent</li></ol>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nKind regards</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nIulian Gramatki</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "55A1B5DB0F6D3D43AFF085E71B267E1C",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD49000326D03E8D0000",
+      "size": 47190,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GVAP278MB07127DDDF755F61E6210822B87CAA@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Update reference subtypes for type location: PORT, PORT_TERMINAL, PORT_BERTH"
+}

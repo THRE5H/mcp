@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to display cumulative numbers over the year directly on the screen and in a graph within the trade matrix view to save time instead of downloading data.",
+    "solution": "To view cumulative numbers and related graphs in the trade matrix, use the 'analysis' tab within the platform. This tab provides quick graphs including cumulative data visualization directly on screen without needing to download the data.",
+    "keywords": [
+      "trade matrix",
+      "cumulative data",
+      "yearly cumulative",
+      "graph",
+      "analysis tab",
+      "data visualization",
+      "on-screen display"
+    ],
+    "category": "Feature Explanation"
+  }
+}

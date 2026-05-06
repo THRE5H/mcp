@@ -1,0 +1,94 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Chebbi Abir; Support Dnext
+Date: 2025-02-06 16:07:29.311000+00:00
+Subject: RE: Support - API access +docmentation - TradeMatrix loading issue
+Message-ID: GV0P278MB1320113365A980C7112F5458F8F62@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0210A7B9FAD62ED2B1680A6092F62@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Abir, 
+
+
+
+I hope this email finds you well.
+
+
+Attached you will find three PDFS showcasing how to use the API to fetch data from the platform ,
+
+ 
+
+Note : for the authentication your environment is “resound”
+
+
+
+As for the tradematrix issue can you specify which tradeMatrix you failed to visualize ,I tested on the Rice TradeMatrix and had no issue visualizing the data 
+
+
+
+
+ 
+
+Note that the data might take some time to load depending on the size of it 
+
+please let us know if this helps you out 
+
+
+
+Looking forward to hearing from you 
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Chebbi Abir <abir.chebbi@hesge.ch> 
+Sent: Thursday, February 6, 2025 15:35
+To: Support Dnext <support@dnext.io>
+Cc: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Support - API access +docmentation - TradeMatrix loading issue
+
+ 
+
+Hello,
+
+ 
+
+I am encountering two issues on the Dnext platform:
+
+ 
+
+*	API Access: I currently do not have the API option available in my account. And could you please provide documentation on how to use the API for downloading data?
+
+*	TradeMatrix Loading Issue: The TradeMatrix is stuck in a continuous loading loop, preventing access to necessary data.
+
+ 
+
+Thanks in advance.
+
+ 
+
+Best regards,
+
+Abir Chebbi
+
+ 

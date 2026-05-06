@@ -1,0 +1,5 @@
+**Problem**: The customer reported that certain origins, specifically Brazil and USG, were missing from the dataset they accessed through the platform, despite being visible elsewhere.
+
+**Context**: The customer is an external user from a Customer Organization seeking data from a Service Provider's platform related to historical CNF values. The issue arose after the customer noticed discrepancies between the dataset available via API and the platform.
+
+**Solution**: The Service Provider's support team investigated the issue and confirmed that it has been resolved, ensuring that the dataset now includes all the origins available on the platform. The customer was thanked for their patience during the resolution process.

@@ -1,0 +1,23 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs to access and download 5 years of FOB and CFR historical price data for corn and soybean meal, specifically including CFR data for Jeddah port, and is unsure how to find and download these datasets from the platform.",
+    "solution": "To access and download the required historical FOB and CFR data for corn and soybean meal: 1) Log in to the platform. 2) Navigate to the datasets section by hovering over the table icon in the left menu and clicking on 'dataset'. 3) In the datasets table, use the search field to find the relevant dataset by name: for corn, search 'Corn' and select 'World Corn CNF Updates'; for soybean meal, the dataset 'Soybean Meal CNF' is now available. 4) Click the eye icon on the right side of the dataset row to open the dataset summary page. 5) On the summary page, click the 'Download' button located at the top right to download the data. Note that the corn data covers from 2020 to present and includes CFR data. The soybean meal CNF dataset was added later and is now available for download. If the download button is not visible, log out and log back into the platform to refresh permissions, as a permission issue may cause the button to be disabled.",
+    "keywords": [
+      "FOB historical data",
+      "CFR historical data",
+      "corn price data",
+      "soybean meal data",
+      "dataset download",
+      "platform navigation",
+      "download button disabled",
+      "permission issue",
+      "data access",
+      "timeseries data",
+      "CNF dataset",
+      "Jeddah CFR",
+      "data download instructions"
+    ],
+    "category": "How-to Guide"
+  }
+}

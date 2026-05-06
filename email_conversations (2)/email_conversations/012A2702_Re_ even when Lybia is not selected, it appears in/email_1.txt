@@ -1,0 +1,25 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa
+Date: 2025-04-04 16:36:40.503000+00:00
+Subject: Re: even when Lybia is not selected, it appears in the map
+Message-ID: ZR3P278MB1226C3433C3971BE3DBE92A8F5A92@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071705750DD1D33E27ED5DC9EBA92@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png
+
+================================================================================
+
+It's a Power BI functionality; we're activating the auto Zoom and the Zoom on selection too as you can see below:
+
+
+
+I checked the old dashboard (2 years ago version) and it looks the same! 
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 04 April 2025 15:54
+To: Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: even when Lybia is not selected, it appears in the map 
+ 
+ 

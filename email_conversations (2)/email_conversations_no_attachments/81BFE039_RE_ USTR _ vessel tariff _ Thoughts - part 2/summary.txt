@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a user from the email list and platform due to an undeliverable email notification indicating that the recipient's address was unknown.
+
+**Context**: The customer is an external user from a Customer Organization using a service provided by a Partner Company. The issue arose when an email sent to a non-existent address resulted in a delivery failure notification.
+
+**Solution**: The Support Agent confirmed the deletion of the specified user from the email list and platform. It is recommended to verify email addresses before sending to prevent similar issues in the future.

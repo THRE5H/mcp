@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to domestic corn prices in China to compare them with import prices.
+
+**Context**: The user is a Market Research Assistant Specialist from a Customer Organization. The inquiry involves datasets related to corn prices, specifically for the Chinese market. The request was made to a Support Agent from a Service Provider.
+
+**Solution**: The Support Agent added a Data Analyst to the conversation, who then provided a link to the dataset containing the domestic corn prices. The customer was invited to reach out for further assistance if needed.

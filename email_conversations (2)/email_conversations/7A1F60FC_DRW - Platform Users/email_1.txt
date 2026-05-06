@@ -1,0 +1,71 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-05-19 08:12:43.031000+00:00
+Subject: DRW - Platform Users
+Message-ID: GVAP278MB06775024373DD63E0323953E889CA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Please create these users in the environment: drw.dnext.io:
+
+ 
+
+Christiano
+
+Maia
+
+cmaia@DRWUK.COM <mailto:cmaia@DRWUK.COM> 
+
+Oliver
+
+Kinsey
+
+okinsey@drwholdings.com <mailto:okinsey@drwholdings.com> 
+
+Ryan
+
+Vota
+
+rvota@drwholdings.com <mailto:rvota@drwholdings.com>  
+
+Fuzhi
+
+Cheng
+
+fcheng@drwholdings.com <mailto:fcheng@drwholdings.com>  
+
+Gustavo
+
+Alexanian
+
+galexanian@drwholdings.com <mailto:galexanian@drwholdings.com> 
+
+Mark 
+
+Anson
+
+manson@drwuk.com <mailto:manson@drwuk.com>  
+
+				
+
+ 
+
+ 
+
+Please send the profiles to the users and confirm when done.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs to set up a demo account with restricted product access and no download capability, and requires onboarding to navigate the portal and find specific information such as palm oil economics dashboards.",
+    "solution": "To set up a demo account with restricted access (all products except fertilizers, no download capability) for a limited trial period: 1) Create the demo account with specified product restrictions and disable download functionality. 2) Schedule an onboarding session to guide the user on portal navigation and how to find relevant information. 3) Provide user credentials to the user and a support contact for specific questions. 4) Inform the user that some sections (e.g., Economics for vegoils) may not yet have dashboards published, but related dashboards (e.g., Palm oil under crop) are available and can be added to the demo. 5) Share direct URLs to existing dashboards to facilitate access during the demo. This approach ensures users can explore the portal effectively within the trial constraints.",
+    "keywords": [
+      "demo account",
+      "portal trial",
+      "restricted access",
+      "no download",
+      "onboarding",
+      "portal navigation",
+      "palm oil",
+      "economics dashboards",
+      "vegoils",
+      "dashboard URLs",
+      "user credentials",
+      "trial setup"
+    ],
+    "category": "How-to Guide"
+  }
+}

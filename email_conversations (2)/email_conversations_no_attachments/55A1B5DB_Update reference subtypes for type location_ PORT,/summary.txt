@@ -1,0 +1,5 @@
+**Problem**: The customer requested updates to location reference subtypes, specifically renaming and creating new subtypes for PORT, PORT_TERMINAL, and PORT_BERTH.
+
+**Context**: The user is an external user from a Customer Organization, seeking modifications in the location reference structure within a service provided by a Service Provider. The request involves specific naming conventions and hierarchical relationships between the location types.
+
+**Solution**: A ticket was opened to implement the requested changes, including renaming and creating new subtypes as specified. The team confirmed that the updates would follow the outlined naming conventions and parent-child relationships for the location types. It is recommended to document such requests clearly to ensure accurate implementation in the future.

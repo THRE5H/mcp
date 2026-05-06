@@ -1,0 +1,90 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-02-04 09:14:59.724000+00:00
+Subject: Fw: Polar Star Wheat SND dataset
+Message-ID: GV0P278MB0717FD91AE666598108F7625EBF42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PAVPR02MB98204EC1A4D8EF11E321C96ECFEE2@PAVPR02MB9820.eurprd02.prod.outlook.com
+Attachments: image001.png
+
+================================================================================
+
+Hi Saber, can you check why the cannot see the detail of wheat by class in the dataset they download from the API?
+should be the same as this one i think: 
+
+
+dnexr-structured-dnexr-wht-world-snd_item-weekly
+________________________________
+
+From: Nic Mitoulis <nic@polarstarfunds.com>
+Sent: Wednesday, January 29, 2025 3:46 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Polar Star Wheat SND dataset 
+ 
+
+Hi Pablo
+
+ 
+
+I hope you’re doing well.
+
+ 
+
+I wanted to check if you add the Wheat SND data to the relevant polarstar dataset that we can pull via the API?
+
+I see in the excel file where we get the wheat SND data, there is also wheat by class data. Could we also get that data through the API in addition to the total wheat figures?
+
+Thanks
+
+ 
+
+Regards
+
+Nic
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, 24 January 2025 16:52
+To: Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: DNEXT_ANALYSTS <dnext-analysts@dnext.io>
+Subject: Global Wheat SND Update January 24th 2025
+
+ 
+
+Dear all,
+
+Please find our global wheat update
+
+Any suggestions or questions please let us know.
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Best Regards,
+
+Dnext Research
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more Click Here <http://www.mimecast.com/products/> .

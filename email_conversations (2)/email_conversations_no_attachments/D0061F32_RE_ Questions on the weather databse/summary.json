@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to identify which NUTS region corresponds to each weather region code in the weather database and understand the meaning of the 'RUN' and 'DATE' columns in the weather dataset.",
+    "solution": "To find the NUTS region mapping for each weather region, use the provided datasets that contain NUTS mappings per region. Each dataset corresponds to a specific geographic area (e.g., Australia, Middle East, South America, USA, Europe, Thailand, India, Canada, BSEA, North Africa, Mexico, Malindo, South Africa) and is identified by a unique dataset code. For the 'RUN' and 'DATE' columns: 'RUN' indicates the timestamp when the forecast model (such as ECMWFENS or ECMWFOP) was executed, and 'DATE' represents the forecasted date for the weather variable (e.g., temperature, precipitation). This means the 'RUN' date is when the forecast was generated, and the 'DATE' is the target date the forecast applies to.",
+    "keywords": [
+      "NUTS region mapping",
+      "weather database",
+      "region codes",
+      "RUN column",
+      "DATE column",
+      "forecast model run date",
+      "forecasted date",
+      "ECMWFENS",
+      "ECMWFOP",
+      "weather dataset",
+      "region mapping datasets"
+    ],
+    "category": "Feature Explanation"
+  }
+}

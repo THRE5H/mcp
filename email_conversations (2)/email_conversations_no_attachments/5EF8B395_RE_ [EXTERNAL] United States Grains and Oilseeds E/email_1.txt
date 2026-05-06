@@ -1,0 +1,70 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Léonard Berney
+Date: 2025-05-02 16:06:57.448000+00:00
+Subject: RE: [EXTERNAL] United States Grains and Oilseeds Exports - 2025-04-28
+Message-ID: SA1PR11MB85431AE31C8C2D78175EC369968D2@SA1PR11MB8543.namprd11.prod.outlook.com
+In-Reply-To: GV0P278MB0338D1D26767B7AD9CAF2A09E78D2@GV0P278MB0338.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi, 
+
+ 
+
+Is this data available thru the API?
+
+ 
+
+Thanks, 
+Rafael
+
+ 
+
+From: Léonard Berney <leonard.berney@dnext.io> 
+Sent: Friday, May 2, 2025 9:49 AM
+Subject: [EXTERNAL] United States Grains and Oilseeds Exports - 2025-04-28
+
+ 
+
+Dear all,
+
+Please find attached the United States grains and oilseeds D-Lineup report for Apr 28, 2025, as well as two excels, the D-Lineup and times spent at ports.
+Please note that we are using the total time spent at port (Actual Time of Shipping - Actual Time of Arrival).
+
+Please let us know if you have any remarks or suggestions.
+
+Best regards,
+
+Léonard Berney
+Data Scientist
+
+leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> 
+
+ <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/1/01020196911462f4-e6cedefa-fd9d-45f3-9fe3-57b2fda31622-000000/XZqRsANR-EFevzIh9JDjUjl_rr8=424> 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/2/01020196911462f4-e6cedefa-fd9d-45f3-9fe3-57b2fda31622-000000/-DHoNaGYHDZh-5If6UsA0VmF-T8=424> 
+
+ 
+
+ 
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

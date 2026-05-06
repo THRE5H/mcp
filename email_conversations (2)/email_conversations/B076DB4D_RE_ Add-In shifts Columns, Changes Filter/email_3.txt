@@ -1,0 +1,26 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-09-18 10:34:43.086000+00:00
+Subject: Add-In shifts Columns, Changes Filter
+Message-ID: ZR3P278MB1353D5919852B0EA3628D673F616A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: Load_File_1.xlsx
+
+================================================================================
+
+Hello,
+
+ 
+
+I had an add-in query filtering RSO and CPO, however, now only CPO shows and, what is more, the columns have changed location. As you can see in the screenshot, they are not aligned anymore.
+
+ 
+
+Sending you the file in the attachments.
+
+ 
+
+The dataset is this one: verbio-biof-eur-cash-daily
+
+ 
+
+

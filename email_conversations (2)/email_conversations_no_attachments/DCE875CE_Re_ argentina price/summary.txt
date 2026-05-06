@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the price for a product or service related to Argentina was not updated as expected.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team regarding a pricing issue.
+
+**Solution**: The Support Agent confirmed that the issue was resolved by updating the price as requested. It is recommended that users regularly check for price updates to ensure they have the latest information.

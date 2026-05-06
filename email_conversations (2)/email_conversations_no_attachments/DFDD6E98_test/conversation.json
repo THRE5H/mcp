@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "test",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=436C997806D34CC39F8E25735927BEF3-19E89D70-52",
+      "from_name": "Benoit Baliguet",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2025-12-04 20:36:26.247000+00:00",
+      "sent_time": "2025-12-04 20:36:23+00:00",
+      "body_text": "Test. Do not reply to this.",
+      "body_html": "<html>\r\n<head>\r\n</head>\r\n<body><div dir=\"ltr\" style=\"font-family: Aptos, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">Test. Do not reply to this.</div></body></html>",
+      "conversation_id": "DFDD6E981030E34EB1679C4622C1A70B",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900033497BDAF0000",
+      "size": 34220,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GV0P278MB1317857AA7F5992A66AE8DE381A6A@GV0P278MB1317.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "test"
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the demo4 environment in order to investigate a related ticket.
+
+**Context**: The user is an external user from the Customer Organization seeking access to a specific service provided by the Service Provider. The request was made via email to the support team.
+
+**Solution**: The support agent provided the customer with the necessary login credentials for the demo4 environment, enabling access to investigate the ticket. It is recommended that users securely store their login information to prevent future access issues.

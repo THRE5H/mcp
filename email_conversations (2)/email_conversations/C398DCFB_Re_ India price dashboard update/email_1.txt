@@ -1,0 +1,38 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-06-04 13:34:03.127000+00:00
+Subject: Re: India price dashboard update
+Message-ID: ZRAP278MB052745C4B05576D3117438E9966CA@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717169005CCDA30F8AC8790EB6CA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+https://www.ncdex.com/markets/spotprices
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, June 4, 2025 1:25 PM
+To: Nour Meddeb <nour.meddeb@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: India price dashboard update 
+ 
+Can you send me the link to the source we are using? I will ask our contact there if they have an alternative
+
+
+________________________________
+
+From: Nour Meddeb <nour.meddeb@dnext.io>
+Sent: Wednesday, June 4, 2025 12:28:51 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: India price dashboard update 
+ 
+The source server is down we can't fetch data from
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, May 30, 2025 12:45 PM
+To: Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: India price dashboard update 
+
+

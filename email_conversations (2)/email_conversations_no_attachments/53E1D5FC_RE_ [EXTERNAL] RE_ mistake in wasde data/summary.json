@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "In the USDA WASDE data for the date 1998-11-10, cotton data was incorrectly mapped to the soft wheat (SWHT) product category for the crop year 1998/1999.",
+    "solution": "The mapping error was identified and corrected by the support team. Users encountering similar mapping issues in WASDE data should verify the product mapping fields to ensure that commodity data (e.g., cotton) is correctly assigned to its respective product category rather than being misclassified under another product such as soft wheat. If such errors are found, report them with specific data examples to support for correction.",
+    "keywords": [
+      "WASDE",
+      "USDA data",
+      "mapping error",
+      "product mapping",
+      "cotton misclassified",
+      "soft wheat",
+      "SWHT",
+      "crop year",
+      "data correction"
+    ],
+    "category": "Error Resolution"
+  }
+}

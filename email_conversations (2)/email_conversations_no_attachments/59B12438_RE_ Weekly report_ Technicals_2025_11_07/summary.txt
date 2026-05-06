@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a user in the Agrorodeo environment due to an undeliverable email error indicating that the recipient's address was not found.
+
+**Context**: The customer is an external user from Customer Organization, using Office 365. The issue arose when an email sent to a non-existent address (liutauras.kruopis@agrorodeo.lt) failed to be delivered, prompting the request for user deletion.
+
+**Solution**: The Support Agent confirmed the deletion of the user as requested. It is recommended to ensure that email addresses are verified before sending to avoid similar issues in the future.

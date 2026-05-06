@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a user in the system due to undeliverable email errors, indicating a possible mail loop issue.
+
+**Context**: The customer is an external user from Customer Organization, seeking assistance from the Customer Support Team of Service Provider. The issue arose from a returned email notification indicating a permanent fatal error related to the user's email address.
+
+**Solution**: The Support Team confirmed the deletion of the user as requested. It is recommended to regularly review user accounts to prevent similar issues in the future, especially when encountering undeliverable email notifications.

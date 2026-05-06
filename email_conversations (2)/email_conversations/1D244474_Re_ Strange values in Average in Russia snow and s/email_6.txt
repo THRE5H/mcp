@@ -1,0 +1,45 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2026-01-14 08:45:43.243000+00:00
+Subject: Re: Strange values in Average in Russia snow and soil temperature dashboard
+Message-ID: GV0P278MB0717A98402BEF0828C85B4B3EB8FA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12267231EC048CF45A1B21E8F58FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+It's the average line so most likely a power bi issue?
+
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, January 14, 2026 8:04:04 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Strange values in Average in Russia snow and soil temperature dashboard 
+ 
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Wednesday, January 14, 2026 8:00:00 AM
+À : Support Dnext <support@dnext.io>
+Objet : Re: Strange values in Average in Russia snow and soil temperature dashboard 
+ 
+Hi, can we check this please? 
+
+thanks
+
+
+
+here the average for some reasons follow 2025
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, January 9, 2026 11:39 PM
+To: Support Dnext <support@dnext.io>
+Subject: Strange values in Average in Russia snow and soil temperature dashboard
+ 
+
+

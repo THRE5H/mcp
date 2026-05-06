@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log into the platform, receiving an "invalid credentials" error despite using the provided login details.
+
+**Context**: The user is an external user, specifically the Head of Agricultural Commodities Trading at a Customer Organization. The issue involves accessing the DNEXT platform using the provided URL and credentials. The customer has attempted to log in multiple times without success.
+
+**Solution**: The Support Agent confirmed the correct URL and credentials and suggested the customer try logging in again. When the issue persisted, the Support Agent proposed a call to troubleshoot the problem directly. A meeting was scheduled for the following day to resolve the login issue.

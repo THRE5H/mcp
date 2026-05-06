@@ -1,0 +1,5 @@
+**Problem**: The customer requested an update to the user list in the ETG environment, specifically to remove users marked with a yellow cross.
+
+**Context**: The request was made by an external user from the Customer Organization regarding the ETG service. The issue pertains to user management within the ETG environment, which may impact access or functionality for other users.
+
+**Solution**: The Support Team confirmed the removal of users with the yellow cross from the ETG user list. It is recommended to regularly review user access to ensure that only active users are maintained in the system.

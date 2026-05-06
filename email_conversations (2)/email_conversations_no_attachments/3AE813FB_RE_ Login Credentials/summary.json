@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to link their Dropbox account to their user account on the Dnext Platform but does not see the expected folders appear in their Dropbox after enabling the connection and authenticating.",
+    "solution": "To link Dropbox to the Dnext Platform user account: 1) Log in to the Dnext Platform with your credentials. 2) Access the User Profile Module by clicking the icon with your initials in the bottom-left corner. 3) In the User Profile, locate the Connectors section and toggle the Dropbox connector to enable it. 4) Authenticate with Dropbox when redirected to the Dropbox authentication page. After successful authentication, a confirmation screen appears. Additionally, to access shared folders, check your email for an invitation to join the Dnext Team on Dropbox (email comes from no-reply@dropbox.com). Click 'Join Team' and follow the instructions. If the invitation email is not received, verify with your IT department that Dropbox emails are not being filtered or blocked.",
+    "keywords": [
+      "Dnext Platform",
+      "Dropbox integration",
+      "link Dropbox",
+      "connectors",
+      "user profile",
+      "authentication",
+      "shared folders",
+      "Dropbox invitation",
+      "email filtering",
+      "no-reply@dropbox.com"
+    ],
+    "category": "How-to Guide"
+  }
+}

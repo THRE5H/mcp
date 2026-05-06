@@ -1,0 +1,53 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-11-19 14:48:12.082000+00:00
+Subject: Bug notification: Dnext Add-In Changed Format
+Message-ID: ZR3P278MB135347C6EF1B1ED03CABEED4F6D7A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+One download changed format. Previously, the column arrangement was the same as in the sheet “SME”, then changed.
+
+ 
+
+Sheet “SME”:
+
+
+
+ 
+
+ 
+
+Sheet which changed, “Verbio”:
+
+
+
+ 
+
+ 
+
+Bug source: in the same file there are non-verbio Add-in downlowads. When clicked “Refresh workbook”, the error occurred.
+
+ 
+
+Bug “fixing”: Logged back into Verbio Dnext Add-in space and downlowaded again and the old format came back.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+ 
+
+ 
+
+ 

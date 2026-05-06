@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a user from the system due to an undeliverable email notification indicating that the recipient's mailbox was full.
+
+**Context**: The customer is an external user from Customer Organization, using a service provided by Partner Company. The issue arose when an email sent to a user at Partner Company was undeliverable due to the recipient's mailbox being full.
+
+**Solution**: The Support Agent confirmed the deletion of the user from the system as requested by the customer. It is recommended to regularly monitor mailbox usage to prevent similar issues in the future.

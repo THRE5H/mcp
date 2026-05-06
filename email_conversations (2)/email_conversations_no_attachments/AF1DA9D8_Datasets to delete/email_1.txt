@@ -1,0 +1,19 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Support Dnext
+Date: 2025-07-31 10:08:38.237000+00:00
+Subject: Datasets to delete
+Message-ID: GV0P278MB05149BFC9CCFBFE15EAF117FF027A@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+I hope this email finds you well.
+
+I am writing to request the deletion of   datasets from DNEXR
+
+
+dnexr-istat-dairy-ita-snd-item-monthly
+dnexr-istat-italy-snd-white-meat-monthly
+dnexr-istat-italy-white-meat-dead-monthly
+dnexr-istat-dead-meat-ita-snd-item-monthly

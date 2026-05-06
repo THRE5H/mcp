@@ -1,0 +1,5 @@
+**Problem**: The customer reported that a dataset was blocked, resulting in lost data from May 23rd to June 19th, and requested assistance to run a script to recover the missing data.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The issue involves a specific dataset named "dnexr-zernoru-cash-dailyclone" that was inaccessible for a period.
+
+**Solution**: The Support Agent confirmed that the script was successfully run to recover the lost data. It is recommended that the customer regularly monitor dataset accessibility to prevent future data loss.

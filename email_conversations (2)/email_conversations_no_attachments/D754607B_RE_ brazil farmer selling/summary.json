@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to know if Brazil farmer selling data is available on the platform or API.",
+    "solution": "The Brazil farmer selling data is available via the API under specific dataset codes. The datasets include: 'SBS BRA FARMER SELLING PERCENT' (code: zimb-72e34d6d-960f-11ef-87d0-0a944433a9a1), 'CRN BRA FARMER SELLING PERCENT' (code: zimb-3bf600ca-9604-11ef-bcd6-0604d9ebb2ed), 'CRN BRA FARMER SELLING VOLUME' (code: zimb-524ca7de-960b-11ef-87d0-0a944433a9a1), and 'SBS BRA FARMER SELLING VOLUME' (code: zimb-b64e7909-9624-11ef-87d0-0a944433a9a1). Users can access these datasets through the API using the provided codes.",
+    "keywords": [
+      "Brazil farmer selling",
+      "API",
+      "dataset codes",
+      "farmer selling percent",
+      "farmer selling volume",
+      "data access",
+      "SBS",
+      "CRN"
+    ],
+    "category": "Feature Explanation"
+  }
+}

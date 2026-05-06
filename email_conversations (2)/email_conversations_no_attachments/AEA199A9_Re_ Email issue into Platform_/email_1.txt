@@ -1,0 +1,25 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: John Stansfield; Support Dnext
+Date: 2025-10-08 09:04:50.352000+00:00
+Subject: Re: Email issue into Platform?
+Message-ID: ZR3P278MB1226D011BF6EAC0F6C01BBA4F5E1A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB06054C9F29F7D24E1C1608AE85E1A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello John,
+
+Yes, we have an issue, and the Dev team are working to solve it
+
+Thanks,
+Jebrane 
+________________________________
+
+De : John Stansfield <john.stansfield@dnext.io>
+Envoyé : mercredi, octobre 8, 2025 07:23
+À : Support Dnext <support@dnext.io>
+Cc : TradeFlow <tradeflow@dnext.io>
+Objet : Email issue into Platform?
+ 
+Is there a blockage on emails being diverted into the Platform?   We are missing all the daily Brazilian port line ups.
+

@@ -1,0 +1,43 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-03 17:36:51.708000+00:00
+Subject: RE: Add forecast run to india temp dashboard
+Message-ID: ZR3P278MB1226A2BDCF517F7E0D3FF915F5F52@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717D449ECB4D2D33244D197EBF52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Pablo, 
+
+ 
+
+Fixed. 
+
+ 
+
+
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Monday, February 3, 2025 9:29 AM
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Add forecast run to india temp dashboard
+
+ 
+
+Hi guys, can we add the forecast run filter to this dashboard?
+
+ 
+
+there is big discrepancy between the models so we need to show the filter for the model and forecast run.
+
+ 
+
+Thanks a lot!
+
+
+
+ 
+
+ 

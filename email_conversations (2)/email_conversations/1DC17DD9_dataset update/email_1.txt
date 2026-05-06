@@ -1,0 +1,15 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-09-26 16:47:04.955000+00:00
+Subject: dataset update
+Message-ID: GV0P278MB0148CFFCD47B68EFEF239AC7981EA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, was willing to check this, but no update and data is wrong
+
+dnexr-statscan-gno-can-stk-quarterly
+
+ 
+
+ 

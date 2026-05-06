@@ -1,0 +1,25 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Pablo Figueroa
+Date: 2025-11-11 01:59:23.429000+00:00
+Subject: Farmer selling
+Message-ID: ZR0P278MB0773A323E612F8F4944AD05C98CFA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi @Pablo Figueroa <mailto:pablo.figueroa@dnext.io>  and @Support Dnext <mailto:support@dnext.io> 
+
+ 
+
+Michela (ETG) is looking to download the soybean farmer selling priced data directly from : dnexr-sio-gno-arg-sio_fs-daily
+
+Can you guys please indicate what is the date column to use and what filter is required to download the data that is being displayed on the dashboard.
+
+ 
+
+Thanks in advance,
+
+ 
+
+Bastien
+
+ 

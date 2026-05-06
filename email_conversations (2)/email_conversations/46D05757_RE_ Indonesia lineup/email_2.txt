@@ -1,0 +1,21 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-03-17 23:42:44.525000+00:00
+Subject: Indonesia lineup
+Message-ID: GV0P278MB01483F8E61E063D82E2C478A98DF2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+There is still a problem with Indonesia lineup.
+
+If I select only China, the graph don’t select only China. If I “Select all”, am I seeing China, Europe, India and US or am I seeing everything ? 
+
+If I want to see the last 6 months ? why showing the months in the legend and not year+month ?
+
+ 
+
+Thanks for fixing it
+
+ 
+
+

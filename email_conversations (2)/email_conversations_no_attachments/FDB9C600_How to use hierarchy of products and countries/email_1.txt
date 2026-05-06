@@ -1,0 +1,16 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Support Dnext
+Date: 2025-09-19 16:34:52.953000+00:00
+Subject: How to use hierarchy of products and countries
+Message-ID: GV0P278MB02103C3A3C23694808F9EB9F9211A@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+I would like to use a dataset from Dnexr that lists all the country groups (e.g., the list of countries in the EU-27).
+Is there a similar dataset for products as well?
+If not, how can I use reference data to retrieve the hierarchy of products and countries via an API?
+
+Thanks,
+Abir Chebbi
+

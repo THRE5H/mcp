@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to download the veg oil SND datasets due to an error and later reported that the download option was not visible in the Datasets tab.
+
+**Context**: The customer is an external user from a Customer Organization seeking assistance with a dataset download feature from a Service Provider's platform. The issue persisted despite attempts to clear the browser cache and cookies, and the customer requested verification of their access permissions.
+
+**Solution**: The Support Agent suggested logging out and back in to resolve the missing download button issue. Additionally, the agent provided a direct download link for the dataset and a password for access while the underlying issue was being investigated. A meeting was proposed to further diagnose the problem.

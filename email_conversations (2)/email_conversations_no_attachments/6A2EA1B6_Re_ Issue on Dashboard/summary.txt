@@ -1,0 +1,5 @@
+**Problem**: The customer is unable to copy the output from the weather dashboard due to an error message when using the embedded function. Additionally, they cannot take a screenshot because the title is displayed below the chart.
+
+**Context**: The user is an external user of the Service Provider's weather dashboard. The issue may be related to the functionality of the embedded feature within the dashboard, potentially influenced by server performance.
+
+**Solution**: The Support Agent suggested refreshing the dashboard as a potential solution, indicating that the issue might be linked to Microsoft Power BI servers. The customer was advised to try this step to resolve the problem. Further investigation may be necessary if the issue persists.

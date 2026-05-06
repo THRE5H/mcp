@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of two users, Isaac and Beth, to a meeting invite and access to a platform, highlighting Beth's importance as a key contributor in Europe.
+
+**Context**: The customer is an internal user from Customer Organization seeking support from the Service Provider. The request involves managing user access and meeting invites within the JBS environment.
+
+**Solution**: The Support Agent confirmed that Isaac was added to the JBS distribution list and a user account was created for him. Additionally, Beth was also added to the distribution list, and her account credentials were sent to the provided email address. It is recommended to ensure all key contributors are included in future communications to facilitate collaboration.

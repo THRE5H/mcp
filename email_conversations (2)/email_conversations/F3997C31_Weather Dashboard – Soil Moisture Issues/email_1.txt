@@ -1,0 +1,54 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-05-30 13:49:43.594000+00:00
+Subject: Weather Dashboard – Soil Moisture Issues
+Message-ID: ZR0P278MB0505D7F309B61B08E0CB2D308A61A@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+Attachments: Capture d'écran 2025-05-30 143945.png, Capture d'écran 2025-05-30 144051.png, Capture d'écran 2025-05-30 144117.png
+
+================================================================================
+
+Hello,
+
+ 
+
+I hope you're doing well.
+
+ 
+
+I’ve noticed a few issues in the Soil Moisture section of the Weather Dashboard and wanted to check if these changes are expected:
+
+ 
+
+The date displayed in the title seems off.
+
+ 
+
+The date filter used to start from January 1st, if I’m not mistaken—it now appears to behave differently.
+
+ 
+
+On the dashboard landing page, Finland and Norway are shown now, whereas only usefull part of Sweden used to be shown.
+
+ 
+
+Please find attached a screenshot from earlier this week for reference, and some screenshots of what I encountered.
+
+ 
+
+Could you confirm whether these changes are intentional or if something needs to be fixed?
+
+ 
+
+Thanks in advance for your help.
+
+ 
+
+Best regards,
+
+ 
+
+Louis
+
+ 
+
+

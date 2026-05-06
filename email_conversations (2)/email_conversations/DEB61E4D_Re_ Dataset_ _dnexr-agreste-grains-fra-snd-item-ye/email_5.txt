@@ -1,0 +1,19 @@
+From: Quentin Doublet <quentin.doublet@blackfryers.io>
+To: Support Dnext
+Date: 2026-01-09 16:13:26.282000+00:00
+Subject: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+Message-ID: ZRAP278MB08011FE47F715CB6FAD6A1418F82A@ZRAP278MB0801.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Support team,
+
+Could you please check and repair the workflow associated to the dnexr-agreste-grains-fra-snd-item-yearly dataset ?
+
+The first step, "extract" is in error.
+
+Thanks in advance for your help on this
+
+Regards,
+
+Quentin

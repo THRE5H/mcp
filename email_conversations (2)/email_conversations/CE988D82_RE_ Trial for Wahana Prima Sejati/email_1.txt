@@ -1,0 +1,120 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Aditya Jeripotula; Support Dnext
+Date: 2025-12-05 15:04:37.692000+00:00
+Subject: RE: Trial for Wahana Prima Sejati
+Message-ID: GV0P278MB1320FB6A5964CF9CF2667823F8A7A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB01505B110279DC34546E629E98A7A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Aditya,
+
+ 
+
+Environment : https://demo2.dnext.io is ready , except for the GnO Economics > Futures Dashboard that I did not share as I m still waiting for confirmation.
+
+ 
+
+you already have an account on this environment, please check it out and let me know if any adjustments are needed.
+
+ 
+
+The two following email addresses have also been added to the vegoils distribution list : 
+
+sulaiman.halim@wahanaprimasejati.com <mailto:sulaiman.halim@wahanaprimasejati.com> 
+
+albert.albert@wahanaprimasejati.com <mailto:albert.albert@wahanaprimasejati.com> 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io> 
+Sent: Friday, December 5, 2025 9:02
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: Trial for Wahana Prima Sejati
+
+ 
+
+Dear team
+
+ 
+
+Last week we gave demo to Mr. Sulaiman, GM of Wahana Prima Sejati, at their office. He requested for 2 week trial. 
+
+Mr. Albert, his assistant will also be using the demo account. Below are the emails:
+
+sulaiman.halim@wahanaprimasejati.com <mailto:sulaiman.halim@wahanaprimasejati.com> 
+
+albert.albert@wahanaprimasejati.com <mailto:albert.albert@wahanaprimasejati.com>  
+
+ 
+
+For trial, we can give them the following dashboards related to palm oil:
+
+GnO Crop>Indonesia> Industry Peers and Palm Oil Stats
+
+GnO Crop>Malaysia> CPO Stats and MPOA vs MPOB
+
+GnO Economics>Futures
+
+GnO Economics>Indonesia>Margin Analysis and Palm Oil Exports Levy & Duty
+
+GnO Economics>Malaysia>Margin Analysis
+
+GnO Economics>India>Edible Oil Margins
+
+Customs>Southeast Asia>Indonesia & Malaysia
+
+Lineups>Asia South East>Indonesia & Malaysia
+
+SND>DNEXR>Vegoils
+
+SND>Indonesia>Biodiesel Stats
+
+SND>India>Vegoils Stats SEA
+
+SND>China>Palm Oil Stocks
+
+Weather>Malindo
+
+Trade Matrix>DNEXR-vegoils
+
+ 
+
+Reports on email until 19th Dec.
+
+ 
+
+Kindly let me know if ready to inform the client, so I can assist them on using our services.
+
+ 
+
+Regards,
+
+AJ
+
+ 
+
+ 

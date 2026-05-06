@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the weather dashboard is not updating and is stuck at previous timestamps for both ECMWF and GEFS data.
+
+**Context**: The user is an external user from a Customer Organization experiencing issues with a weather dashboard feature provided by a Service Provider. The problem arose on July 16, 2025, indicating a potential data refresh issue.
+
+**Solution**: The Support Team acknowledged the issue and began investigating the data refresh process for the weather dashboard. No resolution was provided in the conversation, and further actions may be required to restore the functionality. It is recommended to monitor the dashboard for updates and report any persistent issues.

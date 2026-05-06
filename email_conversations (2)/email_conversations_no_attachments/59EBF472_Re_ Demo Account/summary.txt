@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a demo account for two users associated with Binatural, but there were concerns about the availability of demo environments for the upcoming week.
+
+**Context**: The customer is an external user from Customer Organization requesting support from Service Provider. The demo account creation involves scheduling a demo for specific commodities, namely soybeans and vegetable oils, and there was urgency due to existing bookings.
+
+**Solution**: A new demo environment was created and prioritized by the devOps team, with confirmation that it would be ready by the following morning. The customer was advised to provide the list of users for the demo, and a tour was also requested to be organized with one of the users.

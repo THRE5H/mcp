@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the River draft dashboard had not been updated since February 2025 and requested urgent assistance to resolve the issue.
+
+**Context**: The user is an internal user from Customer Organization, reaching out to the Support Team of Service Provider regarding a dashboard feature. The issue was reported by a partner company representative, indicating a potential impact on their operations.
+
+**Solution**: The Support Team addressed the issue, confirming that the dashboard should now be functioning correctly. It is recommended to monitor the dashboard regularly to ensure timely updates and prevent future occurrences.

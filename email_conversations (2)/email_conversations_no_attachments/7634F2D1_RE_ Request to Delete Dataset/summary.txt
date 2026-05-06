@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a dataset due to a missing column, as they were in the process of recreating a new one.
+
+**Context**: The user is an external user from the Customer Organization, seeking support from the Service Provider. The request involved a specific dataset identified by its code.
+
+**Solution**: The Support Agent confirmed the deletion of the dataset as requested. It is recommended that users double-check dataset completeness before finalizing to avoid similar issues in the future.

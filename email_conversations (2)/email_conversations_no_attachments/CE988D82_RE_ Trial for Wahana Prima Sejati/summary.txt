@@ -1,0 +1,5 @@
+**Problem**: The customer requested a two-week trial of specific dashboards related to palm oil after a demo. They needed confirmation on the availability of the dashboards and assistance in using the demo account.
+
+**Context**: The user is an internal user from the Customer Organization coordinating a trial for the external user, the General Manager of Wahana Prima Sejati, and his assistant. The product involved is a demo account for a data analytics platform, with specific dashboards related to palm oil.
+
+**Solution**: The Support Agent confirmed that the demo environment was ready, except for one dashboard pending confirmation. The email addresses of the customer and his assistant were added to the distribution list for reports until December 19th. It was recommended to check the demo environment for any necessary adjustments before informing the client.

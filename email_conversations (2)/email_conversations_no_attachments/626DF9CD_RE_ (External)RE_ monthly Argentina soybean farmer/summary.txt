@@ -1,0 +1,5 @@
+**Problem**: The customer needed instructions on how to download monthly soybean farmer selling data from the Dnext website.
+
+**Context**: The user is an external user from a Customer Organization seeking data from the Service Provider's platform. The inquiry involved accessing specific datasets related to soybean sales in Argentina.
+
+**Solution**: The Support Agent provided direct links to the relevant datasets for weekly and daily farmer selling data and explained how to download them. Additionally, the agent confirmed that the historical data was sourced from MinAgri and advised the customer to use the "operation date" field with specific filters to retrieve the desired monthly priced data.

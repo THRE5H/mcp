@@ -1,0 +1,5 @@
+**Problem**: The customer requested to cease access and remove a specific user from all distribution lists.
+
+**Context**: The request was made by a Market Data Operations Specialist from a Customer Organization. The issue involved a user associated with the Customer Organization who needed to be removed from access and distribution lists for compliance or operational reasons.
+
+**Solution**: The Support Agent confirmed that the user had been successfully removed from both the platform and the distribution list. It is recommended to periodically verify user access and distribution list memberships to ensure compliance with such requests.

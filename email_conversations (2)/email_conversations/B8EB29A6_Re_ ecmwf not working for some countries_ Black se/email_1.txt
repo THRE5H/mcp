@@ -1,0 +1,40 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Jebrane Ben Salem; Pablo Figueroa; Support Dnext
+Date: 2025-03-04 19:29:53.747000+00:00
+Subject: Re: ecmwf not working for some countries: Black sea and middle east at least
+Message-ID: ZR1P278MB1171409B1490BD9AADBF38428BC82@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122606FEE566007A3E72DB22F5C82@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+as per the ECMWF Open Data documentation, only a limited number of forecast time steps are available for the 06Z and 18Z runs
+
+
+https://www.ecmwf.int/en/forecasts/datasets/open-data
+Open data - ECMWF <https://www.ecmwf.int/en/forecasts/datasets/open-data> 
+These products are a subset of the full Catalogue of ECMWF Real-time Products and are based on the medium-range (high-resolution and ensemble) and seasonal forecast models.. IFS data are released 1 hour after the real-time dissemination schedule.AIFS data are released as soon the data are produced. For further details about the available AIFS products, see the dataset description.
+www.ecmwf.int
+
+We are showing all the data that we currently have access to.
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 04 March 2025 18:02
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: ecmwf not working for some countries: Black sea and middle east at least 
+ 
+I'm adding @Martin Keller <mailto:martin.keller@dnext.io> .
+As discussed with Martin earlier, the ECMWF 6Z data is incomplete for 06Z for all countries
+@Martin Keller <mailto:martin.keller@dnext.io> , please correct me if I’m mistaken
+
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : mardi, mars 4, 2025 6:50:47 PM
+À : Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Objet : ecmwf not working for some countries: Black sea and middle east at least
+
+
+ 
+

@@ -1,0 +1,5 @@
+**Problem**: The customer was not receiving the two-factor authentication (2FA) code needed to log into the platform.
+
+**Context**: The user is an external user from Customer Organization experiencing issues with the DCS-1201 feature of the platform. The problem occurred during the login process on the staging environment.
+
+**Solution**: The issue was resolved when the user received the 2FA codes in bulk, allowing them to successfully log in. It is recommended that users check their spam folders and ensure their contact information is up to date to prevent similar issues in the future.

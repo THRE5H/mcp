@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to deliver an email to the recipient due to an "unknown recipient" error, indicating that the email address was incorrect or did not exist.
+
+**Context**: The customer is an external user from Customer Organization attempting to send an email regarding a "Corn SND update" to a recipient at Partner Company. The email was rejected by the mail server, which indicated that the recipient's address could not be found.
+
+**Solution**: The Support Agent confirmed the issue was resolved, likely by correcting the recipient's email address or following the recommended steps to verify the address. It is advised to double-check email addresses before sending to avoid similar issues in the future.

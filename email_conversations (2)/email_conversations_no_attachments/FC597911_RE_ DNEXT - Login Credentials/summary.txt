@@ -1,0 +1,5 @@
+**Problem**: The customer expressed difficulty in navigating the platform, stating it is not intuitive and requested guidance on using it more effectively.
+
+**Context**: The user is an external user (Customer) from a Customer Organization seeking assistance with a platform provided by a Service Provider. The inquiry followed the initial sharing of login credentials and instructions for accessing the platform.
+
+**Solution**: The Support Agent offered to arrange a demo session to walk the customer through the platform's key features and provide tips for effective use. A time for the demo was proposed, and the Support Agent confirmed flexibility in scheduling to accommodate the customer's availability.

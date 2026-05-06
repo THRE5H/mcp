@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Emails sent to a bot email address are rejected with error '550 5.7.520 Access denied, Your organization does not allow external forwarding.'",
+    "solution": "This issue is caused by the sender's Outlook outbound spam policy blocking external email forwarding. To resolve it, the sender's IT administrator must update the outbound spam policies in Microsoft Defender for Office 365 to allow external forwarding. Refer to the official Microsoft documentation on outbound spam policies and external email forwarding at https://learn.microsoft.com/en-us/defender-office-365/outbound-spam-policies-external-email-forwarding to configure the policy correctly and enable forwarding to the bot email address.",
+    "keywords": [
+      "email forwarding blocked",
+      "550 5.7.520",
+      "access denied",
+      "external forwarding",
+      "outlook outbound spam policy",
+      "Microsoft Defender for Office 365",
+      "email delivery failure",
+      "email rejected",
+      "antispam policy",
+      "external email forwarding"
+    ],
+    "category": "Configuration"
+  }
+}

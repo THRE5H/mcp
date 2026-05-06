@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing repeated delays in updates for the Arg farmer selling feature, with the last update occurring on August 29th. They are requesting an urgent update and expressing dissatisfaction with the frequency of updates.
+
+**Context**: The user is an external user of a service provided by a Service Provider. The issue pertains to the Arg farmer selling feature, which is expected to be updated weekly. The customer has reported similar issues multiple times in the past two months.
+
+**Solution**: The Support Team acknowledged the issue and escalated it to the relevant department for immediate attention. They confirmed that the update process would be reviewed to ensure timely updates in the future. It is recommended that the customer monitor the updates regularly and report any further delays promptly.

@@ -1,0 +1,13 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-07-07 14:12:09.273000+00:00
+Subject: cant access workflow metadata
+Message-ID: GV0P278MB01484062BDA0B1F6EB2A55BB984FA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+https://dnexr.dnext.io/workflows/a9d4c605-6875-4387-8612-801a2ac1e299
+
+ 
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether the platform had access to historical NOPA Soybean Crush data. Initially, they were informed that the data was unavailable.
+
+**Context**: The user is an external user from a financial management organization seeking data from a service provider's platform. The inquiry involved specific historical data that the service provider initially indicated they did not have.
+
+**Solution**: The support agent later clarified that while the service provider has access to the NOPA Soybean Crush data, it is restricted due to an exclusive distribution agreement with Reuters, preventing external sharing. The customer was advised of this limitation, and no further action was taken to provide the data externally.

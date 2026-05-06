@@ -1,0 +1,43 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-06-10 08:51:19.917000+00:00
+Subject: Weather Dashboards Issue
+Message-ID: ZR0P278MB05052554418158A235716B6E8A6AA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I would like to report two additional bugs I've encountered on the weather dashboard. These may be related to the button disappearing issue I reported over the weekend.
+
+ 
+
+Bug #1: Graph Button Becomes Unresponsive
+
+When attempting to click on the graph option, the button becomes grayed out and unresponsive. I am unable to click on it or access the graph functionality.
+
+Steps to Reproduce:
+
+*	Navigate to the weather dashboard
+*	Attempt to click on the graph option button
+*	Observe that the button becomes grayed out and non-functional
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Bug #2: Inconsistent Default Country Selection
+
+The default view for country selection is not consistent between different weather dashboards. Each dashboard shows different default countries selected, creating an inconsistent user experience.
+
+ 
+
+Louis

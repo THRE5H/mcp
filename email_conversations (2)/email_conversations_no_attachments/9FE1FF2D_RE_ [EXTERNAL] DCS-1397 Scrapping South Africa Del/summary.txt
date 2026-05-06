@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with the dataset for South Africa producer deliveries and requested any adjustments or suggestions for dashboard visualization.
+
+**Context**: The customer is an external user from Customer Organization, interacting with a Service Provider's support team. The issue involves the dataset related to South Africa deliveries, which had been successfully scraped and was in the process of being cleaned and verified.
+
+**Solution**: The Support Agent provided the customer with the code for the dataset and confirmed that the cleaned data would be available soon. It was recommended that the customer share any specific visualization preferences to ensure their needs are met in the dashboard design.

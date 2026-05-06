@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users want to download Argentina farmer selling data directly from the platform.",
+    "solution": "Users can access and download Argentina farmer selling data via provided dataset URLs. There are two datasets available: one for daily data and one for weekly data. To download the data, users can visit the dataset links and click the Download button located at the top right corner of the page. Additionally, an API is available to access this data programmatically, and documentation can be provided upon request.",
+    "keywords": [
+      "Argentina farmer selling",
+      "data download",
+      "dataset access",
+      "daily data",
+      "weekly data",
+      "download button",
+      "API access",
+      "data retrieval",
+      "platform download"
+    ],
+    "category": "How-to Guide"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Margin values are missing in a calculation table on the dashboard.",
+    "solution": "If margin data is missing in a dashboard table, check if the dashboard refresh process is blocked or stalled. Performing a manual refresh of the dashboard resolves the issue and restores the missing margin data.",
+    "keywords": [
+      "dashboard",
+      "margin missing",
+      "calculation table",
+      "data missing",
+      "dashboard refresh",
+      "refresh blocked",
+      "data update"
+    ],
+    "category": "Error Resolution"
+  }
+}

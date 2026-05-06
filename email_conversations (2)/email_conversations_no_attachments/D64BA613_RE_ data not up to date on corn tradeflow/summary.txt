@@ -1,0 +1,5 @@
+**Problem**: The customer reported a discrepancy in the corn trade data for Egypt, noting that the platform displayed 35kmt while another source indicated 180kt. They requested assistance to determine if there was an issue with the data update.
+
+**Context**: The user is an external user from a Customer Organization utilizing a trade data platform provided by a Service Provider. The inquiry pertains specifically to the corn tradeflow data for March.
+
+**Solution**: The Support Agent acknowledged the issue and requested clarification, asking for a screenshot to better understand the discrepancy. The agent noted that their system displayed 184kt for March, indicating a potential data update issue that needed further investigation.

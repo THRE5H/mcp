@@ -1,0 +1,62 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Saber Khalfallah; Pablo Figueroa; Support Dnext
+Date: 2025-10-13 16:07:20.867000+00:00
+Subject: Re: Price Modelling dashboard in clients environment
+Message-ID: ZR3P278MB1226839BA2BD9E8B7C7C2E2DF5EAA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320BB50B9364FF64C560FAAF8EAA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Bastien,
+Can we publish this dashboard with a report ID? That way, we can ensure it remains compliant with the dataset comliance. In the meantime, I’ve added a note (DNEXR only) to make it clear that it shouldn’t be shared with clients.
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: 13 October 2025 16:00
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Price Modelling dashboard in clients environment 
+ 
+
+Removed , any other particular dashboard that should not be shared ?
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Monday, October 13, 2025 15:58
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Price Modelling dashboard in clients environment
+
+ 
+
+i see in teruva and graincorp that this dashboard is available when it should not be the case
+
+ 
+
+

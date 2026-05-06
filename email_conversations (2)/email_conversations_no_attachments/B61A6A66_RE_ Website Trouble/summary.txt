@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log in to the dashboard, as the login button just spins indefinitely without any action. They attempted to access it from multiple machines.
+
+**Context**: The user is an external user from a Partner Company experiencing issues with the Service Provider's dashboard feature. The problem was reported on April 4, 2025, and the user has already tried different devices without success.
+
+**Solution**: The Support Agent checked the logs and found no login attempts from the user's account. They proposed a Teams call to troubleshoot the issue further and requested the user to provide more details about their machines. The outcome is pending the user's response to schedule the call.

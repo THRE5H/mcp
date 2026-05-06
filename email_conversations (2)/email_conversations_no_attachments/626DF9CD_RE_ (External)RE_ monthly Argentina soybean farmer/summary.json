@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to download monthly Argentina soybean farmer selling data and understand how to filter and interpret the dataset correctly.",
+    "solution": "To download Argentina soybean farmer selling data, visit the provided dataset URLs for Weekly Farmer Selling and Daily Farmer Selling on the platform. Click the Download button at the top right corner of the dataset page to export the data. For monthly priced farmer selling data sourced from MinAgri, use the dataset at https://etg.dnext.io/datasets/etg-c5711f29-ceee-44db-8548-52bb4f64e6c0. When filtering the data, use the 'operation date' field for accurate monthly aggregation and apply a filter where 'Is_Final' is set to 'SI'. Additionally, filter by 'Pricing=PRICED' and 'Crop_MappedName=Soybean' to get the relevant priced soybean farmer selling data.",
+    "keywords": [
+      "Argentina soybean farmer selling",
+      "monthly data download",
+      "dataset download",
+      "operation date",
+      "Is_Final filter",
+      "Pricing=PRICED",
+      "Crop_MappedName=Soybean",
+      "MinAgri data source",
+      "farmer selling data",
+      "data filtering"
+    ],
+    "category": "How-to Guide"
+  }
+}

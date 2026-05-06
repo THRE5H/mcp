@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs access to a combined feed grain trade flow dataset for China including commodities such as grain sorghum, oats, maize, rye, barley, and DDGs.",
+    "solution": "The China feed grains TradeMatrix is available on the platform. Users can access it by using the TradeMatrix code \"zimb-77299e24-d469-47fd-b7fb-f7f2d4abaa9a\" or by navigating to the TradeMatrix Module on the platform and selecting the TradeMatrix named \"China Feed Grain\". The direct URL to access it is https://zimb.dnext.io/fundamentals/tradematrix/zimb-77299e24-d469-47fd-b7fb-f7f2d4abaa9a.",
+    "keywords": [
+      "TradeMatrix",
+      "feed grain",
+      "China",
+      "grain sorghum",
+      "oats",
+      "maize",
+      "rye",
+      "barley",
+      "DDGs",
+      "trade flow",
+      "dataset access",
+      "platform navigation"
+    ],
+    "category": "How-to Guide"
+  }
+}

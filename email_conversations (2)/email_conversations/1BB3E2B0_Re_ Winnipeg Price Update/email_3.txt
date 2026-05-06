@@ -1,0 +1,50 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-12-10 11:15:07.835000+00:00
+Subject: Re: Winnipeg Price Update
+Message-ID: ZR3P278MB135344745CED97641A14ED87F6A0A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB135379DC7DF4E7FDED28E164F6A0A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image001.png
+
+================================================================================
+
+
+Hello,
+
+Do you have any news?
+
+PS The dataset is up to date. Do you by any chance know what was blocking.
+
+Best,
+
+Enea
+________________________________
+
+From: Enea Albertoli
+Sent: Tuesday, November 11, 2025 12:35 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Winnipeg Price Update
+ 
+
+Hello,
+
+ 
+
+May you please check why Winnipeg prices are not updated?
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/general
+
+ 
+
+Best,
+
+ 
+
+Enea

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be added to the distribution list for the "dl-china" emails, as they were not receiving the daily commentary.
+
+**Context**: The user is an external user from Customer Organization, seeking access to a specific email distribution list related to market commentary. The request was prompted by a previous email indicating they were not receiving the necessary updates.
+
+**Solution**: The support team confirmed that the customer was successfully added to the "dl-china" distribution list. It is recommended that users verify their email settings and confirm receipt of important updates to avoid missing critical information in the future.

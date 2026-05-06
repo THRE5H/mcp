@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Support Dnext; Dnext Lineups; Léonard Berney
+Date: 2025-08-07 17:52:57.260000+00:00
+Subject: Re: US lineup dashboard
+Message-ID: ZR3P278MB122621047A5E540EBADDDC72F52CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211F060DD932C187114EB63982CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Léonard Berney <mailto:leonard.berney@dnext.io> 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 07 August 2025 17:50
+To: Support Dnext <support@dnext.io>; Dnext Lineups <lineups@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: US lineup dashboard 
+ 
+
+D Lineups should be using inspections and lineups info that we were receiving from Fertimport and now Southport. However, if not Fertimport or Southport, then we are left with inspections. We should use this number to fulfill the lineups part in the US which is not the case today. Numbers looks off. 
+
+Tks for correcting it
+
+gg

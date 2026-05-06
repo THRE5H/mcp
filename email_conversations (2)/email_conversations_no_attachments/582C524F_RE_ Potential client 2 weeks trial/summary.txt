@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a demo account for a trial user and required specific data resources related to freight and wheat prices to be shared with him.
+
+**Context**: The request was made by an internal user from the Customer Organization to the Customer Support Team of the Service Provider. The demo account was intended for a potential client, with specific data requirements for the trial period.
+
+**Solution**: The Customer Support Team successfully created the demo account and sent the login credentials to the trial user. Additionally, a follow-up call was scheduled to address the user's business-related questions about freight and wheat prices, although the meeting was rescheduled due to the user's illness.

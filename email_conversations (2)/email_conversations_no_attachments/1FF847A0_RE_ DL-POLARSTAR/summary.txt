@@ -1,0 +1,5 @@
+**Problem**: The customer requested to amend the DL-Polarstar to add a specific email address.
+
+**Context**: The user is an internal user from the Customer Organization. The request involved the DL-Polarstar feature of the Service Provider's system. The communication occurred on January 28, 2025.
+
+**Solution**: The Support Agent confirmed that the requested amendment to add the email address was completed. It is recommended for users to verify changes in the system promptly to ensure all updates are accurately reflected.

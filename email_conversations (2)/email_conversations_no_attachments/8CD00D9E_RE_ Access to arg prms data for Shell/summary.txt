@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance accessing the arg prms data and requested the ability to download full historical data in a spreadsheet format, specifically looking for soybean meal exports by month from the U.S.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Service Provider. The issue involves accessing specific data within a platform related to agricultural products.
+
+**Solution**: The Support Agent provided instructions on how to navigate the platform to find the desired data, including accessing the TradeMatrix module for soybean meal exports. They also offered to check the possibility of downloading the full historical data and suggested a Teams call for further assistance.

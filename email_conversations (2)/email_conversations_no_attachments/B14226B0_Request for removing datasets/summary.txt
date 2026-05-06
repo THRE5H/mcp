@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific datasets from the system.
+
+**Context**: The user is an external user from a Customer Organization, seeking assistance with data management. The request involves multiple datasets related to palm prices and cash monthly reports.
+
+**Solution**: The Support Agent confirmed the receipt of the deletion request and initiated the process to remove the specified datasets. It is recommended that users verify dataset codes before submitting deletion requests to avoid any errors.

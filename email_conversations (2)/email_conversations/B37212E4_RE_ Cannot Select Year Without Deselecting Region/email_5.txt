@@ -1,0 +1,17 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-08-06 08:08:41.386000+00:00
+Subject: Cannot Select Year Without Deselecting Region
+Message-ID: ZR3P278MB1353C71F2DF6F62D006E6D2FF62DA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear customer support team,
+
+ 
+
+We cannot select Canadian regions and a specific year on the graph.
+
+https://dnexr.dnext.io/dashboard/weather/Weather/Canada/0de302d0-ab59-4d19-9e57-cb4a7c19ae88
+
+

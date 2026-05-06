@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of four specific datasets related to Brazil's North-Northeast region to facilitate their re-creation with an additional column.
+
+**Context**: The user is an internal user from Customer Organization, requesting support from a Customer Support Team Member regarding the deletion of datasets in a data management platform. The request was made to streamline the dataset structure for future use.
+
+**Solution**: The Support Team Member confirmed that the deletion of the requested datasets was completed. It is recommended that the user proceed with the re-creation of the datasets as planned, ensuring to include the necessary additional column.

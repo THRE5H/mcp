@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to view the tab for cash corn prices, which they previously accessed, while being able to see tabs for wheat and soybeans.
+
+**Context**: The user is an external user, a Specialist in Research, Trading & Resources at a Customer Organization. The issue pertains to a feature of a dashboard provided by a Service Provider that displays cash prices for various commodities.
+
+**Solution**: The Support Agent confirmed that the cash corn prices are available in the Corn CNF Dashboard and directed the customer to that location. The customer was advised to reach out if they had further questions, indicating the issue was resolved by providing the correct navigation information.

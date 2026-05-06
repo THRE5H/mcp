@@ -1,0 +1,33 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-05-02 13:22:04.191000+00:00
+Subject: New Environment: DRW
+Message-ID: GVAP278MB06771F26736E3EDCE3286E9F888D2@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+The Dev team has created a new environment:
+
+drw.dnext.io
+
+ 
+
+Please make the setup for this new customer:
+
+*	Client name: DRW Holding
+*	Start date: 01.05.2025 to 30.04.2026
+*	Commodity: SUGAR
+
+ 
+
+Many thanks to confirm when done.
+
+ 
+
+Sami
+
+ 

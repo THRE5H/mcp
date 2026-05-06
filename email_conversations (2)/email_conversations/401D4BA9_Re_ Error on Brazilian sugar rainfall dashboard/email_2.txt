@@ -1,0 +1,22 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: John Stansfield; Support Dnext
+Date: 2026-01-16 10:16:19.965000+00:00
+Subject: Re: Error on Brazilian sugar rainfall dashboard
+Message-ID: ZR3P278MB122657D3A58CBBEDF08DD319F58DA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB06057929A883BC4D247E3578858DA@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello John, 
+
+It's fixed.
+
+________________________________
+
+From: John Stansfield <john.stansfield@dnext.io>
+Sent: 16 January 2026 08:34
+To: Support Dnext <support@dnext.io>
+Subject: Error on Brazilian sugar rainfall dashboard 
+ 
+We are still having issues on the Brazilian sugar cumulative rainfall.   We cannot see cumulative data back to Oct 1st 2025
+

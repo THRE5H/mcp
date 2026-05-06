@@ -1,0 +1,9 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-04-23 06:19:50.423000+00:00
+Subject: Problem with the year to date "trend" in the "selection" part of the tradeflow
+Message-ID: GV0P278MB01488EBA3447189204A473D798BA2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+

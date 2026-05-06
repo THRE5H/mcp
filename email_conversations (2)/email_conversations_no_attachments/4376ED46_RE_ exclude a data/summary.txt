@@ -1,0 +1,5 @@
+**Problem**: The User requested to exclude a specific dataset, indicating that it was no longer needed as they planned to recreate it with better configurations.
+
+**Context**: The User is an external user from the Customer Organization, seeking assistance from the Customer Support Team regarding a dataset in the DNEXT product. The communication involved clarification on the exclusion request.
+
+**Solution**: The Support Agent confirmed that the dataset exclusion was completed successfully. It is recommended for users to clearly specify their requests to avoid confusion in future communications.

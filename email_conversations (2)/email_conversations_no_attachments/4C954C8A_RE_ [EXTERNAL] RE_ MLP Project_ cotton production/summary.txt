@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a new dataset to capture bi-weekly cotton production statistics from Pakistan, specifically needing three values from historical reports. They later noted that the dataset was missing recent updates.
+
+**Context**: The user is an external user from a Customer Organization, seeking support from a Service Provider's Customer Support Team. The dataset pertains to cotton production statistics, with historical data published in PDF format on a specified website.
+
+**Solution**: The Support Agent confirmed that the dataset was created and provided a code for access. After the customer requested weekly updates for new data, the Support Agent set up the dataset to automatically update weekly with new information from the source. The customer acknowledged the update positively.

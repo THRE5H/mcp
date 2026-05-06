@@ -1,0 +1,84 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Nour Meddeb
+Date: 2025-08-04 15:52:05.211000+00:00
+Subject: RE: Datasets to be deleted 
+Message-ID: GV0P278MB1320BCA3D21D4637B4E9E3DFF823A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0527822354DD0D9B41DC02749623A@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+It’s done,
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nour Meddeb <nour.meddeb@dnext.io> 
+Sent: Monday, August 4, 2025 15:42
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Datasets to be deleted 
+
+ 
+
+Hello,
+
+ 
+
+Please find below the list of dataset codes to be deleted:
+
+ 
+
+dnexr-wagen-agrim-nl-grain-oilseeds-nld-snd-item-monthly
+
+dnexr-zsrir-pork-pol-cash-weekly
+
+dnexr-usda-livestock-usa-wholesale-cash-monthly
+
+dnexr-fr-agricole-grain-oilseeds-fra-cash-weekly
+
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-8
+
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-7
+
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-5
+
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-9
+
+dnexr-proplanta-germany-grain-oilseeds-deu-cash-weekly-6
+
+dnexr-fed_statis-livestock-deu-snd_item-weekly
+
+dnexr-agrimer-grain-oilseeds-fra-snd-item-monthly-3
+
+ 
+
+ 
+
+Best regards,
+
+ 

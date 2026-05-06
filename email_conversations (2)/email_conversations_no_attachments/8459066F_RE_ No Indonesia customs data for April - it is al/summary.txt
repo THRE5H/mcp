@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Indonesia customs data for April was not available, despite it being released.
+
+**Context**: The user is an internal user from the Customer Organization. The issue involves the availability of customs data provided by the Service Provider. The inquiry was made on June 10, 2025, shortly after the expected release date.
+
+**Solution**: The Support Agent confirmed that the issue was resolved with a response indicating "It’s done." No further details were provided on the specific actions taken, but the final outcome suggests that the data became accessible. It is recommended to monitor data release schedules closely to avoid similar issues in the future.

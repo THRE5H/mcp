@@ -1,0 +1,30 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Bastien Lambert; Support Dnext; Nour Meddeb
+Date: 2025-09-09 15:55:10.622000+00:00
+Subject: Re: data problem
+Message-ID: ZR3P278MB1226B7FA5ADF9A486EA29F58F50FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB014840294D823FB3B781DFC3980FA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Nour Meddeb <mailto:nour.meddeb@dnext.io> 
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 09 September 2025 15:48
+To: Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: data problem 
+ 
+
+Hello guys,
+
+ 
+
+Why those numbers dont match the source ?
+
+Thanks
+
+ 
+
+

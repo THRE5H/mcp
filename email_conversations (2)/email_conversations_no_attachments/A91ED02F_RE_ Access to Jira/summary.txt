@@ -1,0 +1,5 @@
+**Problem**: The customer requested activation of their credentials for accessing the JIRA platform to view the vegoil dashboard being prepared for an upcoming conference.
+
+**Context**: The user is an external user from a Customer Organization seeking access to a specific dashboard on the JIRA platform. The request was made in the context of preparations for a conference, with the dashboard being developed by a team member.
+
+**Solution**: The Support Agent provided the customer with the login credentials for the staging environment of the service. The customer was advised to reach out for further assistance if they encountered any difficulties. It is recommended that users ensure they have the correct environment details when accessing dashboards.

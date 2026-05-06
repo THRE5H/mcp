@@ -1,0 +1,43 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-02-12 09:05:48.676000+00:00
+Subject: Re: DCS-927 RE: DNEXT SharePoint Update
+Message-ID: GV0P278MB0717451C7E677CB8185C9E08EBFC2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: JIRA.27068.1738811671000.404447a0-9c3c-479a-9b96-125897340243.1739340932802@Atlassian.JIRA
+Attachments: jira-generated-image-static-793f8d24-01e4-434c-89a, jira-generated-image-static-08ff33eb-2d67-498c-92c
+
+================================================================================
+
+Hi Mateo, so sorry for this. Teams were not showing the meeting as it was early and i missed it. 
+
+Is it possible to reschedule for next Tuesday or Wednesday?
+
+thanks and my apologies,
+Pablo
+________________________________
+
+From: Mateo Stempels <jira@dnext.atlassian.net>
+Sent: Wednesday, February 12, 2025 7:15 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: DCS-927 RE: DNEXT SharePoint Update 
+ 
+—-—-—-—
+Reply above this line.
+
+Mateo Stempels commented:
+
+Hi Saber,
+
+I connected to the meeting but nobody admin. I guess that we will need to re-schedule.
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/27068/attachment/16649> 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/27068/attachment/16650> 
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-927?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjNiMDk3OWNmNmNiMGQxMzA0NDE1OGJiNDUwNTIyNDk5NmRkZGQ1NzFmMDlhZDhjMTk0YjA2OTYwZmYyZmQ4ZDkiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMjYiLCJpc3N1ZSI6IkRDUy05MjcifSwiZXhwIjoxNzQxNzYwMTMyLCJpYXQiOjE3MzkzNDA5MzJ9.FBFsV_NuJqiFmFVwVQxwgcp24fDCB6oQ2vD275tj-gE&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-927/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjA0M2ZlYTYxOWQxZDg2MWVkN2UwMzJiOTM4N2ZmMjM4YWYzYjI1OGY3ZjBlNmMyOWQyZTQwNzEwYWU0ZDE4MTkiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjNlYWQ4ZGFmLWUwY2ItNDYyYS1hZjI2LWNlZmZjNTg5OWM0NiIsImlzc3VlIjoiRENTLTkyNyJ9LCJleHAiOjE3NDE3NjAxMzIsImlhdCI6MTczOTM0MDkzMn0.t2NalZy8gFChn8C3P3tAbTioEWidYdK504tqbsNb-us> 
+
+This is shared with Graincorp, Mateo Stempels, and Pablo Figueroa.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+ <https://atlas-trk.prd.msg.ss-inf.net/q/gTWvBLiiph6QcRHZZzi7xw~~/AAAAARA~/JX67rXo_CeSOhorE0SHYxWB8Q2dJ-qyzs7PLF11vox53Y29y4zWE-aXgRew1hIsN2jd0CBJl2LCX23IcL_NOfg~~> 

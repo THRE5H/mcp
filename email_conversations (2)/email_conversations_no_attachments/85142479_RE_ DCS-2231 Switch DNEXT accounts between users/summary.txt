@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add three new users to the distribution lists for reports after switching DNEXT accounts between users.
+
+**Context**: The customer is an external user from a global purchasing role at a Customer Organization. The request involves the DNEXT platform, specifically regarding user account management and report distribution.
+
+**Solution**: The Support Agent confirmed the removal of old user accounts and the creation of new accounts for the requested users. The customer was advised to confirm the addition of these users to the distribution list for reports, and a demo session was offered to help them utilize the platform effectively.

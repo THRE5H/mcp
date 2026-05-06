@@ -1,0 +1,144 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Pamela Sanches; Léonard Berney; Lucas Rosa; Support Dnext
+Date: 2025-08-04 13:49:55.806000+00:00
+Subject: RE: Braz beans and corn line ups
+Message-ID: GV0P278MB02115B5ADF1F84021850AC2E9823A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PARP264MB6330AEBDF31A8FA90C69DCAEAE26A@PARP264MB6330.FRAP264.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Pamella,
+
+ 
+
+Regarding historical data, everything in the platform and available. I will let support help you if my explanation below are not enough. 
+
+ 
+
+Go to corn or soy tradeflow
+
+Once you are in, you can (1) either download data via the button download or(2) right click and download in excel or csv
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Regarding your corn specific question, we believe that Bra corn has more chance to finish at 40 or below in terms of export. We have flagged the issues in our call. From our contacts in Brazil, domestic coverage is at least 1 month more vs last year which corresponds to additional farmer selling vs last year (+8mmts +/-). Thus, theoretical export surplus is about the same as last year. Information from locals is that farmer can carry this additional tonnage by end of year...+ lineups in July and now August is not surprising us and quite aligned which is more aligned with 40mmt and below export. So, do not think Bra basis needs to do more job as already expensive but do not see a collapse either as see high possibility that it remains pricy during the season. Arg price itself vs Bra but here believe that Arg will come down vs Bra in OND as too expensive. 
+
+Now, in terms of domestic coverage, could it be more than 1 month additional coverage. Believe that domestic coverage and margins will play an important role here. We were told 2 months coverage last year vs 3 months coverage this year from several sources. Can it be bigger? This is main risk + if board goes down and US basis goes up, then Bra will continue up to remain expensive. If not, then do not see upside and some downside but not very big though as expect Bra to remain relatively more expensive than others. 
+
+We will review the corn tradeflow this week and increase US and take down SAM.
+
+Let me know if i answered your questions.
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+This is Feb-aug vs final...relation is quite good indicating 40 and below
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+From: Pamella SANCHES SEILER <psanches@sucden.com> 
+Sent: Friday, 1 August 2025 18:51
+To: Léonard Berney <leonard.berney@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Cc: GNOTRADERS@SUCDEN.COM; eberdugo <eberdugo@sucden.com>; jaustin <jaustin@sucden.com>; Felipe SALVADORI BICHIAROV <fbichiarov@sucden.com>; Yago Matias <ymatias@sucden.com>
+Subject: Braz beans and corn line ups
+Importance: High
+
+ 
+
+Dear Dnext Team,
+
+I hope this message finds you well.
+
+Could you please share with us the monthly Brazilian export data for corn and beans over the past 5 years, including the most recent months and 2025 forward projections?
+
+Corn exports for the OND period in Brazil are particularly noteworthy — the market is extremely firm and expensive when compared to the U.S. For instance, Brazil traded at 115Z for October, which is equivalent to PNW values for LH November. I won’t even go into how strong August and September basis levels are in Brazil — they’re exceptionally firm.
+
+On paper, the setup seems to favor a short Brazil / long U.S. strategy. However — and it’s a big “however” — Brazil has managed to operate almost as an “island” in corn, consistently trading high cash values. With such strong and persistent basis levels, shorting Brazil feels risky.
+
+Supply and demand figures point to a large Brazilian corn crop, with robust domestic consumption (feed, ethanol, etc.). Still, based on fundamentals alone, I would expect Brazilian corn exports to reach at least 40–42 MMT.
+
+At the same time, the strong soybean export flow to China raises a different point — perhaps Brazil can afford smaller corn export volumes, as soybeans are filling export capacity year-round. With port capacity at around 17–18 MMT/month, Brazil won’t be facing idle infrastructure.
+
+This scenario could result in a tight soybean carryout and a significant corn carryout. In that case, the domestic market will likely remain the price driver, keeping Brazilian corn prices firm through this year. Only in 2026, as heavy corn stocks build, might we see some price softening.
+
+Would love to hear your views and ideas on this.
+
+Kind regards,
+
+ 
+
+________________________________
+
+From: Léonard Berney <leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> >
+Sent: Wednesday, July 30, 2025 12:14
+Subject: Brazil Grains and Oilseeds Exports - 2025-07-30 
+
+ 
+
+	EXTERNAL MESSAGE: This message comes from outside Sucden and is not without risk, remain vigilant before clicking on an unverified link and/or opening an unexpected attachment.
+
+ 
+
+ 
+
+Dear all,
+
+Please find attached the Brazil grains and oilseeds D-Lineup report for Jul 30, 2025, as well as two excels, the D-Lineup and times spent at ports.
+Please note that we are using the total time spent at port (Actual Time of Shipping - Actual Time of Arrival).
+
+Please let us know if you have any remarks or suggestions.
+
+Best regards,
+
+Léonard Berney
+Data Scientist
+
+leonard.berney@dnext.io <mailto:leonard.berney@dnext.io> 
+
+ <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/1/010201985bd2face-fef3db64-6659-4964-b71b-7afd9653e2c4-000000/Bdg_jW2aw1ZbzYXlHWz1Vv-9hqg=437> 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://wvlkpq8g.r.eu-west-1.awstrack.me/L0/http:%2F%2Fwww.dnext.io%2F/2/010201985bd2face-fef3db64-6659-4964-b71b-7afd9653e2c4-000000/KgWz_C88xVM5CPdKrQ5KeofHhUA=437> 
+
+ 
+
+ 

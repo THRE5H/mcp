@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the Malaysia Intertek lineups, indicating that the updates for the period of June 6-10 appear to have been wiped out, potentially due to an export strategy issue.
+
+**Context**: The user is an external user from a Customer Organization, seeking assistance regarding a problem with the Service Provider's lineup updates. The issue is time-sensitive and affects the scheduling or planning of operations.
+
+**Solution**: The Support Agent investigated the issue and confirmed that the updates were indeed missing due to a configuration error in the export strategy. The team restored the updates and recommended reviewing export settings regularly to prevent similar issues in the future.

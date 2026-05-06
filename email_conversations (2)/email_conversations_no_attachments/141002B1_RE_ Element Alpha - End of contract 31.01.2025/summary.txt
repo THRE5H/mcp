@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of users from the environment element.dnext.io due to the end of their contract on January 31, 2025, and also asked for the environment to be archived.
+
+**Context**: The user is an external user from the Customer Organization. The request pertains to the service provided by the Service Provider, specifically regarding the management of user access and environment archiving.
+
+**Solution**: The Support Agent confirmed that the users were successfully deleted from the specified environment. It is recommended to ensure timely communication regarding contract end dates to facilitate smooth transitions in user management and environment archiving.

@@ -1,0 +1,15 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-02-17 18:41:23.373000+00:00
+Subject: DNEXR WHEAT SND DASHBOARD
+Message-ID: GV0P278MB071732EDDBE3D74219FA8557EBFB2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717B0E4D5AA83E1247971DDEBFB2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+
+Hi Saber, can u check what is the problem here? russia and US are showing wrong values. i havent changed anything in the dataset but we been seeing many issues lately. not usre if there is an issue with the dashboard or with the dataset
+
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer needed confirmation on the correctness of a code for the corn SnD dataset and sought clarification on a mismatch in FSI use values between the latest data and a report.
+
+**Context**: The customer is an external user from a Customer Organization inquiring about a dataset from a Service Provider. The issue arose after downloading the latest data, which showed different FSI use values compared to a recently shared report.
+
+**Solution**: The Support Agent confirmed that the customer's code was incorrect and provided the correct code for the corn SnD dataset. The agent assured the customer that the FSI use values in the dataset should match those in the report and apologized for any confusion caused, indicating that the issue was acknowledged and addressed.

@@ -1,0 +1,5 @@
+**Problem**: The customer was experiencing issues with numbers in Dropbox displaying a strikethrough, which persisted even after refreshing. Additionally, the customer inquired about the limited files available in the SBS folder.
+
+**Context**: The customer is an external user (Senior Analyst) from a Customer Organization. The issue involved Dropbox and an Excel upgrade that affected formula calculations. The customer was trying to resolve this issue while managing their schedule.
+
+**Solution**: The Support Agent identified that the strikethrough issue was related to a new Excel feature and recommended changing the calculation option to "Automatic." This resolved the problem. The Support Agent also confirmed that all available SBS files were added, and the customer acknowledged that the issue was resolved satisfactorily.

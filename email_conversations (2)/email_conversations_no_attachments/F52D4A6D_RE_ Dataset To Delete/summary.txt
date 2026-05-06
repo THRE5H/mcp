@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of two specific datasets from the system.
+
+**Context**: The user is a Data Analyst from the Trade Flow team at a Customer Organization. The request was made via email to the support team of the Service Provider.
+
+**Solution**: The Support Agent confirmed that the deletion of the requested datasets was completed successfully. It is recommended for users to clearly specify dataset names in future requests to ensure prompt processing.

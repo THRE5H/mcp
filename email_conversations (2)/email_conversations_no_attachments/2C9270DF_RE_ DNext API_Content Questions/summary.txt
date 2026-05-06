@@ -1,0 +1,5 @@
+**Problem**: The customer, a developer, is experiencing a 404 error when trying to check the status of a dataset download using the task ID returned by the DNext API. Additionally, they are questioning the presence of duplicate rows with differing quantity values in a specific dataset.
+
+**Context**: The user is an external developer from a Customer Organization, working with the DNext API to ingest data. The issue involves the API's dataset download functionality and the integrity of the dataset content, specifically the "Tradeflow - Customs - Paraguay All monthly" dataset.
+
+**Solution**: The Support Agent requested the dataset code and the user's code snippet to better understand the issue. They advised that for larger datasets, the user might need to increase the wait time between status checks to ensure the task has been processed. The support team will investigate the content issue and provide clarification soon.

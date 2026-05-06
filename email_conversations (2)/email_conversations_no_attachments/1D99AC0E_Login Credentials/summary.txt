@@ -1,0 +1,5 @@
+**Problem**: The customer requested their login credentials for the specified environment, indicating they needed access to the system.
+
+**Context**: The user is an external user from the Customer Organization seeking access to the Service Provider's platform. The request was made via email, highlighting the need for secure login information.
+
+**Solution**: The Support Agent provided the customer with their username and password for the environment. It is recommended that the customer securely store their credentials and change the password after the initial login for enhanced security.

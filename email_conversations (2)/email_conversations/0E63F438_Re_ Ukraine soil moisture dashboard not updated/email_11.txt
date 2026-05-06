@@ -1,0 +1,53 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2025-03-20 08:48:34.473000+00:00
+Subject: Re: Ukraine soil moisture dashboard not updated
+Message-ID: GV0P278MB07174F2C81130A9C60B309BEEBD82@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226A6CBB61A608EF69F6C90F5D92@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_20.png, image_21.png
+
+================================================================================
+
+there is only data until 2011?
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, March 19, 2025 7:38 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+For the dashboards, actually we changed just Ukraine. 
+And I let @Martin Keller <mailto:martin.keller@dnext.io>  respond on this part: "what is the difference here? no crop mask? shouldnt we have the crop mask?"
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 19 March 2025 11:23
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Ukraine soil moisture dashboard not updated 
+ 
+are we changing any other? like Russia and EU?
+
+what is the difference here? no crop mask? shouldnt we have the crop mask?
+
+
+________________________________
+
+From: Jebrane Ben Salem
+Sent: Wednesday, March 19, 2025 7:11 AM
+To: Pablo Figueroa; Support Dnext
+Subject: Re: Ukraine soil moisture dashboard not updated 
+
+Hello Pablo,
+The dashboard has now been updated.
+Please note that we have changed the table name in case you are using it in your code: ERA5_LAND_Ukraine_STATES_NOCROP_View.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 13:12
+To: Support Dnext <support@dnext.io>
+Subject: Ukraine soil moisture dashboard not updated 
+ 
+i think it might be related to the data because my scripts are giving me the same.
+
+

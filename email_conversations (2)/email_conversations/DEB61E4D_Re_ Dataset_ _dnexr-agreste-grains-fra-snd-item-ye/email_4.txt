@@ -1,0 +1,28 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Quentin Doublet; Support Dnext; Crop_Tunisia
+Date: 2026-01-09 16:15:29.954000+00:00
+Subject: Re: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken
+Message-ID: GV0P278MB12138D385BD69569766CD745F582A@GV0P278MB1213.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB08011FE47F715CB6FAD6A1418F82A@ZRAP278MB0801.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Crop_Tunisia <mailto:Crop_TN@dnext.io> 
+________________________________
+
+From: Quentin Doublet <quentin.doublet@blackfryers.io>
+Sent: 09 January 2026 16:13
+To: Support Dnext <support@dnext.io>
+Subject: Dataset: "dnexr-agreste-grains-fra-snd-item-yearly" => extract step broken 
+ 
+Dear Support team,
+
+Could you please check and repair the workflow associated to the dnexr-agreste-grains-fra-snd-item-yearly dataset ?
+
+The first step, "extract" is in error.
+
+Thanks in advance for your help on this
+
+Regards,
+
+Quentin

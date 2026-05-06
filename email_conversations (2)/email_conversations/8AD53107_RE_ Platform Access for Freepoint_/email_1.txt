@@ -1,0 +1,227 @@
+From: Pierre-Jean Chiaradia <PJChiaradia@freepoint.com>
+To: Saber Khalfallah; John Stansfield; Support Dnext
+Date: 2025-05-22 09:49:33.992000+00:00
+Subject: RE: Platform Access for Freepoint?
+Message-ID: f76d2373b0424ac2b5284dad76609725@freepoint.com
+In-Reply-To: GV0P278MB13200E7260B6A02D3B6A9219F899A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+ 
+
+All worked now, thank you!
+
+ 
+
+Best regards,
+
+ 
+
+PJ
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, May 22, 2025 4:48 PM
+To: John Stansfield <john.stansfield@dnext.io>; Support Dnext <support@dnext.io>; Pierre-Jean Chiaradia <PJChiaradia@freepoint.com>
+Subject: RE: Platform Access for Freepoint?
+
+ 
+
+ 
+
+Caution: This email is from an external source.
+From: saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+
+
+Hello Pierre-Jean,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+Could you please try logging in from this url : https://freepoint.dnext.io/ <https://freepoint.dnext.io/> 
+
+if you don’t remember your password, you can reset it by clicking on reset password and following the instructions .
+
+
+
+ 
+
+Please let me know how it goes.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > 
+Sent: Thursday, May 22, 2025 9:33
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Pierre-Jean Chiaradia <pjchiaradia@freepoint.com <mailto:pjchiaradia@freepoint.com> >
+Subject: Fw: Platform Access for Freepoint?
+
+ 
+
+Can you help PJ?
+
+ 
+
+The User is not found
+
+________________________________
+
+From: Pierre-Jean Chiaradia <PJChiaradia@freepoint.com <mailto:PJChiaradia@freepoint.com> >
+Sent: 22 May 2025 09:19
+To: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Subject: RE: Platform Access for Freepoint? 
+
+ 
+
+Maybe Im using the wrong link?
+
+ 
+
+
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > 
+Sent: Thursday, May 22, 2025 4:03 PM
+To: Pierre-Jean Chiaradia <PJChiaradia@freepoint.com <mailto:PJChiaradia@freepoint.com> >
+Subject: Fw: Platform Access for Freepoint?
+
+ 
+
+ 
+
+Caution: This email is from an external source.
+From: john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> 
+
+ 
+
+You may need to reset password
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: 22 May 2025 08:51
+To: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Platform Access for Freepoint? 
+
+ 
+
+Hello John,
+
+ 
+
+I have just checked, and I managed to log in without any issue and PJ Chiradia has a user account on the platform.
+
+ 
+
+Did he provide any details on the issue he is facing ? maybe he just needs to reset his password
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > 
+Sent: Thursday, May 22, 2025 6:56
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Platform Access for Freepoint?
+
+ 
+
+One of my clients PJ Chiradia at Freepoint cannot get onto the Platform.   Is there an issue?
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+************************************************************************************ 
+
+This e-mail (and any associated files) is intended only for the use by the intended recipient and may  
+
+contain information that is confidential, privileged, subject to copyright or constitutes a trade secret.  
+
+No confidentiality or privilege is waived or lost by any transmission errors. If you are not the intended  
+
+recipient you are hereby notified that any dissemination, copying or distribution of this e-mail (and  
+
+any files associated with this e-mail) is strictly prohibited. If you have received this communication  
+
+in error, please immediately notify us and delete the original material from your computer.  
+
+************************************************************************************
+
+
+
+
+
+
+
+
+
+************************************************************************************ 
+This e-mail (and any associated files) is intended only for the use by the intended recipient and may  
+contain information that is confidential, privileged, subject to copyright or constitutes a trade secret.  
+No confidentiality or privilege is waived or lost by any transmission errors. If you are not the intended  
+recipient you are hereby notified that any dissemination, copying or distribution of this e-mail (and  
+any files associated with this e-mail) is strictly prohibited. If you have received this communication  
+in error, please immediately notify us and delete the original material from your computer.  
+************************************************************************************

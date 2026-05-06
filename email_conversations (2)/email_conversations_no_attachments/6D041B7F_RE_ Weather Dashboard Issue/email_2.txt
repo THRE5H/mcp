@@ -1,0 +1,39 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Jebrane Ben Salem; Louis Olive; Support Dnext
+Date: 2025-09-25 11:05:03.277000+00:00
+Subject: Re: Weather Dashboard Issue
+Message-ID: ZR1P278MB11716C3CA40C250F6FDEE0D58B1FA@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12265AFE638E6EB18D2C9895F51FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Will have a look now
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 25 September 2025 11:00
+To: Louis Olive <louis.olive@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Weather Dashboard Issue 
+ 
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+________________________________
+
+De : Louis Olive <louis.olive@dnext.io>
+Envoyé : Thursday, September 25, 2025 9:12:12 AM
+À : Support Dnext <support@dnext.io>
+Objet : Weather Dashboard Issue 
+ 
+
+Hello,
+
+ 
+
+I am writing to inquire about the soil moisture graph on the European weather dashboard. When I view the data, the graph appears to be missing information or is not displaying as expected.
+
+Could you please confirm if this is a known issue maybe a temporary gap in the data or a problem with the display?
+
+
+
+ 
+
+Louis

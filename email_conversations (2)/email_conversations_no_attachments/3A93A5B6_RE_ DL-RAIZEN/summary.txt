@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of an email address from the distribution list "dl-raizen."
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance from the Service Provider's customer support team regarding email management.
+
+**Solution**: The Support Agent confirmed that the email address was successfully deleted from the distribution list. It is recommended to verify changes periodically to ensure that the distribution list remains updated.

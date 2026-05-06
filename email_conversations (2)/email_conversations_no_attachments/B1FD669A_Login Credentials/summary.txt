@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials to access the platform and instructions for changing their password upon first login.
+
+**Context**: The user is an external user of the Customer Organization's platform. The issue involved accessing the Service Provider's platform and ensuring secure login practices.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials and detailed steps for changing the password after the first login. The final outcome confirmed that the user was equipped with the information needed to access the platform securely. It is recommended that users always change their passwords upon initial login to enhance security.

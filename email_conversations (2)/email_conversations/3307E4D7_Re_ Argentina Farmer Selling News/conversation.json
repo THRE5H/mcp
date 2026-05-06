@@ -1,0 +1,27 @@
+{
+  "emails": [
+    {
+      "subject": "Re: Argentina Farmer Selling News",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "News Dnext; Nour Meddeb",
+      "cc": "Support Dnext",
+      "received_time": "2025-12-09 10:02:51.475000+00:00",
+      "sent_time": "2025-12-09 10:02:44+00:00",
+      "body_text": "can we check this? we are sending data as of last thursday. data seems to be ok in the dataset so seems to be an issue with the reporting part\r\n________________________________\r\n\r\nFrom: News Dnext <news@dnext.io>\r\nSent: Tuesday, December 9, 2025 7:00 AM\r\nTo: Nour Meddeb <nour.meddeb@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>\r\nCc: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>\r\nSubject: Argentina Farmer Selling News \r\n \r\nExecutive Summary \r\n\r\nDaily Argentina farmer selling in thousand tons: \r\n \r\n\r\nAccumulated farmer selling (official source, lagged by 1 week): \r\n\r\n2025 Crop Farmer Selling: \r\n \r\n\r\nDetails: \r\n\r\n\r\n\r\nYou can use the dashboard located in Dashboards -> Supply and Demand -> Argentina -> Farmer Selling where you can interact with the data.\r\n\r\n\r\n\r\nBest regards,\r\n\r\nDNEXT INTELLIGENCE\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\ncan we check this? we are sending data as of last thursday. data seems to be ok in the dataset so seems to be an issue with the reporting part</div>\r\n<div id=\"appendonsend\"></div>\r\n<hr style=\"display:inline-block;width:98%\" tabindex=\"-1\">\r\n<div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" style=\"font-size:11pt\" color=\"#000000\"><b>From:</b> News Dnext &lt;news@dnext.io&gt;<br>\r\n<b>Sent:</b> Tuesday, December 9, 2025 7:00 AM<br>\r\n<b>To:</b> Nour Meddeb &lt;nour.meddeb@dnext.io&gt;; Pablo Figueroa &lt;pablo.figueroa@dnext.io&gt;<br>\r\n<b>Cc:</b> Guillaume Goudy &lt;guillaume.goudy@dnext.io&gt;; Bastien Lambert &lt;bastien.lambert@dnext.io&gt;<br>\r\n<b>Subject:</b> Argentina Farmer Selling News</font>\r\n<div>&nbsp;</div>\r\n</div>\r\n<div><span style=\"color:blue\">Executive Summary</span> <br>\r\n<br>\r\nDaily Argentina farmer selling in thousand tons: <br>\r\n<img alt=\"Embedded Image\" data-outlook-trace=\"F:1|T:2\" src=\"cid:6AA5071854406608D6A213AF09FA011DFA1E66E3@1\">\r\n<br>\r\n<br>\r\nAccumulated farmer selling (official source, lagged by 1 week): <br>\r\n<br>\r\n2025 Crop Farmer Selling: <br>\r\n<img alt=\"Embedded Image\" data-outlook-trace=\"F:1|T:2\" src=\"cid:7307790AE96529B3A9A8FA89405D4E8006D2A9D9@1\">\r\n<br>\r\n<br>\r\n<span style=\"color:blue\">Details:</span> <br>\r\n<br>\r\n<p>You can use the dashboard located in <strong>Dashboards -&gt; Supply and Demand -&gt; Argentina -&gt; Farmer Selling</strong> where you can interact with the data.</p>\r\n<br>\r\n<br>\r\n<p>Best regards,</p>\r\n<p>DNEXT INTELLIGENCE</p>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "3307E4D75BCAE3439C6644455A47F6CE",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD49000336DF3FE60000",
+      "size": 584889,
+      "has_attachments": true,
+      "attachments": [
+        "image1.png",
+        "image2.png"
+      ],
+      "message_id": "GV0P278MB0717B4E217CC4AA0DF6D0701EBA3A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": "GVAP278MB0199652E48F26C34DC96777ABEA3A@GVAP278MB0199.CHEP278.PROD.OUTLOOK.COM",
+      "references": "<GVAP278MB0199652E48F26C34DC96777ABEA3A@GVAP278MB0199.CHEP278.PROD.OUTLOOK.COM>"
+    }
+  ],
+  "subject": "Re: Argentina Farmer Selling News"
+}

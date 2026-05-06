@@ -1,0 +1,234 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Damimkader Meeran
+Date: 2025-03-24 11:42:36.390000+00:00
+Subject: RE: China Customs News
+Message-ID: GV0P278MB1320B0EEF7F8173540750C3DF8A42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0335F030743EC3F183240FFE83A42@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+Attachments: China.csv, India.csv
+
+================================================================================
+
+Hello Damimkader,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+You will find attached two csv files , one for india and one for china 
+
+ 
+
+For futures updates you can download the data directly from our platform :
+
+ 
+
+Note: Your platform user account login credentials have been sent privately to your inbox.
+
+
+China : https://genmills.dnext.io/datasets/genmills-61d178aa-1bcd-4c03-8071-b5665bd01a7a 
+
+ 
+
+India : https://genmills.dnext.io/datasets/genmills-bb6c359f-db54-4afc-9c58-8888fc3910a0
+
+ 
+
+To download the data just click on the download button as displayed below in the image
+
+ 
+
+
+
+ 
+
+We also have an Excel add-in that can help you download data directly from the platform into Excel. We would be happy to assist you in setting that up as well.
+
+ 
+
+Please let us know if you have any questions or if you need further assistance 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io> 
+Sent: Monday, March 24, 2025 10:34
+To: Damimkader Meeran <Damimkader.Meeran@genmills.com>; DNEXT_ANALYSTS <dnext-analysts@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Dnext TN - Analysis <dnext-tn-analysis@dnext.io>
+Subject: Re: China Customs News
+
+ 
+
+Dear Damimkader,
+
+ 
+
+I'm adding Support to the conversation they will get back to you with help.
+
+Kind regards,
+
+Skander
+
+ 
+
+ 
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+________________________________
+
+From: Damimkader Meeran <Damimkader.Meeran@genmills.com <mailto:Damimkader.Meeran@genmills.com> >
+Sent: Monday, March 24, 2025 3:51 AM
+To: Skander Ghamgui <skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> >; DNEXT_ANALYSTS <dnext-analysts@dnext.io <mailto:dnext-analysts@dnext.io> >
+Cc: Dnext TN - Analysis <dnext-tn-analysis@dnext.io <mailto:dnext-tn-analysis@dnext.io> >
+Subject: RE: China Customs News 
+
+ 
+
+Hi Skander
+
+ 
+
+Can you please share with the excel for the China Imports.
+
+ 
+
+We wanted to double click on some imports.
+
+ 
+
+Do you have this only for China or do you have this for other countries as well. I wanted to specifically look at India.
+
+ 
+
+Regards
+
+Damimkader S .meeran
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> > 
+Sent: Friday, March 21, 2025 3:51 PM
+To: DNEXT_ANALYSTS <dnext-analysts@dnext.io <mailto:dnext-analysts@dnext.io> >
+Cc: Dnext TN - Analysis <dnext-tn-analysis@dnext.io <mailto:dnext-tn-analysis@dnext.io> >
+Subject: China Customs News
+
+ 
+
+	Some people who received this message don't often get email from skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  
+
+	
+
+EXTERNAL EMAIL: 
+
+China customs data has been released. Below is a brief summary of the latest changes.
+
+Executive Summary
+
+ 
+
+
+
+ 
+
+Details:
+
+ 
+
+*	Corn
+
+
+
+*	Wheat
+
+
+
+
+
+*	Soybean
+
+
+
+*	Sugar
+
+
+
+ 
+
+You can use the dashboard located in Dashboards -> Customs -> East Asia -> China where you can interact with the data.
+
+ 
+
+Best regards,
+
+Skander
+
+ 
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+________________________________
+
+CAUTION: This email originates from outside of General Mills.  Please consider carefully whether you should click on any link, open any attachment, or provide any information.  For information regarding suspicious emails and what to do if you receive one, please visit http://go/cyber 

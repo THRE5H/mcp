@@ -1,0 +1,102 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Wael Kouada; Support Dnext; Léonard Berney
+Date: 2025-07-30 17:06:28.525000+00:00
+Subject: RE: Obselet Datasets
+Message-ID: GV0P278MB0148F7C71672F85540F76C539824A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB07758F9F8FE047E8E73A99E09524A@ZR0P278MB0775.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Are you sure these need to go ?
+
+Pretty sure cargonave not
+
+dnexr-cargonave-ags-bra-tf_lineups_vessel-daily-historic
+
+ 
+
+@Léonard Berney <mailto:leonard.berney@dnext.io>  you don’t use these for Australia ?
+
+dnexr-structured-aaterminals-gno-aus-lineups_vessel-daily
+
+dnexr-structured-cbh-gno-aus-lineups_vessel-daily
+
+dnexr-structured-riordangrains-gno-aus-lineups_vessel-daily
+
+ 
+
+ 
+
+ 
+
+From: Wael Kouada <wael.kouada@dnext.io> 
+Sent: Wednesday, July 30, 2025 5:56 PM
+To: Support Dnext <support@dnext.io>
+Cc: Dnext Lineups <lineups@dnext.io>
+Subject: Obselet Datasets
+
+ 
+
+Hello, 
+
+ 
+
+Please delete us those datasets : 
+
+ 
+
+dnexr-ukraagro-gno-fra-tf_lineups_vessel-dailyclone
+
+dnexr-wilsh-bulk-bra-tf_lineups_vessel-weekly
+
+dnexr-structured-ukraagro-gno-ukr-tf_lineups_vessel-weekly
+
+dnexr-intertek-all-mar-tf-lineups-vessel-weekly
+
+dnexr-ukraagro-gno-rus-tf_lineups_vessel-weekly
+
+dnexr-structured-alpemar-gno-arg-tf_lineups_vessel-weekly
+
+dnexr-structured-controlunion-gno-ukr-tf_lineups_vessel-weekly
+
+dnexr-alfaship-gno-tun-tf_lineups_vessel-biweekly
+
+dnexr-masoceans-grain-oilseeds-ukr-tf-lineups-vessel-random
+
+dnexr-controlunion-all-mar-tf-lineups-vessel-random
+
+dnexr-masoceans-grain-oilseeds-rus-tf-lineups-vessel-random
+
+dnexr-masoceans-grain-oilseeds-bgr-tf-lineups-vessel-random
+
+dnexr-structured-controlunion-grains-prt-tf_lineups_vessel-weekly
+
+dnexr-structured-ntbd-swht-world-tf_lineups_vessel-weekly
+
+dnexr-structured-agrochart-gno-ukr-tf_lineups_vessel-weekly
+
+dnexr-bulk-row-tf_lineups_vessel-weekly
+
+dnexr-structured-aaterminals-gno-aus-lineups_vessel-daily
+
+dnexr-cargonave-ags-bra-tf_lineups_vessel-daily-historic
+
+dnexr-structured-graincorp-gno-aus-lineups_vessel-daily
+
+dnexr-controlunion-grains-dza-tf-lineups-vessel-weekly
+
+dnexr-structured-cbh-gno-aus-lineups_vessel-daily
+
+dnexr-structured-riordangrains-gno-aus-lineups_vessel-daily
+
+dnexr-structured-controlunion-grains-ukr-tf_lineups_vessel-weekly
+
+dnexr-structured-controlunion-grains-rus-tf_lineups_vessel-weekly
+
+dnexr-structured-controlunion-gno-bgr-tf_lineups_vessel-weekly
+
+ 
+
+ 
+
+Best regards.

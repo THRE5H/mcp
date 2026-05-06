@@ -1,0 +1,5 @@
+**Problem**: The customer reported an extraction issue with the Verbio dataset, despite the source file appearing unchanged. They requested an investigation into the problem.
+
+**Context**: The user is an external user from the Customer Organization, seeking support from the Service Provider regarding the Verbio dataset feature. The issue arose on October 28, 2025, when the dataset was not functioning as expected.
+
+**Solution**: The Support Agent identified the issue as a bug and created a ticket for the development team to investigate further. The problem was resolved by October 29, 2025, and the Support Agent confirmed that the dataset was fixed. It is recommended to monitor the dataset regularly for any similar issues.

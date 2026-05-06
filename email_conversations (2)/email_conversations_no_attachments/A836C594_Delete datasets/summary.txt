@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific test datasets from the platform stage.dnext.io, as they were created for testing purposes.
+
+**Context**: The user is an external user reaching out to the Customer Organization's support team. The request involves the deletion of datasets related to a healthcheck feature on the service platform.
+
+**Solution**: The support team confirmed the deletion of the specified datasets from the platform. It is recommended that users regularly review and manage their test datasets to avoid clutter and ensure efficient testing processes.

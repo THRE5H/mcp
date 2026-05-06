@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of multiple user accounts in the vam.dnext.io environment and specified access restrictions to certain resources. However, there was a bug preventing the saving of first and last names in user profiles.
+
+**Context**: The user is an internal user from the Customer Organization requesting support from the Service Provider. The issue arose in the context of user account creation for a specific application, with a need for limited access to resources.
+
+**Solution**: The support team informed the customer about the bug but proceeded to create the user accounts and successfully sent the credentials to the clients. It is recommended to monitor the bug and ensure that user profiles are updated once the issue is resolved.

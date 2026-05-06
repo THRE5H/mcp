@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to see the latest updates in the SND datasets for Corn and Soybeans, with the last values visible being from September 10.
+
+**Context**: The customer is an external user from a Customer Organization, seeking updates on specific datasets managed by a Service Provider. The issue arose due to a missed process run that was necessary for updating the datasets.
+
+**Solution**: The Support Agent acknowledged the oversight and initiated the process to update the datasets. The customer later confirmed that they could see the latest estimates, indicating the issue was resolved. It is recommended to ensure regular checks on dataset updates to prevent similar occurrences in the future.

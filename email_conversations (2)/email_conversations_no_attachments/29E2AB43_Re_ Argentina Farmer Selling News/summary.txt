@@ -1,0 +1,5 @@
+**Problem**: The customer is unable to see the content of an email and the associated dashboards due to an issue with the new version of Outlook.
+
+**Context**: The user is an external user from a Customer Organization. The issue involves the email service and dashboard feature provided by a Service Provider. The problem arose after a recent update to Outlook, affecting the customer's ability to access previously visible content.
+
+**Solution**: The Support Agent added the support team to assist the customer in resolving the issue. They will contact the customer to provide help, and it is recommended that the customer check their Outlook settings for any necessary adjustments.

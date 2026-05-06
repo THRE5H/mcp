@@ -1,0 +1,5 @@
+**Problem**: The customer requested country-wise details of rice exports from India, which were not provided in the initial dataset link.
+
+**Context**: The user is an external user, specifically a Director of Indian Operations at a Customer Organization. The inquiry pertains to a dataset available on a platform provided by a Service Provider, which contains export data but lacked specific filtering instructions.
+
+**Solution**: The Support Agent provided guidance on how to filter the dataset by country using the platform's features. An image was included for reference to assist the customer in finding the required information. The customer was encouraged to reach out if further assistance was needed.

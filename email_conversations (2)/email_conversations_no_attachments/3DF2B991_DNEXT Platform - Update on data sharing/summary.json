@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to adapt to updated dataset and tradeflow unique identifiers (UIDs) due to platform automation changes affecting data sharing and access.",
+    "solution": "Starting from May 5, 2025, dataset and tradeflow UIDs on the platform will be updated to new formats to support automated access and dynamic updates based on user subscriptions. Users should replace old resource codes (e.g., 'dnexr-structured-dnexr-oilseeds-world-snd_item-weekly') with new UUID-based codes (e.g., 'zimb-4c8d416c-7f52-4f39-8643-a386e4c3a443') in their API calls and integrations to ensure continued access to subscribed datasets and tradeflows. This change enables automatic sharing and real-time updates of resources without manual intervention.",
+    "keywords": [
+      "dataset UID update",
+      "tradeflow UID change",
+      "automated data sharing",
+      "dynamic updates",
+      "subscription-based access",
+      "API integration",
+      "resource code migration",
+      "platform update"
+    ],
+    "category": "Configuration"
+  }
+}

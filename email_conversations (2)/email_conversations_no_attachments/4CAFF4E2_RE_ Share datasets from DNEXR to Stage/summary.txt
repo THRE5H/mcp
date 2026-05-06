@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to share specific datasets from DNEXR to Stage due to permission issues and requested assistance from the support team.
+
+**Context**: The user is an external user from the Customer Organization, seeking help with the DNEXR product. The request involved sharing multiple datasets, indicating a potential permissions issue within the system.
+
+**Solution**: The Support Agent promptly addressed the request by sharing the datasets as requested. The issue was resolved successfully, and it is recommended for users to verify their permissions before attempting to share datasets in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new user, Gyuri, to the BF environment.
+
+**Context**: The request was made by an internal user from Customer Organization to the Support Team of Service Provider. The issue involved user account creation for access to a specific environment.
+
+**Solution**: The Support Team created a user account for Gyuri in the BF environment and sent the login credentials to the provided email address. It is recommended to ensure all new user requests include necessary details for efficient processing in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance in rewatching a meeting recording but was receiving an access restriction message.
+
+**Context**: The customer is an external user from a Partner Company requesting help from the Service Provider's support team regarding a Microsoft Teams meeting recording. The meeting was part of a weekly call for a fundamental review.
+
+**Solution**: The Support Agent advised that the meeting organizer needed to grant access to the customer. After further attempts, a new link to the recording was provided, which ultimately resolved the access issue. It is recommended that meeting organizers ensure proper access permissions are set for future recordings.

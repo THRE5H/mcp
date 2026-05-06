@@ -1,0 +1,14 @@
+From: Yosri Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D794878314DF4302BF46FC9063350CFE-96189B27-11>
+To: Support Dnext
+Date: 2025-11-06 15:50:26.988000+00:00
+Subject: Request for sharing dnexr to stage
+Message-ID: ZRAP278MB0446F9609C2828A36F1591EAE5C2A@ZRAP278MB0446.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber, 
+
+I need that you share from dnexr to stage any production or 2 that contains data till the end of december 2025.
+For test purpose.
+
+Regards

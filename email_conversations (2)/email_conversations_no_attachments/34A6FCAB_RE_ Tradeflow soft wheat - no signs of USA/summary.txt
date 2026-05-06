@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to retrieve data for the United States when querying soft wheat origins in the Tradeflow platform. Additionally, there was a discrepancy between the data from the Tradeflow platform and the Excel add-in for corn exports.
+
+**Context**: The user is a Grains Trader from a Customer Organization using the Tradeflow platform and Excel add-in for agricultural data analysis. The issue arose after the user attempted to include all origins of soft wheat in a query but found the United States missing from the results.
+
+**Solution**: The support team identified and resolved a bug in the add-in that was causing the initial issue with the United States data. The customer confirmed that the issue was fixed after re-downloading the data. However, the discrepancy in corn export data remains under investigation, and the support team is analyzing the cause.

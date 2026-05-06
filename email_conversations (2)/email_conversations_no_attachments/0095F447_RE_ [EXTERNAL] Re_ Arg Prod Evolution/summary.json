@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unable to view the estimated production evolution for corn in Argentina on the dashboard, while soybean data displays correctly.",
+    "solution": "The issue was caused by the use of the Seasonal Month filter on the dashboard. When 'Select All' is chosen, the dashboard displays total values from the SND Main Tables, showing the full production evolution. When a specific month is selected, the dashboard only shows data for that month, which can cause confusion if the user expects to see the full evolution. To correctly view the production evolution, users should select 'Select All' in the Seasonal Month filter or refer to the SND Main Tables page for guidance on appropriate selections and understanding the results.",
+    "keywords": [
+      "dashboard",
+      "production evolution",
+      "corn",
+      "Argentina",
+      "Seasonal Month filter",
+      "SND Main Tables",
+      "data filtering",
+      "data visualization",
+      "filter selection"
+    ],
+    "category": "How-to Guide"
+  }
+}

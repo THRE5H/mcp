@@ -1,0 +1,17 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Jebrane Ben Salem
+Date: 2025-04-21 14:19:26.227000+00:00
+Subject: weather dashboard: forecast run comparison.  Actual data only reaching April 15th
+Message-ID: GV0P278MB0717FE091842FBC4EDAA3D57EBB82@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_7.png
+
+================================================================================
+
+Hi, seems that something has changed in the way we show the actual.
+
+before we were using the run of the GEFS (dont know which run) to complete the missing data from ERA5 until the current day. seems we are not doing that anymore and the graph looks not ok.
+
+possible to have the same as what we had before?
+
+
+

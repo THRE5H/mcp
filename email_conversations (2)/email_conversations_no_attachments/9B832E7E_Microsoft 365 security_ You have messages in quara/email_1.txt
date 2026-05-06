@@ -1,0 +1,24 @@
+From: quarantine@messaging.microsoft.com <quarantine@messaging.microsoft.com>
+To: Support Dnext
+Date: 2025-11-25 10:20:32.233000+00:00
+Subject: Microsoft 365 security: You have messages in quarantine
+Message-ID: 92bf12e8-9ff8-402e-b3ef-5fb49c3a4b9a@GV0CHE01BG101.eop-che01.prod.protection.outlook.com
+
+================================================================================
+
+		
+	 <https://products.office.com> 
+Review These Messages	 
+1 messages are being held for you to review as of 11/25/2025 9:20:12 AM (UTC). 	
+Review them within 30 days of the received date by going to the Quarantine page <https://security.microsoft.com/quarantine>  in the Security Center. 	
+Prevented spam messages 	
+Sender: 	vanessa@wsoftpro.com 	 	  	 
+Subject: 	Data Analyst Job application 	 	  	 
+Date: 	11/25/2025 9:09:18 AM 	 	  	 
+Review Message <https://security.microsoft.com/quarantine?id=09f278b6-a3d2-4fe8-3320-08de2c025086\ceeae0aa-e9ec-b323-c46b-9414e77110a6&recipientAddress=%40ENC%40pC9QPVICFkdAFBrUJj8SNTy49fXvdTbKu69buhN7HFwL%2FvzgKLV2oUSuGz6HG20q3TI0%2FVobK%2BAkXyapjlAyRw%3D%3D> 		Release <https://che01-quarantine.dataservice.protection.outlook.com/spamdigestesn/spamdigest.svc/releasespam/orgs/6d921f92-f4ce-4ce0-acfa-926878510780/users/support@dnext.io/mail/09f278b6-a3d2-4fe8-3320-08de2c025086?token=of%2beoX0RPTpszxiFB0QXaaKtmKfGtNwDsOVvJR0A404%3d> 		
+ 	  	  	  	 
+© 2025 Microsoft Corporation. All rights reserved. 	
+Privacy Statement <https://go.microsoft.com/fwlink/p/?LinkID=138500>  	
+Acceptable Use Policy <https://go.microsoft.com/fwlink/p/?LinkID=79398>  	
+	
+((SignedCardPayload))

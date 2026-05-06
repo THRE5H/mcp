@@ -1,0 +1,87 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: John Stansfield; TradeFlow; Support Dnext
+Date: 2025-01-28 16:21:01.873000+00:00
+Subject: Re: Ecuador export
+Message-ID: ZRAP278MB0335B1A634FA095B4825193883EF2@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB033519CA02A9843BAEE7EEE883EC2@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi Jhon,
+After further investigation, I would like to confirm that it’s expected for import data to be available while export data is not in Ecuador. This is because their import data is updated ahead of their export data.
+Regarding exports, we are currently unable to update the data due to an issue with the source. At this time, their export data is not being published, which leaves us unable to proceed with the update.
+Regards,
+
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+
+________________________________
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io>
+Sent: Monday, January 27, 2025 3:00 PM
+To: John Stansfield <john.stansfield@dnext.io>; TradeFlow <tradeflow@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Ecuador export 
+ 
+Hi John,
+Thank you for bringing this to our attention. You are correct; there seems to be a small issue with the Ecuador export data. Our team is currently looking into it, and we will ensure that it is resolved as soon as possible.
+We sincerely apologize for any inconvenience this may have caused and appreciate your patience while we address this. I will follow up with you once the data has been fixed.
+Please feel free to reach out if you have any further concerns in the meantime.
+Best regards,
+Skander
+
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+
+________________________________
+
+From: John Stansfield <john.stansfield@dnext.io>
+Sent: Monday, January 27, 2025 2:24 PM
+To: TradeFlow <tradeflow@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Ecuador export 
+ 
+When I look at the trade flow data for Ecuador it has monthly import data for November/December.  There is no data for exports which seems very unlikely.
+
+Can i check whether the export data has failed to load?
+
+

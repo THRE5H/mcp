@@ -1,0 +1,5 @@
+**Problem**: The customer requested to remove access for a user and create a new account with a specific email address.
+
+**Context**: The customer is an internal user from Customer Organization requesting changes to user access for a service provided by Service Provider. The request involved managing user accounts for email notifications.
+
+**Solution**: The Support Agent successfully removed the old account for the user and created a new account with the requested email address. Credentials for the new account were sent to the specified email. It is recommended to regularly review user access to ensure it aligns with current team needs.

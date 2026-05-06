@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new environment for a client, including the creation of user profiles and contract details.
+
+**Context**: The user is an external user from a Customer Organization requesting support from a Service Provider. The environment to be set up is CFP.dnext.io, with access mirroring another environment (QUADRA) and a contract duration from October 1, 2025, to September 30, 2026.
+
+**Solution**: The Support Agent confirmed that the environment was set up and user profiles were created. After the customer validated the profiles, the Support Agent was authorized to send them. It is recommended to ensure all user details are validated before sending access credentials.

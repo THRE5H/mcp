@@ -1,0 +1,55 @@
+From: Safi Souai </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=124B3F7E6E024AFC8EF657BE0B0446E1-E2351B57-D9>
+To: Rifaeddine Hammemi; Support Dnext
+Date: 2025-04-08 14:59:52.661000+00:00
+Subject: Re: dataset deleting reques
+Message-ID: GVAP278MB018234331B780945CF48AC7BE3B52@GVAP278MB0182.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB0906DDBF1A7E5805B7A545EAEBB52@GVAP278MB0906.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thank you!
+
+________________________________
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io>
+Sent: Tuesday, April 8, 2025 2:59 PM
+To: Safi Souai <safi.souai@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: dataset deleting reques 
+ 
+Hello, 
+
+It's done.
+
+Best regards
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Safi Souai <safi.souai@dnext.io>
+Sent: 08 April 2025 14:50
+To: Support Dnext <support@dnext.io>
+Subject: dataset deleting reques 
+ 
+Hi,
+Can you delete these two datasets please?
+dnexr-hmcrus-all-rus-station-data
+dnexr-hmcrus-all-rus-weather-station-daily
+
+thanks,
+safi.

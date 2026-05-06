@@ -1,0 +1,25 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-10-28 15:14:17.806000+00:00
+Subject: Bug - Configuration
+Message-ID: GV0P278MB1348BDE92D71B6982F374268F6FDA@GV0P278MB1348.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+ 
+
+How are you?
+
+ 
+
+I just talked to Nicolas about a bug in the tradematrix. I created a ticket here: https://dnext.atlassian.net/jira/software/c/projects/DNP/boards/7?selectedIssue=DNP-5938
+
+ 
+
+Best,
+
+ 
+
+Enea

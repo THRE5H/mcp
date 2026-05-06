@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a former employee from the list and platform due to their departure from the company.
+
+**Context**: The user is an internal user from Customer Organization. The request pertains to a user management feature within a service provided by Service Provider. The situation arose after an employee left the organization.
+
+**Solution**: The Support Agent confirmed that the removal was completed as requested. It is recommended to regularly update user lists to ensure accuracy and compliance with personnel changes.

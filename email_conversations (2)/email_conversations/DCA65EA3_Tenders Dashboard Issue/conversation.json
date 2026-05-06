@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "Tenders Dashboard Issue",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext",
+      "cc": "Farouk Jaziri",
+      "received_time": "2025-12-04 11:12:07.734000+00:00",
+      "sent_time": "2025-12-04 11:12:02+00:00",
+      "body_text": "Hi, it seems there is an issue with this tables which are duplicating the data.\r\n\r\n\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nHi, it seems there is an issue with this tables which are duplicating the data.</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img size=\"209441\" style=\"max-width: 1539px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:1bf191f9-10cc-47e8-a16c-e83d7370f75d\"></div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "DCA65EA3CA8E62418C2115020282A5EA",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900033497BDA80000",
+      "size": 485183,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB0717911E0ACAC3C2578E0FFAEBA6A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Tenders Dashboard Issue"
+}

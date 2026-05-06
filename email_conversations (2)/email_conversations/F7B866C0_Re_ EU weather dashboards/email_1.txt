@@ -1,0 +1,27 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-07 11:10:59.056000+00:00
+Subject: Re: EU weather dashboards
+Message-ID: ZR3P278MB1226CDE71E4D5948A6A6B4D2F5D52@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717E4D5E4D01CC0FF8A63E1EBD52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: Outlook-fdn0qskd.png
+
+================================================================================
+
+Fixed 
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 07 March 2025 11:07
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: EU weather dashboards 
+ 
+Hi guys would it be posible to remove finland and sweden from the filter in the default view?
+Leave them if the user wants to see but by default it makes the map ugly.
+
+This is how it looks when u remove them
+
+

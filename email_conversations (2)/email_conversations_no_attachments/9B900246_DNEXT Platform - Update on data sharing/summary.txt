@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the upcoming changes to the DNEXT platform regarding automated access to datasets and tradeflows based on their subscription.
+
+**Context**: The customer is an external user of the DNEXT platform, which is a data service provider. The email outlines enhancements aimed at improving user experience by automating data sharing and updating resource codes.
+
+**Solution**: The support team informed the customer that starting May 5, 2025, users will automatically receive access to relevant datasets and tradeflows, with dynamic updates reflecting any changes. Users utilizing APIs should note the updated dataset and tradeflow UIDs, and they are encouraged to reach out with any questions or concerns.

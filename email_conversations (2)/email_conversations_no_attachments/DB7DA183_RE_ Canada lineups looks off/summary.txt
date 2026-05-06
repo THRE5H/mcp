@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the lineups for Canada showed no destination, leading to confusion about whether the issue was with the D lineups or if it was related to inspections. They requested clarification and suggested tracking the lineups.
+
+**Context**: The user is an external user from Customer Organization seeking assistance from the Support Team of Service Provider. The issue involves the D lineups for Canada, specifically regarding missing destination data for corn shipments.
+
+**Solution**: The Support Team investigated and confirmed that the lack of destination data was due to no vessels carrying corn being present in the lineups. It was recommended to clarify that the data comes from CGC inspections, which do not include destinations, to avoid future confusion.

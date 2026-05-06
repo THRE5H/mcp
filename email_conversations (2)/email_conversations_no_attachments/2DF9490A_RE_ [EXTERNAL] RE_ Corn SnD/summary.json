@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unsure if the code used to download the corn Supply and Demand (SnD) dataset is correct and notices a mismatch in US FSI use values between the downloaded dataset and the official report.",
+    "solution": "The correct code for the corn SnD dataset is 'thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674'. Users should verify they are using this code to download the latest corn SnD data. The FSI use values in the dataset for the latest publication date should correspond exactly with the FSI use values reported in the official report. If discrepancies occur, ensure the dataset code is correct and that the dataset is the latest publication version.",
+    "keywords": [
+      "corn SnD dataset",
+      "dataset code",
+      "thul-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674",
+      "FSI use",
+      "data mismatch",
+      "dataset validation",
+      "data consistency",
+      "report comparison"
+    ],
+    "category": "Data Validation"
+  }
+}

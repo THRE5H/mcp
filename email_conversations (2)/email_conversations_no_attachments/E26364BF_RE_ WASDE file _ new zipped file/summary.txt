@@ -1,0 +1,5 @@
+**Problem**: The customer was confused about the new setup of a dataset, receiving four CSV files instead of one and inquired whether they needed to merge them.
+
+**Context**: The user is a Grains Analyst at a Customer Organization. The issue pertains to the WASDE file provided by a Service Provider, which was recently changed to include multiple files for easier management of larger datasets.
+
+**Solution**: The Support Agent clarified that the four files are split chunks of the same dataset, each containing a quarter of the data. They confirmed that merging the files is necessary and mentioned that the team is working on a solution to allow users to download the full dataset in one file for smaller datasets.

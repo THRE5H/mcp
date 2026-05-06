@@ -1,0 +1,51 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2026-01-18 16:18:30.299000+00:00
+Subject: FW: Action Required: Refresh Your Microsoft Token
+Message-ID: ZR0P278MB0505674133CC4E4D3D99C2828A8BA@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0102019bc56603d8-1ba70b00-ebbf-4efc-b4d6-e6e560cc3680-000000@eu-west-1.amazonses.com
+
+================================================================================
+
+[Not Urgent]
+
+ 
+
+Hello,
+
+ 
+
+I don’t really understand what I am supposed to do here.
+
+Could you give me a hand on that on Monday please?
+
+ 
+
+Have a great weekend,
+
+ 
+
+Louis
+
+ 
+
+From: noreply@dnext.io <noreply@dnext.io> 
+Sent: Friday, January 16, 2026 7:03 AM
+To: Louis Olive <louis.olive@dnext.io>
+Subject: FW: Action Required: Refresh Your Microsoft Token
+
+ 
+
+Hello Louis Olive,
+
+We wanted to let you know that your Microsoft access token has expired. To continue using DNEXT seamlessly, please refresh your token by going to your account settings: https://dnexr.dnext.io/profile. 
+
+Concerned dataset that has been affected:
+AGRESTE AGS France Production Finals & Estimates monthly (dnexr-agreste-grain-oilseeds-fra-snd-item-monthly-1) 
+
+Workflow: https://dnexr.dnext.io/workflows/a867e2cc-88ea-457d-a5d4-0b27a3afc758/edit/exporting 
+
+If you have any questions or need assistance, feel free to reach out to our support team. 
+
+Thank you,
+Dnext Team

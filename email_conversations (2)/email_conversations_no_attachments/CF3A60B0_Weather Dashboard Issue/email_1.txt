@@ -1,0 +1,17 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-07-01 16:04:04.850000+00:00
+Subject: Weather Dashboard Issue
+Message-ID: ZR0P278MB0505DA35F0B89B09AFC0BF798A41A@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+                
+
+Hello,
+
+I ma having discrepancies between the Panel view and the normal view selecting only one part. In this case, 1-5 individual and 1-5 panel view on Max Temp does not seem to align
+
+ 
+
+Louis

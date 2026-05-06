@@ -1,0 +1,57 @@
+From: Kleinman, Joe (Crosby Resource Capital) <Joe.Kleinman@cresourcecap.com>
+To: Support Dnext
+Date: 2026-01-14 21:02:11.371000+00:00
+Subject: World SND Files
+Message-ID: SA0PR11MB4671D1AF6FB3AAAAA503CDB4E78FA@SA0PR11MB4671.namprd11.prod.outlook.com
+
+================================================================================
+
+Team,
+
+ 
+
+Did you recently implement a change on the system that breaks the large single csv files for the snd_item-weekly data into multiple csv in a zip file?  Is this a permanent change?  I will have to adjust some of my work flow to accommodate the change if this will be the case going forward.
+
+ 
+
+Thanks,
+
+Joe
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Joe Kleinman | Senior Research Analyst
+CROSBY RESOURCE CAPITAL LP
++1.212.320.1376 | joe.kleinman@cresourcecap.com <mailto:joe.kleinman@cresourcecap.com> 
+
+ 
+
+ 
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

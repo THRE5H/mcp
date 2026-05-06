@@ -1,0 +1,5 @@
+**Problem**: The customer reported encountering a 500 server error while trying to access datasets on the website.
+
+**Context**: The user is an external user from a Customer Organization, experiencing issues with a service provided by a Service Provider. The problem occurred on a specific date, impacting the user's ability to access critical data.
+
+**Solution**: The Support Agent acknowledged the issue and requested additional details to assist in troubleshooting. Later, the customer confirmed that the issue was resolved, stating that access was restored. It is recommended to monitor the service for similar issues in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested a demo account for a trial period starting October 27th, specifically excluding the fertilizer product, and required onboarding assistance to navigate the portal.
+
+**Context**: The user is an external user from a Partner Company. The product involved is a data portal related to agricultural commodities, specifically for palm oil and sugar. The customer also requested specific reports prior to the trial.
+
+**Solution**: The customer support team set up the demo account and confirmed its readiness. They provided login credentials to the user and noted that the economics section for vegoils was not yet available, but palm oil dashboards were accessible. It was suggested to include relevant dashboards in the demo.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue related to the NDVI (Normalized Difference Vegetation Index) data for Argentina, indicating that it was not functioning as expected.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider regarding a specific feature related to environmental data analysis.
+
+**Solution**: The Support Agent confirmed that the issue was fixed. No further details on the specific actions taken were provided, but the resolution indicates that the NDVI functionality for Argentina is now operational. It is recommended to monitor the feature for any future discrepancies.

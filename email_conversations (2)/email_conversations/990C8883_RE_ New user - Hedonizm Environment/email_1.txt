@@ -1,0 +1,138 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sami Jaballah; Support Dnext
+Date: 2025-06-16 18:25:32.298000+00:00
+Subject: RE: New user - Hedonizm Environment
+Message-ID: GV0P278MB132091C0E7EA238AE0DFFAECF870A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB132327D54E8FD3BA419D5EE1F870A@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+Checked everything alll is good so far. 
+
+ 
+
+
+
+ 
+
+Please confirm so we send credentials.
+
+Thank you .
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, June 16, 2025 18:03
+To: Sami Jaballah <sami.jaballah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: New user - Hedonizm Environment
+
+ 
+
+Hello , 
+
+ 
+
+Not all resources were shared apparently when the contract was created due to a bug or something , I have reported this to the dev team and rerun the sharing 
+
+ 
+
+Currently, waiting for everything to be good before sending the credentials.
+
+ 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> > 
+Sent: Monday, June 16, 2025 17:44
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: New user - Hedonizm Environment
+
+ 
+
+ 
+
+Hello,
+
+ 
+
+Please add the following user to Hedonizm environment.
+
+ 
+
+Iker
+
+Criado Santos
+
+ics@hedonizmcap.com <mailto:ics@hedonizmcap.com> 
+
+ 
+
+The setup of this environment is the same as BRAYA.
+
+ 
+
+Please check the TradeFlows -> the list is currently empty.
+
+ 
+
+We need to validate before sending the profile to the user.
+
+ 
+
+Kind regards
+
+Sami
+
+ 
+
+ 

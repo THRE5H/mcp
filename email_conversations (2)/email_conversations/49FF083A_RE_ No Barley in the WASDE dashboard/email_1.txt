@@ -1,0 +1,108 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-04-10 10:10:52.455000+00:00
+Subject: RE: No Barley in the WASDE dashboard
+Message-ID: GV0P278MB13206329C0CF4A4115009DD3F8B72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13209576D1C09AF356C82010F8B42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+The only data available for Barley is for US in the latest reports : 
+
+ 
+
+https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, April 9, 2025 16:22
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: No Barley in the WASDE dashboard
+
+ 
+
+Hello , 
+
+ 
+
+Data is being updated from Dropbox from this file 
+
+DNEXT_RESEARCH/G&O/07- SOURCE_INTL/WASDE/ WASDE_update.xlsm
+
+ 
+
+I think it’s Gg who update this file I’m not sure @Guillaume Goudy <mailto:guillaume.goudy@dnext.io>  could you please check it?
+
+ 
+
+Thanks
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> > 
+Sent: Wednesday, April 9, 2025 8:29
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: No Barley in the WASDE dashboard
+
+ 
+
+no data for the world or other countries for barley
+
+ 
+
+https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Usa/1dad01fa-f329-4b45-8eef-ed233914d3e5 <https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Usa/1dad01fa-f329-4b45-8eef-ed233914d3e5> 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

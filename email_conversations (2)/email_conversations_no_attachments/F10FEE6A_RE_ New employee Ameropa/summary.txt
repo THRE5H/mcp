@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new employee to the access platform and Dropbox.
+
+**Context**: The user is an external user from a Customer Organization, specifically a Grains Analyst at AMS Ameropa Marketing and Sales AG. The request was made to the Service Provider's support team to facilitate access for a new colleague.
+
+**Solution**: The Support Agent created a user account for the new employee and granted access to Dropbox. The login credentials were sent to the new employee's inbox, and the Support Agent offered to add the employee to the reports email list if requested.

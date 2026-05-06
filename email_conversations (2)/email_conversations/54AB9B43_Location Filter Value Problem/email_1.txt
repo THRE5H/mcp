@@ -1,0 +1,19 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Benoit Baliguet; Nicolas Chaperon
+Date: 2025-10-02 21:03:44.902000+00:00
+Subject: Location Filter Value Problem 
+Message-ID: GV0P278MB0321B7F0EC9B809C5E113E1B9DE7A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, Outlook-qmzoprsx.png
+
+================================================================================
+
+Hello All,
+It seems that the newly added feature for filtering by location type (regional_national / regional) is preventing me from updating this dataset. Even when I leave the field empty, it defaults to NATIONAL_REGION, while my dataset is actually a merge of REGIONS and NATIONAL_REGIONS.
+Is there any workaround for this issue?
+Dataset code: dnexr-bage-mkt_info-weekly-manual
+
+
+
+ 
+
+

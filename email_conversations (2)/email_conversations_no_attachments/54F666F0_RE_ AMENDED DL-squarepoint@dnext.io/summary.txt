@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new recipient, Mr. Shravan Nair, to a distribution list and also needed him to gain access to the platform.
+
+**Context**: The user is an external user from Customer Organization seeking support from Service Provider. The request involved modifying a distribution list and creating a user account for platform access.
+
+**Solution**: The support team successfully added the user to the distribution list and created an account for Mr. Nair. Login credentials were sent to his email, confirming that he now has access to the platform. It is recommended to regularly review distribution lists and user access to ensure they are up-to-date.

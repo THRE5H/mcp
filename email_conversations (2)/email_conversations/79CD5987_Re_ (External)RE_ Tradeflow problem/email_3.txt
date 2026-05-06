@@ -1,0 +1,19 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-02-20 12:09:21.171000+00:00
+Subject: Tradeflow problem
+Message-ID: GV0P278MB0148F57732CB404E88EAB49D98C42@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi support,
+
+ 
+
+Benjamin (ETG environment) in CC of the email, is not seeing the sunflower oil export flow (official data) in the dnexr-vegoils tradematrix which is shared with them.
+
+Could you please check what’s the problem ?
+
+ 
+
+Thanks

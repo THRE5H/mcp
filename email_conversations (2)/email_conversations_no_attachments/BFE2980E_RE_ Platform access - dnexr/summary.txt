@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the dnexr platform for a trainee working with their team. They needed confirmation that the access was granted.
+
+**Context**: The user is an external user from the Customer Organization requesting access for a trainee to the dnexr platform. The request was made to the Support Team of the Service Provider, and there was a need to ensure appropriate access levels for the trainee.
+
+**Solution**: The Support Agent confirmed that access to dnexr was granted to the trainee. However, further clarification was requested regarding which specific resources the trainee needed access to, suggesting that access could be limited to certain data instead of full platform access.

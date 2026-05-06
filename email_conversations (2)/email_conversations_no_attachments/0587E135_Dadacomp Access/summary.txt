@@ -1,0 +1,5 @@
+**Problem**: The customer is requesting access to the Dadacomp interface for themselves and another individual.
+
+**Context**: The user is an external user from a Customer Organization seeking access to a specific feature of the Service Provider's platform. No additional situational factors were mentioned.
+
+**Solution**: The Support Agent acknowledged the request and initiated the access process for the Dadacomp interface. The customer was informed that they would receive confirmation once access was granted. It is recommended that users ensure they have the necessary permissions and credentials before requesting access to specific interfaces.

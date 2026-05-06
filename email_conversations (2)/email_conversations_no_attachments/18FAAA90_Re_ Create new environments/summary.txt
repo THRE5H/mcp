@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of three new environments (Triton, Masoceans, and Mocoh) with specific user access and data sharing requirements. There was a follow-up request for resources to share in the Mocoh environment.
+
+**Context**: The user is an internal user from the Service Provider, working on setting up environments for different clients. The environments involve specific data sharing configurations, with some environments requiring no sharing at the initial stage.
+
+**Solution**: The Support Team acknowledged the request and confirmed that they would provide the necessary resources for the Mocoh environment. It was recommended that the same sharing settings as for another client (Continental) be applied to ensure consistency.

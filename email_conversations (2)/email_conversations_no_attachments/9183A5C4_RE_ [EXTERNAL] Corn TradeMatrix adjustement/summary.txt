@@ -1,0 +1,5 @@
+**Problem**: The customer sought clarification regarding the classification of Sudan in the corn TradeMatrix, questioning whether it was previously grouped in 'MEAST' instead of 'NAFRICA'.
+
+**Context**: The customer is an external user from a Partner Company, inquiring about a recent adjustment made by the Service Provider to the corn TradeMatrix. The adjustment involved changing Sudan's grouping, which led to confusion.
+
+**Solution**: The Support Agent confirmed that Sudan was initially in 'MEAST', then moved to 'NAFRICA', and has now reverted back to 'MEAST'. The customer acknowledged the clarification, indicating that the issue was resolved. It is recommended to maintain clear communication regarding such adjustments to prevent future confusion.

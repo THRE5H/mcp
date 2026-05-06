@@ -1,0 +1,213 @@
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+To: Support Dnext; Saber Khalfallah
+Date: 2025-05-05 10:06:09.574000+00:00
+Subject: RE: DCS-1273 RE: [EXTERNAL] DNEXT Platform - Update on data sharing 
+Message-ID: GV2P191MB2381E30164AE0370EFF8FEAB8D8E2@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+In-Reply-To: JIRA.30608.1746433769000.86c2d623-6d60-4c1c-9099-0306906166b8.1746435870732@Atlassian.JIRA
+
+================================================================================
+
+Noted – I’ll try this. Thanks for the quick reply.
+
+ 
+
+Regards
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net> 
+Sent: Monday, May 5, 2025 11:05 AM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+Subject: DCS-1273 RE: [EXTERNAL] DNEXT Platform - Update on data sharing 
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hi Roberto,
+
+Thanks for reaching out.
+
+The issue you're experiencing is because the URL for downloading the TradeMatrix data changes when accessing aggregated data. Below is the correct script you need to use. Just insert your email and password where indicated, and it should work for you now.
+
+Quote :
+
+import requests
+
+import pandas as pd
+
+from io import BytesIO
+
+import time
+
+import json
+
+1.	Login to API and get token
+
+def connect(email, pwd, env):
+
+'''
+
+email: email used to connect to your dnext environment
+
+pwd: password
+
+env: name of your enviroment, first part in your dnext URL before the dot
+
+ENV.dnext.io -> env = 'ENV'
+
+'''
+
+1.	Login to API and get token
+
+url = f'https://api.dnext.io/v1.0/auth/custom-login?org=
+
+{env}' 
+
+
+
+payload = json.dumps({ 
+
+'email': f'{email}', 
+
+'password': f'{pwd}', 
+
+'organization': f'{env} 
+
+'
+
+})
+
+headers =
+
+{ 'Content-Type': 'application/json' } 
+
+response = requests.post(url, headers=headers, data=payload)
+
+token = response.json()['token']
+
+return token
+
+token = connect("youremail","yourpassword","thul")
+
+def _get_task_status(task_id, token):
+
+my_headers =
+
+{ 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' } 
+
+success = False
+
+wait_time = 2
+
+while not success and wait_time < 30:
+
+time.sleep(wait_time)
+
+status_res = requests.get(f'https://api.dnext.io/v1.0/tasks/
+
+{task_id} 
+
+', headers=my_headers)
+
+try:
+
+success = status_res.json()['status'] == 'SUCCEEDED'
+
+except:
+
+wait_time += 1
+
+continue
+
+if not success:
+
+wait_time += 1
+
+if success:
+
+return True
+
+else:
+
+return False
+
+def download_tradeflow(code, token):
+
+my_headers =
+
+{ 'Authorization': 'Bearer ' + token, 'Content-Type': 'application/json' } 
+
+data = {"intraflows":
+
+{"strategy":"exclude"} 
+
+,"row":False,"refresh":True,"format":"csv"}
+
+dl_url = f'https://api.dnext.io/v1.0/fundamentals/tradeflows/aggregations/
+
+/download'
+
+res = requests.post(dl_url, headers=my_headers, data=json.dumps(data))
+
+print(res.json())
+
+task_id = res.json()['task']['id']
+
+data_ready = _get_task_status(task_id, token)
+
+if data_ready:
+
+data_url = res.json()['result']['url']
+
+data_resp = requests.get(data_url)
+
+df = pd.read_csv(BytesIO(data_resp.content))
+
+else:
+
+df = None
+
+return df
+
+df = download_tradeflow("thul-bca3ea16-feb8-43d0-8709-b29e1e45c627", token)
+
+Unquote
+
+Please let me know if this works on your end.
+
+Looking forward to hearing back from you.
+
+Best regards
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/30608/attachment/19684> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1273?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImE4MWI2NGFlNDZkZDc0OGM5MzMyYjc5YjQxZDQ3MTlkZjA3NWY3YWFlNjAyOGJlMDAzMGQyZTI1NDZjY2ZmZTEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxNzIiLCJpc3N1ZSI6IkRDUy0xMjczIn0sImV4cCI6MTc0ODg1NTA3MCwiaWF0IjoxNzQ2NDM1ODcwfQ.RwrgvdAe-0rnNPYYwjfZgTyYPVYIbJh-ysTW13mn9I0&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1273/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjljNmE5MzQwZGQ4NTE5ZDhkZWZlNTljMTAxY2Q4YjQyYTFmMzFhYTUzNDVmOWRiMTlkZTAxM2E5N2QyMjIxZWYiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6MDY0NzUyMTctZDAyYS00MmM1LWIyNWYtMzA5NzcxNGM3ZmYyIiwiaXNzdWUiOiJEQ1MtMTI3MyJ9LCJleHAiOjE3NDg4NTUwNzAsImlhdCI6MTc0NjQzNTg3MH0.V7L1P1c5ucFo6dbvI098lbiQKjhhHERjQmZRDH8D3G8> 
+
+This is shared with Roberto.Ruiz, Sami Jaballah, Mohamed Jebrane Ben Salem, and 2 other people.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on May 5, 2025 11:04:30 AM CEST 
+
+ <https://atlas-trk.prd.msg.ss-inf.net/q/oNRBxRmx_XAJHervIQOsdg~~/AAAAARA~/Imz00xVld9FgmN1R2zZGFdF7k4RKjiWFsD0hYRFo8UUv_l-IRHMVqSS5aLpN8J_kpwIUONwERcfhKjCjcjjE1Q~~> 
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

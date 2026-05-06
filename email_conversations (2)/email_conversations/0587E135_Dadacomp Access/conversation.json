@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Dadacomp Access",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=94A886E7CA5E48F597E64024218D016E-A30DE024-57",
+      "from_name": "Wael Kouada",
+      "to": "Support Dnext",
+      "cc": "Mohamed Chabbouh",
+      "received_time": "2025-04-16 13:07:14.436000+00:00",
+      "sent_time": "2025-04-16 13:07:11+00:00",
+      "body_text": "Hello,\r\n\r\nWe want to have access to Dadacomp interface.\r\n\r\nMe and Chabbouh Mohamed.\r\n\r\nBest regards.",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nHello,</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nWe want to have access to Dadacomp interface.<br>\r\n<br>\r\nMe and Chabbouh Mohamed.</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nBest regards.</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "0587E135E55AFD4DBF58BB22293122FA",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900029B58A7CE0000",
+      "size": 35270,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "ZR0P278MB077549A8D60CBE8C4F4533C095BD2@ZR0P278MB0775.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Dadacomp Access"
+}

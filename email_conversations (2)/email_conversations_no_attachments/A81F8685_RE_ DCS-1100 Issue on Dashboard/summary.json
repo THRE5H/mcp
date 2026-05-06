@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Dashboard in Microsoft Power BI shows an issue or does not display data correctly",
+    "solution": "Refresh the dashboard twice in Microsoft Power BI to resolve display or loading issues. This can fix temporary glitches possibly caused by Power BI server delays or caching.",
+    "keywords": [
+      "Power BI",
+      "dashboard",
+      "refresh",
+      "loading issue",
+      "display problem",
+      "temporary glitch",
+      "Microsoft Power BI"
+    ],
+    "category": "Error Resolution"
+  }
+}

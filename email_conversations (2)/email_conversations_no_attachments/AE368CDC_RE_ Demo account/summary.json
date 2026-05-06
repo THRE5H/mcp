@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "How to set up a demo account with restricted access for trial users, specifically disabling download capabilities while sharing other resources like Dashboards, TradeMatrix, Datasets, and Freights.",
+    "solution": "When creating a demo account for trial users, provide access to all resources including Dashboards, TradeMatrix, Datasets, and Freights, but disable the download functionality by default. The demo environment URL is https://demo.dnext.io. Ensure the demo account is created for the actual user (not an internal user) and communicate credentials securely. The download feature is deactivated by default in all demo environments to prevent data extraction during trials.",
+    "keywords": [
+      "demo account",
+      "trial account",
+      "download disabled",
+      "resource sharing",
+      "Dashboards",
+      "TradeMatrix",
+      "Datasets",
+      "Freights",
+      "demo environment",
+      "access control",
+      "trial setup"
+    ],
+    "category": "Configuration"
+  }
+}

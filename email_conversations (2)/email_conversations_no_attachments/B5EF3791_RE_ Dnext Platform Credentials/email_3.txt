@@ -1,0 +1,222 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Bart Van der Wal
+Date: 2025-10-13 13:45:07.810000+00:00
+Subject: RE: Dnext Platform Credentials
+Message-ID: GV0P278MB02112E0EFE54F346C77509B698EAA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AS8PR04MB87867EDB4735CFC240AD58F7BAEAA@AS8PR04MB8786.eurprd04.prod.outlook.com
+
+================================================================================
+
+Hi Bart,
+
+ 
+
+I have added support who will take care of it.
+
+Thank you for reaching out.
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Bart van der Wal <wal@amaggi.eu> 
+Sent: Monday, 13 October 2025 11:18
+To: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Dnext Platform Credentials
+
+ 
+
+Good morning Guillaume,
+
+ 
+
+Sorry to bother you with IT problems – probably not your department. Tried to e-mail your (ex?)colleague Mohamed, but the e-mail bounced.
+
+ 
+
+Could you please help me get to the right person with troubles on the Dnext platform? See my e-mail below. 
+
+ 
+
+Thanks in advance for your help.
+
+ 
+
+Best regards
+
+Bart
+
+ 
+
+
+
+Amaggi Europe B.V. 
+
+Bart van der Wal
+Trader
+
+Tel +31 10 217 56 17
+
+Mob +31 6 83 94 67 55
+
+Group email: trade@amaggi.eu <mailto:trade@amaggi.eu> 
+
+www.amaggi.eu <http://www.amaggi.eu/>  
+
+	
+
+
+ 
+
+ 
+
+Before printing, think about your responsibility for the environment
+
+ 
+
+ 
+
+Van: Bart van der Wal 
+Verzonden: maandag 13 oktober 2025 11:14
+Aan: 'Mohamed Ali Fathallah' <Medali@dnext.io <mailto:Medali@dnext.io> >
+Onderwerp: RE: Dnext Platform Credentials
+
+ 
+
+Good morning Mohamed,
+
+ 
+
+On the Dnext platform I’ve accessed data on trade flow and price information for a long time. 
+
+However, the dashboards seem to all have disappeared. Now only the button “sugar” is available, but even clicking on that gives no data anymore.
+
+ 
+
+Tried both the react app and via the website, both with the same result.
+
+ 
+
+Could you please help me with this issue?
+
+ 
+
+User: wal@amaggi.eu <mailto:wal@amaggi.eu> 
+
+ 
+
+Thanks in advance
+
+Bart
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+Amaggi Europe B.V. 
+
+Bart van der Wal
+Trader
+
+Tel +31 10 217 56 17
+
+Mob +31 6 83 94 67 55
+
+Group email: trade@amaggi.eu <mailto:trade@amaggi.eu> 
+
+www.amaggi.eu <http://www.amaggi.eu/>  
+
+	
+
+
+ 
+
+ 
+
+Before printing, think about your responsibility for the environment
+
+ 
+
+ 
+
+Van: Mohamed Ali Fathallah <Medali@dnext.io <mailto:Medali@dnext.io> > 
+Verzonden: vrijdag 8 maart 2024 05:52
+Aan: Bart van der Wal <wal@amaggi.eu <mailto:wal@amaggi.eu> >
+Onderwerp: Dnext Platform Credentials
+
+ 
+
+	U ontvangt niet vaak e-mail van medali@dnext.io <mailto:medali@dnext.io> . Meer informatie over waarom dit belangrijk is <https://aka.ms/LearnAboutSenderIdentification> 
+
+	
+
+Hello,
+
+Hope you are doing well.
+
+This is Mohamed Ali from Dnext, I will be glad to assist you to discover our product.
+
+ 
+
+You may access your platform through this URL: https://amaggi.dnext.io/
+
+Email: wal@amaggi.eu <mailto:wal@amaggi.eu> 
+
+Password: qra.jcr-WKB1amb1tvj
+
+ 
+
+Please let me know if you have any questions.
+
+
+Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+Go to your profile:
+
+
+
+Press “change my password”:
+
+
+
+And follow the instructions:
+
+
+
+ 
+
+Best regards,
+
+ 
+
+MOHAMED ALI FATHALLAH
+
+Customer Support
+
+                                                                                                     medali@dnext.io <mailto:medali@dnext.io> 
+
++216 93 448 698
+
+
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+ 

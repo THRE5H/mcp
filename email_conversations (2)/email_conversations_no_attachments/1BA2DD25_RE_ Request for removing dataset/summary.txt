@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset identified by its code.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Service Provider's support team. The request pertains to a dataset within the Service Provider's data management system.
+
+**Solution**: The Support Agent confirmed the successful deletion of the requested dataset. It is recommended that users verify dataset codes before requesting deletions to prevent accidental loss of important data.

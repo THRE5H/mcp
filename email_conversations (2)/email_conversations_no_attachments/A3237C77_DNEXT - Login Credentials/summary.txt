@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials for multiple environments of the DNEXT platform.
+
+**Context**: The user is an external user from Customer Organization seeking access to the DNEXT platform. The request involved multiple environments: STAGE, DNEXR, and Black Fryers.
+
+**Solution**: The Support Agent provided the customer with the necessary URLs and login credentials for each environment. The customer was also advised to change their password upon first login by following specific steps. No further issues were reported after this communication.

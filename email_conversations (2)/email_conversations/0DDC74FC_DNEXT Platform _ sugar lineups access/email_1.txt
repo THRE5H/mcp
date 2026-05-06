@@ -1,0 +1,62 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Maria Suby
+Date: 2026-01-20 10:36:35.949000+00:00
+Subject: DNEXT Platform : sugar lineups access
+Message-ID: GV0P278MB1320A13C9BAB1A5F77DFD0B1F889A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Maria,
+
+ 
+
+I hope you're doing well.
+
+ 
+
+This is Saber from the DNEXT Customer Support team. I’m reaching out to confirm that the sugar lineups for the following regions have been shared with your environment:
+
+ 
+
+*	Thailand : https://raizen.dnext.io/datasets/raizen-268e936e-c459-11f0-9422-02abcd39fb87
+*	India : https://raizen.dnext.io/datasets/raizen-ea8d470f-d4e4-11f0-9422-02abcd39fb87
+
+ 
+
+To download the data, open the dataset page and click on the “Download” Button on the top right of the page.
+
+
+
+ 
+
+Please let us know if you still need assistance with downloading the data. We're happy to schedule a call at your convenience to walk you through the process of accessing and downloading the data from the platform.
+
+ 
+
+Additionally, I’d like to propose a demo session where we can guide you through the platform's main features and functionality. During this session, we can also introduce you to our Excel add-in, which allows you to fetch data directly from the platform into Excel. We’d be happy to assist you in setting it up as well.
+
+Please let me know a suitable time for the demo session, and we’ll arrange everything for you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

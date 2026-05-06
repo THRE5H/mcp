@@ -1,0 +1,111 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: John Stansfield
+Date: 2025-04-16 14:40:16.065000+00:00
+Subject: RE: Sugar dasboard
+Message-ID: ZR3P278MB135377784E38DCEEB5541A97F6BD2@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB060597508D645BB415DA410885BD2@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello John,
+
+ 
+
+Firas a few months ago made a dashboard for the sugar team and used one of the datasets created by Afef for the occasion. He had, therefore, added it to the Sugar Supply in Demand, I figure because he thought it would be useful for sugar analysis.
+
+ 
+
+We currently have a dashboard for this product, biogasoline, and multiple other products on stage <https://stage.dnext.io/dashboard/*/Energy/EU/f936991b-fec7-46ed-973d-fede5955e784>  and it is awaiting final approval to move forward to Dnexr. It will be a major upgrade not only for the availability of multiple products but also for the integration of national datasets along with Eurostat.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io> 
+Sent: Wednesday, April 16, 2025 3:30 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: Sugar dasboard
+
+ 
+
+My point is what is it doing under Sugar Supply and Demand at all?
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: 16 April 2025 14:03
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Sugar dasboard 
+
+ 
+
+What isthis dashbboard Rifa?
+
+Is it EU?
+
+ 
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Sent: Wednesday, 16 April 2025 14:55
+To: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Sugar dasboard
+
+ 
+
+Hello, 
+
+ 
+
+It's now in Supply and Demand >> Europe.
+
+ 
+
+
+
+
+ 
+
+Best regards,
+
+ 
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >
+Sent: 16 April 2025 13:23
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Sugar dasboard
+
+ 
+
+Looks like Biogasoline is in sugar supply and demand by misake?
+
+ 
+
+

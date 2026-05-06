@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience data mismatches between US corn export values in the Supply and Demand (SnD) module and the TradeMatrix module.",
+    "solution": "The mismatch occurs because users are consulting the Corn TradeMatrix from an old system that is being phased out and no longer updated. To resolve this, users should navigate to the TradeMatrix module, search for 'Corn' in the 'Name' column, and select the TradeMatrix entry with a 'Code' formatted as 'thul-xxxx-xxxx-xxxx-xxxx'. This version is provided by the new system and contains up-to-date data, ensuring consistency with the SnD module.",
+    "keywords": [
+      "TradeMatrix",
+      "Corn exports",
+      "data mismatch",
+      "old system",
+      "new system",
+      "code format",
+      "thul-xxxx",
+      "SnD module",
+      "data update",
+      "forecast visibility"
+    ],
+    "category": "Configuration"
+  }
+}

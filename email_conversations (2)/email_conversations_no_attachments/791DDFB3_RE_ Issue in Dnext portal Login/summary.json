@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User receives 'Access Denied' error when trying to log in to the Dnext portal.",
+    "solution": "Ensure that the user is logging in using the correct URL: https://alghurair.dnext.io/login. If login issues persist, clear the browser cache and try again. Additionally, check if any VPN is active; if so, close the VPN and retry logging in.",
+    "keywords": [
+      "Dnext portal",
+      "login error",
+      "access denied",
+      "correct URL",
+      "clear browser cache",
+      "VPN",
+      "login troubleshooting"
+    ],
+    "category": "Access Issue"
+  }
+}

@@ -1,0 +1,78 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Saber Khalfallah; Support Dnext; Maher Fekih
+Date: 2025-04-14 13:04:24.414000+00:00
+Subject: RE: Not Receiving 2FA Code for Platform Login (Dnexr/stage)
+Message-ID: ZR0P278MB0505D27D662D8326BE1C2BA38AB32@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320B1A9DD8B741A005B66BCF8B32@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi,
+
+Thanks for the the answer.
+I just updated the ticket as I received them in bulk. 
+I am now logged in.
+
+Louis
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, April 14, 2025 2:03 PM
+To: Louis Olive <louis.olive@dnext.io>; Support Dnext <support@dnext.io>; Maher Fekih <maher.fekih@dnext.io>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: RE: Not Receiving 2FA Code for Platform Login (Dnexr/stage)
+
+ 
+
+Hello ,
+
+ 
+
+@Maher Fekih <mailto:maher.fekih@dnext.io>  is checking if the emails were sent to you or not .
+
+ 
+
+In the meantime, did you check your spam folder , also did you try whitelisting the dnext.io domain ?
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Louis Olive <louis.olive@dnext.io <mailto:louis.olive@dnext.io> > 
+Sent: Monday, April 14, 2025 12:31
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: Not Receiving 2FA Code for Platform Login (Dnexr/stage)
+
+ 
+
+Hello,
+
+ 
+
+I’m not getting the 2FA code for dnexr / stage. 
+
+ 
+
+Louis

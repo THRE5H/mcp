@@ -1,0 +1,5 @@
+**Problem**: The User was unable to access the platform verbio.dnext.io and requested verification of access or a password reset.
+
+**Context**: The request was made by an external User on behalf of another User who needed access to a specific service. The issue involved the access credentials for the platform provided by the Service Provider.
+
+**Solution**: The Support Agent confirmed that new login credentials were sent to the User's inbox. The Agent offered further assistance if the User continued to experience login difficulties. It is recommended that Users ensure they check their inbox for new credentials and reach out for support if issues persist.

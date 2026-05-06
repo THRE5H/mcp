@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in sharing a dataset named "viserion-cif-freight-daily" from the system "viserion" to "dnexr".
+
+**Context**: The customer is a Data Analyst at a Customer Organization. The request involves transferring data between two internal systems, which requires specific permissions and configurations.
+
+**Solution**: The Support Agent confirmed that the dataset was successfully shared after addressing a pending requirement from the development team regarding the addition of the Customer Organization as a Contractee. It is recommended that users ensure all necessary permissions are in place before requesting data transfers in the future.

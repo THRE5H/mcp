@@ -1,0 +1,40 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext; Martin Keller
+Date: 2025-07-25 08:49:31.440000+00:00
+Subject: Re: Canada Alberta Moisture - Region Numbering
+Message-ID: ZR3P278MB122646E6266F1AB04B21A769F559A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB135304CF92A174ADAF586CCEF659A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+________________________________
+
+De : Enea Albertoli <enea.albertoli@dnext.io>
+Envoyé : Friday, July 25, 2025 8:32:06 AM
+À : Support Dnext <support@dnext.io>
+Cc : Bastien Lambert <bastien.lambert@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Objet : Canada Alberta Moisture - Region Numbering 
+ 
+
+Hello,
+
+ 
+
+In the official regional distribution we have different numbering. Could we do a quick fix, please?
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

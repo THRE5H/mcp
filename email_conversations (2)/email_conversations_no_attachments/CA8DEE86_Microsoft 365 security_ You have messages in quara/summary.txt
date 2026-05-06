@@ -1,0 +1,5 @@
+**Problem**: The customer received a notification that a message was held in quarantine due to being flagged as spam and needed to review it.
+
+**Context**: The user is an external user of Microsoft 365 services. The issue involves the quarantine feature of Microsoft 365, where messages are held for review due to spam detection. The customer is expected to take action within 30 days to review the quarantined message.
+
+**Solution**: The customer was advised to access the Quarantine page in the Security Center to review and potentially release the message. The final outcome depends on the customer's actions taken within the specified timeframe. It is recommended to regularly check the quarantine to manage important messages effectively.

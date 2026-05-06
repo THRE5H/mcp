@@ -1,0 +1,28 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Nour Meddeb
+Date: 2025-07-28 11:23:58.840000+00:00
+Subject: Re: Check argentina official stocks datasets
+Message-ID: ZR3P278MB1226BD5B884786EC8380D79DF55AA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071757C360EDADE105DBEEF9EB5AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_4.png
+
+================================================================================
+
+@Nour Meddeb <mailto:nour.meddeb@dnext.io>  
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 28 July 2025 11:11
+To: Support Dnext <support@dnext.io>
+Subject: Check argentina official stocks datasets 
+ 
+hi, i see we have an issue here. it seems that somewhere between 2020 and 2021 there is an error and we are taking the data as carry out instead of carry in.
+
+it might be because the source changed the way in which they report the data, so worth checking what happened in 2021.
+it happens for all crops.
+
+let me know if this is not clear. in the chart you can see how the structure changes, which is very weird.
+
+
+    
+

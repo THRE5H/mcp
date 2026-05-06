@@ -1,0 +1,46 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Martin Keller
+Date: 2025-04-21 17:28:11.908000+00:00
+Subject: Re: weather dashboard: forecast run comparison.  Actual data only reaching April 15th
+Message-ID: GV0P278MB12136CFCF826EB15F1F3FD1BF5B82@GV0P278MB1213.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB122607262C6FD2028282C5C9F5B82@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Fixed for Black sea.
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 21 April 2025 14:27
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: weather dashboard: forecast run comparison. Actual data only reaching April 15th 
+ 
+Hi Pablo,
+We haven’t changed anything in the process. 
+You're right, I reviewed other dashboards, and they have data up to 21-04, so it seems the issue is specific to the Black Sea data. I’ll check this with @Martin Keller <mailto:martin.keller@dnext.io> 
+
+Example: Argentina
+
+
+
+Australia: 
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 21 April 2025 14:19
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: weather dashboard: forecast run comparison. Actual data only reaching April 15th 
+ 
+Hi, seems that something has changed in the way we show the actual.
+
+before we were using the run of the GEFS (dont know which run) to complete the missing data from ERA5 until the current day. seems we are not doing that anymore and the graph looks not ok.
+
+possible to have the same as what we had before?
+
+
+

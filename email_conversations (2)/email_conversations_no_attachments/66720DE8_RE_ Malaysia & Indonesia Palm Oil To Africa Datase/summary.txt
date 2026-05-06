@@ -1,0 +1,5 @@
+**Problem**: The User requested updated vessel information regarding palm oil data, as the last update was on November 27, 2025, and expressed concern about the frequency of updates.
+
+**Context**: The User is a Market Research Team Member at a Customer Organization. The inquiry pertains to a dataset on palm oil lineups for Indonesia and Malaysia heading to Africa, provided by a Service Provider. The User is seeking more timely information to support their research efforts.
+
+**Solution**: The Support Agent confirmed that the data has been updated and will continue to receive future updates. The User was thanked for their patience, ensuring they are informed of the dataset's ongoing improvements. It is recommended to regularly check for updates to stay informed.

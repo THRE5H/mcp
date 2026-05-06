@@ -1,0 +1,70 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-09 10:13:50.941000+00:00
+Subject: Re: Dnexr Dropdown not Working
+Message-ID: ZR3P278MB13532E5EFD5C19C7F764A289F6A3A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13209AA34D54A7E3D745F8F2F8A3A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+Got it. Thank you!
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Tuesday, December 9, 2025 9:41 AM
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Dnexr Dropdown not Working 
+ 
+
+Hello Enea,
+
+ 
+
+A ticket has been created for the dev team concerning this issue.
+
+You can follow up on it on the link below
+https://dnext.atlassian.net/browse/DNP-6318
+
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Tuesday, December 9, 2025 9:28
+To: Support Dnext <support@dnext.io>
+Subject: Dnexr Dropdown not Working
+
+ 
+
+Hello Support Team,
+
+ 
+
+Whenever I click on the dropdown menu, the labelled dashboards do not appear, I just see the same dashboard all the time (e.g., if I click TF I see crop, if I click Sugar I still se crop).
+
+ 
+
+

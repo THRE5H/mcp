@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue regarding the unavailability of historical data for Indonesia.
+
+**Context**: The user is an external user from the Customer Organization seeking support from the Service Provider. The inquiry pertains to a data retrieval feature within the service.
+
+**Solution**: The Support Agent confirmed that the issue was resolved. No specific details on the resolution process were provided, but the final outcome indicated that the historical data for Indonesia is now accessible again. It is recommended to monitor data availability regularly to prevent future occurrences.

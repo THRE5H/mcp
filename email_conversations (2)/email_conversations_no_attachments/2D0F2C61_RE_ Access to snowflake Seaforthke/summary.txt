@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to Snowflake Seaforthke for dashboard development.
+
+**Context**: The user is a Data Analyst from a Customer Organization. The request was made to the Customer Support team of the same organization, indicating an internal need for access to a specific data platform.
+
+**Solution**: The Support Agent confirmed that access to Snowflake Seaforthke was granted. It is recommended that users verify their access permissions regularly to avoid future issues.

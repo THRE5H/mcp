@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance resetting their login credentials for the platform after changing their email address from Philip-Carl@ameropa.com to carl.kruger@ameropa.com.
+
+**Context**: The user is an external user (Trader) from a Customer Organization. The issue involved the login credentials for the Dnext platform, which required updating due to a change in the user's email address.
+
+**Solution**: The Support Agent provided the customer with new login credentials associated with the updated email address. The customer confirmed that everything was working correctly after the reset. It is recommended that users change their passwords upon first login to maintain security.

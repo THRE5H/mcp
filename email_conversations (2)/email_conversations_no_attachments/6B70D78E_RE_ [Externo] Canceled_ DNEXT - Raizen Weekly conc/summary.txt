@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of an email address from a distribution list after the individual associated with that address left their organization.
+
+**Context**: The user is an internal user from Customer Organization. The issue involves the email distribution list for a weekly conference call related to the service provided by Service Provider. The email address to be removed belongs to a former employee of Partner Company.
+
+**Solution**: The Support Agent confirmed that the requested email address was successfully removed from the distribution list. It is recommended to regularly update distribution lists to reflect personnel changes to avoid similar issues in the future.

@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "When filtering the weather dashboard on Ukraine using the 'latest' ECMWF data, the top right panel incorrectly displays the whole region and shows no data.",
+    "solution": "The ECMWF dataset publishes complete data only at 00Z and 12Z timestamps; data at 06Z and 18Z may have missing values. In the dashboard (Power BI), selecting the '00' timestamp instead of 'latest' ECMWF data resolves the display issue by showing complete data. The system automatically detects and displays the latest available data timestamp, which may be 06Z or 18Z with incomplete data. To avoid missing data display, users should select the 00Z or 12Z timestamps explicitly. Removing 06Z and 18Z data from the dataset is possible but requires team agreement.",
+    "keywords": [
+      "ECMWF",
+      "weather dashboard",
+      "data timestamps",
+      "00Z",
+      "06Z",
+      "12Z",
+      "18Z",
+      "missing data",
+      "Power BI",
+      "data filtering",
+      "latest data",
+      "display issue",
+      "region filter",
+      "zoom"
+    ],
+    "category": "Configuration"
+  }
+}

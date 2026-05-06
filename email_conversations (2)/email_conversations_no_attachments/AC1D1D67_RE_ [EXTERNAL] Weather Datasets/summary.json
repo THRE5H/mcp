@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to download and access various large weather datasets via API but encounter issues such as no data display or download failures due to dataset size.",
+    "solution": "Use the provided Python script to authenticate and download weather datasets from the API. The script includes: 1) a 'connect' function to obtain an authentication token using email, password, and environment name; 2) a '_get_task_status' function that polls the task status endpoint until the download task succeeds or times out (with wait times increasing up to 30 seconds); 3) a 'download_dataset' function that initiates the dataset download request, waits for task completion, retrieves the download URL, fetches the CSV data, and loads it into a pandas DataFrame. Replace placeholder credentials and dataset codes as needed. Note that large datasets (e.g., Brazil weather) may take longer to download depending on internet speed. Additionally, region mapping datasets are available to interpret the 'nuts' region codes in weather datasets, with a provided list of dataset codes and their corresponding regions for reference.",
+    "keywords": [
+      "weather datasets",
+      "API download",
+      "Python script",
+      "authentication token",
+      "task status polling",
+      "pandas DataFrame",
+      "large dataset download",
+      "region mapping",
+      "nuts codes",
+      "dataset codes",
+      "download failure",
+      "data access",
+      "csv download",
+      "dnext API"
+    ],
+    "category": "How-to Guide"
+  }
+}

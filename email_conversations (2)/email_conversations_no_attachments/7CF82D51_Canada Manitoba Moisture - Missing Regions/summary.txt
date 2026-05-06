@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about the absence of regions 10 and 11 for Manitoba in the weather dashboard and is requesting their addition.
+
+**Context**: The user is an external user from a Customer Organization utilizing a weather dashboard service provided by a Service Provider. The inquiry pertains to specific geographic data that is currently missing from the platform.
+
+**Solution**: The Support Agent acknowledged the request and escalated it to the development team for review. The customer was informed that the addition of the missing regions would be considered in future updates. It is recommended that the user regularly check the dashboard for updates on new regions.

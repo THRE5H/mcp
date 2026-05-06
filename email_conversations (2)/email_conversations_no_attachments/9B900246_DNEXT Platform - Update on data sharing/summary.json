@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to update their dataset and tradeflow UIDs due to platform changes affecting API access and resource identification.",
+    "solution": "Starting from 5 May 2025, users must replace old resource codes (UIDs) with new ones to maintain access to datasets, tradeflows, and dashboards. The platform automates access and dynamically updates resources based on subscriptions. For example, dataset codes like 'dnexr-structured-dnexr-oilseeds-world-snd_item-weekly' are replaced by 'etg-4c8d416c-7f52-4f39-8643-a386e4c3a443'. Users should update their API calls and integrations to use the new 'etg-' prefixed UIDs to ensure continued access and dynamic updates.",
+    "keywords": [
+      "DNEXT",
+      "dataset UID update",
+      "tradeflow UID change",
+      "API resource codes",
+      "dynamic updates",
+      "subscription access",
+      "resource automation",
+      "data platform"
+    ],
+    "category": "Configuration"
+  }
+}

@@ -1,0 +1,47 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Support Dnext
+Date: 2025-06-02 15:06:36.927000+00:00
+Subject: wheat data via api
+Message-ID: SA1PR11MB8543DC0EDA985C84EFC34CC29662A@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hi, 
+
+ 
+
+Does this contain the latest wheat numbers?
+
+ 
+
+zimb-bb4b2d14-2b3c-11f0-acd2-02abcd39fb87
+
+ 
+
+The most recent publication date says 1st of May, but Pablo sent out updated balance sheet ppt on the 30th of May. Could that data be pushed to the API please?
+
+ 
+
+Thanks, 
+
+Rafael
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

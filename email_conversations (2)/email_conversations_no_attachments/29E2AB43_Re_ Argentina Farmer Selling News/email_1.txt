@@ -1,0 +1,114 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Sami Jaballah; Support Dnext
+Date: 2025-07-15 09:18:25.061000+00:00
+Subject: Re: Argentina Farmer Selling News
+Message-ID: ZR3P278MB1226C2F6CA843699FD1E6427F557A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB067722CA1B1AF74C291C6BF38857A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sami,
+
+The client is asking about the screenshots and the content of the Email, it's an issue with the new Outlook version.
+I'm adding the support @Support Dnext <mailto:support@dnext.io> , we will contact the client to help resolve the issue.
+
+They already have the dashboard on their platform
+
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 15 July 2025 08:10
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Cc: Benoit Baliguet <benoit.baliguet@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: FW: Argentina Farmer Selling News 
+ 
+
+Hello Jebrane, 
+
+ 
+
+Our client Polarstar is not able to see the dashboards sent this morning.
+
+If you can have a look.
+
+ 
+
+Many thanks
+
+Sami
+
+ 
+
+ 
+
+From: Anton Wienand <anton@polarstarfunds.com> 
+Sent: mardi, 15 juillet 2025 08:57
+To: Sami Jaballah <sami.jaballah@dnext.io>
+Subject: FW: Argentina Farmer Selling News
+
+ 
+
+Hi Sami
+
+ 
+
+For some reason I’m unable to see the content of this email, is there something I need to change in my settings? It used to be fine, but it changed in the last week or so.
+
+ 
+
+Rgds
+
+Anton
+
+ 
+
+	
+anton wienand
+
+
+
+First Floor | 185 Bree Street | Cape Town CBD | Cape Town | 8001
+
++27 21 110 5529 (direct) | +27 82 329 5719 (mobile)
+
+anton@polarstarfunds.com <mailto:anton@polarstarfunds.com>  | connect on LinkedIn <https://www.linkedin.com/in/anton-wienand-47282444/>  | polarstarfunds.com <https://www.polarstarfunds.com/> 
+
+ 
+
+ 
+
+From: News Dnext <news@dnext.io <mailto:news@dnext.io> > 
+Sent: Tuesday, 15 July 2025 08:01
+To: Nour Meddeb <nour.meddeb@dnext.io <mailto:nour.meddeb@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Argentina Farmer Selling News
+
+ 
+
+Executive Summary 
+
+Daily Argentina farmer selling in thousand tons: 
+
+
+Accumulated farmer selling (official source, lagged by 1 week): 
+
+2025 Crop Farmer Selling: 
+
+
+Details: 
+
+You can use the dashboard located in Dashboards -> Supply and Demand -> Argentina -> Farmer Selling where you can interact with the data.
+
+ 
+
+Best regards,
+
+DNEXT INTELLIGENCE
+
+ 
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more Click Here <http://www.mimecast.com/products/> .

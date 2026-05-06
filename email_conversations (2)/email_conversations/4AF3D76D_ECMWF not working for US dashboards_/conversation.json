@@ -1,0 +1,26 @@
+{
+  "emails": [
+    {
+      "subject": "ECMWF not working for US dashboards?",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext; Martin Keller; Jebrane Ben Salem",
+      "cc": "",
+      "received_time": "2025-03-07 20:40:42.480000+00:00",
+      "sent_time": "2025-03-07 20:40:34+00:00",
+      "body_text": " \r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<span style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\"><img size=\"140434\" contenttype=\"image/png\" style=\"max-width: 646px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:d43f1041-f1ea-44a8-b362-f68e5043d151\"></span>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "4AF3D76D6CB59F4BBD9AAA360430F6D1",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900028144B8D40000",
+      "size": 353210,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB07171975A51965FE33567BBBEBD52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "ECMWF not working for US dashboards?"
+}

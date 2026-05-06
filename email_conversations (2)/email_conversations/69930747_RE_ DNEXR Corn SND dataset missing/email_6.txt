@@ -1,0 +1,86 @@
+From: Nic Mitoulis <nic@polarstarfunds.com>
+To: Saber Khalfallah; Guillaume Goudy
+Date: 2025-07-08 07:59:01.075000+00:00
+Subject: RE: DNEXR Corn SND dataset missing
+Message-ID: PAVPR02MB9820174B8FD9C1B4A3623423CF4EA@PAVPR02MB9820.eurprd02.prod.outlook.com
+In-Reply-To: GV0P278MB1320F8CED8BC99E0A929F74EF84FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks Saber
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, 07 July 2025 18:15
+To: Nic Mitoulis <nic@polarstarfunds.com>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: DNEXR Corn SND dataset missing
+
+ 
+
+Hello Nic,
+
+ 
+
+We are glad to inform you that the issue has been resolved and you should be able find the DNEXR Corn SND dataset on the platform now with the same code as before.
+
+ 
+
+
+
+ 
+
+We apologize for any inconvenience this may have caused and we thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Nic Mitoulis <nic@polarstarfunds.com <mailto:nic@polarstarfunds.com> > 
+Sent: Monday, July 7, 2025 7:38
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: DNEXR Corn SND dataset missing
+
+ 
+
+Hi Guillaume and Saber
+
+ 
+
+It seems the DNEXR Corn SND dataset is no longer available on the platform or through the API (the code was “polarstar-c4ffcc58-c9b0-4935-a0c8-b93f28d7d674”). The SND datasets for other commodities are still available though. Could you please assist, thanks.
+
+ 
+
+Regards
+
+Nic
+
+ 
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more Click Here <http://www.mimecast.com/products/> .

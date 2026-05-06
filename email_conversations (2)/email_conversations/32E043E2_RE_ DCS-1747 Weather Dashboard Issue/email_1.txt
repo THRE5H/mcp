@@ -1,0 +1,101 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Martin Keller; Support Dnext
+Date: 2025-09-26 11:19:52.207000+00:00
+Subject: RE: DCS-1747 Weather Dashboard Issue
+Message-ID: GV0P278MB13204859ED6754FD871F9D74F81EA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB11766080E23138882E3DC65B8B1EA@GV0P278MB1176.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Martin 
+Thank you for your response.
+
+ 
+
+I re checked and it looks good now. 
+
+not sure exactly what happened before.
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Martin Keller <martin.keller@dnext.io> 
+Sent: Friday, September 26, 2025 10:18
+To: Support Dnext <support@dnext.io>
+Subject: Re: DCS-1747 Weather Dashboard Issue
+
+ 
+
+Hi Saber,
+
+ 
+
+I checked the data pipelines and associated database tables this morning, I can see data for the missing time ranges in the plot you shared being available. Can you double-check the tables on your end and let me know exactly which table the data comes from?
+
+ 
+
+Best,
+
+ 
+
+Martin
+
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> >
+Sent: 26 September 2025 09:51
+To: Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >
+Subject: DCS-1747 Weather Dashboard Issue 
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Martin,
+
+I hope this email finds you well.
+
+Any updates on this please.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/36023/attachment/25166> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1747?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjgxOWIwMWY1ZTYwZmRlOGQ5YzdlZjkyYzE1ZmY1NmJmMTY5YmEwNzM3MGJhMWRlNWEzYWY4OTg5ZmIwNDk1MGMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMTMiLCJpc3N1ZSI6IkRDUy0xNzQ3In0sImV4cCI6MTc2MTI5NTg3MywiaWF0IjoxNzU4ODc2NjczfQ.MXyxWWD1whiU3PyMuuTiNWruV1DSOFjNhvsZjmcX-Fc&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1747/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjY2ZmYyOGVkNTMxZDBlNWMwOTE5YTgzODRmMDc3NWVlZDg4YWUwMDZhZTRhNmNjNzA5NzBlMDc2NTlhYzRlZmIiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOmM5YTQ3N2Q2LTViN2QtNGIyNi1hMTRkLWNhZTdiMTM0ZmFlMiIsImlzc3VlIjoiRENTLTE3NDcifSwiZXhwIjoxNzYxMjk1ODczLCJpYXQiOjE3NTg4NzY2NzN9.SiSLYQuiO2U8ksTGzmM-Sd0yBHF5lLYbEcvhPbMKb-Q> 
+
+This is shared with Louis Olive, Mohamed Jebrane Ben Salem, and Martin Keller.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on September 26, 2025 10:51:13 AM CEST 
+
+ <http://usw2-track.atlassian.com/CI0/010101998538293a-866e98b8-1b9e-4149-9ed9-6767cbaf8a29-000000/mVpmMwgmhK4QO4luX4aqznuBK1hw_UHgXtsTi8Ddvp8=424> 

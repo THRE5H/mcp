@@ -1,0 +1,43 @@
+From: Cornette Etienne <e.cornette@saftco.ch>
+To: Saber Khalfallah
+Date: 2025-03-18 17:46:10.432000+00:00
+Subject: RE: Pb pour se connecter API R 
+Message-ID: 28f6da73d9234702b54cbf8e0b45df70@saftco.ch
+In-Reply-To: 53157be3add84c86a6165af174de68f7@saftco.ch
+
+================================================================================
+
+Désolé, j’ai oublié de cc le support. 
+
+ 
+
+
+
+ 
+
+From: Cornette Etienne 
+Sent: Tuesday, March 18, 2025 4:30 PM
+To: 'Saber Khalfallah' <saber.khalfallah@dnext.io>
+Subject: Pb pour se connecter API R 
+
+ 
+
+Bonjour Saber,
+
+ 
+
+J’espere que vous allez bien. J’ai re des soucis pour me connecter a API via R. Seriez vous disponible prochainement afin de voir le soucis ? 
+
+ 
+
+Cordialement,
+
+ 
+
+Etienne 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.

@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to create a custom dataset triggered by receiving data files sent via email to a specific bot email address in the CFG environment.",
+    "solution": "To create a workflow that automatically triggers dataset creation from files sent by email, send the data files to the designated bot email address (e.g., bot+cfg@data.dnext.io). The system will then process the incoming emails, extract the data, and create the custom dataset in the CFG environment. The workflow is set up to listen to this email address and trigger dataset creation upon receiving files. Users can access the created dataset via a provided URL in the CFG environment.",
+    "keywords": [
+      "workflow",
+      "email trigger",
+      "custom dataset",
+      "CFG environment",
+      "bot email",
+      "data ingestion",
+      "automated dataset creation",
+      "email scraping"
+    ],
+    "category": "How-to Guide"
+  }
+}

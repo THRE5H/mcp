@@ -1,0 +1,20 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Crop_Tunisia
+Date: 2026-01-09 15:07:41.375000+00:00
+Subject: Re: Dataset failing: AMS grains bids
+Message-ID: ZR3P278MB1226481F3AC8503DC67082B3F582A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07173A08F4FDFCF61509DB19EB82A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Crop_Tunisia <mailto:Crop_TN@dnext.io>  
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 09 January 2026 14:25
+To: Support Dnext <support@dnext.io>
+Subject: Dataset failing: AMS grains bids 
+ 
+dnexr-structured-ams-grains-bids-daily
+
+data missing since september it seems.

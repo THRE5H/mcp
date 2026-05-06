@@ -1,0 +1,5 @@
+**Problem**: The customer reported an error in the WASDE database, specifically that the USA cotton values for recent years showed no exports and inflated production values, along with missing data for planted and harvested estimates.
+
+**Context**: The user is an external user from a Customer Organization contacting Customer Support at a Service Provider. The issue involves discrepancies in the WASDE database, which is critical for accurate agricultural data reporting.
+
+**Solution**: The Support Agent investigated and identified the root cause of the discrepancies in the WASDE database. The issue has been resolved, and the values for USA cotton exports, production, and estimates for planted and harvested data are now correctly displayed. The Support Agent recommended the customer reach out if any further issues arise.

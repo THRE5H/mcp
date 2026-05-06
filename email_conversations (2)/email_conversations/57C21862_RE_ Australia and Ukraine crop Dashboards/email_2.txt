@@ -1,0 +1,30 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-02-06 14:50:48.171000+00:00
+Subject: Re: Australia and Ukraine crop Dashboards
+Message-ID: GV0P278MB03214C839986E487D8166C559DF62@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717CC2E5EC41C1A8DCC0099EBF72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hello Pablo,
+The source for Ukraine hasn’t published updates since December. 
+For rapeseed, the dashboard uses the planting year as the crop year for planting and the harvesting year as the crop year for harvesting, so the crop year needs shifting in planting. Also, regarding the data checking, I’ll start working on a new script and re-scrape the latest available data for comparison 
+
+
+Best,
+Iheb
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, February 5, 2025 6:03 PM
+To: Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Australia and Ukraine crop Dashboards 
+ 
+Guys can we check the following dashboards which are not updated?
+
+ABARES Estimates (Stage)
+
+Ukraine planting (for rapeseed and other products we dont have values for 2025 and need to check if the 2024 values are correct)

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of multiple datasets from the system.
+
+**Context**: The user is an external user from the Customer Organization, submitting a list of dataset codes for deletion. The request was made to the Customer Support team of the Service Provider.
+
+**Solution**: The Support Agent confirmed that the deletion of the specified datasets was successfully completed. It is recommended to maintain a clear record of dataset requests for future reference and to ensure timely processing of similar requests.

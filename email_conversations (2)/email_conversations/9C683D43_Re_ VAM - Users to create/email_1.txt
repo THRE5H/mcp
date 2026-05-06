@@ -1,0 +1,85 @@
+From: Rifaeddine Hammemi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=380F58A33E7B45658C7AAF6B50898F4F-1919961A-A7>
+To: Sami Jaballah; Support Dnext
+Date: 2025-05-22 14:28:25.977000+00:00
+Subject: Re: VAM - Users to create
+Message-ID: GV0P278MB071860FD96D447AEE2650EF3EB99A@GV0P278MB0718.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB067732BF6A791AED550CEB168899A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+The user accounts have been created, and the credentials have been sent to the clients.
+Best regards,
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 22 May 2025 08:38
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: VAM - Users to create 
+ 
+
+Hello,
+
+ 
+
+Please create the following users in vam.dnext.io environment:
+
+ 
+
+Neil
+
+Smaldon
+
+nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com>  
+
+Oscar
+
+Shi
+
+oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com>  
+
+Lisa
+
+Leon
+
+lleon@valentassetmgmt.com <mailto:lleon@valentassetmgmt.com> 
+
+Terence
+
+Kooyker
+
+tkooyker@valentassetmgmt.com <mailto:tkooyker@valentassetmgmt.com> 
+
+ 
+
+PS: please check the access to only Wheat + Corn before sending the profiles to the users!
+
+ 
+
+Thanks
+
+Sami
+
+ 
+
+ 
+
+ 

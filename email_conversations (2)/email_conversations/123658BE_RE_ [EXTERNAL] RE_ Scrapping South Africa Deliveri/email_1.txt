@@ -1,0 +1,230 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robero Ruiz; Lucas Rosa; Rifaeddine Hammemi
+Date: 2025-07-17 12:45:05.349000+00:00
+Subject: RE: [EXTERNAL] RE: Scrapping South Africa Deliveries
+Message-ID: GV0P278MB132006010C98192D3A498F7FF851A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV2P191MB23813D6E0BAC9A2930D1FF1D8D4EA@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+We have created and added the dashboard for South Africa Producer Deliveries 
+
+You can find it by going to the Dashboard Module >  Supply and Demand > South Africa > Producer Deliveries.
+
+or by following the link below : 
+
+
+https://thul.dnext.io/dashboard/*/Supply%20and%20Demand/South%20Africa/5d90a9e6-e26e-4f21-89c8-01499814bc15
+
+Please let us know if you want to make any adjustments on it your feedback is appreciated.
+
+ 
+
+Looking forward to hearing back from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com> 
+Sent: Tuesday, July 8, 2025 9:40
+To: Lucas Rosa <lucas.rosa@dnext.io>; Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: RE: [EXTERNAL] RE: Scrapping South Africa Deliveries
+
+ 
+
+Hi Lucas,
+
+ 
+
+Yes, it would be great to have the weekly delivery data in the dash. I would suggest 2 seasonal charts, one showing the weekly deliveries and the second chart showing it cumulative. Similar to the farmer selling charts I guess, as the important point to monitor is both weekly arrivals but also season-to-date.
+
+ 
+
+Thanks and regards
+
+ 
+
+R
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> > 
+Sent: Wednesday, July 2, 2025 8:18 PM
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: [EXTERNAL] RE: Scrapping South Africa Deliveries
+
+ 
+
+Great Rifaeddine.
+
+@Robero Ruiz <mailto:Roberto.Ruiz@mlp.com>  we can start the dashboard visualization in max 2 weeks, do you have any ideas how want to see those data?
+
+ 
+
+Thanks
+
+ 
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> > 
+Sent: quarta-feira, 2 de julho de 2025 13:03
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Re: Scrapping South Africa Deliveries
+
+ 
+
+Hello Lucas,
+
+The scraping of South Africa deliveries has been completed successfully. We are currently in the process of cleaning and verifying the data.
+
+The cleaned data should be available on the platform by the end of this week.
+
+Best regards
+
+ 
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: 02 July 2025 11:14
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Scrapping South Africa Deliveries 
+
+ 
+
+Hello all, 
+
+ 
+
+Any updates on that? Has been almost a month.
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: segunda-feira, 9 de junho de 2025 11:58
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Rifaeddine Hammemi <rifa.hammemi@dnext.io <mailto:rifa.hammemi@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: RE: Scrapping South Africa Deliveries
+
+ 
+
+Hello ,
+
+ 
+
+Hope all is well .
+
+ 
+
+@Rifaeddine Hammemi <mailto:rifa.hammemi@dnext.io>  is on the task .
+
+ 
+
+we will you know once it’s done 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> > 
+Sent: Thursday, June 5, 2025 13:49
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Robero Ruiz <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Subject: Scrapping South Africa Deliveries
+
+ 
+
+Hello Support, 
+
+ 
+
+Could you please scrap South Africa Weekly Deliveries from the link below?
+
+ 
+
+Weekly Prod Deliveries <https://www.sagis.org.za/weekly_prod_deliveries.html> 
+
+ 
+
+Thanks
+
+Lucas
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

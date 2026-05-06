@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The drop-down list for selecting years in a dashboard does not include the year 2026, showing data only up to December 2025.",
+    "solution": "The year selection is based on the 'delivery_period_start' field. Although the source data provides information beyond December 2025, the data extraction script was statically configured to a fixed period ending in 2025. To resolve this, adjust the script to dynamically include the latest available data periods and refresh the dashboard. This will update the drop-down list to include 2026 and future years as data becomes available.",
+    "keywords": [
+      "drop-down list",
+      "year selection",
+      "delivery_period_start",
+      "data extraction script",
+      "static period",
+      "dashboard refresh",
+      "data update",
+      "dynamic data range"
+    ],
+    "category": "Configuration"
+  }
+}

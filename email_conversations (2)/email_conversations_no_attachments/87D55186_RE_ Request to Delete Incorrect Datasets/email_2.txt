@@ -1,0 +1,36 @@
+From: Amna Khemiri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=B5D810A87F5643FAB9C232C794D7B567-31F265D5-32>
+To: Support Dnext
+Date: 2025-10-31 15:44:15.549000+00:00
+Subject: Request to Delete Incorrect Datasets
+Message-ID: ZRAP278MB0351DBA65D882603AD06559EE5F8A@ZRAP278MB0351.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Team,
+Could you please delete the following datasets? They were created with an incorrect structure:
+
+*	
+	dnexr-biof-idn-uns-yearly
+*	
+	dnexr-dnexr-biofu-idn-snd-item-monthly
+
+Thank you for your help!
+Best regards,
+Amna Khemiri
+
+Data Analyst
+
+                                                                                                   amna.khemiri@dnext.io
+
++21696583738 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/> 
+

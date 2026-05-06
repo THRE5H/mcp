@@ -1,0 +1,25 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-07-07 14:13:40.981000+00:00
+Subject: Re: cant access workflow metadata
+Message-ID: GV0P278MB13202DA3EED13A027CA467D6F84FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB01484062BDA0B1F6EB2A55BB984FA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+
+
+Workflows are down since 10 mn will let you know once it's back
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: Monday, July 7, 2025 2:12:05 PM
+To: Support Dnext <support@dnext.io>
+Subject: cant access workflow metadata 
+ 
+
+https://dnexr.dnext.io/workflows/a9d4c605-6875-4387-8612-801a2ac1e299
+
+ 
+
+

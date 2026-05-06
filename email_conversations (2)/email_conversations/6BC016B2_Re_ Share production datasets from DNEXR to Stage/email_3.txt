@@ -1,0 +1,16 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-11-03 12:29:43.630000+00:00
+Subject: Share production datasets from DNEXR to Stage
+Message-ID: GV0P278MB0321096703F60AC7AF1327F99DC7A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+Could you please share these dataset to stage:
+dnexr-crn-bra-snd-item-weekly 
+dnexr-gno-bra-snd-item-production-module 
+
+
+Thanks, 
+Iheb

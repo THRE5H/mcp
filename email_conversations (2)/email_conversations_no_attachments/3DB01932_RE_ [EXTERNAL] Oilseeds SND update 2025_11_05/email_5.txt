@@ -1,0 +1,226 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Robero Ruiz; Bastien Lambert; Guillaume Goudy
+Date: 2025-11-06 10:46:38.331000+00:00
+Subject: RE: [EXTERNAL] Oilseeds SND update 2025_11_05
+Message-ID: GV0P278MB13207C4B798D8F054F1FFDC2F8C2A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320BFF4B63FEBD9D8CBAE64F8C2A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Roberto , 
+
+ 
+
+I’m following up on the discrepancy you reported.
+
+ 
+
+I have checked the trade matrix & the dashboard, and they match in the numbers.
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Could you kindly provide more details so we can pinpoint the issue exactly and fix it.
+
+ 
+
+ 
+
+Thank you for your patience and understanding
+
+
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Thursday, November 6, 2025 10:12
+To: 'Ruiz, Roberto' <Roberto.Ruiz@mlp.com>; Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] Oilseeds SND update 2025_11_05
+
+ 
+
+Hello Roberto,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+We are checking this right now . and we will let you know once it’s done.
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Thursday, November 6, 2025 10:05
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: [EXTERNAL] Oilseeds SND update 2025_11_05
+
+ 
+
+Hello – the latest SBS trade flows aren’t reflected in the dash.
+
+ 
+
+Let us know pls once this is visible. Merci
+
+ 
+
+
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Wednesday, November 5, 2025 8:17 PM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: [EXTERNAL] Oilseeds SND update 2025_11_05
+
+ 
+
+Soybean trade matrix : push
+
+Soybean SNDs : pushing but the system need to sync them – Im launching the refresh now
+
+Corn SNDs : pushing the system manually now as well
+
+ 
+
+All should be done within the next 5 minutes
+
+ 
+
+Sorry for the delay
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Wednesday, November 5, 2025 6:36 PM
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Subject: RE: [EXTERNAL] Oilseeds SND update 2025_11_05
+
+ 
+
+Thanks for the updates,
+
+ 
+
+We’re unable to see the SBS trade flows (SnD works) and the corn SnD via the API.
+
+Can you pls let us know pls once these updates are pushed?
+
+ 
+
+Merci
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Wednesday, November 5, 2025 3:58 PM
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >
+Subject: [EXTERNAL] Oilseeds SND update 2025_11_05
+
+ 
+
+Hi,
+
+ 
+
+Please find enclosed the Oilseeds SNDs update this week.
+
+Any question or comment, please let us know.
+
+ 
+
+Regards,
+
+ 
+
+DNEXT Research
+
+ 
+
+
+
+ 
+
+ 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

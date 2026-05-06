@@ -1,0 +1,49 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Sami Jaballah; Support Dnext; Rifaeddine Hammemi
+Date: 2025-06-03 13:27:27.630000+00:00
+Subject: Re: New client -HEDONIZM
+Message-ID: ZR3P278MB122605CDE328B6D4345DE3B4F56DA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB067720F9474112C720E115A0886DA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sami, 
+
+The contract has been created, and all the resources have been added:(just we need to refresh all the shared dashboards)
+In the meantime, could you please provide us the list of users!
+@Rifaeddine Hammemi <mailto:rifa.hammemi@dnext.io>  once you receive the user details, please proceed with creating the accounts, but do not send the credentials until we’ve completed all validations.
+
+Thanks, 
+Jebrane
+________________________________
+
+From: Sami Jaballah <sami.jaballah@dnext.io>
+Sent: 03 June 2025 09:29
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: New client -HEDONIZM 
+ 
+
+Hello,
+
+ 
+
+Please configure the new environment for the client:  HEDONIZM
+
+hedonizm.dnext.io
+
+Start date: 15.06.2025
+
+End Date: 31.05.2026
+
+ 
+
+Products: Soybean, Soybean meal, Vegoils (like Quadra)
+
+ 
+
+Many thanks
+
+Sami
+
+ 

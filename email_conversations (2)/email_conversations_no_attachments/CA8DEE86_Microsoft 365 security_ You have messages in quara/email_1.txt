@@ -1,0 +1,24 @@
+From: quarantine@messaging.microsoft.com <quarantine@messaging.microsoft.com>
+To: Support Dnext
+Date: 2025-10-06 14:11:25.686000+00:00
+Subject: Microsoft 365 security: You have messages in quarantine
+Message-ID: 9eb48c34-1058-4a26-9e73-17d8ab8d27d9@GV0CHE01BG101.eop-che01.prod.protection.outlook.com
+
+================================================================================
+
+		
+	 <https://products.office.com> 
+Review These Messages	 
+1 messages are being held for you to review as of 10/6/2025 1:11:17 PM (UTC). 	
+Review them within 30 days of the received date by going to the Quarantine page <https://security.microsoft.com/quarantine>  in the Security Center. 	
+Prevented spam messages 	
+Sender: 	info@blairchiropracticcentre.com 	 	  	 
+Subject: 	RE: Outstanding INV 136-576 	 	  	 
+Date: 	10/6/2025 1:08:38 PM 	 	  	 
+Review Message <https://security.microsoft.com/quarantine?id=9db4f28b-6df1-43f2-c93f-08de04d97750\21341a22-f567-0d1f-141f-f6c6ae7a2454&recipientAddress=%40ENC%40lIhbHQoNCCVP7ebAw88EAKFVGQ83mRt9lGDxqabsESvQRy6KVoq6Qw%2Fzti%2BRU8QirpbnRJzU7kRJ5J%2F%2B07Pd%2Fw%3D%3D> 		Release <https://che01-quarantine.dataservice.protection.outlook.com/spamdigestesn/spamdigest.svc/releasespam/orgs/6d921f92-f4ce-4ce0-acfa-926878510780/users/support@dnext.io/mail/9db4f28b-6df1-43f2-c93f-08de04d97750?token=DjyspWBm19AobEipbWxiZLAK4DvlR5UUKgESe3znpk4%3d> 		
+ 	  	  	  	 
+© 2025 Microsoft Corporation. All rights reserved. 	
+Privacy Statement <https://go.microsoft.com/fwlink/p/?LinkID=138500>  	
+Acceptable Use Policy <https://go.microsoft.com/fwlink/p/?LinkID=79398>  	
+	
+((SignedCardPayload))

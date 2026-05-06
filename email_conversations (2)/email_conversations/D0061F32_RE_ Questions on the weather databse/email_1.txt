@@ -1,0 +1,225 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Etienne Cornette
+Date: 2025-05-02 16:45:37.220000+00:00
+Subject: RE: Questions on the weather databse 
+Message-ID: GV0P278MB1320DA1029DD0C578E4AF3FEF88D2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132022B3C8BBA7E4F06B52FDF8822@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Etienne,
+
+ 
+
+I’m getting back to you regarding your question about the "run" and "date" columns in the weather dataset.
+
+ 
+
+The "run" refers to when the model (e.g., ECMWFENS, ECMWFOP, etc.) was run. As for the "date," it represents the forecasted date for the variable (such as temperature, precipitation, etc.).
+
+ 
+
+Let me know if you need further clarification!
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, May 1, 2025 15:32
+To: Etienne Cornette <e.cornette@saftco.ch>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Questions on the weather databse 
+
+ 
+
+Hello Etienne 
+
+ 
+
+Hope all is well .
+
+for the NUTS region part you can use these datasets each one have the NUTS Mapping Per Region 
+
+
+
+Dataset Code 
+
+Region Mapping
+
+saftco-0827e71a-ef61-4dde-8f6b-fe08600aaa2b
+
+Region Mapping for AUS Weather 
+
+saftco-1f3c3543-3078-4992-9f1f-e92c6a2d3060
+
+Region Mapping for Middle East Weather Dashboard
+
+saftco-5ef49b2d-b850-4ede-b790-8fd930fc7a0a
+
+Region Mapping for South America Weather Dashboard
+
+saftco-2babeea7-f275-4ad7-a63d-cab5c25ce5fc
+
+Region Mapping for USA Weather Dashboard
+
+saftco-bd1f898b-9ea0-4cb3-aa75-1998d95069b4
+
+Region Mapping for EUR Weather Dashboard
+
+saftco-a8206673-bb8b-4c3d-b51f-186a0cf627ec
+
+Region Mapping for THA Weather Dashboard
+
+saftco-dcb48789-e095-4ee6-8cbf-795f645e07eb
+
+Region Mapping for India Weather Dashboard
+
+saftco-0f40ab13-922e-4453-966e-59dbdeeb1b5d
+
+Region Mapping for CAN Weather Dashboard
+
+saftco-2c46234e-9142-4f39-9bc9-72b2a5e595e7
+
+Region Mapping for BSEA Weather Dashboard
+
+saftco-2212b556-f9d0-4451-907c-1c7fccecdd24
+
+Region Mapping for North Africa Weather Dashboard
+
+saftco-59adae18-2b02-47d6-948a-116dab98684e
+
+Region Mapping for Mexico Weather Dashboard
+
+saftco-ab409f45-4849-400c-b755-c677ece40b0c                    
+
+Region Mapping for Malindo Weather Dashboard
+
+saftco-4f0f5fb6-97d3-4184-8b19-c21a2a0c3498
+
+Region Mapping for South Africa Weather Dashboard
+
+ 
+
+As for your second question I’m going to check with the team internally and get back to you with a clear answer.
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> > 
+Sent: Thursday, May 1, 2025 13:34
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: Questions on the weather databse 
+
+ 
+
+ 
+
+Hello Saber,
+
+ 
+
+How are you ? 
+
+ 
+
+I have a question regarding database on weather. Where can I see to which NUTS each region is attached for ?
+
+ 
+
+I.e. below, the RUS33 nuts correspond to which region ? Volga, South, North Caucasus ? 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Moreover ,  the column RUN is equal to the date the RUN was initiated and DATE is the corresponding date of the run ?
+
+ 
+
+Aka for below, the run of the 7th March 2025 can predict the date of the 6th March 2025 ?
+
+ 
+
+
+
+ 
+
+Thanks for your help,
+
+ 
+
+ 
+
+Best regards,
+
+ 
+
+Etienne Cornette
+
+Grains Trader
+
+============== SAFTCO SA 
+
+Rue du Mont-Blanc 3,
+
+1201 GENEVA – CH
+
+
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 

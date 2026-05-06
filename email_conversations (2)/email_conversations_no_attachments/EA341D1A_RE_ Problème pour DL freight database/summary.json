@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unable to download a large freight dataset from the API using R; the script runs indefinitely without returning the dataframe.",
+    "solution": "Use the provided R script that authenticates via API to obtain a token, requests the dataset download task, polls the task status with exponential backoff until completion, and then downloads and reads the CSV dataset. Note that large datasets (e.g., around 5GB) may take significant time to process and download, so allow sufficient time for the script to complete. The script includes functions: 1) connect(email, pwd, env) to authenticate and get a token; 2) get_task_status(task_id, token) to poll task status with exponential backoff up to a max wait time; 3) download_dataset(code, token) to initiate download, wait for task completion, and retrieve the dataset as a dataframe. Ensure the dataset code is correctly specified. The script uses libraries httr, jsonlite, and readr.",
+    "keywords": [
+      "R",
+      "API",
+      "dataset download",
+      "freight dataset",
+      "large dataset",
+      "token authentication",
+      "exponential backoff",
+      "task polling",
+      "read_csv",
+      "httr",
+      "jsonlite",
+      "readr",
+      "download script",
+      "dataframe retrieval"
+    ],
+    "category": "How-to Guide"
+  }
+}

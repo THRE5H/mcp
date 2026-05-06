@@ -1,0 +1,5 @@
+**Problem**: The customer needed information on which commodities to include in the combined feed grain trade flow for China, specifically asking for confirmation on grain sorghum, oats, maize, rye, barley, and DDGs.
+
+**Context**: The customer is an external user from a Customer Organization, seeking assistance from a Customer Support Agent at a Service Provider regarding the DCS-894 combined feed grain trade flow feature. The inquiry was made in the context of a trade matrix for China.
+
+**Solution**: The support agent confirmed that the requested trade matrix for China feed grains is now available on the platform, providing a specific code and link for access. The agent encouraged the customer to reach out for further assistance if needed, ensuring the customer's request was addressed.

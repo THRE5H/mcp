@@ -1,0 +1,62 @@
+From: Martin Keller </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=81CCC0A2E09045398AD13BF2402E5480-1AFD8B08-9E>
+To: Saber Khalfallah; Aditya Jeripotula; Support Dnext; Jebrane Ben Salem
+Date: 2025-12-11 10:39:19.715000+00:00
+Subject: Re: Missing data - Weather dashboard
+Message-ID: ZR1P278MB117175E6DDF26B05DD3A14DE8BA1A@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132059440A5A30269B750D79F8A1A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+This data comes from ERA5; nothing that can be done for the moment other than wait for ECMWF to revise or update their estimates.
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: 11 December 2025 09:38
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: RE: Missing data - Weather dashboard 
+ 
+
+Adding @Jebrane Ben Salem <mailto:jebrane.bensalem@dnext.io> 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io> 
+Sent: Thursday, December 11, 2025 5:47
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Missing data - Weather dashboard
+
+ 
+
+Dear team
+
+ 
+
+Please look into 2 days missing data - 29th Nov and 5th Dec - Kindly update or revise:
+
+ 
+
+

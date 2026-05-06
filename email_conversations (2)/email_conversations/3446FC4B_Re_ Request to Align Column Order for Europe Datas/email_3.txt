@@ -1,0 +1,68 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Skander Ghamgui; Rifaeddine Hammemi; Support Dnext; TradeFlow
+Date: 2025-05-08 14:11:47.018000+00:00
+Subject: Re: Request to Align Column Order for Europe Datasets (Sugar & Dairy) – Data Prep Compatibility
+Message-ID: ZR3P278MB12262900CC98B06BD45F0EF3F58BA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB032405D8F616747A5367A51A838BA@GV0P278MB0324.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+@Rifaeddine Hammemi <mailto:rifa.hammemi@dnext.io>  please open a ticket to the dev team.
+________________________________
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io>
+Sent: 08 May 2025 14:00
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io>; Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; TradeFlow <tradeflow@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Request to Align Column Order for Europe Datasets (Sugar & Dairy) – Data Prep Compatibility 
+ 
+Dear Support Team,
+I hope you're doing well.
+I would like to request the creation of a ticket for the dev team to address an issue concerning the column order in the Europe Customs datasets, specifically the Sugar and Dairy datasets.
+As shown in the attached screenshots:
+
+
+*	
+	(Sugar dataset new column order : Extra Publication Date - > Intra Publication Date -> Value Unit Multiplier -> Currency -> Value)
+
+
+
+*	
+	(Grains and Oilseeds dataset new column order : Value -> Currency -> Value Unit Multiplier -> Intra Publication Date -> Extra Publication Date)
+
+
+
+*	
+	Current SQL-based data preparation)
+
+We recently added new columns across all Europe datasets. However, while the same new columns were included, they were not added in the same order across datasets. This creates a mismatch when running the data_prep and forces us to manually list each column instead of using SELECT * like we usually do! 
+Please update the column order in the following datasets so that they match the structure of the rest:
+
+*	
+	Sugar
+*	
+	Dairy
+
+Please let me know if you need any further information or clarification.
+Regards,
+Skander
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+

@@ -1,0 +1,5 @@
+**Problem**: The customer needed to provide a list of users for a demo account setup but required confirmation that the user accounts had been created successfully.
+
+**Context**: The customer is an external user from the Customer Organization requesting a demo account for the DCS-2075 product. The Support Agent from the Service Provider had previously set up the demo environment and was awaiting the user list.
+
+**Solution**: The Support Agent confirmed that the user accounts were created successfully and that the login credentials were sent to each user privately. It is recommended that the customer ensure all users check their email for the credentials to access the demo account.

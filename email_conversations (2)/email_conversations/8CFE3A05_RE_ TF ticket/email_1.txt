@@ -1,0 +1,72 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-07-01 13:48:49.775000+00:00
+Subject: RE: TF ticket
+Message-ID: GV0P278MB13201C03E75B7E26F56DA213F841A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02110CFD34CD4DD7A49115F09841A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Meriem is working on it
+
+ 
+
+I will keep you posted.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Tuesday, July 1, 2025 13:32
+To: Support Dnext <support@dnext.io>
+Subject: RE: TF ticket
+
+ 
+
+Also when you are in a specific tab and you change country...for example i look at country of origin Brazil and then switch to Arg...it put me back at the top of the destination country and  do not leave me where i was in the grid...this has changed as well...can u put it back
+
+Tks
+
+gg
+
+ 
+
+From: Guillaume Goudy 
+Sent: Tuesday, 1 July 2025 13:58
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: TF ticket
+
+ 
+
+ 
+
+In the TF, when you move between the tabs (split by destination and split by origin but surely same for the rest), you lose your selection when you switch around…it was not the case before. Can u put it back. 
+
+Tks
+
+gg
+
+ 
+
+

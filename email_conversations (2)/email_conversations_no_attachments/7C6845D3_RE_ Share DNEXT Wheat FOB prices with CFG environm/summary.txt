@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in accessing DNEXT Wheat FOB prices within the CFG environment, as they were unable to locate the necessary data.
+
+**Context**: The user is an external user from Customer Organization seeking information related to the DNEXT platform. The request involves accessing specific datasets and dashboards related to wheat prices in the CFG environment.
+
+**Solution**: The Support Agent provided links to both the dashboard and the dataset for wheat prices, guiding the user on how to navigate the platform. When the user reported issues accessing the data, further instructions were given to explore the "Data Exploration" tab and download the data. The situation remains open for additional support if needed.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the sharing of the RSM Tradeflow forecast with a partner, Sinofarm, but noted that the forecast on their environment lacked 2025 data compared to another system.
+
+**Context**: The user is an internal user from Customer Organization reaching out to the Customer Support Team of Service Provider regarding a forecast feature. The issue arose due to a discrepancy in data availability between two environments.
+
+**Solution**: The support team confirmed that the forecast was shared but acknowledged the data discrepancy. A ticket was created for the development team to investigate the issue, and it was noted that once the latest forecast is published, it will synchronize and display correctly in the partner's environment.

@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users receive duplicate FOB quotes for the same day, origin, and product combination from the API, causing confusion on how to interpret these values.",
+    "solution": "To interpret duplicate FOB quotes for the same day/origin/product, use the 'reference' column provided in the dataset. This column distinguishes between different Futures Contract References, such as 'H2025' for the March 2025 contract and 'K2025' for the May 2025 contract. This allows users to differentiate quotes that correspond to different futures contracts even if other attributes are identical. Additionally, the Soybean CNF, FOB, and Freight dataset is now available via the API using the code 'zimb-b327c07f-efd6-11ef-bba5-0a84c630a3f1'.",
+    "keywords": [
+      "FOB quotes",
+      "duplicate quotes",
+      "API data",
+      "reference column",
+      "Futures Contract Reference",
+      "H2025",
+      "K2025",
+      "Soybean CNF",
+      "Freight dataset",
+      "data interpretation"
+    ],
+    "category": "How-to Guide"
+  }
+}

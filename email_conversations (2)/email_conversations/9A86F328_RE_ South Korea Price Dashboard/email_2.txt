@@ -1,0 +1,11 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2026-01-12 09:02:36.282000+00:00
+Subject: South Korea Price Dashboard
+Message-ID: GV0P278MB0717529C0D73AC177AC086F8EB82A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+here we should be showing only one line. seems that the "Product 1" is the correct one. can u check what is the other calculation?
+

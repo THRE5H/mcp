@@ -1,0 +1,5 @@
+**Problem**: The customer was not receiving daily mailers from the service provider and requested to be added back to the mailing list.
+
+**Context**: The customer is an external user from Customer Organization. The issue involves the daily mailer service provided by Service Provider. The customer had previously been receiving these mailers but experienced a disruption, leading to a request for re-inclusion.
+
+**Solution**: The support team confirmed that the customer was successfully added back to the mailing list and should start receiving the reports. It is recommended that the customer checks their email settings to ensure they do not miss future communications.

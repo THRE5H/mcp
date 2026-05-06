@@ -1,0 +1,43 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Enea Albertoli; Support Dnext
+Date: 2026-01-19 11:18:41.764000+00:00
+Subject: Re: Invisible Dashboards
+Message-ID: ZR3P278MB1226D24F3FE2A4A5B0889272F588A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353AD7C8F01FC9BBA253A66F688A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Enea, 
+
+It's working for me.
+Can you try to refresh or close / reopen the page please.
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: 19 January 2026 10:37
+To: Support Dnext <support@dnext.io>
+Subject: Invisible Dashboards 
+ 
+
+Hello Support Team,
+
+ 
+
+I hope you are fine.
+
+ 
+
+I cannot see any dashboard: is this a temporary issue, do you know why?
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

@@ -1,0 +1,5 @@
+**Problem**: The customer is inquiring about a promotional offer for building an EVM chain for $599, which includes a free AI chatbot setup, and is seeking clarification on the details and validity of the offer.
+
+**Context**: The user is an external customer interested in blockchain development services offered by a Service Provider. The promotion is valid until March 31, 2025, and includes various services such as custom blockchain development and support for decentralized applications.
+
+**Solution**: The Support Agent confirmed the promotional offer details, including the services included and the validity period. It is recommended that the customer contact the Service Provider directly to discuss specific requirements and finalize the arrangement.

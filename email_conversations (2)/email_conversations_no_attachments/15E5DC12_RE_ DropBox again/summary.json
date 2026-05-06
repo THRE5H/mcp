@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Numbers in Excel spreadsheets appear with strikethrough formatting and do not update after refresh, causing confusion in data display.",
+    "solution": "This issue is caused by a recent Excel feature under the 'Formulas' tab in the 'Calculation' section called 'Calculation Options'. Within this, there is an option named 'Format stale values' which formats numbers that have not been recalculated with a strikethrough. To resolve the issue, go to the 'Formulas' tab, find the 'Calculation Options' section, and uncheck the 'Format stale values' option. This will remove the strikethrough formatting and ensure numbers display correctly. Additionally, ensure that calculation mode is set to 'Automatic' rather than 'Manual' to keep formulas updated.",
+    "keywords": [
+      "Excel",
+      "strikethrough",
+      "numbers",
+      "format stale values",
+      "calculation options",
+      "manual calculation",
+      "automatic calculation",
+      "formula update",
+      "Excel upgrade"
+    ],
+    "category": "Configuration"
+  }
+}

@@ -1,0 +1,47 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-04-10 09:12:50.207000+00:00
+Subject: RE: sinofam unable to access trade matrix 
+Message-ID: GV0P278MB1320E5213F38C3BC5D0A20E7F8B72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148627329D5FEAE35BD4DBA98B72@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+I have just checked from my end and everything seems to be working as intended in the tradematrix module , I did not get that error , I flagged this to the dev team and they are gonna investigate further
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Thursday, April 10, 2025 6:53
+To: Support Dnext <support@dnext.io>
+Subject: sinofam unable to access trade matrix 
+
+ 
+
+
+
+ 
+
+Envoyé à partir de Outlook pour iOS <https://aka.ms/o0ukef> 

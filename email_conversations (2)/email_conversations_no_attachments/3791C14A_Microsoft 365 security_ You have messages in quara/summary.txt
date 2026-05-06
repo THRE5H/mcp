@@ -1,0 +1,5 @@
+**Problem**: The customer received a notification that a message was held in quarantine, specifically a job application email from a sender. They need to review and potentially release this message.
+
+**Context**: The user is an external user of the Microsoft 365 service. The issue involves the quarantine feature of Microsoft 365 security, which is preventing a legitimate email from being accessed. The email was flagged as spam and requires action within 30 days.
+
+**Solution**: The customer can review the quarantined message by accessing the Quarantine page in the Security Center. To release the message, they should follow the provided link. It is recommended to regularly check the quarantine settings to ensure important emails are not mistakenly flagged as spam.

@@ -1,0 +1,57 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Jebrane Ben Salem; Guillaume Goudy; Support Dnext; Léonard Berney; Dnext Customs
+Date: 2026-01-15 10:36:56.321000+00:00
+Subject: Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all
+Message-ID: ZRAP278MB03170BB8E4CB8C23AC012473F58CA@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12266C3C0874973C52C69392F58FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+I have checked both customs and lineups data do not have those numbers. There is a SQL dataprep that is combining both customs and lineups to get the customs lineups adjusted data, and I have already shared the dataprep with @Léonard Berney <mailto:leonard.berney@dnext.io>  and have got no response from him.
+This is the dataprep link: https://dnexr.dnext.io/data-prep/dnexr-arg-crt-pre/edit/preparation
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, January 14, 2026 8:01:41 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Dnext Customs <Customs@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+@Léonard Berney <mailto:leonard.berney@dnext.io> , @Khalil Mekki <mailto:khalil.mekki@dnext.io>  and @Dnext Customs <mailto:Customs@dnext.io>  can u check this please ? 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 14 January 2026 00:45
+To: Support Dnext <support@dnext.io>
+Subject: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+
+
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

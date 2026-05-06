@@ -1,0 +1,187 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Bastien Lambert; Jebrane Ben Salem; Aditya Jeripotula; Support Dnext
+Date: 2025-10-07 12:52:59.359000+00:00
+Subject: Re: Indonesia Lineups Update
+Message-ID: ZR0P278MB0332543BCD4187DE856473EA83E0A@ZR0P278MB0332.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0332B91977DA72ED2E09D5F783E0A@ZR0P278MB0332.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello again,
+I found the problem
+So when they sent the latest email there was a line break in the subject like shown in the screenshot below : 
+
+After I copy paste the subject of the latest email it came with that line break.
+Also to make sure I tried searching with the subject contains "palm bulk export" only and removing the "lineups data" now it matches the email and find it : 
+
+
+So the dataset will be updated immediately and sorry for the delay there was no way to catch this!
+But 1 last question for Bastien should I keep the subject contains "palm bulk export" after the update or should I change it back to how it was "palm bulk export lineups data" ? 
+
+Kind regards,
+Skander
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io>
+Sent: Tuesday, October 7, 2025 12:37 PM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Pierre Goffinet <pierre.goffinet@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: Re: Indonesia Lineups Update 
+ 
+Hi bastien, 
+
+I did check and for the rules used inside the dataset the latest is 1-25 of september 
+
+
+
+I think there should be a bug in the platform not matching the email! 
+I will check further and keep you updated
+
+Thanks,
+Skander
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: Tuesday, October 7, 2025 12:26 PM
+To: Skander Ghamgui <skander.ghamgui@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Pierre Goffinet <pierre.goffinet@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: RE: Indonesia Lineups Update 
+ 
+
+Hi Skander, please review, because we got the full September update on the 2nd October.
+
+Thanks
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io> 
+Sent: Tuesday, October 7, 2025 12:05 PM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Aditya Jeripotula <aditya.jeripotula@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Indonesia Lineups Update
+
+ 
+
+Hello Aditya, 
+
+ 
+
+The data is up to date with a latest email we have!
+
+For your information the ships that are sailed are until the 25th of sep. 
+
+But if you change the vessel status filter to "Loading" you can see the loading vessels as shown in the screenshot below :
+
+
+
+ 
+
+Kind regards,
+
+Skander
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: Tuesday, October 7, 2025 10:07 AM
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Skander Ghamgui <skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Re: Indonesia Lineups Update 
+
+ 
+
+Adding @Skander Ghamgui <mailto:skander.ghamgui@dnext.io> 
+
+________________________________
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >
+Sent: 07 October 2025 09:33
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Indonesia Lineups Update 
+
+ 
+
+Hello team
+
+ 
+
+Below is snapshot of the Indonesia lineups for palm oil, it is last updated till Sep 25th. 
+
+ 
+
+Kindly look into the data and have this updated.
+
+ 
+
+
+
+ 
+
+Regards,
+
+Aditya Jeripotula

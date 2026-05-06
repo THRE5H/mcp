@@ -1,0 +1,24 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Email delivery failure with error code 550 5.1.10 indicating recipient address not found in Office 365 domain",
+    "solution": "To resolve the 550 5.1.10 RESOLVER.ADR.RecipientNotFound error in Office 365: 1) Verify the recipient email address is correctly spelled and exists. 2) Resend the message by opening the non-delivery report in Outlook or Outlook on the web, retyping the full recipient address manually without selecting autocomplete suggestions, then send again. 3) Contact the recipient to confirm the address and check if any mail forwarding rules are misconfigured. 4) Clear the autocomplete cache for recipients in Outlook or Outlook on the web as described in the Microsoft article for error 5.1.10. 5) If you are an administrator, ensure the recipient has a valid Office 365 license, the email address is properly synchronized in hybrid environments, and mail flow and MX records are correctly configured. Refer to the Microsoft support article https://go.microsoft.com/fwlink/?LinkId=532972 for detailed guidance.",
+    "keywords": [
+      "Office 365",
+      "email delivery failure",
+      "550 5.1.10",
+      "recipient not found",
+      "RESOLVER.ADR.RecipientNotFound",
+      "SMTP address lookup",
+      "non-delivery report",
+      "NDR",
+      "mail forwarding",
+      "autocomplete cache",
+      "mail flow configuration",
+      "MX records",
+      "license assignment",
+      "hybrid synchronization"
+    ],
+    "category": "Error Resolution"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "emails": [
+    {
+      "subject": "Re: Broken Customs Dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43",
+      "from_name": "Khalil Mekki",
+      "to": "Mohamed Elasfoury; Support Dnext",
+      "cc": "",
+      "received_time": "2025-04-14 09:26:56.224000+00:00",
+      "sent_time": "2025-04-14 09:26:49+00:00",
+      "body_text": "Hello,\r\nWe are aware of the issue; it will be resolved no later than today.\r\nThanks,\r\nKhalil\r\n________________________________\r\n\r\nFrom: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>\r\nSent: Friday, April 11, 2025 5:42 PM\r\nTo: Support Dnext <support@dnext.io>\r\nCc: Khalil Mekki <khalil.mekki@dnext.io>\r\nSubject: Broken Customs Dashboard \r\n \r\nSomething broke with the customs dashboards, the product grouping seems to have been removed for certain products:\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nHello,</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nWe are aware of the issue; it will be resolved no later than today.</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nThanks,</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nKhalil</div>\r\n<div id=\"appendonsend\"></div>\r\n<hr style=\"display:inline-block;width:98%\" tabindex=\"-1\">\r\n<div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" style=\"font-size:11pt\" color=\"#000000\"><b>From:</b> Mohamed Elasfoury &lt;mohamed.elasfoury@dnext.io&gt;<br>\r\n<b>Sent:</b> Friday, April 11, 2025 5:42 PM<br>\r\n<b>To:</b> Support Dnext &lt;support@dnext.io&gt;<br>\r\n<b>Cc:</b> Khalil Mekki &lt;khalil.mekki@dnext.io&gt;<br>\r\n<b>Subject:</b> Broken Customs Dashboard</font>\r\n<div>&nbsp;</div>\r\n</div>\r\n<style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style>\r\n<div dir=\"ltr\">\r\n<div class=\"x_elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:11pt; color:rgb(0,0,0)\">\r\nSomething broke with the customs dashboards, the product grouping seems to have been removed for certain products:<br>\r\n<img size=\"175414\" style=\"max-width:658px\" data-outlook-trace=\"F:2|T:2\" src=\"cid:1da6f1b1-b474-4d4e-be04-7096310e359e\"></div>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "D310721294445945B83795F9093CD326",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD49000299D8C6D40000",
+      "size": 433312,
+      "has_attachments": true,
+      "attachments": [
+        "image.png"
+      ],
+      "message_id": "GV0P278MB0306725F0A4D574AE65B9ADBF5B32@GV0P278MB0306.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": "ZR0P278MB0251CBCD4270F43327BAC3C794B62@ZR0P278MB0251.CHEP278.PROD.OUTLOOK.COM",
+      "references": "<ZR0P278MB0251CBCD4270F43327BAC3C794B62@ZR0P278MB0251.CHEP278.PROD.OUTLOOK.COM>"
+    },
+    {
+      "subject": "Broken Customs Dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA",
+      "from_name": "Mohamed Elasfoury",
+      "to": "Support Dnext",
+      "cc": "Khalil Mekki",
+      "received_time": "2025-04-11 17:43:05.087000+00:00",
+      "sent_time": "2025-04-11 17:42:59+00:00",
+      "body_text": "Something broke with the customs dashboards, the product grouping seems to have been removed for certain products:\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">\r\nSomething broke with the customs dashboards, the product grouping seems to have been removed for certain products:<br>\r\n<img size=\"175414\" contenttype=\"image/png\" style=\"max-width: 658px;\" data-outlook-trace=\"F:1|T:1\" src=\"cid:1da6f1b1-b474-4d4e-be04-7096310e359e\"></div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "D310721294445945B83795F9093CD326",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002985323A30000",
+      "size": 429933,
+      "has_attachments": true,
+      "attachments": [
+        "image_1.png"
+      ],
+      "message_id": "ZR0P278MB0251CBCD4270F43327BAC3C794B62@ZR0P278MB0251.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Re: Broken Customs Dashboard"
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer requested access for a new client, Jump Systems, to specific data resources for a test period. They needed clarification on the access limitations and the correct data sets available through the API.
+
+**Context**: The user is an internal user from the Customer Organization, coordinating access for a new client to the Datahub environment. The product involved includes Historical S&D Forecasts and Tradeflows, with access required via APIs for a specific user.
+
+**Solution**: The Support Team confirmed the resources to be shared and clarified that the client would access datasets behind the dashboards via the API. Access restrictions for other users were also discussed to ensure data security. The environment was adjusted accordingly, and the necessary validations were confirmed before proceeding.

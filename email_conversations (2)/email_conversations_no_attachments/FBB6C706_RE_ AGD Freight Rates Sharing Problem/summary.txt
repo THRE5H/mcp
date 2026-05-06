@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the freight rates visible to AGD are outdated, showing rates from April 4th, while the latest rates on DNEXR are more recent. They suspect a sharing bug or contract issue.
+
+**Context**: The user is an internal user from the Customer Organization, and the issue involves the freight rates feature of the DNEXR platform. The customer is seeking assistance to resolve a potential data sharing problem.
+
+**Solution**: The Support Agent checked the dataset and freight module and found everything to be correct. They requested further clarification from the customer regarding the specifics of the missing information or contact details for the reporter to investigate further.

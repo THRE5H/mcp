@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new client contract for VAM, specifying the contract start and end dates, but there was confusion regarding the contract's effective date.
+
+**Context**: The user is an external user from Customer Organization requesting assistance from the Service Provider's support team. The contract involves commodities (Wheat and Corn) with a specified start date of June 1, 2025, and an end date of May 31, 2026.
+
+**Solution**: The Support Agent confirmed that the platform setup would proceed as agreed, acknowledging the contract's start date. It is recommended to ensure clarity on contract dates in future communications to avoid confusion.

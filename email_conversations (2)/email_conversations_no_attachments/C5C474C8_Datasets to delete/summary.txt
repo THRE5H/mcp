@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of specific datasets from the DNEXR platform.
+
+**Context**: The user is an external user requesting support from a Service Provider. The issue involves the DNEXR product, specifically regarding dataset management.
+
+**Solution**: The Support Agent acknowledged the request and initiated the deletion process for the specified datasets. The customer was informed that the datasets would be removed shortly, and it was recommended to verify the deletion status after a few hours to ensure successful completion.

@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users are unable to download historical customs data because the export button/tab is disabled across various dashboards and countries.",
+    "solution": "The export button can be enabled by the platform administrators for specific dashboards and regions. Once enabled, users can download data by following these steps: 1) Navigate to the relevant dashboard (e.g., Argentina dashboard), 2) Click on 'Summarized Data', 3) Select the desired file format, such as '.xlsx (Excel 150,000-row max)', 4) Download the data. Note that not all dashboards may have downloadable data due to copyright restrictions. Administrators should ensure the export feature is enabled for all required regions and countries to allow data export.",
+    "keywords": [
+      "customs data",
+      "download disabled",
+      "export button",
+      "export tab disabled",
+      "historical data download",
+      "dashboard export",
+      "xlsx export",
+      "data export enablement",
+      "copyright restrictions"
+    ],
+    "category": "How-to Guide"
+  }
+}

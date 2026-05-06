@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of three new users to the CIG environment and needed confirmation on whether the environment had been validated.
+
+**Context**: The user is an external user representing a Customer Organization. The request involves the CIG environment, specifically the platform at cig.dnext.io. The request is contingent on prior validation by an internal team member.
+
+**Solution**: The Support Agent confirmed that the environment had been validated and proceeded to add the requested users. The profiles were then sent to the users as per the customer's request. It is recommended to verify environment validation before making user additions in the future.

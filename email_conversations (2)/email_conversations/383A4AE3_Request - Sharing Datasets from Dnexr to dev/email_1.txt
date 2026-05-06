@@ -1,0 +1,41 @@
+From: Yosri Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D794878314DF4302BF46FC9063350CFE-96189B27-11>
+To: Support Dnext
+Date: 2025-11-21 16:09:08.486000+00:00
+Subject: Request - Sharing Datasets from Dnexr to dev 
+Message-ID: ZRAP278MB0446A8786F553C748C070B44E5D5A@ZRAP278MB0446.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Best Support Team, 
+
+i want to have those dnexr datasets mentionned in this ticket https://dnext.atlassian.net/browse/DNP-6144?focusedCommentId=27161 <https://dnext.atlassian.net/browse/DNP-6144?focusedCommentId=27161> 
+grouped in 1 ressource group in dnexr then shared to dndev till end of december 2025.
+
+{
+  "additional_values": "dnexr-baltic-exchange-freight-world-uns-weekly-additional-vars",
+  "baltic_futures": "dnexr-baltic-exchange-freight-world-uns-random-baltic-futures-v2",
+  "baltic_spot": "dnexr-baltic-exchange-freight-world-uns-random-spot-tce-v2",
+  "bunkers": "dnexr-baltic-exchange-freight-world-freight_fuel_prices-once",
+  "bunkers_spot": "dnexr-baltic-exchange-freight-world-uns-random-bunkers-v2",
+  "cme_futures": "dnexr-cme-freight-sgp-uns-random-v2",
+  "co2_applica": "dnexr-baltic-exchange-freight-eur-uns-random-year-factor",
+  "co2_type": "dnexr-baltic-exchange-freight-world-uns-random-co2",
+  "drafts_yearly": "dnexr-baltic-exchange-freight-world-uns-random-port-drafts-yearly",
+  "ets_price": "dnexr-baltic-exchange-freight-eur-uns-daily-ets-spot",
+  "eu_ports": "dnexr-baltic-exchange-freight-eur-uns-random-eu-ports",
+  "ewri_dataset": "dnexr-baltic-exchange-freight-world-uns-random-ex-war-r-ins",
+  "forward_codes": "dnexr-baltic-exchange-freight-world-freight_forward_codes-once",
+  "fuel_eu_maritime": "dnexr-baltic-exchange-freight-eur-uns-random-fuel-eu-maritime",
+  "hist_spread": "dnexr-baltic-exchange-freight-world-uns-random-route-hist-spread",
+  "misc_costs": "dnexr-baltic-exchange-freight-world-uns-random-vessel-misc-costs",
+  "misc_costs_custom": "dnexr-baltic-exchange-freight-world-uns-random-misc-costs-custom",
+  "port_distances": "dnexr-baltic-exchange-freight-world-freight_port_distances-once",
+  "port_info": "dnexr-baltic-exchange-freight-world-freight_port_info-once",
+  "port_terms": "dnexr-baltic-exchange-freight-world-freight_port_terms-once",
+  "seasonal_margin": "dnexr-baltic-exchange-bulk-world-freight-est-seamarg-random",
+  "spot_routes": "dnexr-baltic-exchange-freight-all-uns-daily",
+  "stowage_factors": "dnexr-baltic-exchange-freight-world-freight_stowage_factors_cor-once",
+  "tce_factors": "dnexr-freight-world-fe-tg-spreads-random",
+  "tg_max_dur": "dnexr-baltic-exchange-freight-world-uns-random-tg-max-dur",
+  "vessel_info": "dnexr-baltic-exchange-freight-world-pat_freight_vessel_info-once"
+}

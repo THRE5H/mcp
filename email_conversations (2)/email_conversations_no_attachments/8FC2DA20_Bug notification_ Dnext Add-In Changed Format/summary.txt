@@ -1,0 +1,5 @@
+**Problem**: The customer experienced a formatting issue with the "Verbio" sheet after refreshing the workbook, which altered the column arrangement compared to the "SME" sheet.
+
+**Context**: The user is an external user of the Dnext Add-In from a Customer Organization. The issue arose when the user attempted to refresh a workbook containing multiple add-in downloads, leading to unexpected changes in formatting.
+
+**Solution**: The issue was resolved by the user logging back into the Dnext Add-In space and re-downloading the sheet, which restored the original format. It is recommended to ensure that all add-ins are compatible and to check for updates before refreshing workbooks to prevent similar issues.

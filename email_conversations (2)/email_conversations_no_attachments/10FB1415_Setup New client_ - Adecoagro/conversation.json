@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Setup New client: - Adecoagro",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL",
+      "from_name": "Sami Jaballah",
+      "to": "Support Dnext",
+      "cc": "Jebrane Ben Salem",
+      "received_time": "2025-12-01 12:38:18.600000+00:00",
+      "sent_time": "2025-12-01 12:38:16+00:00",
+      "body_text": "Hello,\r\n\r\n \r\n\r\nPlease set-up the contract for the new environment: adecoagro.dnext.io\r\n\r\n*\t\r\n\tClient name: AdecoAgro\r\n*\tCommodities: Sugar\r\n*\tSame access as DRW\r\n*\tContract start: 01.12.2025\r\n*\tContract End: 30.11.2099\r\n\r\n\r\n\r\n\r\nYou can start the setup. Waiting for the users from the client.\r\n\r\n \r\n\r\nMany thanks\r\n\r\nSami\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">Hello,</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">&nbsp;</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">Please set-up the contract for the new environment:\r\n<b>adecoagro.dnext.io</b></span></p>\r\n<ul style=\"margin-top: 0cm; margin-bottom: 0cm;\">\r\n<li style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); margin: 0cm;\">\r\n<div role=\"presentation\" class=\"elementToProof\">Client name: AdecoAgro</div>\r\n</li><li style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); margin: 0cm;\">\r\nCommodities: Sugar</li><li style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); margin: 0cm;\">\r\nSame access as DRW</li><li style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); margin: 0cm;\">\r\nContract start: 01.12.2025</li><li style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0); margin: 0cm;\">\r\nContract End: 30.11.2099</li></ul>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\"><br>\r\n</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">You can start the setup. Waiting for the users from the client.</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">&nbsp;</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">Many thanks</span></p>\r\n<p style=\"margin: 0cm;\" class=\"elementToProof\"><span style=\"font-family: Aptos, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\">Sami</span></p>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "10FB14155D93CE45B972A4405AEDA0F2",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900033137187E0000",
+      "size": 44217,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GVAP278MB0677AA5F2EA2B2993E7D900F88DBA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": "GVAP278MB0677BD450798685B78258DB988C5A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM",
+      "references": "<GVAP278MB0677E497EE00B02A5214047888E8A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM>\r\n <GVAP278MB0677BD450798685B78258DB988C5A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM>"
+    }
+  ],
+  "subject": "Setup New client: - Adecoagro"
+}

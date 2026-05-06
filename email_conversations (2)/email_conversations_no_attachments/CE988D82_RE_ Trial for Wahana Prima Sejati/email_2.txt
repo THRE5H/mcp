@@ -1,0 +1,38 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-05 09:01:49.754000+00:00
+Subject: Trial for Wahana Prima Sejati
+Message-ID: GVAP278MB01505B110279DC34546E629E98A7A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear team
+
+Last week we gave demo to Mr. Sulaiman, GM of Wahana Prima Sejati, at their office. He requested for 2 week trial. 
+Mr. Albert, his assistant will also be using the demo account. Below are the emails:
+sulaiman.halim@wahanaprimasejati.com
+albert.albert@wahanaprimasejati.com 
+
+For trial, we can give them the following dashboards related to palm oil:
+GnO Crop>Indonesia> Industry Peers and Palm Oil Stats
+GnO Crop>Malaysia> CPO Stats and MPOA vs MPOB
+GnO Economics>Futures
+GnO Economics>Indonesia>Margin Analysis and Palm Oil Exports Levy & Duty
+GnO Economics>Malaysia>Margin Analysis
+GnO Economics>India>Edible Oil Margins
+Customs>Southeast Asia>Indonesia & Malaysia
+Lineups>Asia South East>Indonesia & Malaysia
+SND>DNEXR>Vegoils
+SND>Indonesia>Biodiesel Stats
+SND>India>Vegoils Stats SEA
+SND>China>Palm Oil Stocks
+Weather>Malindo
+Trade Matrix>DNEXR-vegoils
+
+Reports on email until 19th Dec.
+
+Kindly let me know if ready to inform the client, so I can assist them on using our services.
+
+Regards,
+AJ
+

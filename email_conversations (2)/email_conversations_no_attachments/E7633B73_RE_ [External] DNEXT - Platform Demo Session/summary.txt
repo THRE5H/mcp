@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the forecast was not being displayed for the raw sugar trade matrix on the platform.
+
+**Context**: The user is an external user from a Customer Organization seeking support from the Customer Support team of the Service Provider regarding a feature of the DNEXT platform. The issue arose during their initial interactions with the platform, which included a request for a training session.
+
+**Solution**: The Support Agent confirmed that the issue with the forecast display has been resolved. The customer acknowledged the resolution and confirmed that they could now see the forecast. It is recommended to ensure timely communication and follow-up after resolving similar issues.

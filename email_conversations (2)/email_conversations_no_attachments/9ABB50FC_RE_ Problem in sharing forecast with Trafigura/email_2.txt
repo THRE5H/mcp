@@ -1,0 +1,23 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-03-06 12:12:33.624000+00:00
+Subject: Problem in sharing forecast with Trafigura
+Message-ID: GV0P278MB0148F17DB207172D720EA1DE98CA2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi support,
+
+ 
+
+Dina (in CC) has a problem to access the forecast of the sbssbm tradeflow. Could you please make sure the forecast is being shared with Trafigura environment.
+
+ 
+
+Thanks
+
+ 
+
+ 
+
+

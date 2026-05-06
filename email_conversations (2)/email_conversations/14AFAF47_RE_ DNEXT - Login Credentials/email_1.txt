@@ -1,0 +1,252 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Misha Snobkov
+Date: 2025-10-14 12:44:23.669000+00:00
+Subject: RE: DNEXT - Login Credentials
+Message-ID: GV0P278MB1320471B0122487AD09A4A52F8EBA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: CAHxOs2wcZ5=OHRYcbh-77v8MWtLyizT+F=gXFsFK+M1c8JXY-w@mail.gmail.com
+
+================================================================================
+
+Hello Misha,
+
+ 
+
+Our IT team are actively working on this and it should be solved soon.
+
+ 
+
+We thank you for your patience and understanding and we will let you know once it’s resolved.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Misha Snobkov <misha.snobkov@neste.com> 
+Sent: Tuesday, October 14, 2025 12:33
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: Re: DNEXT - Login Credentials
+
+ 
+
+We use gmail. and nothing is in the spam, i did check
+
+ 
+
+On Tue, 14 Oct 2025 at 06:32, Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > wrote:
+
+	Hi Misha
+
+	 
+
+	We are sorry to hear that you're having trouble receiving the verification code. 
+
+	 
+
+	Let's get this sorted out. It’s possible the email might be getting sent to your junk or spam folder. 
+
+	 
+
+	Here's how you can whitelist our email address to ensure future emails come through without issues:
+
+	 
+
+	For Outlook Desktop:
+
+	1.	Open Outlook and click on the Home tab.
+	2.	Click on Junk in the toolbar and select Junk E-mail Options.
+	3.	In the window that pops up, go to the Safe Senders tab.
+	4.	Click Add and enter “noreply@dnext.io <mailto:noreply@dnext.io> ” 
+	5.	Click OK to save.
+
+	 
+
+	For Outlook Web (Outlook.com):
+
+	 
+
+	Log in to Outlook.com.
+
+	 
+
+	1.	Log in to your Outlook.com account.
+
+	 
+
+	2.	Click the gear icon (Settings) in the top-right corner and select "View all Outlook settings".
+
+	 
+
+	3.	Go to Mail > Junk email.
+
+	 
+
+	4.	Under Safe senders and domains, click "Add" and enter noreply@dnext.io <mailto:noreply@dnext.io>  to whitelist.
+
+	 
+
+	5.	Click Save.
+
+	 
+
+	 
+
+	In addition, please note that our IT team has already been informed and is currently investigating the situation on our end to ensure everything is working smoothly.
+
+	 
+
+	Once you've whitelisted our email address, you should start receiving our verification emails without any issues.
+
+	 
+
+	Please let us know if the issue persists and we will be glad to assist you further.
+
+	 
+
+	Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+	 
+
+	 
+
+	From: Misha Snobkov <misha.snobkov@neste.com <mailto:misha.snobkov@neste.com> > 
+	Sent: Tuesday, October 14, 2025 12:22
+	To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+	Subject: Re: DNEXT - Login Credentials
+
+	 
+
+	 
+
+	Hello,
+
+	 
+
+	Trying to log in, changed the password. system is asking for a code, which is not arriving. great start! :(
+
+	 
+
+	 
+
+	 
+
+	On Tue, 14 Oct 2025 at 06:13, Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > wrote:
+
+		Hello Misha,
+
+		 
+
+		Hope you are doing well.
+
+		 
+
+		You may access our platform through this URL: https://neste.dnext.io/
+
+		Using these credentials :
+
+		 
+
+		Email: misha.snobkov@neste.com <mailto:misha.snobkov@neste.com>  
+
+		Password : ejnw4lYIdotiMeRl
+
+		 
+
+		 Note: make sure to change your password upon your first login by following these steps:
+
+		 
+
+		 First, put your credentials to the login page and press Log in.
+
+		After that, go to your profile
+
+		 
+
+		
+
+		Press “change my password”:
+
+		
+
+		 
+
+		And follow the instructions: 
+
+		 
+
+		
+
+		 
+
+		Best Regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+		 
+
+		 
+
+	 
+
+________________________________
+
+	This e-mail and any further e-mails from the Neste Corporation or any of its employees, directors or other representatives, including any file(s) transmitted with such messages ("message") may be confidential and intended solely for the entity or individual to whom it is addressed or to whom the sender intended to address it. If you are not the intended recipient of this or any following message, please contact the sender immediately upon receipt of the message and delete the message from your system without reproducing, distributing or retaining copies thereof or using or disclosing the information contained therein. Thank you.
+
+	Due to the insecure nature of this medium, this or any following message may have been altered without the knowledge of sender. The sender will therefore not be liable for the message if modified.
+
+ 
+
+________________________________
+
+This e-mail and any further e-mails from the Neste Corporation or any of its employees, directors or other representatives, including any file(s) transmitted with such messages ("message") may be confidential and intended solely for the entity or individual to whom it is addressed or to whom the sender intended to address it. If you are not the intended recipient of this or any following message, please contact the sender immediately upon receipt of the message and delete the message from your system without reproducing, distributing or retaining copies thereof or using or disclosing the information contained therein. Thank you.
+
+Due to the insecure nature of this medium, this or any following message may have been altered without the knowledge of sender. The sender will therefore not be liable for the message if modified.

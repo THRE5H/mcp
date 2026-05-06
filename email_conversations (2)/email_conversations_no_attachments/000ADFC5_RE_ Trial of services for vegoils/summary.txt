@@ -1,0 +1,5 @@
+**Problem**: The customer needed to provide a one-week trial of services for Vegoils to GAWI, including platform access and reports, but required confirmation on when user credentials would be ready.
+
+**Context**: The user is an internal team member from Customer Organization requesting a trial for an external user, GAWI, involving the Vegoils service. The Support Agent initially indicated that there was no free demo environment available for the requested service.
+
+**Solution**: The Support Agent later confirmed that the demo environment was ready at a specific URL and that login credentials had been sent privately. The agent also stated that user accounts for GAWI were created and could be activated upon confirmation from the customer.

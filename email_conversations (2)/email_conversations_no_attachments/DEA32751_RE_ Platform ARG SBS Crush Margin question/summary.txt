@@ -1,0 +1,5 @@
+**Problem**: The Customer is questioning the accuracy of the ARG SBS Crush Margin data on the Platform, specifically noting that the ARG SBS cash price increased by $60/mt while other related prices decreased.
+
+**Context**: The Customer is an external user from a financial management organization, inquiring about the ARG SBS Crush Margin metric on a data analytics platform. This inquiry follows significant market news and reflects the Customer's need for accurate pricing information to inform decision-making.
+
+**Solution**: The Support Agent acknowledged the Customer's concern and committed to checking the data internally for accuracy. The resolution is pending further investigation by the support team to confirm the validity of the reported cash price.

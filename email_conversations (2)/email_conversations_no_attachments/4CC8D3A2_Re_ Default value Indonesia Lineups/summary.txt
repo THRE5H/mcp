@@ -1,0 +1,5 @@
+**Problem**: The customer requested to adjust the default value for the ETS reporter slicer on a dashboard to display the entire spectrum of dates or, if not possible, to set it to the latest date available, November 13th.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance with a dashboard feature in a reporting tool provided by the Service Provider. The issue arose due to uncertainty about who was responsible for the dashboard settings.
+
+**Solution**: The Support Agent confirmed that the requested changes were made as discussed, setting the default value accordingly. It is recommended to regularly check dashboard settings to ensure they reflect the most current data and user needs.

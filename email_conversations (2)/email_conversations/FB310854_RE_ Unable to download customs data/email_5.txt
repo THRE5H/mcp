@@ -1,0 +1,237 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Saurabh Arora; Support Dnext
+Date: 2025-06-23 11:06:48.958000+00:00
+Subject: RE: Unable to download customs data
+Message-ID: GV0P278MB132018A7CEE4BC85D9CF19EFF879A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AU1P273MB231119AC0D345172461B0C4BD879A@AU1P273MB2311.AREP273.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saurabh,
+
+ 
+
+We have enabled the export button in the Argentina dashboard.
+
+ 
+
+To get the data please follow these steps : 
+
+Click on “Summarized Data” and choose 
+
+ 
+
+In the “File Format” Field : “.xlsx(Excel 150,000-row max)”
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Note: Please be aware that not all dashboards may have downloadable data due to copyright restrictions.
+
+ 
+
+ 
+
+Please let us know if you have any more questions or inquiries.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com> 
+Sent: Monday, June 23, 2025 10:28
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Unable to download customs data
+
+ 
+
+Hi Saber,
+
+ 
+
+Pls find below the screenshot showing the same (Export data is disabled). 
+
+ 
+
+ 
+
+
+
+ 
+
+It’s the same for any origin country or partner country. 
+
+ 
+
+Thanks and Regards
+
+Saurabh Arora
+
+Specialist ‑ Research
+
+ 
+
+
+
+
+
+ 
+
+
+
+		
+
+
+
+
+
+
+ <https://www.linkedin.com/company/al-ghurair> 
+
+		
+		
+ 
+
+ 
+
+ <http://www.al-ghurair.com/en> 
+
+
+
+
+
+    
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Monday, June 23, 2025 1:21 PM
+To: Saurabh Arora <Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Unable to download customs data
+
+ 
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+ 
+
+Hello Saurabh,
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+Could you please share more details about the issue, specifically which dashboard and country you were unable to download the data from?
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://ddec1-0-en-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io&umid=ce27f235-2135-49f1-af0b-d40941eff0d1&rct=1750670453&auth=2f78edd2f2e7699542005b51cf8dfcea956c4ca7-127905b15aacc05d42f7d0e45331ba9d5978d2e0> 
+
+ 
+
+ 
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> > 
+Sent: Monday, June 23, 2025 9:04
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Unable to download customs data
+
+ 
+
+Hi Team,
+
+ 
+
+I am not able to download historical customs data. The export tab seems to be disabled. 
+
+ 
+
+Can you please check and update on the same. 
+
+ 
+
+Thanks and Regards
+
+Saurabh Arora
+
+Specialist ‑ Research
+
+ 
+
+
+
+
+
+ 
+
+
+
+		
+
+
+
+
+
+
+ <https://www.linkedin.com/company/al-ghurair> 
+
+		
+		
+ 
+
+ 
+
+ <http://www.al-ghurair.com/en> 
+
+
+
+
+
+    

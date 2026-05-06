@@ -1,0 +1,45 @@
+{
+  "emails": [
+    {
+      "subject": "Re: ETOH_Loader_Price Issue",
+      "from": "arorajatin795@gmail.com",
+      "from_name": "Rama",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2026-01-12 18:39:17.880000+00:00",
+      "sent_time": "2026-01-12 18:39:01+00:00",
+      "body_text": "Hi Team,\r\n\r\nThe issue has been resolved. Thank you very much, Saber, for your help.\r\n\r\nBest Regards,\r\n\r\nOn Mon, 12 Jan 2026 at 22:24, Rama <arorajatin795@gmail.com <mailto:arorajatin795@gmail.com> > wrote:\r\n\r\n\r\n\tHi Team,\r\n\r\n\tHope you all are doing well.\r\n\r\n\tCould you please assist me with the ETOH_loader as I am currently unable to upload the prices.\r\n\tI have attached the error message.\r\n\r\n\tThank you\r\n\tRama\r\n",
+      "body_html": "<div dir=\"ltr\">Hi Team,<div><br></div><div>The issue has&nbsp;been resolved. Thank you very much, Saber, for your help.</div><div><br></div><div>Best Regards,</div></div><br><div class=\"gmail_quote gmail_quote_container\"><div dir=\"ltr\" class=\"gmail_attr\">On Mon, 12 Jan 2026 at 22:24, Rama &lt;<a href=\"mailto:arorajatin795@gmail.com\">arorajatin795@gmail.com</a>&gt; wrote:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex\"><div dir=\"ltr\">Hi Team,<div><br></div><div>Hope you all are doing well.</div><div><br></div><div>Could you please assist me with the ETOH_loader as I am currently unable to upload&nbsp;the prices.</div><div>I have attached the error message.</div><div><br></div><div>Thank you</div><div>Rama</div></div>\r\n</blockquote></div>\r\n",
+      "conversation_id": "036F12B39D94584A8D252DDA16D08C05",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900034DFC92090000",
+      "size": 51418,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "CALmVwErH9rBDi9=Cdp-Us6JnS9wzZG+_eABOrG8CeiGQJszW2w@mail.gmail.com",
+      "in_reply_to": "CALmVwEr98-bZ+=RxLaU6Xidb5bC54MbTfJ1bpdtkvTNJJxM3jw@mail.gmail.com",
+      "references": "mime-version\r\n         :from:to:cc:subject:date:message-id:reply-to;\r\n        bh=sWupS+RHwthOlJcye/wajPgaZEbohdqWMzhR8230VUY=;\r\n        b=fEkKG3vKoj/EKR5SDbVdRt9ivIa4BEVO+yfe2AjqVuGAKgVZrp/ebOF1cl4z6jIWFd\r\n         v6w3MIJwBm5UrOc09K1LRLS0qcpqQCqoaS4SgW50faF2SIebipNjykAUQy4tutztxq78\r\n         WqS8CO54gQ7QFntM5nRdOA9pUTVVkijZnSz+V1vYA6OLu6/GRNnt7NUmVVXjMM/XVkl8\r\n         NmuLl4PQSl8fAD/ZlLIvctPF11XqbwH6tyr/RT4+RHtbXfMECqBLlW9sBMlTu2++Wo49\r\n         d8vWEc23OCPBTeWcONMBpmz5ZiaSx7cmlN4MKufhOMY2uOxPfT2cCnFSDn3jtKbN4ktw\r\n         iNYg=="
+    },
+    {
+      "subject": "ETOH_Loader_Price Issue",
+      "from": "arorajatin795@gmail.com",
+      "from_name": "Rama",
+      "to": "Support Dnext",
+      "cc": "",
+      "received_time": "2026-01-12 17:54:51.340000+00:00",
+      "sent_time": "2026-01-12 17:54:34+00:00",
+      "body_text": "Hi Team,\r\n\r\nHope you all are doing well.\r\n\r\nCould you please assist me with the ETOH_loader as I am currently unable to upload the prices.\r\nI have attached the error message.\r\n\r\nThank you\r\nRama",
+      "body_html": "<div dir=\"ltr\">Hi Team,<div><br></div><div>Hope you all are doing well.</div><div><br></div><div>Could you please assist me with the ETOH_loader as I am currently unable to upload&nbsp;the prices.</div><div>I have attached the error message.</div><div><br></div><div>Thank you</div><div>Rama</div></div>\r\n",
+      "conversation_id": "036F12B39D94584A8D252DDA16D08C05",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900034DFC92040000",
+      "size": 99903,
+      "has_attachments": true,
+      "attachments": [
+        "Error_Etoh.JPG"
+      ],
+      "message_id": "CALmVwEr98-bZ+=RxLaU6Xidb5bC54MbTfJ1bpdtkvTNJJxM3jw@mail.gmail.com",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Re: ETOH_Loader_Price Issue"
+}

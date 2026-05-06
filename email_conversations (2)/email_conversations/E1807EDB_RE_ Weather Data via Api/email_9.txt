@@ -1,0 +1,194 @@
+From: Cornette Etienne <e.cornette@saftco.ch>
+To: Saber Khalfallah
+Date: 2025-02-05 12:53:41.900000+00:00
+Subject: RE: Weather Data via Api 
+Message-ID: 7ae763588d444c20ba7d8c86731e5e0a@saftco.ch
+In-Reply-To: GV0P278MB1320EFD06D0274433C0E8AE6F8F52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: DNEXT_frt.pdf
+
+================================================================================
+
+Bonjour Saber,
+
+Merci beaucoup pour le code, cependant je pense qu’il y a peut être une erreur de ma part : Voici mon code en PDF. Merci pour votre aide.
+
+ 
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Monday, February 3, 2025 2:44 PM
+To: Cornette Etienne <e.cornette@saftco.ch>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Weather Data via Api 
+
+ 
+
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+******************************************************************************************
+
+Hello Etienne
+
+ 
+
+You can download the Freights dataset either via the platform interface (excel file) below are the steps to do that 
+
+ 
+
+1.	Log in to the platform 
+2.	Go to the datasets module (see image below for visual aid) 
+
+
+
+ 
+
+3.	Then look for the Freights dataset the name is ‘Daily Freight Rates(DNEXR)’ and click on the visualize button : 
+
+ 
+
+
+
+ 
+
+4.	Then click on the download button on the top right of the screen (it might take a bit of time to download the dataset since it is 2.9 GB in size)
+
+ 
+
+
+
+You can also download it via the API using R ,the dataset code for the freights is “saftco-6a211b50-3b48-4e90-8f86-47e2e2b81909” 
+
+ 
+
+Also, you will find attached two R code snippets you can use to download the dataset in R 
+
+ 
+
+If you have any other questions or if you need any assistance, please let us know 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.dnext.io&umid=FCC3EBE7-2D63-C506-B215-31100D8DF698&auth=520ccf831d5834d4305f730a6d98145484532275-c854390e5c89e6ced2827f2f314e43b9215cb298 <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io%2f&umid=FCC3EBE7-2D63-C506-B215-31100D8DF698&auth=520ccf831d5834d4305f730a6d98145484532275-e67f0ed212b7e82f41e6140f5cf72617c8eb7dc4> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> > 
+Sent: Monday, February 3, 2025 11:12
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Weather Data via Api 
+
+ 
+
+Hello Saber,
+
+ 
+
+Hope you had a good weekend.
+
+Clear thank you for the update.
+
+ 
+
+I also have a question about the freight matrix. 
+
+Is it possible to have access to data ? And if yes do you store it ? I would like to check some freight evolution on some routes.
+
+ 
+
+Thank you,
+
+Étienne 
+
+ 
+
+Sent from Outlook for iOS <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2faka.ms%2fo0ukef&umid=FCC3EBE7-2D63-C506-B215-31100D8DF698&auth=520ccf831d5834d4305f730a6d98145484532275-ed33b5d501857a64ca62a588b24706ab76db7dd7> 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Monday, February 3, 2025 11:00:53 AM
+To: Etienne Cornette <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Weather Data via Api 
+
+ 
+
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+******************************************************************************************
+
+Hello Etienne,
+
+I hope you are doing well.
+
+Concerning your request to fetch the Weather Data via the API , I wanted to let you know that we are working on it, and we will let you know as soon as it’s ready
+
+ 
+
+If you have any other questions or concerns, please let us know
+
+ 
+
+Best regards ,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.dnext.io&umid=FCC3EBE7-2D63-C506-B215-31100D8DF698&auth=520ccf831d5834d4305f730a6d98145484532275-c854390e5c89e6ced2827f2f314e43b9215cb298 <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io%2f&umid=FCC3EBE7-2D63-C506-B215-31100D8DF698&auth=520ccf831d5834d4305f730a6d98145484532275-e67f0ed212b7e82f41e6140f5cf72617c8eb7dc4> 
+
+ 
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.

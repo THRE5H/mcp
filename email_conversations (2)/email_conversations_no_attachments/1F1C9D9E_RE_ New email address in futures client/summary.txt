@@ -1,0 +1,5 @@
+**Problem**: The Customer requested to add a new email address to the distribution list for futures clients and specified that it should remain on the list until March 1st.
+
+**Context**: The Customer is the CEO & Co-Founder of a Customer Organization. The request involves the distribution list for futures clients managed by the Service Provider. The email address to be added is a.s@agrofertrans.com.
+
+**Solution**: The Support Agent confirmed that the email address a.s@agrofertrans.com has been successfully added to the distribution list. It is recommended to ensure that all updates are communicated to the new email address as specified by the Customer.

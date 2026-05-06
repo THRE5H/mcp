@@ -1,0 +1,30 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Jebrane Ben Salem; Lucas Rosa; Guillaume Goudy
+Date: 2025-03-25 11:09:33.609000+00:00
+Subject: Request to add regions in Black Sea Weather Dashboards
+Message-ID: GV0P278MB0717DD4BB1ED145EB91AD29AEBA72@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_6.png, image_7.png, ukraine_regions_mapping.xlsx
+
+================================================================================
+
+Hi guys, would it be possible to add the following changes:
+
+
+
+
+1.	
+	in the panel views, leave this selection as default. (@Lucas Rosa <mailto:lucas.rosa@dnext.io>  / @Guillaume Goudy <mailto:guillaume.goudy@dnext.io>  agree?)
+
+this would make the map look a bit clearer and then if needed the user selects the other regions
+
+
+
+
+
+2.	
+	In Ukraine we need to have regional breakdown as we have for Russia. Breakdown is attached in the excel file.
+3.	
+	in the soil moisture and snow cover dashboard can we add the same regional breakdown for both Russia and Ukraine?
+
+
+

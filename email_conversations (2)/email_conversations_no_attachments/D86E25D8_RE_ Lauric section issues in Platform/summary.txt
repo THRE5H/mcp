@@ -1,0 +1,5 @@
+**Problem**: The customer reported discrepancies between the official export data for Coconut from the Philippines and Indonesia displayed on the platform and the website, noting that the numbers differ even for historical years. Additionally, the officially declared numbers were still shown in grey color.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance regarding the Trade matrix feature of the platform provided by Service Provider. The issue involves data mapping for specific HS codes that are not aligned with the sources being referenced.
+
+**Solution**: The Support Agent investigated and found that the discrepancies arose because the platform only mapped two specific HS codes, while the user was looking at all HS codes starting with 1513. The recommendation is to ensure that all relevant HS codes are mapped correctly to avoid future discrepancies.

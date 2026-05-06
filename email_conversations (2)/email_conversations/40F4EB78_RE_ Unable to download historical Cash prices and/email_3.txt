@@ -1,0 +1,47 @@
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com>
+To: Support Dnext
+Date: 2025-07-23 12:55:01.819000+00:00
+Subject: Unable to download historical Cash prices and premiums data
+Message-ID: DX1PPFEEC67B81339E8C8843A3AB22C7DF5D85FA@DX1PPFEEC67B813.AREP273.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Team,
+
+ 
+
+I am trying to access cash prices data on the portal. While I can see the data and price charts historically, I am not able to download the same. Find below the screenshot of price data I am trying to access and download. 
+
+ 
+
+
+
+ 
+
+Could you pls help with the same. 
+
+ 
+
+ 
+
+Thanks and Regards
+
+ 
+
+ 
+
+Saurabh Arora	
+Specialist ‑ Research	
+ 
+	
+		 				
+		
+	
+ <https://www.linkedin.com/company/al-ghurair> 	
+		
+		
+ 	 	
+ <http://www.al-ghurair.com/en> 	
+	
+	
+    

@@ -1,0 +1,13 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Ghaith Krifa
+Date: 2025-11-11 11:16:32.135000+00:00
+Subject: Palm dashboard missing data
+Message-ID: ZR0P278MB077378808554E77F8E765A3098CFA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Ghaith, it seems the dashboard isn’t working in this configuration – lot of missing data
+
+ 
+
+

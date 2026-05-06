@@ -1,0 +1,65 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Enea Albertoli; Support Dnext; Nicolas Chaperon
+Date: 2025-10-08 09:38:14.397000+00:00
+Subject: Re: Price Uploader does not save new SBO ARG Prices
+Message-ID: GV0P278MB13205D3EF97FF39A1D4DFC0BF8E1A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1353C79BC571CCAF8B6A9B7DF6E1A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+Attachments: image001.png, image002.png
+
+================================================================================
+
+Hello Enea,
+
+Checking it right now.
+
+Best regards 
+
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io>
+Sent: Wednesday, October 8, 2025 9:36:45 AM
+To: Support Dnext <support@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Price Uploader does not save new SBO ARG Prices
+
+
+
+Hello,
+
+ 
+
+This morning I uploaded several new prices and none of them were saved. I added prices up to the 6th of October.
+
+ 
+
+
+
+ 
+
+It seems we have a loading error
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-exceltemplate-dnexr-sbo-arg-cash-daily/usages
+
+ 
+
+C:\DNEXT Dropbox\DNEXT_RESEARCH\G&O\08- ECONOMICS\PLATFORM\Price_Uploader.xlsm <file:///C:/DNEXT%20Dropbox/DNEXT_RESEARCH/G&O/08-%20ECONOMICS/PLATFORM/Price_Uploader.xlsm> 
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+ 
+

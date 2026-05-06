@@ -1,0 +1,63 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-31 22:20:47.355000+00:00
+Subject: Re: Crop rating usa a bit high
+Message-ID: GV0P278MB0321A3705430BA5899788F319DAD2@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717095BAB18AAA4F8CB74BEEBAD2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello pablo, 
+Ok, I will check it as soon I get home,
+But I think it's because we updated the crop condition values for winter wheat in 2 datasets 
+If that is the problem we just need to discard all your previous updates for 2025 crop and keep only one
+
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Monday, March 31, 2025 10:13:40 PM
+To: Support Dnext <support@dnext.io>
+Cc: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: Crop rating usa a bit high 
+ 
+Iheb, can u check this? i did not update the file on my side.
+________________________________
+
+From: Michel Nicaise <michel.nicaise@ameropa.com>
+Sent: Monday, March 31, 2025 11:02 PM
+To: Support Dnext <support@dnext.io>
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io>
+Subject: Crop rating usa a bit high 
+ 
+
+ 
+
+Hello Support,
+
+can you check the data please,
+
+we cannot get such high value:
+
+Thank you  
+
+
+
+
+
+
+
+
+
+Michel Nicaise
+Grains Analyst, Food & Feed
+ 
+Ameropa AG
+Avenue de Rumine 13, 1005 Lausanne
+Switzerland
++41 58 5312957  +41 79 5666613 
+michel.nicaise@ameropa.com 
+www.ameropa.com
+
+ 

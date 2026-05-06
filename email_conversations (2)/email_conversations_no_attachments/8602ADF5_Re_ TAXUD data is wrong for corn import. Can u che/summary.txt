@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the TAXUD data for corn import was incorrect and requested urgent assistance to verify the issue.
+
+**Context**: The user is an external user from Customer Organization seeking support from the Service Provider. The issue involved the TAXUD dataset, which is critical for import data accuracy.
+
+**Solution**: The Support Agent identified that the problem was likely caused by a faulty API response and resolved it by rerunning the workflows. To prevent future occurrences, a health check will be activated for all TAXUD datasets.

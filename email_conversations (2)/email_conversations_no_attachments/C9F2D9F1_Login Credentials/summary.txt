@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials to access the platform but was unsure about the process for changing the password after the first login.
+
+**Context**: The user is an external user attempting to access a service provided by a Service Provider. The inquiry involved accessing a specific platform and ensuring security through password management.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials and detailed instructions for changing the password after the first login. The final outcome confirmed that the user should follow the outlined steps to secure their account. It is recommended that users always change their passwords upon initial access to enhance security.

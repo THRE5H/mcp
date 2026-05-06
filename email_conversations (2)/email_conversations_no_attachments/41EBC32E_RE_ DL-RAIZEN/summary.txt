@@ -1,0 +1,5 @@
+**Problem**: The customer requested to amend the DL-Raizen mailing list by adding several email addresses.
+
+**Context**: The user is an external user from Customer Organization communicating with the Support Team of Service Provider. The request was made in the context of managing a mailing list for communication related to the DNEXT sugar report.
+
+**Solution**: The Support Agent confirmed that the requested amendments to the DL-Raizen mailing list were successfully completed. It is recommended to regularly review and update mailing lists to ensure all necessary contacts are included.

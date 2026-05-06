@@ -1,0 +1,5 @@
+**Problem**: The customer reported an error with the weather dashboard where filtering on Ukraine displayed the entire region instead of just Ukraine, and no data was shown in the top right corner. Additionally, they requested a way to zoom in more on Ukraine in other panels.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Service Provider. The issue involves a weather dashboard feature that utilizes ECMWF data, which has specific data availability times.
+
+**Solution**: The Support Agent clarified that the absence of data at certain times (06Z and 18Z) is normal due to ECMWF's data publication schedule. The customer was advised to use the "00" data instead of "latest" to resolve the display issue. A suggestion was made to consider removing unnecessary timestamps from the dataset, pending team discussion.

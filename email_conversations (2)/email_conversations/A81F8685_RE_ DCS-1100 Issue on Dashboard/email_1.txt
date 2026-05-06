@@ -1,0 +1,51 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-03-25 11:25:57.406000+00:00
+Subject: RE: DCS-1100 Issue on Dashboard
+Message-ID: ZR0P278MB0505F1ECCF40DE1497E79F5D8AA72@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: JIRA.28823.1742894130000.2cc95555-bdf5-41b0-aafe-280fadca01c4.1742894672560@Atlassian.JIRA
+
+================================================================================
+
+Hello Jebrane,
+
+ 
+
+Indeed refreshing twice the dashboard solved the issue. Thank you 😊
+
+ 
+
+Louis
+
+ 
+
+From: Mohamed Jebrane Ben Salem <jira@dnext.atlassian.net> 
+Sent: Tuesday, March 25, 2025 10:25 AM
+To: Louis Olive <louis.olive@dnext.io>
+Subject: DCS-1100 Issue on Dashboard
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Mohamed Jebrane Ben Salem commented:
+
+Hello, 
+It’s working perfectly on my end. Could you please refresh the dashboard? It may be an issue with Microsoft Power BI servers. 
+Thanks,
+Jebrane 
+ <https://dnext.atlassian.net/servicedesk/customer/request/28823/attachment/18176> 
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1100?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjhmYzY3YmM5ZTZjZDlhMmQ5OGNmMGI0Y2VhNDhjMzQ3NmQ4MDBlOTA0NjcyMDkwOGE4OWE0YWVlNDNlYjc4MWMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAxNjMiLCJpc3N1ZSI6IkRDUy0xMTAwIn0sImV4cCI6MTc0NTMxMzg3MSwiaWF0IjoxNzQyODk0NjcxfQ.YloEnQod-SLhL6U8iJC2DsRyyVCdfLC6uOBqpW-_SRw&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1100/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjAzMzQwM2JmNTI3NjE5MWRmYzg4NmMyY2VjYWI2YTIyOTJiMDk0ZDQxOWEyYTRlYWMyMzZjZmJhNzA1YmIxOTkiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6MDI0OWY4MDgtNDk1Ny00OGJmLThiZWItYTdmNjJiYmJiNWU1IiwiaXNzdWUiOiJEQ1MtMTEwMCJ9LCJleHAiOjE3NDUzMTM4NzEsImlhdCI6MTc0Mjg5NDY3MX0.enEqXJ6rY5gjV9S5ZlV6GnRbhcVgo0SuQoj4L3VC7uE> 
+
+This is shared with Louis Olive.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Envoyé le 25 mars 2025 10:24:32 CET 
+
+ <https://atlas-trk.prd.msg.ss-inf.net/q/56J1tqkGBlZSxXBo5tXuIQ~~/AAAAARA~/kiRg4ZUizgPsbA2o-5JlqFgw_vosdUCECloeR1U_kb5NkhlP5I-7NX0sCV7V44iHLqk99ANb2bfuHCwvuqcOOg~~> 

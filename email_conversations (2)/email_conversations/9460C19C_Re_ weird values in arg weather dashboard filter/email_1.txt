@@ -1,0 +1,27 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa
+Date: 2025-03-12 09:08:51.044000+00:00
+Subject: Re: weird values in arg weather dashboard filter
+Message-ID: ZR3P278MB1226705544A7B4B1E8E2EDB1F5D12@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717FC5541086AE06833F43AEBD12@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Hello Pablo, 
+
+It's not weird values, just we need to sort the dates.
+fixed.
+
+
+Thanks, 
+Jebrane.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 11 March 2025 20:13
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: weird values in arg weather dashboard filter 
+ 
+ 

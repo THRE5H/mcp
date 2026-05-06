@@ -1,0 +1,162 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Saber Khalfallah; Skander Ghamgui; Elfi Middelbeek; Dnext Lineups; Support Dnext
+Date: 2025-11-13 16:37:51.487000+00:00
+Subject: Re: mapping urea
+Message-ID: GV0P278MB1366C2DA459DDAC46E90C916E6CDA@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1323A986D2508B5A3DAE6EB2F8CDA@ZR3P278MB1323.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+Will works or, in a simpler way, you can use Reapply Mapping if those were mapped incorrectly before and didn’t come from static values.
+Using Reapply Mapping is easier, and you don’t need to be a Reference Manager to do it, unlike the solution provided by Saber.
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: 13 November 2025 16:31
+To: Skander Ghamgui <skander.ghamgui@dnext.io>; Elfi Middelbeek <elfi.middelbeek@dnext.io>; Dnext Lineups <lineups@dnext.io>; Support Dnext <support@dnext.io>; Louis Olive <louis.olive@dnext.io>; Pierre Goffinet <pierre.goffinet@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>
+Cc: Amine Saidi <amine.saidi@dnext.io>
+Subject: RE: mapping urea 
+ 
+
+Hello Elfi,
+
+ 
+
+To achieve what you want, I would first need to:
+
+1.	Edit the product reference with the code UREA and change the name from “FERTDU” to “Urea.”
+2.	Use Reference Management > Correction to replace the following reference:
+
+	*	Name: Urea
+	*	Code: FERTDU
+		with the first one.
+
+However, I'm not completely sure if this will work as expected or if it could cause issues.
+
+And i’m not sure if it’s going to work and not cause issues.
+
+Adding @Louis Olive <mailto:louis.olive@dnext.io>  & @Pierre Goffinet <mailto:pierre.goffinet@dnext.io> 
+
+ 
+
+@Nicolas Chaperon <mailto:nicolas.chaperon@dnext.io> @Benoit Baliguet <mailto:benoit.baliguet@dnext.io> 
+
+
+Please let me know if the steps I mentioned could adress Elfi’s request and not cause any issues.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Skander Ghamgui <skander.ghamgui@dnext.io> 
+Sent: Thursday, November 13, 2025 15:58
+To: Elfi Middelbeek <elfi.middelbeek@dnext.io>; Dnext Lineups <lineups@dnext.io>; Support Dnext <support@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Amine Saidi <amine.saidi@dnext.io>
+Subject: Re: mapping urea
+
+ 
+
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  kind reminder
+
+ 
+
+ 
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+________________________________
+
+From: Elfi Middelbeek <elfi.middelbeek@dnext.io <mailto:elfi.middelbeek@dnext.io> >
+Sent: Thursday, October 16, 2025 10:26 AM
+To: Dnext Lineups <lineups@dnext.io <mailto:lineups@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: mapping urea 
+
+ 
+
+Hi all,
+
+ 
+
+So I’ve found some issues with the mapping of urea – see two codes below:
+
+ 
+
+Mapping issue found : 
+
+Correct:
+Name : Urea
+Code : FERTDU
+
+ 
+
+Wrong:
+Name : FERTDU
+Code : Urea
+
+ 
+
+However, the second issue is that with the correct mapping it shows FERTDU as product on the platform – but clients will not know this is urea unless we tell them. So it would be better to change it to Name: Urea and Code: UREA – but how easy is this and can we change everything over then so there are no issues?
+
+ 
+
+Thank you!
+
+ 
+
+All the best,
+
+ 
+
+Elfi
+
+ 
+
+ 
+
+Elfi Middelbeek
+
++41 77 267 1175
+
+Head of Fertilizer Analysis
+
+
+
+ 

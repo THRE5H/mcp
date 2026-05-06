@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing the platform and changing their password upon first login.
+
+**Context**: The user is a new customer of the Service Provider's platform. They were provided with login credentials to access the system for the first time.
+
+**Solution**: The Support Agent provided the customer with the login URL and credentials, along with detailed instructions on how to change the password after the initial login. The customer was advised to follow the steps outlined to ensure account security.

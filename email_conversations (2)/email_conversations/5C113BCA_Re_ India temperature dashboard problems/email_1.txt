@@ -1,0 +1,58 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-06 13:39:01.479000+00:00
+Subject: Re: India temperature dashboard problems
+Message-ID: ZR3P278MB1226E8963AFAED532BA37355F5CA2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07175A167A554DF2C3FEAB81EBCA2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png, image_4.png
+
+================================================================================
+
+You're right, now martin is working to fix the issue, we'll keep you updated.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 06 March 2025 13:14
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: India temperature dashboard problems 
+ 
+in that chart something is not looking right, with the temperatures going so low . can u chec this is ok?
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Thursday, March 6, 2025 8:34 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: India temperature dashboard problems 
+ 
+Hello, 
+
+Fixed, 
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 05 March 2025 18:15
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: India temperature dashboard problems 
+ 
+no data for some days
+
+
+
+when selectint the state, numbers are wrong
+
+
+
+
+this is the landing page
+
+
+
+
+
+

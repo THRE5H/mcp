@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Emails sent to a recipient are rejected due to the recipient's mail system having a partner connector configured with security settings RestrictDomainsToIPAddresses or RestrictDomainsToCertificate, causing delivery failure with error code 550 5.7.51 TenantInboundAttribution.",
+    "solution": "The recipient's mail system blocks emails from servers not explicitly allowed by their partner connector settings. To resolve this, the recipient's IT administrator must update their mail system configuration to allow emails from the sender's mail server IP addresses or certificates. This involves modifying the partner connector settings in Exchange Online or the mail system to remove or adjust the RestrictDomainsToIPAddresses or RestrictDomainsToCertificate parameters to permit the sender's domain or IPs.",
+    "keywords": [
+      "email delivery failure",
+      "partner connector",
+      "RestrictDomainsToIPAddresses",
+      "RestrictDomainsToCertificate",
+      "Exchange Online",
+      "error 550 5.7.51",
+      "TenantInboundAttribution",
+      "mail system security",
+      "email rejection",
+      "mail flow configuration"
+    ],
+    "category": "Configuration"
+  }
+}

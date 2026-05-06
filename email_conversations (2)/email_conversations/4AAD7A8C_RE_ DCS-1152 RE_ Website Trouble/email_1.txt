@@ -1,0 +1,67 @@
+From: Aaron Parrish <Aaron.Parrish@verbio.us>
+To: Support Dnext
+Date: 2025-04-04 15:21:29.283000+00:00
+Subject: RE: DCS-1152 RE: Website Trouble
+Message-ID: MW4PR17MB4420B58ACA830484F75B2ADBE9A92@MW4PR17MB4420.namprd17.prod.outlook.com
+In-Reply-To: JIRA.29170.1743772470000.3d9d94ee-7898-4adc-a8c9-f7cf508045d9.1743776130840@Atlassian.JIRA
+
+================================================================================
+
+An y time today works
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net> 
+Sent: Friday, April 4, 2025 10:16 AM
+To: Aaron Parrish <Aaron.Parrish@verbio.us>
+Subject: DCS-1152 RE: Website Trouble
+
+ 
+
+—-—-—-— Reply above this line. Saber Khalfallah commented: Hi Aaron, Thank you for providing the details. We’ve checked the logs on our end, and we did not find any login attempts associated with your user account for today. To assist you further,
+
+ZjQcmQRYFpfptBannerStart
+
+This Message Is From an Untrusted Sender 
+
+You have not previously corresponded with this sender. 
+
+ZjQcmQRYFpfptBannerEnd
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hi Aaron,
+
+Thank you for providing the details.
+
+We’ve checked the logs on our end, and we did not find any login attempts associated with your user account for today.
+
+To assist you further, I’d like to propose a quick Teams call to check things from your end and understand the issue more clearly.
+
+We can troubleshoot together and ensure we get it resolved quickly.
+
+Please let me know a time that works for you, and I’ll send over a meeting invite.
+
+Looking forward to speaking with you soon.
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://urldefense.com/v3/__https:/dnext.atlassian.net/servicedesk/customer/request/29170/attachment/18504__;!!C8VSGrDFr2c!wOrxlowWMOF9taBIPmo1z-gMYrfDv3tLZGVd6phB0XXu-9oToIq_R_trun2aUG6U784UXavSXrwamNCW9BHLb0BQ$> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!C8VSGrDFr2c!wOrxlowWMOF9taBIPmo1z-gMYrfDv3tLZGVd6phB0XXu-9oToIq_R_trun2aUG6U784UXavSXrwamNCW9MohYjVe$>  |
+
+View request <https://urldefense.com/v3/__https:/dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1152?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjNlMTNhMWQ5M2Y1OTQ4ZjE4ZjYxYzY0OGNjNTYzOThkNjM5MTQ3YWEzYTlmYmExMGZiMWY2MjNjYmRmODcyYTQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTA3MzkiLCJpc3N1ZSI6IkRDUy0xMTUyIn0sImV4cCI6MTc0NjE5NTMzMCwiaWF0IjoxNzQzNzc2MTMwfQ.QkmKxYMVO7Rx5uNQ-PaOQHmusJHzbCleBCopfOpPRUM&sda_source=notification-email__;!!C8VSGrDFr2c!wOrxlowWMOF9taBIPmo1z-gMYrfDv3tLZGVd6phB0XXu-9oToIq_R_trun2aUG6U784UXavSXrwamNCW9NCPlWGx$>  · Turn off this request's notifications <https://urldefense.com/v3/__https:/dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1152/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImNjMDFjMDg4NTMyNzFhNzIzZTZkMTMxNDU4NjgyN2Q1ZTRlMmU4NzdjYTIwODM0YjlmZDJjYWFkMzdkZGFjODEiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6NWJiNDI0NWItZTg5MS00NDYxLWFjNDItOGY5MGY1MmNhNGFlIiwiaXNzdWUiOiJEQ1MtMTE1MiJ9LCJleHAiOjE3NDYxOTUzMzAsImlhdCI6MTc0Mzc3NjEzMH0.-lOyCYS_abEn2cvezd3og5vXuglQnAMfc7OtGtQNWxA__;!!C8VSGrDFr2c!wOrxlowWMOF9taBIPmo1z-gMYrfDv3tLZGVd6phB0XXu-9oToIq_R_trun2aUG6U784UXavSXrwamNCW9Fkz2a48$> 
+
+This is shared with Aaron Parrish, Mohamed Elasfoury, and Bastien.
+
+Powered by Jira Service Management <https://urldefense.com/v3/__https:/www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext__;!!C8VSGrDFr2c!wOrxlowWMOF9taBIPmo1z-gMYrfDv3tLZGVd6phB0XXu-9oToIq_R_trun2aUG6U784UXavSXrwamNCW9LjhtHa3$> 
+
+Sent on April 4, 2025 4:15:30 PM CEST 
+
+ <https://atlas-trk.prd.msg.ss-inf.net/q/QH2Nhi-aPUqlTBRnRquDmQ~~/AAAAARA~/1KDjSd7oANgw5YvZrHZdl3j4z3Z6lZ9pbQWwEmBXLy37q6QN5Xcc_NAhiPqEPBdh-jtmDIJoCxXHNnLSHXUPRQ~~> 

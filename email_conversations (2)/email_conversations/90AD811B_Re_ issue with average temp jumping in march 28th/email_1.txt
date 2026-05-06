@@ -1,0 +1,20 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-12-17 20:50:50.277000+00:00
+Subject: Re: issue with average temp jumping in march 28th
+Message-ID: ZR3P278MB1226F456C42C2B5561483F2AF5ABA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717C07FC63723D68C954C7EEBABA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Fixed. 
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 17 December 2025 16:00
+To: Support Dnext <support@dnext.io>
+Subject: issue with average temp jumping in march 28th 
+ 

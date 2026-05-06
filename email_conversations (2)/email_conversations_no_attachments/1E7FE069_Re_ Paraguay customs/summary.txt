@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Paraguay customs data showed imports up to April 2025 but exports only up to January 2025, indicating a potential data issue.
+
+**Context**: The customer is an external user from a management company seeking assistance from a service provider. The issue involves the customs data feature of a trade flow analytics tool, with the user confirming that no filtering settings were applied that would cause this discrepancy.
+
+**Solution**: The support team identified and fixed a bug in the data retrieval script that caused the mismatch in export data. They confirmed the issue was resolved and recommended adding a check to the HealthCheck system to prevent similar issues in the future. The customer was informed that the problem should no longer occur.

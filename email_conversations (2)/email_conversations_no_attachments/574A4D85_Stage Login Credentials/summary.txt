@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials for the staging environment of a service but did not have access.
+
+**Context**: The user is a new employee at Customer Organization, requiring access to the staging environment of the Service Provider's platform. The email was sent to provide necessary credentials for onboarding.
+
+**Solution**: The Support Agent provided the user with the login credentials, including the username and password for the staging environment. It is recommended that the user securely store these credentials and change the password upon first login for security purposes.

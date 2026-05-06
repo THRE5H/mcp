@@ -1,0 +1,35 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Martin Keller
+Date: 2026-01-14 08:04:08.730000+00:00
+Subject: Re: Strange values in Average in Russia snow and soil temperature dashboard
+Message-ID: ZR3P278MB12267231EC048CF45A1B21E8F58FA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717BF57502622EB61059427EB8EA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Wednesday, January 14, 2026 8:00:00 AM
+À : Support Dnext <support@dnext.io>
+Objet : Re: Strange values in Average in Russia snow and soil temperature dashboard 
+ 
+Hi, can we check this please? 
+
+thanks
+
+
+
+here the average for some reasons follow 2025
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, January 9, 2026 11:39 PM
+To: Support Dnext <support@dnext.io>
+Subject: Strange values in Average in Russia snow and soil temperature dashboard
+ 
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer reported that there was an issue accessing recent data for the EU rapeseed balance on the platform, as no recent years' data was available.
+
+**Context**: The user is an external user from a Customer Organization seeking information from a Service Provider's platform. The issue arose while the user was trying to access specific agricultural data related to rapeseeds.
+
+**Solution**: The Support Agent confirmed that the dashboard was updated to include the latest data for rapeseed. The customer was advised that the issue was resolved and was encouraged to reach out for further assistance if needed.

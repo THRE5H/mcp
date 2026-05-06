@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of "Shell" from a specific mailing list.
+
+**Context**: The user is an external user from a Customer Organization, communicating with a Support Agent from a Service Provider. The request was made via email to a dedicated support address.
+
+**Solution**: The Support Agent confirmed that the removal of "Shell" from the mailing list was completed. It is recommended that users verify their mailing list preferences periodically to ensure they reflect current needs.

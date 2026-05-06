@@ -1,0 +1,12 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Matias Meligrana; Support Dnext
+Date: 2025-03-26 13:35:25.749000+00:00
+Subject: Access to arg prms data for Shell
+Message-ID: GV0P278MB0717FB27E297E4738EAD8300EBA62@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Support, can you help Matias access the arg prms data?
+
+Thanks,
+Pablo

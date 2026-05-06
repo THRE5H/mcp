@@ -1,0 +1,35 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Louis Olive; Support Dnext; Martin Keller
+Date: 2025-04-08 16:56:05.022000+00:00
+Subject: Re: Soil temperature
+Message-ID: ZR3P278MB1226E487F0DCDE1413DF881EF5B52@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0499DACF31F4A234BE11274C8AB52@GV0P278MB0499.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Martin Keller <mailto:martin.keller@dnext.io> 
+________________________________
+
+From: Louis Olive <louis.olive@dnext.io>
+Sent: 08 April 2025 16:16
+To: Support Dnext <support@dnext.io>
+Cc: Enea Albertoli <enea.albertoli@dnext.io>
+Subject: Soil temperature 
+ 
+
+Hello,
+
+ 
+
+Two quick questions:
+
+1.	Is it normal for this data to have a 5-day delay?
+2.	Can we confirm the accuracy of the data? There has been some snowfall recently.
+
+Thanks!
+
+ 
+
+ 
+
+Louis

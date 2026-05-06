@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user to the Hedonizm environment but noted that the TradeFlows list was empty and needed validation before sending the user's profile.
+
+**Context**: The customer is an internal user from Customer Organization, seeking support from the Customer Support team of Service Provider. The issue arose due to a bug that prevented all resources from being shared when the contract was created.
+
+**Solution**: The Support Agent reported the issue to the development team and reran the sharing process. After confirming that everything was in order, the Support Agent requested confirmation from the customer to proceed with sending the user credentials. It is recommended to ensure all resources are properly shared during contract creation to prevent similar issues.

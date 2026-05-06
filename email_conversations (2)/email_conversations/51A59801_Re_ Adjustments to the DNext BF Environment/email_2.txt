@@ -1,0 +1,260 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Quentin Doublet; Support Dnext; Benoit Baliguet
+Date: 2025-09-03 11:08:26.428000+00:00
+Subject: RE: Adjustments to the DNext BF Environment
+Message-ID: GV0P278MB1320CB9D3A784093872DC140F801A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717050E74199C0C6283C683EB01A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Not sure if it’s only you, when I go to the “EU Black Fryers” I get this :
+
+
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Wednesday, September 3, 2025 10:59
+To: Quentin Doublet <quentin.doublet@blackfryers.io>; Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Subject: Re: Adjustments to the DNext BF Environment
+
+ 
+
+shouldn´t be this be part of the BF section?
+
+ 
+
+if i navigate to the black fryer section i cannot find this dashboards for example.
+
+ 
+
+ 
+
+
+
+________________________________
+
+From: Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >
+Sent: Wednesday, September 3, 2025 11:34 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Benoit Baliguet <benoit.baliguet@dnext.io <mailto:benoit.baliguet@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: Re: Adjustments to the DNext BF Environment 
+
+ 
+
+Pablo,
+
+ 
+
+Did you check the G&O SnD group ?
+
+
+
+ 
+
+It has the EU Commission SnD as well as the individual country SnDs as sub-groups:
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: Wednesday, 3 September 2025 11:30
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Benoit Baliguet <benoit.baliguet@dnext.io <mailto:benoit.baliguet@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >
+Subject: Re: Adjustments to the DNext BF Environment 
+
+ 
+
+hi is it possible that some dashboards disappeared form the platform?
+
+i cannot find them either in the BF section.
+
+ 
+
+example is the EU commission SND and the apparent use SND´s we had.
+
+ 
+
+also missing the individual countries official snd dashboards.
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Thursday, August 28, 2025 1:00 PM
+To: Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Benoit Baliguet <benoit.baliguet@dnext.io <mailto:benoit.baliguet@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: RE: Adjustments to the DNext BF Environment 
+
+ 
+
+Hello Quentin,
+
+ 
+
+*	For the 1st point 
+	=> you should now not see Biofuels & Fertilizers in Business Categories there was a Dashboard for some Reason the “G&O SnD > Europe > Oilseeds Crush Capacity” Dashboard had the Biofuels Business Categories  
+
+As for Renaming I need the dev team permission & the necessary role as I cannot do that now 
+
+ 
+
+*	For the 2nd point I need the dev team help & permission as well
+	adding @Benoit Baliguet <mailto:benoit.baliguet@dnext.io> 
+
+ 
+
+*	For the 3rd point can u please check now it should be good 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> > 
+Sent: Thursday, August 28, 2025 11:06
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Nicolas Chaperon <nicolas.chaperon@dnext.io <mailto:nicolas.chaperon@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: Adjustments to the DNext BF Environment
+
+ 
+
+Dear Saber, Dear Support Team,
+
+ 
+
+Please see below a list of adjustments that I would like the BF environment of the platform to reflect:
+
+ 
+
+1.
+
+Business Categories\Dashboards
+
+Remove Biofuels, Fertilizers, EU Black Fryers
+
+Renaming the system entities:
+
+Grains & oilseeds to be called Grains & Oilseeds
+
+Meat to be called Meat, Livestock & Feed
+
+Eu Black Fryers to be called EU BlackFryers
+
+
+
+ 
+
+ 
+
+2.
+
+Breadcrumb trail
+
+The spelling of some categories is not consistent with the rest of the platform:
+
+“grains_oilseeds” => Grains & Oilseeds
+
+
+
+ 
+
+“livestock_and_meat” => Meat, Livestock & Feed
+
+
+
+ 
+
+“tradeflow” => Tradeflow
+
+
+
+ 
+
+“weather” => Weather
+
+
+
+ 
+
+“sugar” => Sugar
+
+
+
+ 
+
+“eu_black_fryers” => EU BlackFryers
+
+
+
+ 
+
+3.Allocation of Dashboards to business categories
+
+Lineups group: Europe\France, Portugal, Romania, Spain are not showing within the BlackFryers environment although their labelling is already showing EU BlackFryers.
+
+It probably needs to be adjusted somewhere else.
+
+ 
+
+*****************************
+
+ 
+
+I can provide more explanations if needed.
+
+ 
+
+Best Regards,
+
+ 
+
+Quentin
+
+ 

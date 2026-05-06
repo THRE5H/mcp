@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "EU Production Dashboard not updated",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE",
+      "from_name": "Pablo Figueroa",
+      "to": "Support Dnext; Nader Ltaief; Louis Olive",
+      "cc": "",
+      "received_time": "2025-06-30 06:30:11.349000+00:00",
+      "sent_time": "2025-06-30 06:30:00+00:00",
+      "body_text": " \r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<span style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\"><img style=\"max-width: 610px;\" size=\"175197\" data-outlook-trace=\"F:0|T:1\" src=\"cid:ec4c3a8b-f676-4270-8bea-b0115a8be259\"></span>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 11pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "DA2403C759D7C14F9B537C21DA6EC55F",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002CCFE72250000",
+      "size": 33142,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GV0P278MB0717C2C45E6E6BE0F79DB95DEB44A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "EU Production Dashboard not updated"
+}

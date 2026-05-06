@@ -1,0 +1,28 @@
+From: John Stansfield </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ADF99C30AB334415984CBF2F45D0C5A0-JOHN.STANSF>
+To: Guillaume Goudy; Saber Khalfallah; Support Dnext
+Date: 2025-03-27 12:47:25.379000+00:00
+Subject: Re: Trade flow sugar download
+Message-ID: GV0P278MB060543AAD2A617726CAD82F385A12@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02118872EF0B60775986023F98A12@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+GG - Is this something Mohamed could get involved in?  We were chatting yesterday about the difficulty of transferring the Brazilian port data into the Platform and then pulling in the forecasts at the same time.  He was going away yesterday to think about how to get the data in.
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 27 March 2025 11:08
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: John Stansfield <john.stansfield@dnext.io>; Paola Luporini <paola.luporini@dnext.io>
+Subject: Trade flow sugar download 
+ 
+
+Saber,
+
+ 
+
+I just finished a call with Philippe from Avere. He wants to be able to download the sugar tradeflow from the platform but have the info what is realized and what is forecast. We have this function in the TF. However, the way the data is being updated or processed in sugar, everything is uploaded as official. There is no forecast being uploaded. Is there a way to change that and upload official and a forecast. You will need to talk with sugar team and see how is current process being done and if easy to change. Not sure that it is for you to do but please coordinate effort and keep me posted.
+
+gg

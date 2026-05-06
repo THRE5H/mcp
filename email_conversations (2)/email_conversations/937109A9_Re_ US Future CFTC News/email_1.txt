@@ -1,0 +1,83 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Customer Center; Wassim Mandhouj; Support Dnext
+Date: 2025-05-21 11:21:04.161000+00:00
+Subject: Re: US Future CFTC News
+Message-ID: GV0P278MB12133E28D7E826064E3CC6D2F59EA@GV0P278MB1213.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12265A2A207930CFD672209FF592A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image1.png, image2.png, image3.png, image4.png, image5.png, image6.png, image7.png
+
+================================================================================
+
+Hello Pablo, 
+
+I checked with Wassim and Raj already exists in the BCC field. 
+
+Thanks, 
+Jebrane
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 17 May 2025 13:10
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Customer Center <customer-center@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: US Future CFTC News 
+ 
+Adding @Support Dnext <mailto:support@dnext.io> 
+________________________________
+
+De : Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Envoyé : Saturday, May 17, 2025 1:09:59 PM
+À : Pablo Figueroa <pablo.figueroa@dnext.io>; Customer Center <customer-center@dnext.io>; Wassim Mandhouj <wassim.mandhouj@dnext.io>
+Objet : Re: US Future CFTC News 
+ 
+@Wassim Mandhouj <mailto:wassim.mandhouj@dnext.io>  will take care of this request
+________________________________
+
+De : Pablo Figueroa <pablo.figueroa@dnext.io>
+Envoyé : Friday, May 16, 2025 11:31:23 PM
+À : Customer Center <customer-center@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Objet : Re: US Future CFTC News 
+ 
+Need to add raj from cfg
+
+Get Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: News Dnext <news@dnext.io>
+Sent: Friday, May 16, 2025 11:15:04 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: US Future CFTC News 
+ 
+Executive Summary 
+
+Corn 
+ 
+
+Wheat 
+ 
+
+Hard Red Winter 
+ 
+
+Soft Red Winter 
+ 
+
+Soybean 
+ 
+
+Soybean Meal
+ 
+
+Soybean Oil 
+ 
+
+Details: 
+
+
+
+You can use the dashboard located in Dashboards -> COT activity -> Commitment of Traders -> US Futures where you can interact with the data.
+
+
+
+Best regards,
+
+DNEXT INTELLIGENCE

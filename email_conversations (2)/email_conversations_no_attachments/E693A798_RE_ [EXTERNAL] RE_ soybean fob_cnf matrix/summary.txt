@@ -1,0 +1,5 @@
+**Problem**: The customer is unable to access the soybean cash (fob/cnf) on the platform due to permission issues.
+
+**Context**: The customer is an external user from a Customer Organization seeking access to a specific feature of the Service Provider's platform. The issue appears to be related to user permissions for viewing the soybean cash data.
+
+**Solution**: The Support Agent acknowledged the issue and requested additional details, including a screenshot. They also recommended clearing the browser cache and provided a direct link to the dashboard for the customer to try accessing it again. The investigation into the issue is ongoing.

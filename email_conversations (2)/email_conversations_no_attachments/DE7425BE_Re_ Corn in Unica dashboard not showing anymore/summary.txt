@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the corn (final product) statistics were no longer visible in the Unica dashboard, which is critical for their operations.
+
+**Context**: The user is an external user from Customer Organization, utilizing the Unica dashboard to access important datasets. This issue had been raised previously, indicating a recurring problem that needed urgent attention.
+
+**Solution**: The support team republished the dashboard, restoring access to the corn ethanol values. The customer was informed of the resolution, ensuring that the important dataset was available again. It is recommended to monitor the dashboard regularly to prevent similar issues in the future.

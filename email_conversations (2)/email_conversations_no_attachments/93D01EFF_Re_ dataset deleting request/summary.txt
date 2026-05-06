@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of two empty datasets that were created earlier the same day, as they needed to replace them with new ones.
+
+**Context**: The user is an external user from the Customer Organization, utilizing a data management service provided by the Service Provider. The datasets in question were recently created and were not in use.
+
+**Solution**: The Support Agent confirmed the successful deletion of the requested datasets. It is recommended that users verify the contents of datasets before creation to avoid unnecessary deletions in the future.

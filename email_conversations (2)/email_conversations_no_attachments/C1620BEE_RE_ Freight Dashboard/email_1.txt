@@ -1,0 +1,281 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Lucas Rosa; Support Dnext; Jebrane Ben Salem
+Date: 2025-09-05 19:16:21.475000+00:00
+Subject: RE: Freight Dashboard
+Message-ID: GV0P278MB1320AA0FAEE2B1D83C2AA428F803A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0591366690B19C9AF091FCEFF83AA@GV0P278MB0591.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Lucas,
+
+ 
+
+I have made the necessary changes except for one point : 
+“Pls make sure that once you filter the weekly chart, when I click at the wow table respect the previous filter and if possible the monthlies as well.”
+
+
+
+The issue is that if we do that it can only be one way as far as I know meaning if he will need to each time go back to the Monthly chart for example to change the filter , also the monthly chart has “origin & destination” as a filter while the MoM table has only “origin” as the table displays all the destinations as columns. I think its best we leave it like that 
+https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b <https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b>  
+
+
+
+
+Please let me know if there is anything else to adjust , if all is good @Jebrane Ben Salem <mailto:jebrane.bensalem@dnext.io>  can you please publish it to dnexr.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io> 
+Sent: Friday, August 29, 2025 17:51
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Freight Dashboard
+
+ 
+
+Thanks Saber, overall is almost there! Excellent work!! 
+
+ 
+
+One question and some small changes that might improve the dashboard.
+
+ 
+
+How are you calculating the UDS/ton?
+
+ 
+
+Pls start in this page, monthly rates, origin Sorriso -> Santos, please reduce the panel on the right.
+
+ 
+
+Please add the disclaimer that some origins has lower historical data. Starting over September last year to recent date (pls improve this phrase!)
+
+ 
+
+Organize the menu, with
+
+Monthly Chart
+
+MoM Table
+
+ 
+
+Weekly chart
+
+WoW table
+
+ 
+
+Pls make sure that once you filter the weekly chart, when I click at the wow table respect the previous filter and if possible the monthlies as well.
+
+ 
+
+ 
+
+
+
+ 
+
+Do you know why some doest have the WoW values?
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: quinta-feira, 28 de agosto de 2025 14:24
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: RE: Freight Dashboard
+
+ 
+
+Hello Lucas, 
+
+ 
+
+Kindly find below the link to the dashboard .
+https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b <https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b> 
+as discussed I have adjusted the points you mentioned 
+
+Please let me know if there is anything else to change. 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> > 
+Sent: Wednesday, August 27, 2025 18:52
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: RE: Freight Dashboard
+
+ 
+
+Hi Saber, how are you?
+
+ 
+
+Please find attached the majors comments and let me know if you have any questions.
+
+ 
+
+Need to add the units BRL/ton or USD/ton
+
+Make grains freight as standard and is it possible to add Fertilizer?
+
+ 
+
+In dollars is not correct. And add the arrows (upside and downside) that you have over the weeklies.
+
+ 
+
+
+
+ 
+
+Is it possible to break the origins and destinations by state?
+
+ 
+
+
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: quarta-feira, 27 de agosto de 2025 14:29
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: RE: Freight Dashboard
+
+ 
+
+Hello Lucas, 
+
+kindly find the link to the Freight Dashboard For Review on the stage environment below : 
+https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b <https://stage.dnext.io/dashboard/*/Economics/Brazil/5be189f4-f36c-44a6-bcb4-24434ec63c5b> 
+
+ 
+
+Please let me know you thoughts and if you would like me to change or adjust anything.
+
+ 
+
+Thanks 
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> > 
+Sent: Friday, July 11, 2025 13:34
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: Freight Dashboard
+
+ 
+
+Good morning Support, 
+
+ 
+
+Could you please create a freight dashboard? Using the historical data + weekly data to show the how is developing the current month.
+
+ 
+
+Same schema of Farmer selling in Brazil dashboard.  
+
+ 
+
+Line chart with evolution
+
+Line chart with the weekly change 
+
+Table with the absolute value and the change.
+
+ 
+
+The weeky dataset is:
+
+ 
+
+dnexr-vidal-logistica-freight-bra-freight-truck-rates-weekly
+
+ 
+
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  could you provide the historical dataset?
+
+ 
+
+ 
+
+Let me know if you have any questions.
+
+Thanks
+
+Lucas

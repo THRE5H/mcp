@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the initial report for the year 2026 was missing from the dropdown menu and could not be accessed in the system.
+
+**Context**: The user is an external user (Grains Analyst) from a Customer Organization. The issue pertains to a reporting feature within a data dashboard provided by a Service Provider. The customer noted that the first report related to January 6 was published recently.
+
+**Solution**: The support team updated the dashboard to include the latest data, making the 2026 report visible. The customer was informed of the resolution and was offered further assistance if needed. It is recommended to check the dashboard regularly for updates to avoid similar issues in the future.

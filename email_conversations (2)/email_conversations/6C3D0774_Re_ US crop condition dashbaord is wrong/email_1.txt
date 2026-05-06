@@ -1,0 +1,90 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Saber Khalfallah; Pablo Figueroa; Support Dnext
+Date: 2025-06-27 17:28:20.805000+00:00
+Subject: Re: US crop condition dashbaord is wrong
+Message-ID: GV0P278MB0321B577F19C10B81BD00ACE9D45A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320FC216BCA37F9065AE73EF845A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Pablo, it's fixed
+
+And regarding the datasets if you want to USA data you may want to use the datasets I newly created instead of the ones used by the dashboard:
+
+Crop Condition dataset : 
+Code: dnexr-nass-usda-usa-gno-condition-weekly
+Name: U.S. Weekly Crop Condition Dataset (NASS - USDA)
+
+
+Crop Progress dataset : 
+Code: dnexr-nass-usda-usa-gno-progress-weekly
+Name: U.S. Weekly Crop Progress Dataset (NASS - USDA)
+
+
+
+
+Crop Condition and progress dataset (data prep that combine both): 
+Code: dnexr-nass-usda-usa-gno-progress-condition-weekly
+Name: U.S. Weekly Crop Progress and Condition Dataset (NASS - USDA)
+
+
+thanks,
+Iheb   
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Friday, June 27, 2025 4:06 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: RE: US crop condition dashbaord is wrong 
+ 
+
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io> 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Friday, June 27, 2025 16:05
+To: Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>
+Subject: US crop condition dashbaord is wrong
+
+ 
+
+hi guys can we check this?? i think this mistake was spotted time ago and still we have problems here
+
+ 
+
+i think the error comes from mapping...you are mapping durum as spring wheat and adding all toghether
+
+ 
+
+ 
+
+please fiz asap as this one is very important
+
+
+
+ 

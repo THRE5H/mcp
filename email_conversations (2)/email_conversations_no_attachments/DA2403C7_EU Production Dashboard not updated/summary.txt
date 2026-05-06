@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the EU Production Dashboard was not updating as expected, which hindered their ability to access current data.
+
+**Context**: The user is an external user from a Customer Organization utilizing the Service Provider's dashboard feature. The issue arose in a production environment where timely data updates are critical for operational decision-making.
+
+**Solution**: The Support Agent investigated the dashboard settings and identified a configuration error that was preventing updates. After correcting the settings, the dashboard was successfully refreshed, and the customer confirmed that the issue was resolved. It is recommended that users regularly check dashboard configurations to prevent similar issues in the future.

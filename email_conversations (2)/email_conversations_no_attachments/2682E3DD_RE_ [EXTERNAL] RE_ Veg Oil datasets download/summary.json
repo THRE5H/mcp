@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User is unable to see or use the download button to download datasets from the Datasets tab in the platform.",
+    "solution": "To download a dataset, first click on the 'visualize record' button represented by an eye icon. This opens an interface where a 'Download' button is located at the top right of the screen. Clicking this button will initiate the dataset download in the browser after a short wait. If the download button does not appear, try clearing the browser's cache and cookies, then log out and log back into the platform. This sequence often resolves the issue of the download button not showing up.",
+    "keywords": [
+      "dataset download",
+      "download button missing",
+      "visualize record",
+      "eye icon",
+      "clear cache",
+      "clear cookies",
+      "log out",
+      "log in",
+      "browser download",
+      "datasets tab"
+    ],
+    "category": "How-to Guide"
+  }
+}

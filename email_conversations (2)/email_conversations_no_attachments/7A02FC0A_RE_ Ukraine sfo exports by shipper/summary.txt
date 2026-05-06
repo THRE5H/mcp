@@ -1,0 +1,5 @@
+**Problem**: The User requested a breakdown of Ukraine's vegetable oils exports data by shipper name but was informed that this information is currently unavailable.
+
+**Context**: The User is an external user from Customer Organization, seeking specific export data related to vegetable oils from the Service Provider. The inquiry involves checking data sources for detailed shipping information.
+
+**Solution**: The Support Agent confirmed that while shipper information exists for Ukraine's exports, it is not available for vegetable oils at this time. It is recommended that the User follow up later for updates or explore alternative data sources for similar information.

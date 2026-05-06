@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "MPOA dashboard",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM",
+      "from_name": "Bastien Lambert",
+      "to": "Support Dnext; Afef Matheli",
+      "cc": "Aditya Jeripotula; Ghaith Krifa; Amna Khemiri",
+      "received_time": "2025-11-11 11:18:26.576000+00:00",
+      "sent_time": "2025-11-11 11:18:18+00:00",
+      "body_text": "Hello,\r\n\r\n \r\n\r\nCan you guys please check on the 1-31 configuration, there is no data appearing after July : it is missing August, September and October basically\r\n\r\n \r\n\r\nThanks\r\n\r\n \r\n\r\n \r\n\r\n\r\n",
+      "body_html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><!--[if !mso]><style>v\\:* {behavior:url(#default#VML);}\r\no\\:* {behavior:url(#default#VML);}\r\nw\\:* {behavior:url(#default#VML);}\r\n.shape {behavior:url(#default#VML);}\r\n</style><![endif]--><style><!--\r\n/* Font Definitions */\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\r\n@font-face\r\n\t{font-family:Aptos;}\r\n/* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0in;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tmso-ligatures:standardcontextual;\r\n\tmso-fareast-language:EN-US;}\r\nspan.EmailStyle17\r\n\t{mso-style-type:personal-compose;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tcolor:windowtext;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tmso-fareast-language:EN-US;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:1.0in 1.0in 1.0in 1.0in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n--></style></head><body lang=DE link=\"#467886\" vlink=\"#96607D\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>Hello,<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US>Can you guys please check on the 1-31 configuration, there is no data appearing after July : it is missing August, September and October basically<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Thanks<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><img width=1473 height=740 style='width:15.3437in;height:7.7083in' id=\"Picture_x0020_1\" src=\"cid:image001.png@01DC52FC.E0845F40\"><o:p></o:p></p></div></body></html>",
+      "conversation_id": "667C9ED2AE7B493BB911474187ECBE67",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490003242D7E8B0000",
+      "size": 469637,
+      "has_attachments": true,
+      "attachments": [],
+      "message_id": "ZR0P278MB0773D4A36090CDAE40566B9E98CFA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "MPOA dashboard"
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a specific dataset identified by the code "dnexr-dnexr-all-vessels-database."
+
+**Context**: The user is a Data Analyst from the Trade Flow team at a Customer Organization. The request was made to the Customer Support team of the Service Provider, indicating a need for data management within their system.
+
+**Solution**: The Support Agent confirmed that the dataset deletion was successfully completed. It is recommended for users to verify dataset codes before requesting deletion to prevent any accidental loss of important data.

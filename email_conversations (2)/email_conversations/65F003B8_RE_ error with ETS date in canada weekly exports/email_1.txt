@@ -1,0 +1,65 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Support Dnext; Léonard Berney; Rami Setti
+Date: 2025-11-25 12:14:55.512000+00:00
+Subject: RE: error with ETS date in canada weekly exports
+Message-ID: GV0P278MB132043BCC778752E0362FCC4F8D1A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07172440C60C89F042495EA7EBD1A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding @Léonard Berney <mailto:leonard.berney@dnext.io>  @Rami Setti <mailto:rami.setti@dnext.io> 
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Tuesday, November 25, 2025 11:50
+To: Support Dnext <support@dnext.io>
+Subject: error with ETS date in canada weekly exports
+
+ 
+
+Hi there seems to be an issue with he date format in this dataset: dnexr-structured-cgc-ags-can-tf_lineups_vessel-weekly
+
+ 
+
+we are using this dataset in the tradeflows and we have dashboards in the platform using this dataset so please take as important
+
+ 
+
+month and days are not ok so where it says 08/10/2025 should be 10/08/2025 = August 10th 
+
+ 
+
+
+
+ 
+
+thanks,
+
+Pablo
+
+ 
+
+ 

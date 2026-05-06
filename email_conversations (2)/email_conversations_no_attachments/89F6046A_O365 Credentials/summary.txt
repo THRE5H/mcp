@@ -1,0 +1,5 @@
+**Problem**: The customer needed their O365 login credentials to access the service.
+
+**Context**: The user is a new employee at Customer Organization and required access to the O365 platform. The request was made to the Customer Support team for assistance with account setup.
+
+**Solution**: The Support Agent provided the user with their O365 login credentials, including the username and password. The customer was successfully onboarded with access to the necessary services. It is recommended that users change their passwords upon first login for security purposes.

@@ -1,0 +1,24 @@
+From: quarantine@messaging.microsoft.com <quarantine@messaging.microsoft.com>
+To: Support Dnext
+Date: 2025-04-26 10:12:45.538000+00:00
+Subject: Microsoft 365 security: You have messages in quarantine
+Message-ID: 767225a8-953f-41ac-86fd-28f186b8d503@ZR0CHE01BG101.eop-che01.prod.protection.outlook.com
+
+================================================================================
+
+		
+	 <https://products.office.com> 
+Review These Messages	 
+1 messages are being held for you to review as of 4/26/2025 9:12:36 AM (UTC). 	
+Review them within 30 days of the received date by going to the Quarantine page <https://security.microsoft.com/quarantine>  in the Security Center. 	
+Prevented spam messages 	
+Sender: 	support@5dax.com 	 	  	 
+Subject: 	5DAX Is Going Licensed – Be Among the First Projects to Benefit! 	 	  	 
+Date: 	4/26/2025 7:39:57 AM 	 	  	 
+Review Message <https://security.microsoft.com/quarantine?id=af20f64a-69b2-43e8-95ed-08dd84958b4a\517b7e6f-f9dd-9bea-f517-16b65450c7bf&recipientAddress=%40ENC%40QjJjtejNSHnglky1l0FxXXAGHczEQTkCGYjI1BhFkXiGrXB4A9rCIhl8PzoC0NBejjPAgsBM8nf657IYSedN5Q%3D%3D> 		Release <https://che01-quarantine.dataservice.protection.outlook.com/spamdigestesn/spamdigest.svc/releasespam/orgs/6d921f92-f4ce-4ce0-acfa-926878510780/users/support@dnext.io/mail/af20f64a-69b2-43e8-95ed-08dd84958b4a?token=SlcFjOMJHUgwB4IrVGyo4gYLLjugcJWVY5Np%2bCx3RjY%3d> 		
+ 	  	  	  	 
+© 2025 Microsoft Corporation. All rights reserved. 	
+Privacy Statement <https://go.microsoft.com/fwlink/p/?LinkID=138500>  	
+Acceptable Use Policy <https://go.microsoft.com/fwlink/p/?LinkID=79398>  	
+	
+((SignedCardPayload))

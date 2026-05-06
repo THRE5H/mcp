@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials for a demo account to access the platform.
+
+**Context**: The user is an external user from Customer Organization seeking access to the Service Provider's platform. The request was made to facilitate a demonstration of the service.
+
+**Solution**: The Support Agent provided the user with the demo account URL and login credentials, along with instructions to change the password upon first login. The outcome confirmed that the user could access the platform successfully. It is recommended that users always change their passwords after initial login for security purposes.

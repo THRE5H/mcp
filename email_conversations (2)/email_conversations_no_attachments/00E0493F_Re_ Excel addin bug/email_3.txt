@@ -1,0 +1,23 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext; Nicolas Chaperon; Amine Nafkha
+Date: 2025-09-11 10:33:57.557000+00:00
+Subject: RE: Excel addin bug
+Message-ID: GV0P278MB0211BC809FF8C368A03402739809A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211667E85DA61BDE0875CA29809A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+
+
+ 
+
+From: Guillaume Goudy 
+Sent: Thursday, 11 September 2025 11:34
+To: Support Dnext <support@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>; Amine Nafkha <amine.nafkha@dnext.io>
+Subject: Excel addin bug
+
+ 
+
+See below. My credientials have disappeared this morning. I need to put everything again.
+
+gg

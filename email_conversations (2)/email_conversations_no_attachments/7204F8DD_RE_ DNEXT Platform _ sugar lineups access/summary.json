@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to access and download sugar lineup datasets for various regions from the DNEXT platform, and there is confusion about why some downloaded zip files contain two separate CSV files for the same origin.",
+    "solution": "To access sugar lineup datasets, users should navigate to the dataset page on the DNEXT platform and click the 'Download' button located at the top right of the page. When downloading datasets for regions like Central America and Thailand, the zip files may contain two separate CSV files. These files are split chunks of the same dataset, each containing half of the data, to facilitate easier management of larger files. This splitting is intentional and not indicative of different data. For smaller datasets, the platform team is working on enabling downloads as a single file. Users can combine these split files as needed for analysis.",
+    "keywords": [
+      "DNEXT platform",
+      "dataset download",
+      "sugar lineups",
+      "split CSV files",
+      "zip files",
+      "large dataset management",
+      "data access",
+      "download button",
+      "file chunks"
+    ],
+    "category": "How-to Guide"
+  }
+}

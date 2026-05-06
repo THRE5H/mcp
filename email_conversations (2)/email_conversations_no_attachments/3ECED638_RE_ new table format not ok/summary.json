@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The new table format for Brazil crop progress has excessive spacing between states, causing the full table not to fit in one view and resulting in some states being missing.",
+    "solution": "Adjust the table layout to reduce the space between states so that all states are visible without scrolling. Apply this adjusted format consistently across other crop dashboards to improve readability and ensure full data visibility in a single view.",
+    "keywords": [
+      "table format",
+      "crop progress",
+      "Brazil",
+      "spacing issue",
+      "dashboard layout",
+      "data visibility",
+      "scrolling",
+      "crop dashboards",
+      "UI adjustment"
+    ],
+    "category": "Configuration"
+  }
+}

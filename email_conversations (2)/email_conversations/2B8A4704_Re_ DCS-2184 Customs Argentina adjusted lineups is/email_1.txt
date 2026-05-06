@@ -1,0 +1,38 @@
+From: Khalil Mekki </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=18D854B53F554F01B2AFA0894A3CF2BD-F1416223-43>
+To: Support Dnext
+Date: 2026-01-15 11:01:21.072000+00:00
+Subject: Re: DCS-2184 Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all
+Message-ID: ZRAP278MB0317E111BE97F5CF187FB741F58CA@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0101019bc1114c58-7540acb1-3ee9-4408-9968-25c4e44f8adc-000000@us-west-2.amazonses.com
+
+================================================================================
+
+It was done and maintained by Ayman before leaving. I don't know if he did handover to anyone about it. At least he did not handover it to me
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Léonard Berney <jira@dnext.atlassian.net>
+Sent: Thursday, January 15, 2026 10:51:35 AM
+To: Khalil Mekki <khalil.mekki@dnext.io>
+Subject: DCS-2184 Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Léonard Berney commented:
+
+Hello,
+
+I have no idea what this dataprep is about. Who is the owner of this?
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2184?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImM5ZjVjODdiOGQyMDc4OWJlNTlhYzk3MjhkZDM5OGFmNGI1MzJiNWM3ZDZiZjgyZTFhNDI0ZWI2Mzc0MDA1M2EiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwNjEiLCJpc3N1ZSI6IkRDUy0yMTg0In0sImV4cCI6MTc3MDg4OTg5MywiaWF0IjoxNzY4NDcwNjkzfQ.WFXGzV5k_ceiqBPCKAtBKoUrPCWD7iHKwYU1gVZWfJc&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2184/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjhlMmY3YjZlNTJiNWNmNThiMTg4NmZkMGEyZDU4NzhmZGUxODA1YmNmMTQyMjhmYjM1Y2ZiMDM1MjE3NDE3NzUiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjVmNWU0OWUyLWI5NmUtNDJkZS1hY2ZlLTgzOWI4NjEzMzM5NSIsImlzc3VlIjoiRENTLTIxODQifSwiZXhwIjoxNzcwODg5ODkzLCJpYXQiOjE3Njg0NzA2OTN9.iufpqK6UgzWmclfb1d5nU0yQGNWWH6yBTGbiBtXtFeo> 
+
+This is shared with guillaume goudy, Khalil Mekki, Customs, and Léonard Berney.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on January 15, 2026 10:51:33 AM CET 
+ <http://usw2-track.atlassian.com/CI0/0101019bc1114c58-7540acb1-3ee9-4408-9968-25c4e44f8adc-000000/0cNCyYv0wTfKBV7RCc_2e_RnopZR_ocIzlpQGZfncqI=440> 

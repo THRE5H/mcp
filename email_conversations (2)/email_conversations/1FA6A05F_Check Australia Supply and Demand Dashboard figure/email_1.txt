@@ -1,0 +1,22 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-30 13:28:43.387000+00:00
+Subject: Check Australia Supply and Demand Dashboard figures
+Message-ID: GV0P278MB071720561BE1531263B337E0EB832@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+hi can we check the numbers in the dashboard?
+
+numbers for 25/26 are not correct it seems.
+
+
+dashboard: https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Australia/60cae168-01e9-4c4a-b86e-188551be35d4 <https://dnexr.dnext.io/dashboard/*/Supply%20and%20Demand/Australia/60cae168-01e9-4c4a-b86e-188551be35d4> 
+
+source:
+https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/march-2025
+
+
+    
+

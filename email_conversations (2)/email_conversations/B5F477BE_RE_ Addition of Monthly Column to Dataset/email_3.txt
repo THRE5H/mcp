@@ -1,0 +1,192 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-08-07 08:31:44.944000+00:00
+Subject: RE: Addition of Monthly Column to Dataset
+Message-ID: ZR3P278MB135375567336DC752F6044F5F62CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13530D518AD0D2D3DADBCF37F62CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+We have monthly data here we can use to make a monthly dataset, could you please use this data instead?
+
+ 
+
+ 
+
+https://www.eia.gov/totalenergy/data/monthly/
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Thursday, August 7, 2025 9:24 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Addition of Monthly Column to Dataset
+
+ 
+
+Hello Saber,
+
+ 
+
+Thank you for the dataset.
+
+However, the data source your are using is weekly. As pointed out in my previous email, we only make this dataset if we have monthly data, we do not make a monthly dataset from weekly data.
+
+It seems that this dataset’s source is weekly data.
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, August 6, 2025 3:57 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Addition of Monthly Column to Dataset
+
+ 
+
+Hello Enea,
+
+ 
+
+The monthly data has been made available, and you can find the new dataset at the following link on DNEXR:
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-eia-petroleum-usa-snd-item-monthly
+
+ 
+
+Could you please do a quick check to ensure everything looks good before we share it with the Verbio client?
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > 
+Sent: Tuesday, August 5, 2025 15:08
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Addition of Monthly Column to Dataset
+
+ 
+
+Hello Saber,
+
+ 
+
+No if we have monthly data we show it as monthly, in a new dataset, meanwhile if we have weekly data, we show it as weekly. We do not need to estimate monthly from weekly though.
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, August 5, 2025 3:47 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Addition of Monthly Column to Dataset
+
+ 
+
+Hello , 
+
+ 
+
+Is there a file for monthly data or we just sum the values that are in the same month ?
+
+also noticed in the source that some of the data is monthly and we are mapping the value period as “WEEK” for all the data
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+Also for the column adding we need to pass by the dev team for that the easiest way is to create a new dataset
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > 
+Sent: Tuesday, August 5, 2025 14:29
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Addition of Monthly Column to Dataset
+
+ 
+
+Dear Customer Support Team,
+
+ 
+
+Verbio client is asking whether it is possible either to:
+
+*	Add a column with the monthly data
+*	Or, create a new dataset with monthly data
+
+Whichever is easiest for you.
+
+ 
+
+verbio-2dc32584-b3f3-4850-bec7-2ddb0e383be4
+
+https://verbio.dnext.io/datasets/verbio-2dc32584-b3f3-4850-bec7-2ddb0e383be4/general
+
+ 
+
+Do you think we may do this, please?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 

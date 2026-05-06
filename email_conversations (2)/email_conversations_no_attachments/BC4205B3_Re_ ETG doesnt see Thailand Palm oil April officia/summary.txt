@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the ETG system was not displaying the official data for Thailand Palm oil for April in the dnexr-vegoils tradematrix.
+
+**Context**: The user is an internal user from the Customer Organization. The issue involves the dnexr-vegoils tradematrix feature of the Service Provider's platform. The customer was seeking timely access to specific data for operational purposes.
+
+**Solution**: The Support Agent confirmed that the issue should be resolved and the data is now accessible. It is recommended to regularly check for updates in the system to ensure data visibility and to report any discrepancies immediately.

@@ -1,0 +1,177 @@
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+To: Saber Khalfallah; Support Dnext; Guillaume Goudy
+Date: 2025-03-26 13:52:44.145000+00:00
+Subject: RE: [EXTERNAL] RE: Ukr lineups + SAf + China import margins
+Message-ID: GV2P191MB2381AFEF0F25D5437A259ED68DA62@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320E2E542786C2B045B0C56F8A62@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Yes, I can see it in the portal, thanks for letting us know.
+
+ 
+
+Regards
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: 26 March 2025 11:39
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com>; Support Dnext <support@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>
+Cc: THUL-Team <THUL-Team@mlp.com>
+Subject: RE: [EXTERNAL] RE: Ukr lineups + SAf + China import margins
+
+ 
+
+Hello Roberto,
+
+ 
+
+The China Import Margins Dashboard should now be available on the platform 
+
+ 
+
+
+
+ 
+
+We are sorry for the inconvenience this may have caused
+
+ 
+
+And thank you for your patience and understanding
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Wednesday, March 26, 2025 10:32
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: THUL-Team <THUL-Team@mlp.com <mailto:THUL-Team@mlp.com> >
+Subject: RE: [EXTERNAL] RE: Ukr lineups + SAf + China import margins
+
+ 
+
+Hello,
+
+ 
+
+We noticed that we lost the China’s tab within the Economics dashboards (where we could consult the corn import margin updates). Could you please let us know once this is restored?
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Many thanks
+
+ 
+
+R
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: 13 February 2025 12:47
+To: MLP - Thul <dl-mlp-thul@dnext.io <mailto:dl-mlp-thul@dnext.io> >
+Subject: [EXTERNAL] RE: Ukr lineups + SAf + China import margins
+
+ 
+
+China import margin daily is nearly ready. Import margin table is ok but still need to fix bugs on the tab called import margin graph. It should update in the platform. Please let me know if you have access to it. 
+
+Regarding SAF, i had a meeting this morning with SAF contacts and it will take more time. Basically, the bottleneck is getting access to freight prices in SAF. SAGIS publish export/import parity but they are wrong because they use rail rates. Issue is that there is no rail available in the country. One needs to have truck rates. So once i secure these rates, we will be able to calculate import/export parities. 
+
+Regarding Ukr lineups. See below. We just received an update but no much progress compared to last update which is very strange. I checked the numbers from the source and it is correct. 
+
+Talk this pm.
+
+Best Regards,
+
+gg
+
+ 
+
+ 
+
+
+
+We just received an update but no much progress compared to last update which is very strange. I checked the numbers and it is correct. 
+
+ 
+
+
+
+ 
+
+From: Guillaume Goudy 
+Sent: Wednesday, 5 February 2025 15:53
+To: MLP - Thul <dl-mlp-thul@dnext.io <mailto:dl-mlp-thul@dnext.io> >
+Subject: Ukr lineups + SAf + China import margins
+
+ 
+
+Still working on SAF values. I have a meeting next week on Thursday 13/2 with a broker in the region. Will keep you posted.
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+China import: will resume later this week as China reopens
+
+gg
+
+ 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

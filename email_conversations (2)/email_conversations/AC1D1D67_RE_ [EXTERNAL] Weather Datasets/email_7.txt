@@ -1,0 +1,513 @@
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+To: Saber Khalfallah
+Date: 2025-04-30 17:32:55.410000+00:00
+Subject: RE: [EXTERNAL] Weather Datasets
+Message-ID: GV2P191MB2381AF76DC0A84CF63C937BE8D832@GV2P191MB2381.EURP191.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13207466BFC6B8D5FE91B158F8832@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks for your prompt reply, Saber.
+
+ 
+
+Malindo works on my side too but “Weather Brazil All Forecast” doesn’t. Could you pls test that one?
+
+ 
+
+Best regards and thanks for the help
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, April 30, 2025 6:08 PM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: [EXTERNAL] Weather Datasets
+
+ 
+
+Hello Roberto 
+
+ 
+
+Thank you for reaching out.
+
+the function is correct, and it works on my end I just tested 
+
+I have put together a full script you can use to fetch the data 
+
+Quote: 
+import requests
+
+import pandas as pd
+
+from io import BytesIO
+
+import time
+
+import json
+
+# Login to API and get token
+
+def connect(email, pwd, env):
+
+    '''
+
+    email: email used to connect to your dnext environment
+
+    pwd: password 
+
+    env: name of your enviroment, first part in your dnext URL before the dot
+
+    ENV.dnext.io -> env = 'ENV'
+
+    '''
+
+    # Login to API and get token
+
+    url = f'https://api.dnext.io/v1.0/auth/custom-login?org={env}'
+
+    
+
+    payload = json.dumps({
+
+        'email': f'{email}',
+
+        'password': f'{pwd}',
+
+        'organization': f'{env}'
+
+    })
+
+ 
+
+    headers = {
+
+        'Content-Type': 'application/json'
+
+    }
+
+ 
+
+    response = requests.post(url, headers=headers, data=payload)
+
+    token = response.json()['token']
+
+    return token
+
+    
+
+token = connect("youremail","yourpassword","thul")
+
+def _get_task_status(task_id, token):
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'
+
+    }
+
+    success = False
+
+    wait_time = 2
+
+    while not success and wait_time < 10:
+
+        time.sleep(wait_time)
+
+        status_res = requests.get(f'https://api.dnext.io/v1.0/tasks/{task_id}', headers=my_headers)
+
+        try:
+
+            success = status_res.json()['status'] == 'SUCCEEDED'
+
+        except:
+
+            wait_time += 1
+
+            continue
+
+        if not success:
+
+            wait_time += 1
+
+    if success:
+
+        return True
+
+    else:
+
+        return False
+
+def download_dataset(code, token):
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'
+
+    }
+
+    dl_url = f'https://api.dnext.io/v1.0/data/datasets/{code}/download'
+
+    res = requests.post(dl_url, headers=my_headers)
+
+    task_id = res.json()['task']['id']
+
+    data_ready = _get_task_status(task_id, token)
+
+    if data_ready:
+
+        data_url = res.json()['result']['url']
+
+        data_resp = requests.get(data_url)
+
+        df = pd.read_csv(BytesIO(data_resp.content))
+
+    else:
+
+        df = None
+
+    return df
+
+df = download_dataset("thul-4a5ac680-f517-11ef-bdca-06e924375629", token)
+
+ 
+
+ 
+
+Unquote
+
+Please make sure to replace the placeholder values "youremail", "yourpassword", with your actual credentials and the “thul” one is  the environment name which is correct for your case so just leave it like that .
+
+Also I’ve used the dataset code "thul-4a5ac680-f517-11ef-bdca-06e924375629", which corresponds to the Malindo weather dataset I used for testing. Feel free to replace this with any other dataset code you need to work with.
+
+ 
+
+Let me know if this works on your end or if you need further assistance.
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> > 
+Sent: Wednesday, April 30, 2025 16:45
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] Weather Datasets
+
+ 
+
+Hi Saber,
+
+ 
+
+Quick question. Is this py script working for the weather datasets? It runs but doesn’t display any data:
+
+ 
+
+Quote:
+
+ 
+
+ 
+
+def _get_task_status(task_id, token):
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'}
+
+    
+
+    success = False
+
+    wait_time = 2
+
+ 
+
+    while not success and wait_time < 10:
+
+        time.sleep(wait_time)
+
+ 
+
+        status_res = requests.get(f'https://api.dnext.io/dev/tasks/{task_id}', headers=my_headers)
+
+ 
+
+        try:
+
+            success = status_res.json()['status'] == 'SUCCEEDED'
+
+        except:
+
+            wait_time += 1
+
+            continue
+
+ 
+
+        if not success:
+
+            wait_time += 1
+
+ 
+
+    if success:
+
+        return True
+
+    else:
+
+        return False
+
+ 
+
+ 
+
+def download_dataset(code, token):
+
+ 
+
+    my_headers = {
+
+        'Authorization': 'Bearer ' + token,
+
+        'Content-Type': 'application/json'
+
+    }
+
+ 
+
+    dl_url = f'https://api.dnext.io/v1.0/data/datasets/{code}/download'
+
+ 
+
+    res = requests.post(dl_url, headers=my_headers)
+
+ 
+
+    task_id = res.json()['task']['id']
+
+ 
+
+    data_ready = _get_task_status(task_id, token)
+
+ 
+
+    if data_ready:
+
+        
+
+        data_url = res.json()['result']['url']
+
+        data_resp = requests.get(data_url)
+
+        df = pd.read_csv(BytesIO(data_resp.content))
+
+ 
+
+    else:
+
+        
+
+        df = None
+
+ 
+
+    return df
+
+ 
+
+df = download_dataset(code,token)
+
+ 
+
+ 
+
+ 
+
+Unquote
+
+ 
+
+From: Ruiz, Roberto 
+Sent: Wednesday, April 30, 2025 4:13 PM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: [EXTERNAL] Weather Datasets
+
+ 
+
+Many thanks for your email, Saber. Well noted!
+
+ 
+
+ 
+
+Best regards
+
+ 
+
+R
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, April 30, 2025 3:51 PM
+To: Ruiz, Roberto <Roberto.Ruiz@mlp.com <mailto:Roberto.Ruiz@mlp.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: [EXTERNAL] Weather Datasets
+
+ 
+
+Hello Roberto 
+
+ 
+
+You will find below a table with codes and Description (Region covered) for the weather datasets 
+
+Dataset Code
+
+Dataset Description
+
+thul-4a5ac680-f517-11ef-bdca-06e924375629
+
+Weather Malindo All Forecasts
+
+thul-af3808fc-f515-11ef-bdca-06e924375629
+
+Weather India All forecasts
+
+thul-0ceca3d2-e960-11ef-aa6e-06b9f5f0600f
+
+Weather South America All Forecasts
+
+thul-8cf54b38-e94d-11ef-aa6e-06b9f5f0600f
+
+Weather Brazil All Forecast
+
+thul-7dcb4768-f50e-11ef-a674-02b85196246d
+
+Weather Black Sea All forecasts
+
+thul-10dbf0fc-f515-11ef-a674-02b85196246d
+
+Weather Canada All forecasts
+
+thul-512bd2e8-f516-11ef-bdca-06e924375629
+
+Weather USA All Forecasts
+
+thul-1c2f0e7c-f519-11ef-bdca-06e924375629
+
+Weather Middle East All Forecasts
+
+thul-b7907054-f518-11ef-bdca-06e924375629
+
+Weather North Africa All Forecasts
+
+thul-7ea2d15b-f519-11ef-bdca-06e924375629
+
+Weather Mexico All Forecasts
+
+thul-2859571f-f514-11ef-a674-02b85196246d
+
+Weather Australia All forecasts
+
+thul-3bf780cf-f518-11ef-bdca-06e924375629
+
+Weather South Africa All Forecasts
+
+thul-257039ea-e948-11ef-aa6e-06b9f5f0600f
+
+Weather Europe All forecasts
+
+thul-d071996f-f517-11ef-bdca-06e924375629
+
+Weather Thailand All Forecasts
+
+
+for the variable column you will find 4 values 
+tmin = Minimal Temperature
+
+tmax= Maximum Temperature
+
+tavg= average temperature
+
+tp=  total Precipitation
+
+ 
+
+Please let us know if all is well from your end and if you have any questions or concerns please feel free to reach out.
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+##########################################################
+ 
+
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 
+
+##########################################################
+ 
+The information contained in this communication is confidential and intended only for the person(s) or entity(ies) to which it is addressed. If you are not a named addressee, please notify the sender immediately, delete this email from your system and do not disclose the email or any part of it to any person. Any views or opinions expressed in this email are those of the author and do not necessarily represent the views of MCP (Switzerland) GmbH or any of its affiliates. Therefore, this communication is not intended as an offer or solicitation for the purchase or sale of any financial instrument or as an official confirmation of any transaction. 
+
+Electronic communications can be insecure and can contain errors, they can be intercepted, corrupted, lost, destroyed, incomplete or may contain viruses. Neither MCP (Switzerland) GmbH, its affiliates nor the sender can accept any liability for any kind of damages as the result of viruses or transmission errors or delays. Outgoing and incoming electronic communications of MCP (Switzerland) GmbH and its affiliates, including telephone communications, may be electronically archived and subject to review and/or disclosure to someone other than the recipient.
+
+MCP (Switzerland) GmbH is a Swiss manager of collective assets authorized and regulated by the Swiss Financial Market Supervisory Authority (FINMA). MCP (Switzerland) GmbH is a limited liability company registered in Switzerland under company number CHE-216.367.660 and with its registered office at rue du Rhône 42, 1204 Geneva, Switzerland.
+ 
+########################################################## 

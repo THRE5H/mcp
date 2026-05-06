@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing the DNEXT platform and was provided with login credentials.
+
+**Context**: The user is an external user accessing the DNEXT platform. The issue involved logging into the service using provided credentials, and the customer was advised to change their password upon first login.
+
+**Solution**: The support agent provided the user with the login URL and credentials, along with detailed instructions for changing the password after the initial login. The final outcome was that the user was equipped with the necessary information to access the platform securely. It is recommended that users always change their passwords after the first login for security purposes.

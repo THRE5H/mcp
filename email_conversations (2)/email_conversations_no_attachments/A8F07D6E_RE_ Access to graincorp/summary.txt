@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a user to the Graincorp system.
+
+**Context**: The customer is a Data Scientist from a Customer Organization. The request involved access to the Graincorp platform, which is critical for user collaboration.
+
+**Solution**: The Support Agent promptly added the user to Graincorp and confirmed that the login credentials were sent to the new user privately. It is recommended to ensure that all access requests are communicated clearly to avoid delays.

@@ -1,0 +1,91 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Bastien Lambert; Guillaume Goudy; Support Dnext; Saber Khalfallah
+Date: 2025-12-03 16:54:10.830000+00:00
+Subject: Re: Trial for Wilmar
+Message-ID: GVAP278MB0150E4EAB03C80EE4719986698D9A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0773B28FD4D466BDF667792A98D9A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thanks Bastien.
+
+For trial, we can give them the following dashboards:
+GnO Crop>Indonesia> Industry Peers and Palm Oil Stats
+GnO Crop>Malaysia> CPO Stats and MPOA vs MPOB
+GnO Economics>Futures
+GnO Economics>Indonesia>Margin Analysis and Palm Oil Exports Levy & Duty
+GnO Economics>Malaysia>Margin Analysis
+GnO Economics>India>Edible Oil Margins
+Customs>Southeast Asia>Indonesia & Malaysia
+Lineups>Asia South East>Indonesia & Malaysia
+SND>DNEXR>Vegoils
+SND>Indonesia>Biodiesel Stats
+SND>India>Vegoils Stats SEA
+SND>China>Palm Oil Stocks
+Weather>Malindo
+Trade Matrix>DNEXR-vegoils
+
+Reports on email until 18th Dec (2 weeks from today)
+
+Regards,
+AJ
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 03 December 2025 22:43
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: RE: Trial for Wilmar 
+ 
+
+Hi Saber,
+
+ 
+
+Could you please help Aditya with the below  ?
+
+The idea is to give them access to one of the demo account.
+
+Ideally, would be good to give them access to only palm data or tease them with some other interesting stuff, but so they don’t get lost.
+
+@Aditya Jeripotula <mailto:aditya.jeripotula@dnext.io> , could you please guide @Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  on what dashboard / tradeflow we want to make accessible in the demo.
+
+ 
+
+Thanks 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io> 
+Sent: Wednesday, December 3, 2025 4:40 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Trial for Wilmar
+
+ 
+
+Greetings of the day, GG & Bastien
+
+ 
+
+We have to start 2-weeks trial for Wilmar KL team to whom we did demo last week. 
+
+ 
+
+Below are the email ids
+
+Danielle.khorwanhooi@my.wilmar-intl.com <mailto:Danielle.khorwanhooi@my.wilmar-intl.com>  
+
+Farid.esran@my.wilmar-intl.com <mailto:Farid.esran@my.wilmar-intl.com>  
+
+ 
+
+Farid is senior operations executive and Danielle is Manager operations
+
+ 
+
+Kindly guide me on the above. 
+
+ 
+
+Regards,
+
+AJ

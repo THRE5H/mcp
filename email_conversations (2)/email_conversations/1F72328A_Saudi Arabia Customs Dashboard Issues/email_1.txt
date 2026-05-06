@@ -1,0 +1,20 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: TradeFlow; Support Dnext
+Date: 2025-10-07 13:06:58.075000+00:00
+Subject: Saudi Arabia Customs Dashboard Issues
+Message-ID: GVAP278MB024645FC6695DC0BF196E8F694E0A@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi, 
+
+There is a unit problem between imports and exports, I think the exports are in kmt and the dashboard shows mt, the problem is at the source and not on our side
+
+The source is shown to be Thailand where it should be Saudi Arabia:
+
+
+Can you please fix as soon as possible and let us know 
+
+Thanks
+Asfoury

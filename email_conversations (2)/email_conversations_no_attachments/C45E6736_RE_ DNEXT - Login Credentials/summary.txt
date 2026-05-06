@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance in filtering freight prices and locating Global FOB values on the platform.
+
+**Context**: The user is an external user accessing the Service Provider's platform for the first time. The conversation involves login credentials and initial onboarding support for the platform's features.
+
+**Solution**: The Support Agent provided login credentials and instructions for changing the password. The customer was encouraged to reach out to support for further assistance with filtering freight prices and finding Global FOB values, indicating that onboarding help is available.

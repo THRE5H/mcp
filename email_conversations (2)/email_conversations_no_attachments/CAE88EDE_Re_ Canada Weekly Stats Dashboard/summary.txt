@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue affecting all products and variables in the Canada Weekly Stats Dashboard for the 2024/25 period.
+
+**Context**: The user is an external user from a Customer Organization reaching out to the Service Provider's support team regarding a dashboard issue. The problem impacted multiple dashboards and required urgent attention.
+
+**Solution**: The issue was addressed and resolved by the support team. The customer was informed of the resolution, and no further actions were required. It is recommended to monitor the dashboards regularly to prevent similar issues in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in splitting a view by product within a specific data aggregation tool, seeking a way to visualize data in a more organized manner.
+
+**Context**: The user is an external user from a Customer Organization using a data aggregation tool provided by a Service Provider. The inquiry involved a specific URL related to the Tradematrix feature, indicating a need for enhanced data visualization.
+
+**Solution**: The Support Agent provided instructions on how to split the view by product by using the "Columns" button and adjusting the layout settings. Additionally, the agent offered to schedule a demo session to further assist the customer in utilizing the Tradematrix module effectively.

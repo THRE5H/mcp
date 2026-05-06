@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with a script that was previously used to retrieve trade flow data, which no longer functioned as expected. They requested updated code to compare current and previous versions of corn trade flows.
+
+**Context**: The customer is an external user from a Customer Organization seeking support from a Service Provider. The issue involved a script for querying trade flow data via an API, which had become outdated due to changes in code requirements.
+
+**Solution**: The Support Agent provided a corrected script that included updated codes for trade flows and forecasts. The agent confirmed that the customer should use the new format for codes and requested feedback on the script's functionality after implementation.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to DNEXTR to create a dashboard for metrics related to forecasts as part of the RESOUND project.
+
+**Context**: The user is an external user from a research institution. The request involves accessing the DNEXTR platform, and the user already has access to a related service at a different URL.
+
+**Solution**: The support agent provided the customer with the necessary credentials to access DNEXTR, including the username and password. The customer was encouraged to reach out for further assistance if needed, confirming that the issue was resolved.

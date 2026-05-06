@@ -1,0 +1,5 @@
+**Problem**: The Customer reported that the login credentials provided for the platform were not working, preventing access.
+
+**Context**: The Customer is an external user from a Customer Organization seeking to onboard onto the DNEXT platform. The issue arose after the initial credentials were sent, and the Customer was traveling, delaying their attempt to log in.
+
+**Solution**: The Support Agent provided a new set of login credentials to the Customer and recommended logging in promptly to update the password. The Agent also encouraged the Customer to reach out for further assistance if any issues persisted.

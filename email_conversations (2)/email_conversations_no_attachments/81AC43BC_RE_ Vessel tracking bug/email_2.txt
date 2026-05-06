@@ -1,0 +1,15 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-12-16 11:50:04.132000+00:00
+Subject: Vessel tracking bug
+Message-ID: ZR0P278MB07731A03E4A46AEA66CF579A98AAA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Not sure if the bug is supposed to be resolved.
+
+However, when doing multiple research using the vessel tracking, at some point I’m getting the “Error fetching vessel data” or something like this.
+
+After a while, it works back again.
+
+ 

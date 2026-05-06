@@ -1,0 +1,53 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Nicolas Chaperon
+Date: 2025-09-03 10:28:01.095000+00:00
+Subject: Excel addin not working for uploading data
+Message-ID: GV0P278MB02114D5929CCA267FD53B8769801A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+ 
+
+Downloaded new version = > cannot upload anymore. So we downloaded template and try again but u will see below, it is not working as well….
+
+ 
+
+
+
+ 
+
+Many templates with the same names? Duplicates? Not clear?
+
+ 
+
+
+
+ 
+
+ 
+
+Not uploading
+
+ 
+
+
+
+ 
+
+Then tried again and again not working. 
+
+
+
+ 
+
+ 
+
+Improvements:
+
+Menu as well is not clear. Download and download data. 
+
+I think upload and download data should be called upload template and download template…and then current download should be called download data
+
+ 
+
+ 

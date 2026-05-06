@@ -1,0 +1,5 @@
+**Problem**: The customer needed confirmation that a demo account for a user was still open, as it was required for a presentation the next day.
+
+**Context**: The customer is an internal user from Customer Organization requesting information from the Customer Support team of Service Provider regarding a demo account related to the lme-trading feature. The demo account was set to expire in four days.
+
+**Solution**: The support agent confirmed that the demo account is still open and provided the expiration date. The agent also offered to extend the account if needed, ensuring the customer had the necessary access for the upcoming presentation.

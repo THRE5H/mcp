@@ -1,0 +1,5 @@
+**Problem**: The customer needed to select a reporter country in the EU customs data to view export statistics for France but was unable to do so.
+
+**Context**: The user is an external user from a Customer Organization seeking functionality within a data analysis tool provided by a Service Provider. The inquiry highlights a limitation in the current reporting features of the product.
+
+**Solution**: The Support Agent confirmed that there is a dedicated page for selecting reporter countries, which includes a slicer for user selection. The customer was informed that this feature should address their concerns about viewing export data. It is recommended to utilize this feature for better data analysis.

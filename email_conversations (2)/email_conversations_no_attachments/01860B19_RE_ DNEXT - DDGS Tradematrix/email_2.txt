@@ -1,0 +1,251 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Rogier Kievit
+Date: 2025-07-18 11:21:17.934000+00:00
+Subject: RE: DNEXT - DDGS Tradematrix
+Message-ID: GV0P278MB13204418A0A128F6735E54FBF850A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: AM0PR07MB46599F97C43B5571A8D9FBAEC151A@AM0PR07MB4659.eurprd07.prod.outlook.com
+
+================================================================================
+
+Hello Rogier,
+
+ 
+
+Thank you for pointing this out.
+
+ 
+
+We are actively working on adding the HS codes.
+
+ 
+
+Thank you for your patience and understanding.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Kievit, Rogier <rkievit@deheus.com> 
+Sent: Thursday, July 17, 2025 14:59
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: DNEXT - DDGS Tradematrix
+
+ 
+
+Brazil should be exporting aprox 1mln mt this year… maybe you miss one or more of the codes in your data queries
+
+ 
+
+Kind regards,
+
+Rogier
+
+ 
+
+Kievit
+
+Global Purchaser
+
+ <https://www.deheus.com/> 
+
+DE HEUS ANIMAL NUTRITION B.V.
+
+P.O. Box 396
+6710 BJ Ede
+The Netherlands
+
+Rubensstraat 175
+6717 VE Ede
+The Netherlands
+
+M: +31 6 29 514 938 <tel:+31%206%2029%20514%20938> 
+
+CoC 16011201
+
+This e‑mail message and its attachments are subject to the disclaimer
+published on the website of De Heus Animal Nutrition <https://www.deheus.com/disclaimer> .
+
+ <https://www.facebook.com/deheusanimalnutrition> 
+
+ <https://www.youtube.com/channel/UCqkrGebUlFowgumurz-abxQ> 
+
+ <https://www.linkedin.com/company/royal-de-heus/mycompany/> 
+
+ <https://www.instagram.com/de_heus_animal_nutrition/> 
+
+    
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, 17 July 2025 15:37
+To: Kievit, Rogier <rkievit@deheus.com <mailto:rkievit@deheus.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: DNEXT - DDGS Tradematrix
+
+ 
+
+Hello Rogier,
+
+ 
+
+The Brazil data is updated 
+
+you should be seeing these numbers : 
+
+
+
+ 
+
+which match with what the customs reported for 2025 
+
+
+
+ 
+
+Please let me know if this helps clear things up.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Kievit, Rogier <rkievit@deheus.com <mailto:rkievit@deheus.com> > 
+Sent: Thursday, July 17, 2025 14:18
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: DNEXT - DDGS Tradematrix
+
+ 
+
+Was just checking it… could it be that your data from Brazil is not yet updated? They turned into a big exporter of DDGS, but do not see that back in the tradeflows…
+
+ 
+
+Kind regards,
+
+Rogier
+
+ 
+
+Kievit
+
+Global Purchaser
+
+ <https://www.deheus.com/> 
+
+DE HEUS ANIMAL NUTRITION B.V.
+
+P.O. Box 396
+6710 BJ Ede
+The Netherlands
+
+Rubensstraat 175
+6717 VE Ede
+The Netherlands
+
+M: +31 6 29 514 938 <tel:+31%206%2029%20514%20938> 
+
+CoC 16011201
+
+This e‑mail message and its attachments are subject to the disclaimer
+published on the website of De Heus Animal Nutrition <https://www.deheus.com/disclaimer> .
+
+ <https://www.facebook.com/deheusanimalnutrition> 
+
+ <https://www.youtube.com/channel/UCqkrGebUlFowgumurz-abxQ> 
+
+ <https://www.linkedin.com/company/royal-de-heus/mycompany/> 
+
+ <https://www.instagram.com/de_heus_animal_nutrition/> 
+
+    
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Thursday, 17 July 2025 15:14
+To: Kievit, Rogier <rkievit@deheus.com <mailto:rkievit@deheus.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: DNEXT - DDGS Tradematrix
+
+ 
+
+Dear Rogier,
+
+ 
+
+I hope you’re doing well.
+
+ 
+
+I wanted to follow up regarding your request for the DDGS trade flow. The trade flow is now available, and you can find it by going to the TradeMatrix module and searching for "Dried Distillers Grains with Solubles" in the name column.
+
+ 
+
+Alternatively, you can access the trade flow directly via the following link:
+
+https://deheus.dnext.io/fundamentals/tradematrix/deheus-dfa5cc8c-6efd-4b78-9d9e-e1fd217b10db
+
+ 
+
+If you encounter any issues or need further assistance, feel free to reach out.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 

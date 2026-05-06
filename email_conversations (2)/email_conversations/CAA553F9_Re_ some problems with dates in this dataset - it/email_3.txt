@@ -1,0 +1,9 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2026-01-19 15:55:24.074000+00:00
+Subject: some problems with dates in this dataset - it shows some ETS in 2027 to 2030
+Message-ID: ZR0P278MB0773A99DFF06B841513CF4AB9888A@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+"dnexr-3f9680e0-595f-11ef-891d-026031473607"

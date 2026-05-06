@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs to access DNEXT Wheat FOB prices data and dashboard within the CFG environment but is unsure how to locate or view the data.",
+    "solution": "To access the DNEXT Wheat FOB prices dashboard in the CFG environment: 1) Click on the 'Dashboard' module in the left menu, 2) Select the 'Economics' tab, 3) Expand the 'Wheat' section and click on 'Wheat CNF'. Alternatively, access it directly via the URL: https://cfg.dnext.io/dashboard/*/Economics/Wheat/2d0ef212-eac0-4b5e-aaba-2838fc610ec2. To view the wheat cash dataset, use the direct link: https://cfg.dnext.io/datasets/cfg-3fc888db-22d4-4cc8-be0b-4cf2792c6fa6. If the data is not visible, navigate to the 'Data Exploration' tab and use the download button at the top right corner to download the dataset.",
+    "keywords": [
+      "DNEXT",
+      "Wheat FOB prices",
+      "CFG environment",
+      "dashboard access",
+      "Economics tab",
+      "Wheat CNF",
+      "data exploration",
+      "dataset download",
+      "wheat cash dataset"
+    ],
+    "category": "Platform Navigation"
+  }
+}

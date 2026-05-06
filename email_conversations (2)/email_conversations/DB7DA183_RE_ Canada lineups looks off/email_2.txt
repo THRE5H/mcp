@@ -1,0 +1,55 @@
+From: Léonard Berney </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=71D79A297AE14390A5EA2CEF3E9FE344-4E657CA0-3C>
+To: Wael Kouada; Jebrane Ben Salem; Guillaume Goudy; Support Dnext; Rami Setti; Dnext Lineups
+Date: 2025-08-20 16:50:29.834000+00:00
+Subject: RE: Canada lineups looks off
+Message-ID: GV0P278MB03387368987319C29007509FE733A@GV0P278MB0338.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR0P278MB0775F84CB98FB5FDD35340839533A@ZR0P278MB0775.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+I checked the source lineups and the reason we don't have destinations for corn, is that there are no vessels with corn in the lineups. The corn data we have comes from CGC and does not include destinations.
+________________________________
+
+De : Wael Kouada <wael.kouada@dnext.io>
+Envoyé : mercredi 20 août 2025 17:15
+À : Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Rami Setti <rami.setti@dnext.io>; Dnext Lineups <lineups@dnext.io>
+Objet : Re: Canada lineups looks off 
+ 
+Hello,
+
+
+It comes from D-lineup and as shown below the data is missing country partner when we select Corn :
+
+
+
+@Léonard Berney <mailto:leonard.berney@dnext.io>  Could you please check them via vessel tracking.
+
+Best regards.
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: 20 August 2025 15:57
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Rami Setti <rami.setti@dnext.io>; Dnext Lineups <lineups@dnext.io>
+Subject: Re: Canada lineups looks off 
+ 
+Adding @Dnext Lineups <mailto:lineups@dnext.io>  team
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 20 August 2025 13:22
+To: Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Rami Setti <rami.setti@dnext.io>
+Subject: Canada lineups looks off 
+ 
+
+Lineups show no destination?? It seems it is inspection Canada and not our D lineups for Canada…Is it? Oris our lineups have no destination? If so, then we should track them
+
+here somewhere on the Candaian lineups, we should say it is only West coast or East coast ports are missing
+
+ 
+
+ 
+
+

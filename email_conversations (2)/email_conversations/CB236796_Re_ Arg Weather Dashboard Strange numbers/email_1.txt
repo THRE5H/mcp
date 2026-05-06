@@ -1,0 +1,73 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Saber Khalfallah; Pablo Figueroa; Support Dnext; Lucas Rosa
+Date: 2025-11-03 14:06:36.958000+00:00
+Subject: Re: Arg Weather Dashboard Strange numbers
+Message-ID: ZR3P278MB122660C1620560795E94E6B5F5C7A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320B445172DB09EBE6E5D90F8C7A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+We’re currently using single selection, but since we have two variables (date and model), it’s possible to select more than one model when a single day is selected. Unfortunately, we don’t have a technical solution to prevent this at the moment, but I’ll keep looking, we may find one.
+Solutions: 
+
+*	
+	We add a legend to inform the users that they should select 1 day + 1 model
+*	
+	When more than 1 model is selected we can make the average instead of the sum 
+
+Let me know if you agree please.
+Thanks, 
+Jebrane
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: 03 November 2025 12:12
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Arg Weather Dashboard Strange numbers 
+ 
+
+@Jebrane Ben Salem <mailto:jebrane.bensalem@dnext.io>  is there a way to prevent user from multi selecting  multiple options by accident ?
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Monday, November 3, 2025 12:03
+To: Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Re: Arg Weather Dashboard Strange numbers
+
+ 
+
+i see i selected many models, but is it ok that the user can select many at the same time in this page?
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: Monday, November 3, 2025 12:01 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Subject: Arg Weather Dashboard Strange numbers 
+
+ 
+
+

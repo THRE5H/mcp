@@ -1,0 +1,39 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Bastien Lambert; Support Dnext
+Date: 2025-02-06 12:55:26.453000+00:00
+Subject: Re: River level Amazon
+Message-ID: ZR3P278MB122682B8D4ABFF42779491CCF5F62@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB014812AC0D2E66312726D25598F52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Bastien, 
+
+For Amazon river level I added the old one (Daily data for internal use)
+
+Weather > Brazil > Amazon River Level  (Internal)
+https://dnexr.dnext.io/dashboard/*/Weather/Brazil/e3ac0e53-cd09-430e-9699-955e2a69533b
+
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 03 February 2025 18:13
+To: Support Dnext <support@dnext.io>
+Subject: River level Amazon 
+ 
+
+Hi guys,
+
+ 
+
+Was there any daily data ? I thought we used to have daily water levels. I think it would be better.
+
+ 
+
+Thanks
+
+ 
+
+

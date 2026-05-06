@@ -1,0 +1,41 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-12-30 15:07:13.864000+00:00
+Subject: Re: DCS-2127 Verus - Add Sugar
+Message-ID: GVAP278MB06776FEBE5E0108DB7C6A46A88BCA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 0100019b6f647eeb-514d46ad-b12b-41b2-b410-18e16835a17b-000000@email.amazonses.com
+Attachments: jira-generated-image-static-b7ef38b7-cab6-4500-be5
+
+================================================================================
+
+Thank you Saber.
+________________________________
+
+From: Saber Khalfallah <jira@dnext.atlassian.net>
+Sent: Tuesday, December 30, 2025 2:13 PM
+To: Sami Jaballah <sami.jaballah@dnext.io>
+Subject: DCS-2127 Verus - Add Sugar 
+ 
+—-—-—-— 
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello Sami,
+
+Sugar has been added successfully to verus environment.
+
+Best regards,
+
+Saber Khalfallah Customer Support	 saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 	 
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/42424/attachment/31157> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2127?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjE1MTYxMjAxNDhmYjRlZTEyN2E4Njk2YWVhNWE2YzM5NjE1NGY0MGI3MTk4NTJjNDE5MzljYzIwZmVlY2Y5ZWQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMzIiLCJpc3N1ZSI6IkRDUy0yMTI3In0sImV4cCI6MTc2OTUxOTYxNCwiaWF0IjoxNzY3MTAwNDE0fQ.pZsV7xEqtJFkh6GGW6rmApGuMAzEO8x0vdJ7t5TOUEg&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-2127/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImEzMTU1OTBjZGUxMmExOTVjYWE2ZjI2MmQzNWEwZmEyYmFlNmVkNjFlMjkzNjQ5ZDcwN2ZjYjMxOTVlY2NkYjciLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOmM4ZWE1MmEyLTk2MWQtNGRiNy05ZjMwLTk2MTRkN2YyZjZkOCIsImlzc3VlIjoiRENTLTIxMjcifSwiZXhwIjoxNzY5NTE5NjE0LCJpYXQiOjE3NjcxMDA0MTR9.QqFVK8WICkD6pRwi75C_4mECugCwiV1FRVPoNKdiiCs> 
+
+This is shared with Sami Jaballah and Mohamed Jebrane Ben Salem.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on December 30, 2025 2:13:34 PM CET 
+ <http://use1-track.atlassian.com/CI0/0100019b6f647eeb-514d46ad-b12b-41b2-b410-18e16835a17b-000000/FlvBAnXhNTHDZVCxgAeXlnuUULXhqkmPm4XSQ1cz4Lg=437> 

@@ -1,0 +1,14 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2026-01-12 08:21:34.265000+00:00
+Subject: PSD Dashboard showing a strange graph
+Message-ID: GV0P278MB07171E86A507AFDFE391853BEB82A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_13.png
+
+================================================================================
+
+the chart on the bottom left is weird, not sure which is the item it shows. the filters are not controling it.
+
+
+   
+ 

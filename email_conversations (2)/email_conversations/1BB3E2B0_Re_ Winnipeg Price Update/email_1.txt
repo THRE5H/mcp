@@ -1,0 +1,114 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-10 11:42:49.302000+00:00
+Subject: Re: Winnipeg Price Update
+Message-ID: ZR3P278MB1353F4471A59A2852018006CF6A0A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320D1DF72F7545DC2E5D58EF8A0A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+Thank you for the explanation of the fix
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Wednesday, December 10, 2025 11:18 AM
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Winnipeg Price Update 
+ 
+
+Hello Enea,
+
+ 
+
+The api query was set up to return only specific data in a timeframe, we have amended the script two weeks ago.
+
+ 
+
+Sorry for the late response.
+
+ 
+
+Best regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Wednesday, December 10, 2025 11:15
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Re: Winnipeg Price Update
+
+ 
+
+ 
+
+Hello,
+
+ 
+
+Do you have any news?
+
+ 
+
+PS The dataset is up to date. Do you by any chance know what was blocking.
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+________________________________
+
+From: Enea Albertoli
+Sent: Tuesday, November 11, 2025 12:35 PM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Winnipeg Price Update
+
+ 
+
+Hello,
+
+ 
+
+May you please check why Winnipeg prices are not updated?
+
+ 
+
+
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/general <https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/general> 
+
+ 
+
+Best,
+
+ 
+
+Enea

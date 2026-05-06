@@ -1,0 +1,16 @@
+From: Guillaume Goudy </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=D66DAB2CC9364D93B8D4CE1C264C98A9-GUILLAUME.G>
+To: Support Dnext
+Date: 2025-07-02 09:36:05.974000+00:00
+Subject: Platform issues report by Deheus
+Message-ID: GV0P278MB02117EDBA9001FC1882DD4EB9840A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+Attachments: WhatsApp Image 2025-07-02 at 10.33.12_50d13ed8.jpg
+
+================================================================================
+
+Rogier from Deheus is writing me saying that there are several dashboards showing no data this morning. Here is an extract of an example.
+
+Rogier, please let us know if you see other places where there are issues.
+
+Thank you and apologies for the inconvenience
+
+gg

@@ -1,0 +1,38 @@
+From: Obeb Fkiri </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=1316D8E08A87448FA385843FC03252B2-31770240-B5>
+To: Guillaume Goudy; Support Dnext; Ebtihel Kantaoui
+Date: 2025-08-27 13:02:57.348000+00:00
+Subject: Re: Corn in Unica dashboard not showing anymore
+Message-ID: GV0P278MB0113910277D2DE267F40550EEA38A@GV0P278MB0113.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB02113286C0981EA224ADDF669838A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Guillaume,
+
+Looking into it now.
+
+Obeb
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: Wednesday, August 27, 2025 1:01 PM
+To: Support Dnext <support@dnext.io>; Obeb Fkiri <obeb.fkiri@dnext.io>; Ebtihel Kantaoui <ebtihel.kantaoui@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Camila Baldin <camila.baldin@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Subject: Corn in Unica dashboard not showing anymore 
+ 
+
+I think it is the second time I am asking but why is corn (final product) not showing anymore? I used to have access to corn stats here from Unica. This is a very important dataset. Please fix it today/asap.
+
+Tks
+
+gg
+
+ 
+
+ 
+
+ 
+
+ 
+
+

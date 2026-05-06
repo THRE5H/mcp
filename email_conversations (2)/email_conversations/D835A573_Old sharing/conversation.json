@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "Old sharing",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA",
+      "from_name": "Nicolas Chaperon",
+      "to": "Saber Khalfallah",
+      "cc": "Jebrane Ben Salem; Benoit Baliguet; Sami Jaballah; Support Dnext",
+      "received_time": "2025-04-29 16:26:37.899000+00:00",
+      "sent_time": "2025-04-29 16:26:35+00:00",
+      "body_text": "Hello,\r\n\r\nCan we get rid of the old sharing on the client side ? Regarding the tradematrix, those matrix are not up to date anymore, so we would like to get rid of those.  Meaning client that use the old sharing are using data that are not correct anymore (regarding the forecasts).\r\n\r\nRegarding the dataset, they are still up to date, but they still don't follow the contracts clauses.\r\n\r\nNicolas,\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nHello,</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nCan we get rid of the old sharing on the client side ? Regarding the tradematrix, those matrix are not up to date anymore, so we would like to get rid of those.&nbsp; Meaning client that use the old sharing are using data that are not correct anymore (regarding\r\n the forecasts).</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nRegarding the dataset, they are still up to date, but they still don't follow the contracts clauses.</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\nNicolas,</div>\r\n<div class=\"elementToProof\" style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\r\n<br>\r\n</div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "D835A573B2E12F4D89F75B1BB8B44B2B",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002A44BC7F50000",
+      "size": 45516,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "ZRAP278MB06115E05871526DF5EE704E1E6802@ZRAP278MB0611.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Old sharing"
+}

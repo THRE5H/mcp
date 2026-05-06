@@ -1,0 +1,63 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Leticia Viracao; Support Dnext
+Date: 2025-02-27 20:40:41.684000+00:00
+Subject: Re: CREATE VISUALS - COST OF PRODUCTION IMEA DATA 
+Message-ID: ZR3P278MB1226186E351F8127C9CCC495F5CD2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: CP4P284MB12821DE38CE90BC445261D2BBFCD2@CP4P284MB1282.BRAP284.PROD.OUTLOOK.COM
+Attachments: image_1.png
+
+================================================================================
+
+Dear Leticia,
+
+Thank you for reaching out.
+
+To create visuals, you have a couple of options:
+
+*	You can build a dashboard using Power BI and integrate it into the platform.
+*	Alternatively, you can consume the data locally and create visuals using Excel.
+
+If you're interested in using Power BI with the Cost of Production (COP) data, we’d be happy to assist you. Let us know your availability, and we can schedule a meeting to guide you through the process.
+
+Looking forward to your response.
+
+Best regards,
+
+
+Jebrane Ben Salem
+
+
+________________________________
+
+De : Leticia Viracao <leticia.viracao@amaggi.com.br>
+Envoyé : jeudi, février 27, 2025 8:25:56 PM
+À : Support Dnext <support@dnext.io>
+Cc : Rodrigo Loto <rodrigo.loto@amaggi.com.br>; Fellipe Pavin <fellipe.pavin@amaggi.com.br>
+Objet : CREATE VISUALS - COST OF PRODUCTION IMEA DATA 
+
+
+Dears,
+
+I'd like to work on the data from IMEA cost of production, what do I need to fill in the fields below to be able to create visuals?
+
+
+
+Regards,
+
+ 
+
+Leticia Viracao
+
+Vendas
+
+Matriz
+
+	
+AMAGGI <http://www.amaggi.com.br> 
+
+ 
+
+ 
+
+ 
+

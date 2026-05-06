@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to select both Canadian regions and a specific year on the weather graph simultaneously.
+
+**Context**: The user is an external user from the Customer Organization, seeking assistance with a feature in the Service Provider's dashboard. The issue arose while trying to interact with a specific weather data visualization link.
+
+**Solution**: The Support Agent advised the customer to hold the "Ctrl" key while selecting the year and region, or to use the State filter directly. The customer appreciated the guidance and requested that this information be added as a note in the dashboard for future users. The Support Agent confirmed that this request would be addressed.

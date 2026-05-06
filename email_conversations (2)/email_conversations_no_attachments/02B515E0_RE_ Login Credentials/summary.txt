@@ -1,0 +1,5 @@
+**Problem**: The customer needed login credentials to access the platform but did not receive them initially.
+
+**Context**: The user is an external user from a Customer Organization seeking access to a platform provided by a Service Provider. The conversation involves multiple emails regarding the provision of login credentials and instructions for first-time access.
+
+**Solution**: The Support Agent provided the customer with the necessary login credentials and detailed instructions on how to log in and change the password upon first access. The customer confirmed receipt of the information and expressed gratitude, indicating that the issue was resolved successfully.

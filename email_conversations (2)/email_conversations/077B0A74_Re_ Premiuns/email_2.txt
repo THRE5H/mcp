@@ -1,0 +1,181 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pamela Sanches; Lucas Rosa; Support Dnext; Yago Matias
+Date: 2025-11-06 23:58:42.471000+00:00
+Subject: RE: Premiuns
+Message-ID: GV0P278MB13209D6C40D30C9F828B1B16F8C2A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PARP264MB63307F7FBA4A74689FE04851AEC2A@PARP264MB6330.FRAP264.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Pamella,
+
+ 
+
+Hope all is well!
+
+ 
+
+Quick clarification : the dashboards are named “CNF Corn / Soybean CNF”, but the matrix in your screenshot is the FOB basis matrix,so that’s where the cash FOB basis values are shown (despite the CNF naming).
+
+For your requests on July basis behavior:
+
+ 
+
+Corn
+
+ 
+
+*	Open CNF Corn → go to Seasonals.
+
+ 
+
+*	Set Month = July 
+
+ 
+
+
+
+ 
+
+You can find the same data for beans in the “Soybean CNF” Dashboard ‘Seasonals’ Page 
+
+ 
+
+For convenience, here are the underlying datasets (use the Download button at the top-right to grab the raw data):
+
+*	Corn dataset: https://sucden.dnext.io/datasets/sucden-b327c07f-efd6-11ef-bba5-0a84c630a3f1
+*	Soybeans dataset: https://sucden.dnext.io/datasets/sucden-a410fb85-d8ab-11ef-82fc-06cd53a4d901
+
+Please let me know if this is what you were looking for.
+
+I would be glad to assist you further if needed.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pamella SANCHES SEILER <psanches@sucden.com> 
+Sent: Thursday, November 6, 2025 23:22
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Support Dnext <support@dnext.io>; Yago Matias <ymatias@sucden.com>
+Subject: Re: Premiuns
+
+ 
+
+Hi Saber how are you ?
+
+ 
+
+But where can I find the corn and beans cash FOB values? It is only CNF available  as per print below.
+
+ 
+
+The information I need is : I want to see how Braz Jly basis has behaved for the last 3 years.  and what have Jly2026 basis done since it started to trade ??
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Thursday, November 06, 2025 14:08
+To: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Pamella SANCHES SEILER <psanches@sucden.com <mailto:psanches@sucden.com> >
+Subject: RE: Premiuns 
+
+ 
+
+	
+EXTERNAL MESSAGE: This message comes from outside Sucden and is not without risk, remain vigilant before clicking on an unverified link and/or opening an unexpected attachment.
+
+ 
+
+Hello Pamela,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+You can access the premium cash dashboards by following these instructions.
+
+1.	Click on the dashboards button on the left navigation menu
+2.	Go to the “Gno Economics” Tab
+3.	Expand the FOB & CNF section and you will find the dashboards there
+
+ 
+
+
+
+ 
+
+Please let me know if this helps you find what you are looking for.
+
+ 
+
+Looking forward to hearing from you.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://secure-web.cisco.com/1ymdZRK7WUDKstjnLtv2cWD6_oLl9Z1w90JGLutwR-A2fZubf7o9fHFXPvdeFQ_Yf4DaQoGqT9KTgqQ_bZ63KqEKAzJH-YDjGjJqv8X-CQ18D4fkHB3d41O1-nkGXd4_mjShn2v-lQuwChu2ZZueF3C0TvUvGUSXmSOEh7eWLKWCitugTWTLBr9tywVtj5v-BV5GDsepI49T1lmDO8sylN_GeYLc_CRtRxpsYJ-vFkIWWQYzyz8sjdzInKCk1jmG1TaqbiKVbeXzg87rbMvjgPw/http%3A%2F%2Fwww.dnext.io%2F> 
+
+ 
+
+ 
+
+From: Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >
+Sent: Thursday, November 6, 2025 17:44
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Pamela Sanches <psanches@sucden.com <mailto:psanches@sucden.com> >
+Subject: Premiuns
+
+ 
+
+Hello Support, how are you?
+
+could you help Pamella to reach there?
+
+ 
+
+

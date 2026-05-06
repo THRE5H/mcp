@@ -1,0 +1,13 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-02-03 18:14:59.450000+00:00
+Subject: Argentina crush
+Message-ID: GV0P278MB01482AC41A0C6483379F16EB98F52@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+When landing on this dashboard, I get an empty page
+
+ 
+
+

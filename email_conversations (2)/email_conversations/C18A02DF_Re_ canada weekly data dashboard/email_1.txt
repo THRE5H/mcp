@@ -1,0 +1,45 @@
+From: Nour Meddeb </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=85A3B73C2F4A4ACD87DB57D805C787FD-F8025688-F2>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-08-13 16:20:42.647000+00:00
+Subject: Re: canada weekly data dashboard
+Message-ID: ZRAP278MB0527DD34D7DBE24FF3BEB92E962AA@ZRAP278MB0527.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717F4CA62A53D0BE0D4410DEB2AA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+
+They seem to be the same as the source 
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, August 13, 2025 2:53 PM
+To: Nour Meddeb <nour.meddeb@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: canada weekly data dashboard 
+
+Seems that the chart is not showing this datapoints
+
+
+
+
+________________________________
+
+From: Nour Meddeb <nour.meddeb@dnext.io>
+Sent: Wednesday, August 13, 2025 3:39 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: canada weekly data dashboard
+
+Hi Pablo , 
+According to the source file we are scrapping  the crop year is still 2024-2025
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Wednesday, August 13, 2025 2:04 PM
+To: Support Dnext <support@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>
+Subject: canada weekly data dashboard
+
+Hi, do we have data for 25/26? we should have at least 2 data points here i believe
+

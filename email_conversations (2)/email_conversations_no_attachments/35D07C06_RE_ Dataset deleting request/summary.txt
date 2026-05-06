@@ -1,0 +1,5 @@
+**Problem**: The customer requested the deletion of a dataset they created the previous day, which was empty and had been replaced by a new one.
+
+**Context**: The user is an external user from the Customer Organization. The issue involves a dataset within a data management system provided by the Service Provider. The dataset in question is identified by the code "dnexr-hmcrus-all-rus-weather-daily."
+
+**Solution**: The Support Agent confirmed that the dataset was successfully deleted as requested. It is recommended for users to verify the contents of datasets before creation to avoid unnecessary deletion requests.

@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users experience confusion due to duplicate TradeMatrix files appearing with different code formats.",
+    "solution": "To identify the correct and up-to-date TradeMatrix files, use those with the new code format 'ameropa-xxxx-xxxx-xxxx-xxxx'. These files are part of a new sharing system that dynamically updates access and content, ensuring the latest versions are always available. Avoid using the old format 'dnexr-xxxx-xxxx' files, as they are being phased out and will be removed soon. Transitioning to the new format prevents confusion and guarantees access to the most current TradeMatrix data.",
+    "keywords": [
+      "TradeMatrix",
+      "duplicate files",
+      "code format",
+      "ameropa",
+      "dnexr",
+      "dynamic updates",
+      "sharing system",
+      "file versioning",
+      "resource access"
+    ],
+    "category": "Configuration"
+  }
+}

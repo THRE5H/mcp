@@ -1,0 +1,150 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Saber Khalfallah; Quentin Doublet
+Date: 2025-08-28 11:15:19.709000+00:00
+Subject: Fw: Share EU lineups dashboards with BF environment
+Message-ID: GV0P278MB0717E57738D2A689B1707631EB3BA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320F16E1D5AC010F9332FC0F83BA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+Attachments: image004.png, image.png
+
+================================================================================
+
+this is what i see Saber
+
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Thursday, August 28, 2025 11:55 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Quentin Doublet <quentin.doublet@blackfryers.io>; Support Dnext <support@dnext.io>
+Subject: RE: Share EU lineups dashboards with BF environment 
+
+
+I will share the others , I thought you only meant bulgaria
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Thursday, August 28, 2025 10:54
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Quentin Doublet <quentin.doublet@blackfryers.io>; Support Dnext <support@dnext.io>
+Subject: Re: Share EU lineups dashboards with BF environment
+
+ 
+
+Hi Saber, i only see Bulgaria.
+
+ 
+
+
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Wednesday, August 27, 2025 6:25 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Share EU lineups dashboards with BF environment
+
+ 
+
+Hello Pablo ,
+
+ 
+
+It’s done
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: Wednesday, August 27, 2025 15:53
+To: Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Share EU lineups dashboards with BF environment
+
+ 
+
+Hi Saber, can we share this dashboards with the BF environment?
+
+ 
+
+
+
+ 
+
+ 
+
+Thanks,
+
+Pablo
+
+ 
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Sent: Wednesday, August 27, 2025 4:46 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >
+Subject: RE: EU Lineups Dashboards to share with BF environment
+
+ 
+
+Shold be good
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: Wednesday, 27 August 2025 16:43
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Quentin Doublet <quentin.doublet@blackfryers.io <mailto:quentin.doublet@blackfryers.io> >
+
+Subject: EU Lineups Dashboards to share with BF environment
+
+ 
+
+Hi, @Guillaume Goudy <mailto:guillaume.goudy@dnext.io> , just to confirm if there is any of the EU lineup dashboards that we cannot share in the BF environment. cases of spain and portugal in case the source does not allow.
+
+ 
+
+France has been fixed and i think is ready. 

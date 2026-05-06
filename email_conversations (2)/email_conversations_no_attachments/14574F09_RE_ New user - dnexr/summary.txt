@@ -1,0 +1,5 @@
+**Problem**: The customer requested the addition of a new user, an analyst, to the dnexr platform.
+
+**Context**: The customer is an internal user from the Customer Organization. The request involved creating a user account on the dnexr.dnext.io platform for a new analyst.
+
+**Solution**: The Support Agent successfully created the user account and sent the login credentials to the provided email address. It is recommended to verify the login details upon receipt to ensure access.

@@ -1,0 +1,5 @@
+**Problem**: The customer reported an extraction error in a dataset and requested assistance in checking the issue.
+
+**Context**: The user is an external user from the Customer Organization, seeking support related to a data extraction feature of a service provided by the Service Provider. The issue arose during the customer's attempt to utilize the dataset for their operations.
+
+**Solution**: The Support Agent acknowledged the request and initiated a review of the dataset for errors. Further actions will be taken based on the findings, and the customer will be updated once the investigation is complete. It is recommended that the customer verify the dataset format and parameters to prevent similar issues in the future.

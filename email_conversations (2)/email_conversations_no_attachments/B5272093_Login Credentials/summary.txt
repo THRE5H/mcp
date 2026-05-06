@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing the platform but was provided with login credentials in an email.
+
+**Context**: The user is an external user seeking to access a service provided by a Customer Organization. The issue involves login credentials for a platform hosted at a specific URL.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials and the URL to access the platform. It is recommended that users keep their credentials secure and change passwords regularly to maintain account security.

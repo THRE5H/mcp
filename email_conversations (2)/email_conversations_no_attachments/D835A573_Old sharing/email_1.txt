@@ -1,0 +1,15 @@
+From: Nicolas Chaperon </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EA4F4FC195114E4CBB88BDE535F6722A-NICOLAS.CHA>
+To: Saber Khalfallah
+Date: 2025-04-29 16:26:37.899000+00:00
+Subject: Old sharing
+Message-ID: ZRAP278MB06115E05871526DF5EE704E1E6802@ZRAP278MB0611.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+Can we get rid of the old sharing on the client side ? Regarding the tradematrix, those matrix are not up to date anymore, so we would like to get rid of those.  Meaning client that use the old sharing are using data that are not correct anymore (regarding the forecasts).
+
+Regarding the dataset, they are still up to date, but they still don't follow the contracts clauses.
+
+Nicolas,

@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing the DNEXT platform and was provided with login credentials.
+
+**Context**: The user is an external user from a Customer Organization seeking access to the DNEXT platform. The issue involved logging in using provided credentials, which included an email and password.
+
+**Solution**: The Support Agent provided the customer with the necessary login URL and credentials. The customer was advised to change the password upon first login by following specific steps to enhance security. No further issues were reported after this guidance.

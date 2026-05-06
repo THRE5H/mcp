@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to specific dashboards for a two-week trial for the Wilmar KL team, as some required dashboards were missing from the demo account.
+
+**Context**: The user is an internal user (Customer Organization) requesting support for a demo account related to a trial of a data service. The trial is intended for the Wilmar KL team, who had previously received a demo.
+
+**Solution**: The Support Agent created the demo environment and provided access to several dashboards. After the customer identified missing dashboards, the Support Agent confirmed the addition of the palm oil line-ups dashboard and sought confirmation on sharing the "GnO Economics > Futures" dashboard. The customer was also added to the vegoils distribution list for further updates.

@@ -1,0 +1,39 @@
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com>
+To: Support Dnext
+Date: 2025-05-08 16:36:28.255000+00:00
+Subject: units in trade flow data
+Message-ID: SA1PR11MB8543A7B31181A7ECA43B9331968BA@SA1PR11MB8543.namprd11.prod.outlook.com
+
+================================================================================
+
+Hi, 
+
+ 
+
+Is there any way to see units in the trade matrix data? For example the ethanol one?
+
+ 
+
+Best, 
+
+Rafael
+
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################
+

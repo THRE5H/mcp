@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of multiple user accounts in the environment drw.dnext.io and asked for confirmation once the profiles were sent to the users.
+
+**Context**: The request was made by an external user from Customer Organization. The service involved is a user account management feature within a specific platform.
+
+**Solution**: The Support Agent acknowledged the request and proceeded to create the user accounts as specified. After completing the task, the Support Agent confirmed to the customer that the profiles were successfully sent to the users. It is recommended to verify user access periodically to ensure all accounts are functioning correctly.

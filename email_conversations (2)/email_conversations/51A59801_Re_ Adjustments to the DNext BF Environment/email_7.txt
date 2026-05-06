@@ -1,0 +1,55 @@
+From: Quentin Doublet <quentin.doublet@blackfryers.io>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-08-28 11:06:12.337000+00:00
+Subject: Adjustments to the DNext BF Environment
+Message-ID: ZRAP278MB0801F5BDB2186F059C80B4608F3BA@ZRAP278MB0801.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+Dear Saber, Dear Support Team,
+
+Please see below a list of adjustments that I would like the BF environment of the platform to reflect:
+
+1.
+Business Categories\Dashboards
+Remove Biofuels, Fertilizers, EU Black Fryers
+Renaming the system entities:
+Grains & oilseeds to be called Grains & Oilseeds
+Meat to be called Meat, Livestock & Feed
+Eu Black Fryers to be called EU BlackFryers
+
+ 
+ 
+2.
+Breadcrumb trail
+The spelling of some categories is not consistent with the rest of the platform:
+“grains_oilseeds” => Grains & Oilseeds
+
+ 
+“livestock_and_meat” => Meat, Livestock & Feed
+
+ 
+“tradeflow” => Tradeflow
+
+ 
+“weather” => Weather
+
+ 
+“sugar” => Sugar
+
+ 
+“eu_black_fryers” => EU BlackFryers
+
+ 
+3.Allocation of Dashboards to business categories
+Lineups group: Europe\France, Portugal, Romania, Spain are not showing within the BlackFryers environment although their labelling is already showing EU BlackFryers.
+It probably needs to be adjusted somewhere else.
+
+*****************************
+
+I can provide more explanations if needed.
+
+Best Regards,
+
+Quentin

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of three individuals (Agustin, Felipe, and Giacomo) from all distribution lists.
+
+**Context**: The user is an external analyst from a Customer Organization requesting support from internal users at a Service Provider. The request was made via email, indicating a need for administrative changes to distribution lists.
+
+**Solution**: The Support Team confirmed that Agustin, Felipe, and Giacomo had been successfully removed from the distribution list. It is recommended to regularly review distribution lists to ensure they are up-to-date and reflect current team members.

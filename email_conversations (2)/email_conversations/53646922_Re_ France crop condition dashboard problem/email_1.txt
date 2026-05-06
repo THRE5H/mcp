@@ -1,0 +1,40 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Iheb Mhamdi
+Date: 2025-12-16 14:58:19.363000+00:00
+Subject: Re: France crop condition dashboard problem
+Message-ID: ZR3P278MB1226254AD4897CD19E2D2942F5AAA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717CFAC1A8B88EC74C7031AEBAAA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Done Pablo, 
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 16 December 2025 14:54
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: France crop condition dashboard problem 
+ 
+ok my fault. i did not select the last season.
+
+can we make 2026 as default?
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Tuesday, December 16, 2025 2:53 PM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>; Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Subject: Re: France crop condition dashboard problem 
+ 
+Adding @Iheb Mhamdi <mailto:iheb.mhamdi@dnext.io>  
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 16 December 2025 14:52
+To: Support Dnext <support@dnext.io>
+Subject: France crop condition dashboard problem 
+ 
+maps not showint he correct data. seems that it does not filter correctly by the last date found
+
+

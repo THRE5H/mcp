@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the August data for Indonesia was released but not updated in the relevant dashboard.
+
+**Context**: The user is an internal user from the Customer Organization, specifically from the Trade Flow team. The issue involved a customs dashboard that was not reflecting the latest data due to an early release by the data source.
+
+**Solution**: The Support Agent confirmed that the datasets and dashboard have been updated to reflect the new data. They acknowledged the early release and assured that measures would be taken to prevent similar issues in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to the Oilseed SnD Excel files in Dropbox and requested sample SQL queries for Data Prep. They also faced issues with the support email address, which previously resulted in failed requests.
+
+**Context**: The customer is an external user from a financial organization seeking technical assistance with the Dnext platform. The conversation involves access to datasets and training related to the Dnext SnD service, which provides monthly data updates without yearly aggregations.
+
+**Solution**: The support agent confirmed that the Oilseed SnD files have been added to Dropbox and provided two examples of SQL queries for Data Prep. They also suggested alternative platforms for file delivery if needed and assured the customer that they are working on processing datasets to generate yearly values.

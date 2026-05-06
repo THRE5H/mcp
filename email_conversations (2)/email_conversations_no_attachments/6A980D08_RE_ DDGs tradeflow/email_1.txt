@@ -1,0 +1,53 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Guillaume Goudy; Support Dnext
+Date: 2025-07-16 15:03:00.001000+00:00
+Subject: RE: DDGs tradeflow
+Message-ID: GV0P278MB1320C3635C9CB613BC73E862F856A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0211580AECCE95F1A52C58319856A@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Tradeflow is updated but there is an issue with the sharing module.
+
+dev team are onto it .
+
+I will contact him once the issue is fixed and he has the tradeflow in his environment.
+
+ticket of the bug in jira : https://dnext.atlassian.net/browse/DNP-5082
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Wednesday, July 16, 2025 11:23
+To: Support Dnext <support@dnext.io>
+Subject: DDGs tradeflow
+
+ 
+
+Rogier from Deheus is asking for tradeflow for DDGS. I see we have. Can u check it is up to date and then why is it not shared with them yet? Then please respond to him directly:
+
+rkievit@deheus.com <mailto:rkievit@deheus.com> 
+
+

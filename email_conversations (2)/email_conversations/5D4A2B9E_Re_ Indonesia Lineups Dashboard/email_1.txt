@@ -1,0 +1,156 @@
+From: Skander Ghamgui </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3A2A3FCBF3C84B318694E4C719E1FBD7-E1998C4B-C3>
+To: Aditya Jeripotula; Support Dnext
+Date: 2025-12-11 11:01:17.514000+00:00
+Subject: Re: Indonesia Lineups Dashboard
+Message-ID: ZRAP278MB0335D7942BA5C59EE10B53CF83A1A@ZRAP278MB0335.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB01508DEC55D544943EF6968098A1A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Good morning Aditya,
+Thank you for your email,
+Currently me and Ghaith are working on it and it should be published to dnexr today.
+Also we can add a tables as we have discussed.
+I will keep you updated.
+Kind regards,
+Skander
+
+
+
+
+
+Skander Ghamgui
+
+Data Analyst, Trade Flow team
+
+                                                                                                     skander.ghamgui@dnext.io <mailto:skander.ghamgui@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Kalaa Kebira 4060 | Sousse
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+
+________________________________
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Sent: Thursday, December 11, 2025 3:43 AM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Fw: Indonesia Lineups Dashboard 
+ 
+Dear team
+
+Kindly look into the earlier shared issues for Lineups dashboard. Please let us know if these are addressed or work in progress.
+
+Furthermore, I request to make changes to Malaysia (Palm Oil) page as below:
+
+*	
+	Slider on the bottom of the page to select months does not work - SS below (I selected Oct 2025 to latest, and it still shows all months of 2025)
+
+	*	
+		
+
+*	
+	I suggest keep format same for Malaysia page same as provided in Indonesia (Palm Oil) page, it is easier to select year and month from slicer - SS below  
+
+	*	
+		
+
+*	
+	One trial client requested if the same charts can be viewed as table, is that is possible?
+
+
+I am available to discuss these to help improve.
+
+Regards,
+Aditya Jeripotula
+________________________________
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Sent: 25 November 2025 10:37
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>; Skander Ghamgui <skander.ghamgui@dnext.io>
+Subject: Indonesia Lineups Dashboard 
+ 
+Dear team
+
+There are a few issues identified while using the Indonesia lineups dashboard, listing them below with details:
+
+*	
+	Product categorization is inappropriate:
+
+	*	
+		Some palm oil products are listed under OTHERS. Also, there is a listing under vegoils named "Palm Oil". All of these products selected accumulate to give total palm oil products export lineup. Current categorization is difficult to identify and navigate. 
+	*	
+		
+
+*	
+	Buttons overlapping with arrows:
+
+	*	
+		Buttons appear to have a glitch, not always easy to select the buttons if moving over the table. Arrows appear overlapping with buttons, not allowing to select the buttons. Suggest to change the buttons placement or any better way to do it as you may.
+	*	
+		
+
+*	
+	Data unavailable:
+
+	*	
+		2023 year starts from April - we must make it consistent to full year. Also, if possible, we must have at least 5 years' data available. 
+
+*	
+	Data inappropriate:
+
+	*	
+		In my understanding, port capacity in this page is selected as maximum of monthly figure for respective years. This figure changes if we change the product, which sounds inappropriate. Every port handles long list of products; the port capacity should be considering all those products. I suggest here we must show Maximum of all products cumulative figure instead of only the selected products. This will also give an idea of how significant is the share of selected product at that port. 
+	*	
+		
+	*	
+		Under page "Market Share", selecting "Product" button shows 20.776 Million tons of RBD Palm Olein exported in 2024 and the total exports is 42.086 Million tons. This is inappropriate. Kindly check/verify the dataset and validate this or correct this. 
+	*	
+		
+
+*	
+	Data inconsistent:
+
+	*	
+		When selecting "Vessel view", the total quantity is arriving at 61,894 - this also doesn't have unit - is this count of vessels or number of times a vessel is reported or anything else. Some products also have quantity "zero". 
+	*	
+		
+	*	
+		Under page "Market Share", the Shipper button shows only 2 names - Louis Dreyfus and Cargill. For sure there will be at least 50 companies exporting palm oil products. 
+	*	
+		
+
+*	
+	Default selection:
+
+	*	
+		I suggest to keep "Latest" as default in the "Lineups Table" page, current default is a few back months.
+
+*	
+	Unidentified Product:
+
+	*	
+		There a product named "Crop" - can you check what is this?
+	*	
+		
+	*	
+		Some products in the "Summar" view are mentioned having "zero" quantity for selected period, last year and 5-year average. Better not have them in the list if there is no data available for these products in lineups currently. 
+	*	
+		
+
+
+I suggest if we can combine the two dashboards - "1. Indonesia" and "2. Indonesia (Palm Oil)".  We need the multi-day chart view in the 2nd dashboard along with the historical data in the 1st dashboard. Likewise for Malaysia - 3 and 4, shown in below screenshot. 
+
+
+Kindly let me know if need any assistance in understanding the details or if something needs to be discussed on the above issues. Also, similar issues might be present in Malaysia Lineups dashboard, it will be good to check on the same. 
+
+Regards,
+Aditya Jeripotula

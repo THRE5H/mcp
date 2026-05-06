@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the Intertek environment for the email address dashboarding@dnext.io.
+
+**Context**: The user is a Data Scientist from Customer Organization. The request was made to gain access to a specific service (Intertek) that is necessary for their work.
+
+**Solution**: The Support Agent created a user account for the requested email address in the Intertek environment and provided the login credentials. The customer was successfully granted access, and it is recommended to securely store the credentials for future use.

@@ -1,0 +1,34 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Aditya Jeripotula; Support Dnext
+Date: 2025-07-17 14:35:22.246000+00:00
+Subject: RE: ITS Report
+Message-ID: GV0P278MB0148237DC3F0B6B7F1E5CE179851A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB09490E80B70A5C4B962999889851A@GV0P278MB0949.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Is the healthcheck set up on this one ? 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io> 
+Sent: Thursday, July 17, 2025 3:24 PM
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: ITS Report
+
+ 
+
+Dear team
+
+ 
+
+Can you kindly check the below update from ITS for Malaysia. I see many entries under Product column as labelled "Not Available".
+
+ 
+
+    
+
+Regards,
+
+Aditya Jeripotula

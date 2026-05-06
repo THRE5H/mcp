@@ -1,0 +1,5 @@
+**Problem**: The customer requested to amend the DL-Raizen mailing list by deleting one email address and replacing it with another.
+
+**Context**: The user is an internal user from Customer Organization, and the request involves updating contact information for a mailing list related to the Research Manager position at Partner Company. The previous contact was leaving the organization, necessitating the update.
+
+**Solution**: The Support Agent confirmed that the requested amendment to the DL-Raizen mailing list was completed successfully. It is recommended to regularly review and update mailing lists to ensure all contacts are current, especially during personnel changes.

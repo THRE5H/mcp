@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing permission issues while trying to access the Argentina Crop Condition Data via API and is requesting a call to resolve the problem.
+
+**Context**: The customer is an external user from the Market Intelligence department of a Global Risk Management organization. They are seeking to utilize an API provided by a Service Provider for retrieving agricultural datasets.
+
+**Solution**: The Support Agent acknowledged the issue and offered to schedule a call to discuss the permission problems further. The final outcome is pending the scheduling of this call to address the customer's concerns. It is recommended that the customer ensure proper permissions are set up for API access.

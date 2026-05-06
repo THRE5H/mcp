@@ -1,0 +1,38 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Bastien Lambert; Support Dnext; Martin Keller
+Date: 2025-06-25 10:34:16.431000+00:00
+Subject: Re: Ukraine map
+Message-ID: ZR3P278MB12263AE572C24F4A2FF8A546F57BA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148E123D5EE0734432CC59D987BA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Bastien, 
+
+You're right, it's fixed now.
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io>
+Sent: 25 June 2025 10:25
+To: Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Cc: Guillaume Goudy <guillaume.goudy@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: Ukraine map 
+ 
+
+Hello guys,
+
+ 
+
+See below the map, 1 to 5, 6 to 10 and 11 to 15 are mostly blue, light red in the east of Ukraine. But the 1-15 map is dark red in some regions. How is that possible ?
+
+Similarly the region in the extreme west of Ukraine, is white in 1-5, red in 6-10 and red again in 11-15. But the 1-15 map shows it blue.
+
+ 
+
+Can you please take a look ? Thanks
+
+ 
+
+

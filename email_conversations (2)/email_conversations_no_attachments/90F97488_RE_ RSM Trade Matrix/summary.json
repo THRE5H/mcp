@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users cannot view or edit data beyond a certain date in the TradeMatrix platform, and data updates are not reflected properly, causing forecast refresh failures.",
+    "solution": "The issue was caused by a forecast dataset that had not been updated since May and was missing a required 'unit' column, which prevented the data refresh from working correctly. To resolve this, ensure all forecast datasets used in TradeMatrix are up-to-date and contain all necessary columns, including the 'unit' column. Additionally, verify that the dataset linked to TradeMatrix is the correct one, as some datasets may only contain data up to a certain date (e.g., December 2024). Renaming datasets to reflect their frequency (e.g., monthly, weekly) can help avoid confusion between similarly named datasets.",
+    "keywords": [
+      "TradeMatrix",
+      "data not updating",
+      "forecast refresh failure",
+      "missing unit column",
+      "dataset update",
+      "data visualization limit",
+      "edit data limit",
+      "dataset frequency naming",
+      "forecast dataset",
+      "data refresh issue"
+    ],
+    "category": "Error Resolution"
+  }
+}

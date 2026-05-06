@@ -1,0 +1,5 @@
+**Problem**: The customer requested the cancellation of two user accounts associated with the Gunvor Group.
+
+**Context**: The user is an external user from the Customer Organization, specifically requesting support related to user account management within the Service Provider's platform.
+
+**Solution**: The Support Agent confirmed that the cancellation of the specified user accounts was completed successfully. It is recommended for the customer to verify account statuses periodically to ensure all requests are processed as intended.

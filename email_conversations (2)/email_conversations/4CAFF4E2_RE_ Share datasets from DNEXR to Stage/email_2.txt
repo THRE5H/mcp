@@ -1,0 +1,19 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-10-31 16:27:40.033000+00:00
+Subject: Share datasets from DNEXR to Stage
+Message-ID: GV0P278MB03211FAD930128F3761725BF9DF8A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+It seems I don’t have permission to share datasets from dnexr to stage. Could you please share them instead?
+dnexr-conab-gno-bra-snd_item-monthly
+dnexr-imea-crn-matogrosso-snd_item-crop_estimates-monthly
+dnexr-imea-sbs-matogrosso-snd_item-crop_estimates-monthly
+Dnexr-deral-gno-parana-snd-item-progress-condition-weekly 
+
+
+Thanks, 
+Iheb
+ 

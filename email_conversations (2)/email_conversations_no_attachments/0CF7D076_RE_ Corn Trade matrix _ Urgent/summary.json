@@ -1,0 +1,22 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users are unable to reopen and modify saved forecasts or scenarios in grid/matrix view within the TradeMatrix platform. The Edit and Visualize buttons redirect to renaming pages instead of allowing direct grid editing.",
+    "solution": "To reopen and edit a forecast in grid view within TradeMatrix: 1) Load the saved forecast into TradeMatrix. 2) Drag the forecast onto the top layer panel. 3) Make the desired edits directly in the forecastable cells within the TradeMatrix interface. 4) After editing, either save the changes to the current version or publish them as a new version. Note that only the latest version of a forecast can be edited; older versions are read-only. Additionally, when creating a new forecast, use hyphens '-' instead of spaces or underscores in the code field. For Excel files with macros and VBA related to forecasts, open the '.xlsm' files rather than '.xlsx' files to access full functionality.",
+    "keywords": [
+      "TradeMatrix",
+      "forecast editing",
+      "grid view",
+      "matrix view",
+      "save changes",
+      "publish new version",
+      "forecast versioning",
+      "xlsm file",
+      "macros",
+      "VBA",
+      "edit forecast",
+      "visualize forecast"
+    ],
+    "category": "How-to Guide"
+  }
+}

@@ -1,0 +1,5 @@
+**Problem**: The customer reported duplicates in the US crop conditions dataset for 2024, which complicates data sharing with clients due to differing publication dates.
+
+**Context**: The user is an external user from a Customer Organization, seeking support from the Service Provider regarding data quality issues in a specific dataset. The situation is urgent as the datasets are intended for client sharing.
+
+**Solution**: The Support Agent proposed creating a new, consolidated dataset that combines cleaned and corrected data from existing sources. This approach will ensure only approved data is shared with clients, addressing the duplication issue effectively. It is recommended to apply the same cleaning process to related datasets to maintain data integrity.

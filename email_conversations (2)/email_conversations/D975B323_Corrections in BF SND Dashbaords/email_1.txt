@@ -1,0 +1,28 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-03-25 11:23:54.803000+00:00
+Subject: Corrections in BF SND Dashbaords
+Message-ID: GV0P278MB07175B3F8B2411EA082362CAEBA42@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+https://bf.dnext.io/dashboard/*/Supply%20and%20Demand/Black%20Fryers%20SND/e0248d06-9918-40c8-bb99-be07a23e85b4
+
+in this dashboard, which is saved here: C:\DNEXT Dropbox\DNEXT_POWERBI\All_Dashboards\Supply and Demand\EU\ECE Project\Supply and Demand_Europe_DNEXT EU SND_BF.pbix
+
+
+1.	
+	The dashboard does not seem to be set up to update as soon as the dataset updates.
+2.	
+	Exports in bold needs to tbe sum of the three categories below.
+
+
+
+
+
+
+3.	
+	Carry Out needs to go below Total Demand
+4.	
+	can we remap the items so they are more friendly?  put all in lowercase with the first letter in caps and change the names like follows for example: "use_feed" to "Feed"

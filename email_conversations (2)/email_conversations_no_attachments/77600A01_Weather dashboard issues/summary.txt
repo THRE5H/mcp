@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the Forecast Run Comparison feature on the weather dashboard was not displaying correctly. Additionally, they experienced issues with filters being unclickable, requiring a page refresh to regain functionality.
+
+**Context**: The user is an external user of the weather dashboard provided by a Service Provider. The issues occurred in a web-based application environment, potentially affecting user experience during critical forecasting tasks.
+
+**Solution**: The Support Agent advised the customer to clear their browser cache and ensure they were using an updated version of the browser. After these actions, the customer confirmed that the Forecast Run Comparison displayed correctly, and the filter functionality improved. It was recommended to regularly clear the cache to prevent similar issues in the future.

@@ -1,0 +1,9 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext
+Date: 2025-04-07 09:39:45.809000+00:00
+Subject: customs dsahboards in the BF environment not displaying data while they work fine in DNEXR
+Message-ID: GV0P278MB0717E3B84F34734D6160ECFAEBAA2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Saber can you check if there is any permission issue here?

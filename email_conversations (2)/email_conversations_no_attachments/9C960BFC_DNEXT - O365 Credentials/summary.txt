@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for their O365 account to access the service.
+
+**Context**: The user is a new employee at Customer Organization and requires access to the O365 platform for work purposes. The email was sent by a Data Analyst from the same organization to provide the necessary credentials.
+
+**Solution**: The Support Agent provided the user with their O365 username and password in the email. The user can now log in to their O365 account. It is recommended that the user change their password upon first login for security purposes.

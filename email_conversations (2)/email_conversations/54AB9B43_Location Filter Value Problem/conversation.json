@@ -1,0 +1,28 @@
+{
+  "emails": [
+    {
+      "subject": "Location Filter Value Problem ",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF",
+      "from_name": "Iheb Mhamdi",
+      "to": "Benoit Baliguet; Nicolas Chaperon",
+      "cc": "Support Dnext; Lucas Rosa; Pablo Figueroa; Jebrane Ben Salem",
+      "received_time": "2025-10-02 21:03:44.902000+00:00",
+      "sent_time": "2025-10-02 21:03:40+00:00",
+      "body_text": "Hello All,\r\nIt seems that the newly added feature for filtering by location type (regional_national / regional) is preventing me from updating this dataset. Even when I leave the field empty, it defaults to NATIONAL_REGION, while my dataset is actually a merge of REGIONS and NATIONAL_REGIONS.\r\nIs there any workaround for this issue?\r\nDataset code: dnexr-bage-mkt_info-weekly-manual\r\n\r\n\r\n\r\n \r\n\r\n\r\n",
+      "body_html": "<html>\r\n<head>\r\n\r\n<style type=\"text/css\" style=\"display:none;\"> P {margin-top:0;margin-bottom:0;} </style>\r\n</head>\r\n<body dir=\"ltr\">\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nHello All,</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nIt seems that the newly added feature for filtering by location type (regional_national / regional) is preventing me from updating this dataset. Even when I leave the field empty, it defaults to\r\n<b>NATIONAL_REGION</b>, while my dataset is actually a merge of <b>REGIONS</b>&nbsp;and\r\n<b>NATIONAL_REGIONS</b>.</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nIs there any workaround for this issue?</div>\r\n<div style=\"margin-top: 1em; margin-bottom: 1em; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\nDataset code: <b>dnexr-bage-mkt_info-weekly-manual</b></div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img style=\"width: 867.287px; height: 412px; max-width: 1122px;\" height=\"412\" width=\"867\" id=\"image_0\" data-outlook-trace=\"F:1|T:1\" src=\"cid:fecac12d-bd43-4248-af5b-9cd678bab7cc\"></div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n&nbsp;</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img style=\"width: 986px; height: 397px; max-width: 1122px;\" size=\"59917\" height=\"397\" width=\"986\" id=\"image_1\" data-outlook-trace=\"F:1|T:1\" src=\"cid:beae123f-d58f-4184-9140-4f30c3f6aa0d\"></div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<br>\r\n</div>\r\n<div style=\"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\" class=\"elementToProof\">\r\n<img style=\"max-width: 1122px;\" size=\"35421\" data-outlook-trace=\"F:1|T:1\" src=\"cid:ecae5c05-3d8b-480a-b3d7-714e494a5649\"></div>\r\n</body>\r\n</html>\r\n",
+      "conversation_id": "54AB9B43442B68479D348AF634A014BC",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD4900030A5BAC8D0000",
+      "size": 314900,
+      "has_attachments": true,
+      "attachments": [
+        "image.png",
+        "image_1.png",
+        "Outlook-qmzoprsx.png"
+      ],
+      "message_id": "GV0P278MB0321B7F0EC9B809C5E113E1B9DE7A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "Location Filter Value Problem "
+}

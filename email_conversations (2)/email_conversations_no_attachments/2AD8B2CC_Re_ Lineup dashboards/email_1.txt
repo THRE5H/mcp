@@ -1,0 +1,21 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Dnext Lineups
+Date: 2025-08-05 18:15:39.659000+00:00
+Subject: Re: Lineup dashboards
+Message-ID: ZR3P278MB1226B36DA76FBAE72E713360F522A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717BD423D88FE3F063F6154EB22A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Adding Lineups team
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 05 August 2025 17:50
+To: Support Dnext <support@dnext.io>
+Subject: Lineup dashboards 
+ 
+hi team, it seems that the lineup dashboards, in the "Lineups Table" part we  have a default selection in the month filter.
+
+is it possible to make it dynamic so we always show 3  months: always including the current month, the previous and the next one at least.
+

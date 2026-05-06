@@ -1,0 +1,5 @@
+**Problem**: The User reported that another User did not have access to the DNEXR environment and requested the creation of credentials for that User.
+
+**Context**: The request was made by an external User from the Customer Organization to the Customer Support Team regarding access to the DNEXR product. The User indicated that the affected User only had access to the staging environment.
+
+**Solution**: The Support Agent created a user account for the affected User on the DNEXR environment and sent the login credentials privately. The User confirmed receipt of the solution, indicating that the issue was resolved successfully.

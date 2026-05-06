@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add a new trader, Jose, to the email distribution list for Oilseeds SND updates.
+
+**Context**: The user is an internal user from Customer Organization, specifically a team member responsible for managing email distributions. The product involved is the email distribution for Oilseeds SND updates, which requires the inclusion of new team members.
+
+**Solution**: The support team confirmed that the email address for the new trader was successfully added to the distribution list. Additionally, a user account was created on the platform for Jose, and the login credentials were sent to him privately. It is recommended to ensure timely updates to email lists when new team members join.

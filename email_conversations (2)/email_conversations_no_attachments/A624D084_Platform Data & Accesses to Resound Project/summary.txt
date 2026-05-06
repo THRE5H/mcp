@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to specific datasets and GnO products within the Resound environment for multiple email addresses.
+
+**Context**: The user is an external user representing a Customer Organization. The request involves accessing customs datasets and TradeMatrices within the Resound platform, which is a service provided by a Service Provider.
+
+**Solution**: The Support Team confirmed the request and provided the necessary access to the specified email addresses for the datasets and GnO products. It is recommended to regularly review access permissions to ensure compliance and security.

@@ -1,0 +1,18 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Pacificor
+Date: 2025-12-18 19:00:04.484000+00:00
+Subject: North Dakota COP Data
+Message-ID: GV0P278MB07179B1D139133FB3461F167EBA8A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: dnexr-ndsu-gno-north_dakota-cost_of_production-yearly.csv
+
+================================================================================
+
+HI Ian, as follow up from the discussion today, see attached the dataset for ND cost of production.
+
+I'm adding support in cc so they share the dataset in your platform so you can access the data as well from there.
+
+
+let us know if u have any questions,
+
+Regards,
+Pablo

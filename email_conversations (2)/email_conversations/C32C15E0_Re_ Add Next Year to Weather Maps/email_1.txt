@@ -1,0 +1,28 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Aditya Jeripotula; Support Dnext
+Date: 2025-10-07 18:35:42.531000+00:00
+Subject: Re: Add Next Year to Weather Maps
+Message-ID: ZR3P278MB12266CCB684DB439F8943C81F5E0A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0947518C7615E6D801AABCC498E0A@ZRAP278MB0947.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Aditya, 
+
+Fixed,  I'm adding 2025 to the temp dashboard as well
+
+
+________________________________
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Sent: 07 October 2025 18:15
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Add Next Year to Weather Maps 
+ 
+Greetings team
+
+Kindly look into the Malindo weather charts - Need to add 2025 in crop year, currently data is displayed only till Sep 30 2025. Below is snapshot. 
+
+Regards
+Aditya Jeripotula 

@@ -1,0 +1,157 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Yuqi Chen
+Date: 2025-03-24 16:57:48.755000+00:00
+Subject: RE: Global Vegoils SND update 20250319
+Message-ID: GV0P278MB13206F576281509756602C3EF8A42@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB01514818A94C8C488B2DFD1E98A42@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+@Yuqi Chen <mailto:yuqi@veruscommodities.com>  the dashboard should now be visible on the platform 
+
+ 
+
+
+
+ 
+
+Please let us know if all is well from your end ,
+
+ 
+
+Thank you for your patience and understanding 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Monday, March 24, 2025 16:25
+To: Support Dnext <support@dnext.io>
+Cc: Enea Albertoli <enea.albertoli@dnext.io>; Yuqi Chen <yuqi@veruscommodities.com>
+Subject: FW: Global Vegoils SND update 20250319
+
+ 
+
+Hello guys,
+
+ 
+
+Yuqi (in cc), is not able to access the dashboard below.
+
+Could you please check ?
+
+ 
+
+Thanks
+
+ 
+
+From: Yuqi Chen <yuqi@veruscommodities.com <mailto:yuqi@veruscommodities.com> > 
+Sent: Monday, March 24, 2025 3:33 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Ayman Mezghani <ayman.mezghani@dnext.io <mailto:ayman.mezghani@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; Rahiman KN <Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Louis Olive <louis.olive@dnext.io <mailto:louis.olive@dnext.io> >; Alexandre Marie <alexandre.marie@dnext.io <mailto:alexandre.marie@dnext.io> >; Afef Matheli <afef.matheli@dnext.io <mailto:afef.matheli@dnext.io> >; steve@veruscommodities.com <mailto:steve@veruscommodities.com> 
+Subject: Re: Global Vegoils SND update 20250319
+
+ 
+
+Hi, I actually have looked into that before. But this page does not show up properly from my side. It's totally blank in the dropdown.  Following is a screenshot from my view. 
+
+Just FYI other pages do not have this issue.
+
+
+
+ 
+
+On Mon, Mar 24, 2025 at 8:21 AM Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > wrote:
+
+	Hello Yuqi,
+
+	 
+
+	Yes, we have an SnD table for Malaysia and Indonesia Palm Oil. Sending you here a screenshot:
+
+	 
+
+	
+
+	 
+
+	You may find it under Dashboards/Grains & Oilseeds/DNEXR/Vegoils
+
+	 
+
+	Best,
+
+	 
+
+	Enea
+
+	 
+
+	From: Yuqi Chen <yuqi@veruscommodities.com <mailto:yuqi@veruscommodities.com> > 
+	Sent: Monday, March 24, 2025 3:05 PM
+	To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+	Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Ayman Mezghani <ayman.mezghani@dnext.io <mailto:ayman.mezghani@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; Rahiman KN <Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Louis Olive <louis.olive@dnext.io <mailto:louis.olive@dnext.io> >; Alexandre Marie <alexandre.marie@dnext.io <mailto:alexandre.marie@dnext.io> >; Afef Matheli <afef.matheli@dnext.io <mailto:afef.matheli@dnext.io> >; steve@veruscommodities.com <mailto:steve@veruscommodities.com> 
+	Subject: Re: Global Vegoils SND update 20250319
+
+	 
+
+	Hi team, 
+
+	Thank you for this. I'm wondering if there is a spreadsheet or somewhere in your dashboard could find all history of palm oil production and carryout for Malaysia and Indonesia. If that's on the dashboard already, could you send me a screenshot of where to find that? I've gone through the dashboard website, but maybe I missed it. 
+
+	 
+
+	Thank you,
+
+	Yuqi
+
+	
+________________________________
+
+
+	From: team@veruscommodities.com <mailto:team@veruscommodities.com>  <team@veruscommodities.com <mailto:team@veruscommodities.com> > on behalf of Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+	Sent: Wednesday, March 19, 2025 5:28 AM
+	Cc: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Ayman Mezghani <ayman.mezghani@dnext.io <mailto:ayman.mezghani@dnext.io> >; Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >; Rahiman KN <Rahiman.kn@dnext.io <mailto:Rahiman.kn@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >; Lucas Rosa <lucas.rosa@dnext.io <mailto:lucas.rosa@dnext.io> >; Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Louis Olive <louis.olive@dnext.io <mailto:louis.olive@dnext.io> >; Alexandre Marie <alexandre.marie@dnext.io <mailto:alexandre.marie@dnext.io> >; Afef Matheli <afef.matheli@dnext.io <mailto:afef.matheli@dnext.io> >
+	Subject: Global Vegoils SND update 20250319 
+
+	 
+
+	Dear all,
+
+	Please find our weekly vegoils update.
+
+	Any suggestions or questions please let us know
+
+	Best Regards,
+
+	Dnext Research
+
+	 
+
+	

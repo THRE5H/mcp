@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The product mapping for urea is incorrect or unclear: the platform shows the product code as 'FERTDU' with the name 'Urea', but clients do not recognize 'FERTDU' as urea. The user wants to change the mapping to have the product name as 'Urea' and the code as 'UREA' for clarity.",
+    "solution": "To change the product mapping for urea to have the name 'Urea' and code 'UREA', follow these steps: 1) Edit the product reference with the code 'UREA' and change the name from 'FERTDU' to 'Urea'. 2) Use the Reference Management > Correction feature to replace all instances of the reference with name 'Urea' and code 'FERTDU' with the new reference (name 'Urea', code 'UREA'). Alternatively, if the previous mapping was incorrect and not from static values, use the 'Reapply Mapping' feature to correct the mapping without needing Reference Manager permissions. This method is simpler and less risky. These steps ensure the product is correctly identified as urea on the platform without confusing clients.",
+    "keywords": [
+      "product mapping",
+      "urea",
+      "FERTDU",
+      "UREA",
+      "reference management",
+      "correction",
+      "reapply mapping",
+      "product code",
+      "product name",
+      "mapping issue"
+    ],
+    "category": "Configuration"
+  }
+}

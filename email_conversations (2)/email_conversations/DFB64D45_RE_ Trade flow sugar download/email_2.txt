@@ -1,0 +1,44 @@
+From: Paola Luporini </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=AB4B022BCEBC4E47A74540163EA3DBAF-EF33D1F7-3B>
+To: John Stansfield; Guillaume Goudy; Saber Khalfallah; Support Dnext
+Date: 2025-03-27 13:09:18.389000+00:00
+Subject: Re: Trade flow sugar download
+Message-ID: GV0P278MB12562D6FDA0F79CD6310F7C4F6A12@GV0P278MB1256.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB060543AAD2A617726CAD82F385A12@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hey everyone.
+John and I have been discussing how to increase sugar integration with the platform.
+
+I can liaise with Elasfoury & the team what direction to take in the case of TradeFlow.
+
+
+
+
+________________________________
+
+From: John Stansfield
+Sent: Thursday, March 27, 2025 11:47
+To: Guillaume Goudy; Saber Khalfallah; Support Dnext
+Cc: Paola Luporini
+Subject: Re: Trade flow sugar download 
+
+GG - Is this something Mohamed could get involved in?  We were chatting yesterday about the difficulty of transferring the Brazilian port data into the Platform and then pulling in the forecasts at the same time.  He was going away yesterday to think about how to get the data in.
+
+
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 27 March 2025 11:08
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: John Stansfield <john.stansfield@dnext.io>; Paola Luporini <paola.luporini@dnext.io>
+Subject: Trade flow sugar download 
+ 
+
+Saber,
+
+ 
+
+I just finished a call with Philippe from Avere. He wants to be able to download the sugar tradeflow from the platform but have the info what is realized and what is forecast. We have this function in the TF. However, the way the data is being updated or processed in sugar, everything is uploaded as official. There is no forecast being uploaded. Is there a way to change that and upload official and a forecast. You will need to talk with sugar team and see how is current process being done and if easy to change. Not sure that it is for you to do but please coordinate effort and keep me posted.
+
+gg

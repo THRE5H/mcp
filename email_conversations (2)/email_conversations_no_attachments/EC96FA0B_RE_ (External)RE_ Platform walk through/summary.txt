@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance in organizing a platform walkthrough with another user.
+
+**Context**: The customer is an external user from Customer Organization, seeking support from the Customer Support team of Service Provider. The request involves coordinating a meeting time for a walkthrough of the platform.
+
+**Solution**: The Support Agent confirmed the request and facilitated communication between the customer and the other user. A suitable time for the walkthrough was agreed upon for Friday, October 6th at 5 PM CET, and calendar invitations will be sent out shortly. It is recommended to confirm the meeting details in advance to ensure all parties are prepared.

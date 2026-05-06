@@ -1,0 +1,27 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Support Dnext
+Date: 2025-12-24 13:29:28.921000+00:00
+Subject: Re: Weather Dashboard
+Message-ID: GVAP278MB015021F470A2655673CE6FA598B2A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB01502F567BC3AD18672A229098B2A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_3.png
+
+================================================================================
+
+Also, kindly include 2026 crop year.
+________________________________
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Sent: 24 December 2025 19:25
+To: Support Dnext <support@dnext.io>
+Cc: Martin Keller <martin.keller@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Weather Dashboard 
+ 
+Greetings dear team,
+
+In weather dashboard for MalIndo< Precipitation, forecast vs average shows everything 100% - kindly check if this is an error or really weather is forecast to be just perfectly normal. 
+
+
+
+Regards
+AJ

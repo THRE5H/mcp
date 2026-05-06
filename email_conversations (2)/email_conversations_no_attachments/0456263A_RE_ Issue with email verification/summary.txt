@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to verify their email for access to Jira, receiving a message indicating that their account did not have access.
+
+**Context**: The user is an external user from a Customer Organization attempting to access the Jira system provided by a Service Provider. The issue arose because the user had not yet registered in the Jira system.
+
+**Solution**: The Support Agent informed the customer that they were not registered and that an invitation to join the system had been sent. The customer was advised to accept the invitation to resolve the issue and gain access to Jira.

@@ -1,0 +1,16 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User requests to add all products to the export sales dashboard but some products are missing.",
+    "solution": "Products such as Barley, Sorghum, and Rice have been successfully added to the export sales dashboard dataset. Other products could not be added due to either lack of tradeflow data or absence of quantities from the USA as origin in the Tradeflow data. When adding products to the export sales dashboard, verify that tradeflow data exists and that there are quantities from the USA as origin; otherwise, those products cannot be included.",
+    "keywords": [
+      "export sales dashboard",
+      "product addition",
+      "tradeflow data",
+      "USA origin quantities",
+      "dataset update",
+      "missing products"
+    ],
+    "category": "Configuration"
+  }
+}

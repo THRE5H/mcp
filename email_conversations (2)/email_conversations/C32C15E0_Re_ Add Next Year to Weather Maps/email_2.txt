@@ -1,0 +1,15 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Support Dnext
+Date: 2025-10-07 18:15:50.744000+00:00
+Subject: Add Next Year to Weather Maps
+Message-ID: ZRAP278MB0947518C7615E6D801AABCC498E0A@ZRAP278MB0947.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Greetings team
+
+Kindly look into the Malindo weather charts - Need to add 2025 in crop year, currently data is displayed only till Sep 30 2025. Below is snapshot. 
+
+Regards
+Aditya Jeripotula 

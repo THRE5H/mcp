@@ -1,0 +1,36 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2025-03-19 11:23:08.516000+00:00
+Subject: Re: Ukraine soil moisture dashboard not updated
+Message-ID: GV0P278MB07171344BA2AEDAEC3A4FC3AEBD92@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226CBCF66D0415514ACD5A0F5D92@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_24.png, image_25.png
+
+================================================================================
+
+are we changing any other? like Russia and EU?
+
+what is the difference here? no crop mask? shouldnt we have the crop mask?
+
+
+________________________________
+
+From: Jebrane Ben Salem
+Sent: Wednesday, March 19, 2025 7:11 AM
+To: Pablo Figueroa; Support Dnext
+Subject: Re: Ukraine soil moisture dashboard not updated 
+
+Hello Pablo,
+The dashboard has now been updated.
+Please note that we have changed the table name in case you are using it in your code: ERA5_LAND_Ukraine_STATES_NOCROP_View.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 13:12
+To: Support Dnext <support@dnext.io>
+Subject: Ukraine soil moisture dashboard not updated 
+ 
+i think it might be related to the data because my scripts are giving me the same.
+
+

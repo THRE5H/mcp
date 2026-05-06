@@ -1,0 +1,61 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Jebrane Ben Salem; Support Dnext; Martin Keller
+Date: 2025-07-03 08:18:00.244000+00:00
+Subject: RE: Date offset, temperature
+Message-ID: GV0P278MB0148C5359ADEEFE2C015E1FD9843A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12263DD27E02CBBBF46C8FC1F540A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Well – you took the screenshot after it refreshed and considered the 2nd July 0Z GFS as official data.
+
+So if you want to keep seeing the problem, you can go in “Forecast Run Comparison” and select the ECMWF ENS 1st July 12Z.
+
+There it is 24.68 for the 2nd of July…
+
+ 
+
+
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: Wednesday, July 2, 2025 1:29 PM
+To: Bastien Lambert <bastien.lambert@dnext.io>; Support Dnext <support@dnext.io>; Martin Keller <martin.keller@dnext.io>
+Subject: Re: Date offset, temperature
+
+ 
+
+It's 37.38 near to 37.9
+
+ 
+
+
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Sent: 02 July 2025 10:50
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >
+Subject: RE: Date offset, temperature 
+
+ 
+
+
+
+ 
+
+From: Bastien Lambert 
+Sent: Wednesday, July 2, 2025 11:49 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Martin Keller <martin.keller@dnext.io <mailto:martin.keller@dnext.io> >
+Subject: Date offset, temperature
+
+ 
+
+Hello guys,
+
+ 
+
+I can tell you that this is wrong. Maybe a date offset. Im dying here with the temps, it is not 24.7 degrees
+
+

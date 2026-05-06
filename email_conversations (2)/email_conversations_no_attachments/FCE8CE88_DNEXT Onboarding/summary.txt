@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with onboarding to the DNEXT platform and requested a walkthrough of its core features.
+
+**Context**: The user is an external user engaging with the Service Provider for onboarding to the DNEXT platform. The email includes login credentials and a bot email address for further interaction.
+
+**Solution**: The Support Agent confirmed that the platform is ready and provided the customer with login credentials and bot contact information. A walkthrough of the platform's features was offered to assist the customer further. It is recommended that the customer reach out if they have any questions or need additional support.

@@ -1,0 +1,140 @@
+From: Mohamed Chabbouh </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7D5F89C7D49D410D87ECAA4751735A1C-52E4A2EA-48>
+To: Bastien Lambert; Dnext Lineups; Support Dnext
+Date: 2025-09-29 14:36:00.603000+00:00
+Subject: RE: MALAYSIA EXPORT DATA -25TH SEPTEMBER 2025
+Message-ID: GV0P278MB184770A796095AD695560A87E01BA@GV0P278MB1847.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148D2693420D2C70A3350BC981BA@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Bastien,
+
+The difference comes from some vessels that were present in the report received on September 15th but are missing in the latest update
+
+
+
+
+
+
+Additionally, one vessel had a delay in its ETS, which caused it to be counted twice and created a duplicate. we will deal with it .
+for the Products we have this list:
+
+ 
+
+should we map it all as Fatty Acid ?
+
+Best regards,
+
+
+________________________________
+
+De : Bastien Lambert <bastien.lambert@dnext.io>
+Envoyé : lundi 29 septembre 2025 14:12
+À : Dnext Lineups <lineups@dnext.io>; Support Dnext <support@dnext.io>
+Cc : Aditya Jeripotula <aditya.jeripotula@dnext.io>
+Objet : FW: MALAYSIA EXPORT DATA -25TH SEPTEMBER 2025 
+ 
+
+Hello,
+
+ 
+
+This contains 1288kmt for the month of September. The dataset in the platform shows 1364.
+
+Can you check why and make the correction please ?
+
+Also, I see in the dataset, 36kt which is mapped to “Not Available”, Id be keen to understand which products aren’t mapped.
+
+ 
+
+Thanks
+
+ 
+
+Bastien
+
+ 
+
+From: CHE RAZINAH BINTI SULTAN MYDIN Intertek <che.razinah@intertek.com> 
+Sent: Thursday, September 25, 2025 9:54 AM
+Subject: MALAYSIA EXPORT DATA -25TH SEPTEMBER 2025
+
+ 
+
+Good Day, 
+
+We enclose herewith the soft copy of the Malaysia Export Data for your kind attention.
+
+ 
+
+ 
+
+
+
+ 
+
+Best Regards, 
+
+Che Razinah Sultan Mydin
+
+Senior Operations Assistant
+
+Agricultural Services
+
+ 
+
+Office       :  +604 2614818
+
+www.intertek.com <http://www.intertek.com/> 
+
+ 
+
+
+
+ 
+
+ITS Testing Services (M) Sdn Bhd 
+
+Suite 04-01, Sri Weld, 3A Pengkalan Weld 10300 Penang, Malaysia
+
+ 
+
+ 
+
+TERMS AND CONDITIONS OF BUSINESS
+
+The issuance of this document does not exonerate any party from exercising all their rights and discharging all their liabilities under contract of Sale.  Stipulations to the contrary are not binding on ITS Testing Services (M) Sdn. Bhd.
+
+ 
+
+All activities are undertaken on the basis of the applicable ITS Testing Services (M) Sdn. Bhd. Terms and Conditions of Business.  No party should attempt to use or rely upon the contents of this document without having read and understood the Terms and Conditions applicable thereto.  A copy of which can be obtained from our website at www.intertek.com/terms/ <http://www.intertek.com/terms/>  or will be provided upon request.
+
+ 
+
+“As required under ISO 17020 (Malaysia Inspection Bodies Accreditation Scheme (MIBAS)-AP2 , the Standard Malaysia auditor may conduct an audit at our client site in accordance with the Witnessing of inspection conducted by Intertek  Malaysia as at when required or necessary.”
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+
+Total Quality. Assured. 
+
+________________________________
+
+CONFIDENTIALITY NOTICE 
+This e-mail may contain confidential or privileged information, if you are not the intended recipient, or the person responsible for delivering the message to the intended recipient then please notify us by return e-mail immediately. Should you have received this e-mail in error then you should not copy this for any purpose nor disclose its contents to any other person.
+
+Intertek is dedicated to Customer Service and welcomes your feedback. Please visit http://www.intertek.com/email-feedback/ to send us your suggestions or comments. We thank you for your time. 
+
+Except where explicitly agreed in writing, all work and services performed by Intertek is subject to our Standard Terms and Conditions of Business which can be obtained at our website: http://www.intertek.com/terms/ Should you have any difficulty obtaining these from the web site, please contact us immediately and we will send a copy by return. 

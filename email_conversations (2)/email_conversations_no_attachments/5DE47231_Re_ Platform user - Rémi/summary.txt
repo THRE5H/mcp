@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of a user profile for a new colleague on two platforms, Dnexr and Dndev.
+
+**Context**: The user is an external user from Customer Organization requesting support from the Service Provider. The request was made to facilitate the onboarding of a new team member.
+
+**Solution**: The Support Agent confirmed that the user profile was successfully created as requested. The customer expressed gratitude for the prompt assistance. It is recommended to ensure timely communication for future user profile setups to streamline the onboarding process.

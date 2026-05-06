@@ -1,0 +1,5 @@
+**Problem**: The customer inquired about the lack of updates for Ukraine customs data for January, indicating that they were expecting this information.
+
+**Context**: The user is an external user from a Customer Organization seeking updates on customs data. The inquiry involves a specific data release that has not occurred, impacting the user's access to timely information.
+
+**Solution**: The Support Agent confirmed that the January data for Ukraine customs has not yet been released. It is recommended that the customer monitor updates from the relevant authorities for the release of this data.

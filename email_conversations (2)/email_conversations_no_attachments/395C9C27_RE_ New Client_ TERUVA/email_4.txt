@@ -1,0 +1,28 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Support Dnext
+Date: 2025-09-02 15:18:41.001000+00:00
+Subject: New Client: TERUVA
+Message-ID: GVAP278MB06776D967B5FF70EAEDB61938806A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+The DevOps team created the environment: TERUVA.
+
+
+Could you please setup the environment:
+
+*	Commodities:  corn, soy, soybeans, soybean meal and wheat  -> Same as PACIFICOR
+*	Start date: 03.09.2025
+*	End Date: 31.12.2099
+
+ 
+
+ 
+
+Many thanks
+
+Sami

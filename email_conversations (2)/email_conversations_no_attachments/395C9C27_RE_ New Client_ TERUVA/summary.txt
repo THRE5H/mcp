@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a new environment named TERUVA, specifying commodities and date ranges, but initially did not have the list of users required for the setup.
+
+**Context**: The user is an external user from the Customer Organization requesting support from the Service Provider. The environment TERUVA was created by the DevOps team, and the setup needs to mirror the previous environment PACIFICOR.
+
+**Solution**: The Support Agent confirmed the need for a user list to proceed with the environment setup. The customer later provided the names and emails of two users to be created in the TERUVA environment and indicated that they would check the setup before finalizing the user profiles.

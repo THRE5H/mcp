@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "The weather plot average line incorrectly includes the current year's actual data in its average calculation, which is misleading.",
+    "solution": "Exclude the current crop year data from the average calculation in the weather plot. This adjustment ensures that the average line reflects only past years' data, providing a more accurate and meaningful average without the influence of the ongoing year's actual values.",
+    "keywords": [
+      "weather plot",
+      "average calculation",
+      "exclude current year",
+      "crop year",
+      "data visualization",
+      "time series average",
+      "data filtering"
+    ],
+    "category": "Configuration"
+  }
+}

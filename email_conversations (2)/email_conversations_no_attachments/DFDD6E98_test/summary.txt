@@ -1,0 +1,5 @@
+**Problem**: The customer sent a test email with no specific issue or request. 
+
+**Context**: The user is an external user from the Customer Organization. The email was sent to the Support Team of the Service Provider for testing purposes.
+
+**Solution**: No actions were taken as the email was a test message. It is recommended that users refrain from sending test emails to avoid unnecessary support inquiries.

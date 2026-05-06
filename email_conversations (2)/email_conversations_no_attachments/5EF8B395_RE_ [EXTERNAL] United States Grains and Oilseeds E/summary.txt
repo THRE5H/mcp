@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether the data from the United States grains and oilseeds report is available through the API.
+
+**Context**: The customer is an external user requesting information related to a data report provided by a service provider. The inquiry follows the receipt of a report and accompanying Excel files detailing shipping times.
+
+**Solution**: The support team confirmed the availability of the requested data through the API. It was recommended that the customer refer to the API documentation for details on accessing the data and to reach out for further assistance if needed.

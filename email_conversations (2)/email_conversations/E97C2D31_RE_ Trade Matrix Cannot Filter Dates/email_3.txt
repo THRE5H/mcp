@@ -1,0 +1,66 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Enea Albertoli; Support Dnext
+Date: 2025-07-22 10:44:56.379000+00:00
+Subject: RE: Trade Matrix Cannot Filter Dates
+Message-ID: GV0P278MB1320A85DD00B7F30A812ECF2F85CA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB135352E8718871825C48ECE2F65CA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Enea,
+
+ 
+
+Its adjusted now to only show until 25/26.
+
+for future reference you can change the view settings by going to “Configuration”
+
+
+
+ 
+
+Then you can change the “view “ settings.
+
+
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Tuesday, July 22, 2025 10:17
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Trade Matrix Cannot Filter Dates
+
+ 
+
+Hello,
+
+ 
+
+In the tradematrix I cannot filter the dates, i.e., remove crop year 26/27 and 27/28.
+
+ 
+
+

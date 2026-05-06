@@ -1,0 +1,5 @@
+**Problem**: The customer requested assistance with resetting a password for a user who was unable to log into the portal.
+
+**Context**: The request was made by an external user on behalf of another external user, involving a password reset for a service provided by the Customer Organization. The issue occurred in a standard operational context where users needed access to their accounts.
+
+**Solution**: The Support Agent successfully reset the password and sent the new login credentials to the user's inbox. The agent confirmed that the user should reach out if there were any further login difficulties. Additionally, the Support Agent later addressed a separate issue regarding API changes, ensuring that datasets would be accessible in the expected format.

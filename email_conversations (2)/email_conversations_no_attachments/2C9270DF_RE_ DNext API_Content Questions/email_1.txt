@@ -1,0 +1,156 @@
+From: Daron Arakelian <darakelian@DRWHoldings.com>
+To: Saber Khalfallah; Guillaume Goudy; Support Dnext
+Date: 2025-06-05 21:13:04.647000+00:00
+Subject: RE: DNext API/Content Questions
+Message-ID: 9be434b8487c43fca923eecd67a56496@DRWHoldings.com
+In-Reply-To: GV0P278MB132091BEDF8FB69AF6D5D3A5F86FA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
++Tuan, another developer supporting the sugar team.
+
+ 
+
+Hello Saber,
+
+ 
+
+As mentioned in the original email, an example dataset I am querying is the “Tradeflow - Customs - Paraguay All monthly” dataset (id “02ad7225-3f5c-4f3c-a485-3593c634c426”, code “drw-7c39666e-4f14-493f-9b55-21e736347719”) for an instance of the duplicate rows. There are several thousand such rows (which makes me think these are legitimate revisions of the reported amount but it isn’t clear how this would be reconciled on our end other than order in the csv file?)
+
+ 
+
+I cannot provide you a code snippet but I will provide the semantic flow of what I am trying to do:
+
+1.	Query /data/datasets
+2.	Iterate over each dataset object: 
+
+	a.	Submit a download request using /data/datasets/{code}/download
+	b.	Record result.url and task.id
+	c.	IMMEDIATELY query /tasks/{id} and loop:
+
+                                                               i.      Check task status, break if done
+
+                                                             ii.      Wait 2 seconds
+
+	d.	Download file with result.url
+
+ 
+
+In this process, 2c seems to intermittently (but more often than not) throw a 404 status code indicating that the task.id cannot be found. So my question is how long should I be waiting between making a POST request to download the dataset and checking the task status? This whole API already seems overcomplicated (as opposed to just directly hitting a URL to get the CSV file) and the fact that evidently I must wait some unknown amount of time for the task.id to actually be valid is very frustrating. The API documentation makes no mention that a task object has a delay before it’s created, just that the result.url is not immediately available.
+
+ 
+
+Thanks,
+
+-Daron
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, June 5, 2025 12:41 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Daron Arakelian <darakelian@DRWHoldings.com>; Support Dnext <support@dnext.io>
+Cc: Colleen Shutt <cshutt@drwholdings.com>; Alec Davitt <adavitt@DRWHoldings.com>; Mark Anson <manson@DRWUK.COM>
+Subject: [ext] RE: DNext API/Content Questions
+
+ 
+
+Hello Daron, Thank you for reaching out . Regarding the API issues. could you please provide the dataset code you are using along with the exact script or code snippet that you’ve implemented? This will allow us to better understand the
+
+Hello Daron,
+
+ 
+
+Thank you for reaching out .
+
+Regarding the API issues. 
+
+could you please provide the dataset code you are using along with the exact script or code snippet that you’ve implemented? This will allow us to better understand the context and pinpoint any issues.
+
+ 
+
+Additionally, for larger datasets, the download process may take longer, and you might need to increase the wait_time between status checks to ensure that the task has been processed before attempting to retrieve the dataset.
+
+Regarding the tradeflow dataset content. We are gonna check internally with the team and get back to you with a clarification as soon as possible.
+
+
+Thank you for your patience and understanding
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://urldefense.com/v3/__http:/www.dnext.io/__;!!EvhwMw!VFZeNhgGTUGSD8X3P-iixWW_a_b7ZX5BYFA82427Vo6q8KEpDxN3fNWoa-rSK1oHpsqSNDNcSs5smO9J6gKeatCHgfTv_lci2w$> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> > 
+Sent: Wednesday, June 4, 2025 21:29
+To: Daron Arakelian <darakelian@DRWHoldings.com <mailto:darakelian@DRWHoldings.com> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Colleen Shutt <cshutt@drwholdings.com <mailto:cshutt@drwholdings.com> >; Alec Davitt <adavitt@DRWHoldings.com <mailto:adavitt@DRWHoldings.com> >; Mark Anson <manson@DRWUK.COM <mailto:manson@DRWUK.COM> >
+Subject: RE: DNext API/Content Questions
+
+ 
+
+Hello Daron and thank you for reaching out. We have a support team that will be able to help you tomorrow. I am adding them in this email. 
+
+Best Regards,
+
+Guillaume
+
+ 
+
+From: Daron Arakelian <darakelian@DRWHoldings.com <mailto:darakelian@DRWHoldings.com> > 
+Sent: Wednesday, 4 June 2025 20:17
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >
+Cc: Colleen Shutt <cshutt@drwholdings.com <mailto:cshutt@drwholdings.com> >; Alec Davitt <adavitt@DRWHoldings.com <mailto:adavitt@DRWHoldings.com> >; Mark Anson <manson@DRWUK.COM <mailto:manson@DRWUK.COM> >
+Subject: DNext API/Content Questions
+
+ 
+
+Hello Guillaume,
+
+ 
+
+I am a developer on the DRW sugar team supporting Christiano with ingesting the DNext data through your API. I had some questions about using the API and then also content of some of the datasets.
+
+ 
+
+Regarding the API, the documentation seems to imply after making a request to download a dataset, one should use the task ID returned to check the status of the download request and then use the URL returned in the download request to retrieve the dataset. In my testing, it seems like fairly consistently I am getting a 404 error using the task ID from the download request with an error message indicating that the task could not be found. Is this expected and if so, how long should I be waiting between initiating a download request and checking the status of the task?
+
+ 
+
+Regarding the content, in the “Tradeflow - Customs - Paraguay All monthly” dataset (id “02ad7225-3f5c-4f3c-a485-3593c634c426”, code “drw-7c39666e-4f14-493f-9b55-21e736347719”) there are duplicate rows with different quantity values. Consider this example:
+
+"2025-05-21","PCB","Paraguay Central Bank","PRY","Paraguay",,,"ARG","Argentina","Import","Import","ETOHUNDENA","Ethanol Undenatured",,,8869.000000,"MT","Metric Ton",0.001000,"2025-01-01",,,,
+
+"2025-05-21","PCB","Paraguay Central Bank","PRY","Paraguay",,,"ARG","Argentina","Import","Import","ETOHUNDENA","Ethanol Undenatured",,,0.000000,"MT","Metric Ton",0.001000,"2025-01-01",,,,
+
+ 
+
+Here, the date reporter value of 2025-01-01 is the same but the values are different. Is this expected data being returned or an error in the report generation? If it is expected, what does this pair of entries signify? I.e. was there an import of the 8,869MT and then it was revised to 0 (or vice versa)?
+
+ 
+
+Your help getting answers to these questions is greatly appreciated!
+
+ 
+
+Thanks,
+
+-Daron
+
+This e-mail and any attachments may contain information that is confidential and proprietary and otherwise protected from disclosure. If you are not the intended recipient of this e-mail, do not read, duplicate or redistribute it by any means. Please immediately delete it and any attachments and notify the sender that you have received it by mistake. Unintended recipients are prohibited from taking action on the basis of information in this e-mail or any attachments. The DRW Companies make no representations that this e-mail or any attachments are free of computer viruses or other defects. 

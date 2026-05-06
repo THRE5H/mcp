@@ -1,0 +1,5 @@
+**Problem**: The customer reported that there was no update to the dataset and that the data provided was incorrect.
+
+**Context**: The user is an external user from a Customer Organization seeking assistance with a dataset related to a specific product feature, "dnexr-statscan-gno-can-stk-quarterly." The issue arose in the context of expected data updates that were not delivered.
+
+**Solution**: The Support Agent investigated the dataset and confirmed that the update was delayed due to a processing error. They advised the customer to check back in a few days for the corrected data and recommended setting up alerts for future updates to stay informed.

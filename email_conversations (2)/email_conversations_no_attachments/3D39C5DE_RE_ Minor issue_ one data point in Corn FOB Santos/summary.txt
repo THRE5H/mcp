@@ -1,0 +1,5 @@
+**Problem**: The customer identified a data point that appeared out-of-line in a chart related to Corn FOB Santos and requested assistance in addressing the issue.
+
+**Context**: The customer is an external user from a financial management organization. The issue involves a data visualization feature of a dashboard provided by a service provider. The customer provided a specific URL for reference.
+
+**Solution**: The support agent acknowledged the issue and investigated it. After checking, the support agent confirmed that the data point should now be correct. It is recommended for users to report any discrepancies promptly to ensure data accuracy.

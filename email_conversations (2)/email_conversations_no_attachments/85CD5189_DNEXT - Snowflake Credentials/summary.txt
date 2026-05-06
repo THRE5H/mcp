@@ -1,0 +1,5 @@
+**Problem**: The customer needed their login credentials for Snowflake to access the service.
+
+**Context**: The user is an external user from Customer Organization requesting access to the Snowflake service. The request involved providing login details for a specific Snowflake instance.
+
+**Solution**: The Support Agent provided the user with the necessary login credentials, including the URL, username, and password for Snowflake. It is recommended that the user securely store these credentials and change the password after the initial login for enhanced security.

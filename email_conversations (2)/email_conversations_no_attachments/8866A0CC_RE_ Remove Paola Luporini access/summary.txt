@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of access for a user who had left the organization.
+
+**Context**: The request was made by an internal user from the Customer Organization regarding access to the Dnext platform. The user in question had left the organization, necessitating the access removal.
+
+**Solution**: The Support Agent confirmed that the access removal was successfully completed. It is recommended to regularly review user access to ensure that only current employees have platform access.

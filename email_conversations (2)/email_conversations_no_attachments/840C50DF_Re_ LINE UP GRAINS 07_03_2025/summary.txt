@@ -1,0 +1,5 @@
+**Problem**: The customer experienced a delivery failure when attempting to send an email to an external bot, receiving a message indicating that their email provider rejected the message due to restrictions on external forwarding.
+
+**Context**: The user is an external user from Customer Organization, using Microsoft Outlook as their email client. The issue arose after a potential change in the organization's outbound email policy, which affected the ability to forward emails to the bot at the Service Provider.
+
+**Solution**: The Support Agent advised the customer to check their organization's outbound spam policies and provided a link to relevant documentation to allow email forwarding to the bot. The customer was informed that this was likely a configuration issue on their end, and further investigation was recommended.

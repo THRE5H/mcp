@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to find updated data on Rapeseed and other vegetable oils on the portal, specifically noting that only data for seeds and meal were available.
+
+**Context**: The customer is an external user, a Specialist in Research, Trading & Resources at a Food Organization. They were seeking specific data on oils from a data platform provided by a Service Provider.
+
+**Solution**: The Support Agent confirmed that the oils data had been updated and directed the customer to look for it in the Vegoils category. The customer later confirmed that they were able to access the data successfully. It is recommended to regularly check for updates in the designated categories on the portal.

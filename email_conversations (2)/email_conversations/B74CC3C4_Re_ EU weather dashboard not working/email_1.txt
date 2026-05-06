@@ -1,0 +1,62 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-07 12:45:38.191000+00:00
+Subject: Re: EU weather dashboard not working
+Message-ID: ZR3P278MB122605F12D27A8661BF11160F5D52@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071710D744E9671F0A50647DEBD52@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png, image_4.png
+
+================================================================================
+
+I find the Issue, now it's fixed. 
+Even when you change the slicer, all is good now.
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 07 March 2025 12:22
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: EU weather dashboard not working 
+ 
+And this is not normal
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Friday, March 7, 2025 8:20 AM
+To: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: EU weather dashboard not working 
+ 
+
+But by default is should be showing the ERA5 + latest forecast right?
+
+Same as in the historical comparison.
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Friday, March 7, 2025 7:59 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Re: EU weather dashboard not working 
+ 
+Hello it's working, 
+
+You just need to change the filter Forecast to an other run date (from 1-28 Feb) or select ERA5
+
+Example: 
+
+
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 07 March 2025 11:54
+To: Support Dnext <support@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: EU weather dashboard not working 
+ 
+

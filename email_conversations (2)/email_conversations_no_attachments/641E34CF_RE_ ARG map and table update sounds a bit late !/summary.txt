@@ -1,0 +1,5 @@
+**Problem**: The customer reported a delay in receiving the Argentinian wheat map and table update, expecting the report since November 27. Additionally, the customer noted the absence of crop ratings for soybeans.
+
+**Context**: The user is a Grains Analyst from a Customer Organization. The issue involves updates to agricultural data related to wheat and soybean crops. The customer relies on timely reports produced weekly, which are critical for their analysis.
+
+**Solution**: The Support Agent clarified that the source for wheat data had not published crop condition or stage data for the past two weeks, only harvest progress was updated. The soybean crop ratings were confirmed to have been added. The customer was thanked for their patience and understanding.

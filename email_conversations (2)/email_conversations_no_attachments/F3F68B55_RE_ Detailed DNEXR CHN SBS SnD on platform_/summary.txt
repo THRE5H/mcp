@@ -1,0 +1,5 @@
+**Problem**: The customer inquired whether the platform currently displays detailed line items, specifically "Carry Out Import," on the Oilseeds Dashboard, as they needed to monitor China's commercial inventory.
+
+**Context**: The customer is an external user from a financial management organization, seeking information about a feature in the Oilseeds Dashboard provided by a service provider. The inquiry was prompted by the upcoming changes in China's commercial inventory situation.
+
+**Solution**: The support agent confirmed that the "Carry Out Import" item has been added to the Oilseeds Dashboard. The agent also offered assistance for any further requests regarding additional items the customer might want to see.

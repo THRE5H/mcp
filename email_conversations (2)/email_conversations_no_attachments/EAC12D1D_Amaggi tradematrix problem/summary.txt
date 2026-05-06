@@ -1,0 +1,5 @@
+**Problem**: The customer reported an error with the forecast in the Amaggi SBSSBM trade matrix and requested assistance in resolving the issue.
+
+**Context**: The user is an external user from a Customer Organization seeking help regarding a specific feature of the Amaggi SBSSBM trade matrix. The issue involves a potential error affecting the forecast functionality, which requires verification with a contact from the Partner Company.
+
+**Solution**: The Support Agent was tasked with checking the reported error with the Partner Company. Further actions would involve communicating with the provided contact to gather more details and resolve the issue. It is recommended to regularly verify forecast settings to prevent similar issues in the future.

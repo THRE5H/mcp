@@ -1,0 +1,5 @@
+**Problem**: The User was unable to see the sunflower oil export flow in the dnexr-vegoils tradematrix, which is shared with their organization.
+
+**Context**: The User is from an external organization (ETG environment) and is working with the Service Provider's product, specifically the dnexr-vegoils tradematrix. The issue was reported by a Team Member to the Customer Support team.
+
+**Solution**: The Support Agent confirmed that the sunflower seed oil export flow is now visible in the tradeflow. The User was advised to reach out for any further assistance, ensuring customer satisfaction and prompt support.

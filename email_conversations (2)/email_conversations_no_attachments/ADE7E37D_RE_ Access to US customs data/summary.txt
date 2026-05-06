@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the US customs dataset, which they were unable to access.
+
+**Context**: The user is an external user from a Customer Organization seeking data from a Service Provider. The request was made via email, indicating a need for specific dataset access.
+
+**Solution**: The Support Agent provided the customer with a direct link to access the US customs dataset and shared an API code for fetching the data. The customer was encouraged to reach out if they encountered any issues with access.

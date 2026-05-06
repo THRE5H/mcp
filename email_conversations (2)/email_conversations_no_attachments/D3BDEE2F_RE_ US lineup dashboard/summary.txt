@@ -1,0 +1,5 @@
+**Problem**: The customer reported discrepancies in the US lineup dashboard, indicating that the D lineups should incorporate inspections and data from Fertimport and Southport. The current numbers appear inaccurate and do not reflect this integration.
+
+**Context**: The user is an internal user from the Customer Organization, working with the Dnext Lineups product. The issue arose from the need to reconcile data from different sources and ensure that the US lineup dashboard accurately reflects historical inspections data.
+
+**Solution**: The team investigated the discrepancies and found that adding quantities from train transport improved the data accuracy. It was recommended to merge datasets and include historical inspections data to provide a comprehensive view for the US lineups. The team is working on implementing these changes for better data integrity.

@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users need to know the measurement units used in the TradeMatrix trade flow data to correctly interpret the values, such as for ethanol trade data.",
+    "solution": "Currently, the ethanol TradeMatrix data is measured in Megaliters (1 million liters), while most other TradeMatrix datasets use units of 1000 metric tons (1000MT). The platform is working on implementing the display of units in both the TradeMatrix visual interface and API data to make this information explicit. Meanwhile, users can refer to these default units or contact support for clarification on specific datasets.",
+    "keywords": [
+      "TradeMatrix",
+      "trade flow data",
+      "units",
+      "measurement units",
+      "ethanol",
+      "Megaliters",
+      "1000MT",
+      "API data",
+      "data visualization"
+    ],
+    "category": "Feature Explanation"
+  }
+}

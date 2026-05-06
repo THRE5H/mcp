@@ -1,0 +1,82 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-01 10:15:27.154000+00:00
+Subject: Re: Fuels World Future Prices
+Message-ID: ZR3P278MB1353FC726BB66FEDAEFACAACF6DBA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320A7882748FCAEE64F1B65F8DCA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+Thank you.
+
+Wish you a good week!
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Friday, November 28, 2025 3:16 PM
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: Fuels World Future Prices 
+ 
+
+Hello ,
+
+ 
+
+Fixed.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io> 
+Sent: Friday, November 28, 2025 13:40
+To: Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: Fuels World Future Prices
+
+ 
+
+ 
+
+Hello,
+
+ 
+
+May you please check this datset, it has an extraction error?
+
+ 
+
+ 
+
+https://dnexr.dnext.io/datasets/dnexr-structured-dnexr-fuels-world-future-daily/usages
+
+ 
+
+Thank you!
+
+ 
+
+Enea

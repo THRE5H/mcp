@@ -1,0 +1,199 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: John Stansfield; Support Dnext
+Date: 2025-12-23 12:27:13.852000+00:00
+Subject: RE: DL-RAIZEN
+Message-ID: GV0P278MB13200D642BF7E6D72BFB139FF8B5A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0605F29EAFFC8718E21B481585B5A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello , 
+
+ 
+
+It’s done.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io> 
+Sent: Tuesday, December 23, 2025 11:17
+To: Support Dnext <support@dnext.io>
+Subject: DL-RAIZEN
+
+ 
+
+Please can you amend DL-Raizen and delete this email address below
+
+ 
+
+________________________________
+
+From: Microsoft Outlook <MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@dnext.io <mailto:MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@dnext.io> >
+Sent: 23 December 2025 07:37
+To: Andre.Pacheco2@raizen.com <mailto:Andre.Pacheco2@raizen.com>  <Andre.Pacheco2@raizen.com <mailto:Andre.Pacheco2@raizen.com> >
+Subject: Undeliverable: DNEXT: Brazil Sugar Lineups
+
+ 
+
+ <https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470> 
+
+Your message to Andre.Pacheco2@raizen.com <mailto:Andre.Pacheco2@raizen.com>  couldn't be delivered.
+
+Andre.Pacheco2 wasn't found at raizen.com.
+
+john.stansfield
+
+Office 365
+
+Andre.Pacheco2
+
+Action Required
+
+	Recipient
+
+					
+Unknown To address
+
+		
+
+ 
+
+How to Fix It
+
+The address might be misspelled or might not exist. Try one or more of the following:
+
+*        Retype the recipient's address, then resend the message - If you're using Outlook, open this non-delivery report message and click Send Again from the menu or ribbon. In Outlook on the web, select this message, and then click the "To send this message again, click here." link located just above the message preview window. In the To or Cc line, delete and then retype the entire recipient's address (ignore any address suggestions). After typing the complete address, click Send to resend the message. If you're using an email program other than Outlook or Outlook on the web, follow its standard way for resending a message. Just be sure to delete and retype the recipient's entire address before resending it.
+
+*        Remove the recipient from the recipient Auto-Complete List, then resend the message - If you're using Outlook or Outlook on the web, follow the steps in the "Remove the recipient from the recipient Auto-Complete List" section of this article <https://go.microsoft.com/fwlink/?LinkId=532972> . Then resend the message. Be sure to delete and retype the recipient's entire address before clicking Send.
+
+*        Contact the recipient by some other means, (by phone, for example) to confirm you're using the right address. Ask them if they've set up an email forwarding rule that could be forwarding your message to an incorrect address.
+
+If the problem continues, ask the recipient to tell their email admin about the problem, and give them the error (and the name of the server that reported it) shown below. It's likely that only the recipient's email admin can fix this problem.
+
+
+Was this helpful? Send feedback to Microsoft <https://go.microsoft.com/fwlink/p/?LinkID=717197> .
+
+________________________________
+
+
+More Info for Email Admins
+
+Status code: 550 5.4.1
+
+This error occurred because a message was sent to an email address hosted by Office 365, but the address doesn't exist in the receiving organization's Office 365 directory. Directory Based Edge Blocking (DBEB) is enabled for raizen.com, and DBEB rejects messages addressed to recipients who don't exist in the receiving organization's Office 365 directory. This error is reported by the recipient domain's email server, but most often it can be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:
+
+Check that the email address exists and is correct - Confirm that the recipient address exists in your Office 365 directory, is correct, and is accepting messages.
+
+Synchronize your directories - Make sure directory synchronization is working correctly, and that the recipient's email address exists in both Office 365 and in your on-premises directory.
+
+Check for errant forwarding rules - Check for forwarding rules for the original recipient that might be trying to forward the message to an invalid address. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Forwarding or Inbox Rules features.
+
+Make sure the recipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license to them (Users > Active Users > Select the recipient > Assigned License > Edit).
+
+Make sure that mail flow settings and MX records are correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are set up correctly.
+
+For more information and additional tips to fix this issue, see this article <https://go.microsoft.com/fwlink/?LinkId=532972> .
+
+Original Message Details
+
+Created Date:
+
+23/12/2025 07:37:31
+
+Sender Address:
+
+john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> 
+
+Recipient Address:
+
+Andre.Pacheco2@raizen.com <mailto:Andre.Pacheco2@raizen.com> 
+
+Subject:
+
+DNEXT: Brazil Sugar Lineups
+
+
+Error Details
+
+Error:
+
+550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors [MWH0EPF000A6730.namprd04.prod.outlook.com 2025-12-23T07:37:39.071Z 08DE3FC2A17D3D53]
+
+Message rejected by:
+
+MWH0EPF000A6730.mail.protection.outlook.com
+
+
+Notification Details
+
+Sent by:
+
+GVAP278MB0022.CHEP278.PROD.OUTLOOK.COM
+
+ 
+
+Message Hops
+
+HOP
+
+TIME (UTC)
+
+FROM
+
+TO
+
+WITH
+
+RELAY TIME
+
+1
+
+23/12/2025
+07:37:31
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+mapi
+
+*
+
+2
+
+23/12/2025
+07:37:31
+
+GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+GVAP278MB0022.CHEP278.PROD.OUTLOOK.COM
+
+Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)
+
+*
+
+Original Message Headers
+
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none; b=cTXBOw0Xzg9VDEqutTEQ0MJ9ZJoED8Sju91AJmYA++tZ+5fXGwvR/AOZb/5NReh0wjjs0yInMk2/huzGLtamjJTq2E9coyt3bymzGHfa0y/yr2CaULzg6SMHo60hvirai0S+FJtDrq/A3653ImE22PLwgKLC2VV+npUHtNdxSsDfWuPo6UFPCJO6+UezKU9w2WQ9q0DzLIZqsx+79jtZZEvqATdHIxbT3M9bUjKSs4vJEq0mnKQr3sB2S1AiUHuhuMSFcJAxaelxcLREmyjQ1VgmNaDpBizw4aVncB2JoCwbjhP7cccwdGkIG0gg78P2mnAqcONOciuYFAltlMUtOA== ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com; s=arcselector10001; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1; bh=n9GRJRasdmQHRu2q9BnZ6ZNbj5HfTlw4cWu43BN++L8=; b=pNVVt+i7u2Qw4QASqTR5g512wJkcR8QrhJDPZ8tIVgqqpsZveErB3d9lk0s8qKNCbGI22mLf40C91OmWa20uJGelVJSagT6EBBzKBlGVuWnunAW7TrA5ml+nwJfxGwZz8JZY3f0adQG538+Mula0GMIvdRcb40BYoiVf5SZdUuwjCmetU47BLtOuix+P+6TbMx37LAsIRkc2F6c4n31x0QnvgJg+1VvJf+DNpS/o4qXPvsZd25vd58NZ+TDYaZG3tgDxfcH0pzmzLGYeQKt38wxpkJJueHYhySc7M338WcZDUxyDOIpGvX7lAlHLDL+7I6QubVVN/YpaZLD2hqaylA== ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass smtp.mailfrom=dnext.io; dmarc=pass action=none header.from=dnext.io; dkim=pass header.d=dnext.io; arc=none DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dnextio.onmicrosoft.com; s=selector1-dnextio-onmicrosoft-com; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck; bh=n9GRJRasdmQHRu2q9BnZ6ZNbj5HfTlw4cWu43BN++L8=; b=ADVLoVETS7JBQmVMw/j59kLNps3XarmcYkLnSMeIi00LEz9/KMNvb9uOOMccc+ArtBqYcLqdRL8iB2Zb99sd3lFTb4ZW5NTK/E8li1G5O2N5qLfYigC4zlJEt7cVdYeSCjADCTVGjgHRIq4QXq83oaaWQVeG3gcSUwsKzc2FRdMrD6zyZgRgD53wu7xMNRP2TMdaanTdmWs8pxL628VNo9y52W6bQ2EP1Ji7YCDi3/iU36JnWcIsamFo6MyIobE9QuH1ud+YEAmiSfyuLiPhOReXHO6F9bZ35t68WpUh7keOorEExj2lBY3JUOMDCxvEe2LR+dI4ZzgeZuVXhm88rA== Received: from GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:40::6) by GVAP278MB0022.CHEP278.PROD.OUTLOOK.COM (2603:10a6:710:21::14) with Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9434.11; Tue, 23 Dec 2025 07:37:31 +0000 Received: from GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM ([fe80::ec78:f76f:1e1b:a377]) by GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM ([fe80::ec78:f76f:1e1b:a377%7]) with mapi id 15.20.9456.008; Tue, 23 Dec 2025 07:37:31 +0000 From: John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> > Subject: DNEXT: Brazil Sugar Lineups Thread-Topic: DNEXT: Brazil Sugar Lineups Thread-Index: AQHcc49CwOSVQDh7Ak+zzbTDZfUr6rUu1kHb Date: Tue, 23 Dec 2025 07:37:31 +0000 Message-ID: <GV0P278MB0605BCB387BB4AD1CAAE6E5585B5A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB0605BCB387BB4AD1CAAE6E5585B5A@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM> > References: <GV0P278MB03544B80E4860ADDCA9F38AFEBB4A@GV0P278MB0354.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB03544B80E4860ADDCA9F38AFEBB4A@GV0P278MB0354.CHEP278.PROD.OUTLOOK.COM> > In-Reply-To: <GV0P278MB03544B80E4860ADDCA9F38AFEBB4A@GV0P278MB0354.CHEP278.PROD.OUTLOOK.COM <mailto:GV0P278MB03544B80E4860ADDCA9F38AFEBB4A@GV0P278MB0354.CHEP278.PROD.OUTLOOK.COM> > Accept-Language: en-GB, en-US Content-Language: en-GB X-MS-Has-Attach: yes X-MS-TNEF-Correlator: msip_labels: authentication-results: dkim=none (message not signed) header.d=none;dmarc=none action=none header.from=dnext.io; x-ms-publictraffictype: Email x-ms-traffictypediagnostic: GV0P278MB0605:EE_|GVAP278MB0022:EE_ x-ms-office365-filtering-correlation-id: c27014e8-7e2d-42fe-3158-08de41f62189 x-ld-processed: 6d921f92-f4ce-4ce0-acfa-926878510780,ExtAddr x-ms-exchange-senderadcheck: 1 x-ms-exchange-antispam-relay: 0 x-microsoft-antispam: BCL:0;ARA:13230040|1800799024|7416014|376014|366016|27013499003|38070700021|4053099003|8096899003; x-microsoft-antispam-message-info: =?iso-8859-1?Q?vlTa7umFGSFeflygxyUisNtYtvhjPaRmwtE/lesGJ75Ul0GgLeUU5j6Mtn?= =?iso-8859-1?Q?azBSHOAA4F8v7DEp03/pnF0KavGdN4M5KbVoCr32xRhF7Ws+oQA7HzI4Le?= =?iso-8859-1?Q?Zeu+REJfmh7LSeUipCoAD5wZFHPAHYH+l+rJ8s4id+K7eHaPt7REOODyEn?= =?iso-8859-1?Q?guIZwIcYP09rJby87kLxn1qKb1O0SY9YYbsl7up/CGjCLK5MFVQVgmXxiy?= =?iso-8859-1?Q?yIepweBp6lMOfaeUMTMihlorgm0ZginztGR11esqXdgkGq9lQEoGzCemwf?= =?iso-8859-1?Q?uFv14pjWgZvVQQGVopU9A/jcE9nnx0dehEN6QPV62Fp4vvIqEP8kpyNNRr?= =?iso-8859-1?Q?8X0uWZDh6LUFjFF1Ebn0vdM+V+eiBq8c00Vt06TeXmbQPC9S8TwsJIhxpg?= =?iso-8859-1?Q?xrnhI4z6FO/fQ4pbzMFSVcpX370baT1yItX2vlQfPLxwuRfAbp6HsVlIms?= =?iso-8859-1?Q?zv8RFaKdHuPw9+QIXXjEcJErE4M2D9IFyvVnh1eGHxGxmn/hv5Dtvjgck2?= =?iso-8859-1?Q?IdF5kVB2MY3oPtUGmiuiL/1UhNLNtvb0sNL55kEwD81DvoRX5DTi60UYs+?= =?iso-8859-1?Q?Gmj2Q4gYI7mpMaJb233C/uxMWh6NxkSoOtl6Jp1nQq3QSovejEpzCCpFQ7?= =?iso-8859-1?Q?hsUfEFbepsKE8kcIbqjTtyM1MWFRVh74usRLfZhARfyA0JxoBDx4/Op5g1?= =?iso-8859-1?Q?S2PquG6MwMPipCimaOrPA5JZ7wnPvvxI5Hr2jf2lWJcSr/EfZLCveKbEjB?= =?iso-8859-1?Q?DajP2NkHZVR+qd12dNx8Lvw6fO3DMYNRZ10/tLGGFLx4y47cAulyq2G1ZK?= =?iso-8859-1?Q?HgBLxBZBzGegNKByeUz6O4co6lkgkEnSgFbuhhRgC1eEkvT3IO9Sx1fpck?= =?iso-8859-1?Q?u0/7S8arZOOvn77jv9Tv8vyQY7Mllc9uOkKmrlb5JQXhzbxnP8yffK9ig7?= =?iso-8859-1?Q?2vaYcDb1neg/ZZmsrglSUJ14YtdUxpu7OvE5blVCgK8dzoKnfNv9nfggho?= =?iso-8859-1?Q?AvXTiiNqRSF8SRF2CujlnVJFfpxrd+Vo30+99YibueyCXNnYR88JZxf77z?= =?iso-8859-1?Q?4b+KXNTMK5Tp8rdLP1Soa00/gIVSAIRKTBjLlIyHrQuzqpjwcbG4dkgQKD?= =?iso-8859-1?Q?5RYrCY+NfWMfdgtCt+u+D1AzZohBGVo/gcqF11aVmtW+YTkX4VyOn+WjrU?= =?iso-8859-1?Q?cJeqWkYCGPguHGeh5hp+BYmSxtRvs63nztMfarzHEM7/v+q1B3M/Yc5kqa?= =?iso-8859-1?Q?NE1iavBmKkXiY6u2r18DAJaiA0etzy92jipq/Rpb3g5bEZTpTxvfmaFrU9?= =?iso-8859-1?Q?YstuFmRa9v+8uTmEK38fntDTfuTca/0lgOh3aS4qdVXCFbNC0Dh56quvDW?= =?iso-8859-1?Q?BI1uKltzhfTUo0/efyzCnP53YWPb8uf8WS+cn33UPh0hlby5wv5dI8RRFR?= =?iso-8859-1?Q?MpoLLy+flndG24AQLXPr8PgeDpLNIT1cmaHqjj8pFV1HXK1bTu+VFbV3A9?= =?iso-8859-1?Q?6O7c2RVP3UVQEOMrnA5Q1t?= x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(1800799024)(7416014)(376014)(366016)(27013499003)(38070700021)(4053099003)(8096899003);DIR:OUT;SFP:1102; x-ms-exchange-antispam-messagedata-chunkcount: 1 x-ms-exchange-antispam-messagedata-0: =?iso-8859-1?Q?kM5iLQLVBi1F1WDE5nrRXNdAPLhdpghugwKVw8QEVw9YpQesqkS9yJru2A?= =?iso-8859-1?Q?b+fg5YcuFB3phcqeMFuFeSlelREyljhz67Z7YotvU9jh/73eROoYkJ7ZC+?= =?iso-8859-1?Q?/DGJqDw8MVDiGV8iBrE8sB1HUfLK2+HAD26czb0PAEVSwChhTAgU8DREAh?= =?iso-8859-1?Q?Z5bxPD5VHkmVDpjFiP3Zn1fnCxlQZWojV63QKGXBJRMtCPzKiivYd2orsr?= =?iso-8859-1?Q?BYAQNUQgpo03UFLeNvulWAbuGSl/0BvNdl2FBRUo6W+FUkJwWocxBQ1i5d?= =?iso-8859-1?Q?veULTOc947dENPvNa4NEizdU/iikfkZZXICQrNIC5TJlXnNwGdc84nqC4O?= =?iso-8859-1?Q?PKzN7fnLhLz9mDOawqPtg/PHuxlApKz0PyQkDA9hY0IQEEt7fycPnXR558?= =?iso-8859-1?Q?ZCY6eeMgy/VBCVfehosL3WYXw3XTdGAOhelDCFj7tz1mdBVVGhD7n74ixW?= =?iso-8859-1?Q?HSEyAUom75vf8vCjcncBo2kDuczA1EASa215bGd6PJnmwkuv3KDN9vuvOX?= =?iso-8859-1?Q?zQ2an7U5J54oc/I4xkf6obyzYXthPM6wm17nYTMD80721686b0lYBPvPlh?= =?iso-8859-1?Q?XP952ppFcv7lNQvbQNlq/9Mho5K9TvOMhIMuBL+lFnrV9cr1KEr8mLi/ou?= =?iso-8859-1?Q?AHZaRZiFwaI7pve/XiXBbadLwOEWciK5q2rB8LUdx8afR+A33HuvT3Bjiu?= =?iso-8859-1?Q?RpvDM65MeeXCakxoj5RdRcPqa4qdYN0fGKSZxkUHvMA6IgnbFE/ZLplwMj?= =?iso-8859-1?Q?NY2L8q8tZgwKFD88ntDuJD5/COJeHaYEwPVRjdug9QFegmqTIcSCQT5udq?= =?iso-8859-1?Q?HrA1zoEjDNTLpV7cEquszTDrXhgtPVGWhtomDXdoxNvBSpkufH3j2XckiA?= =?iso-8859-1?Q?sqW3jhMLm6fCSeohcZsBiYunY3WAhcYh9U3Qi7rC4nJM9pUhXKR8jGg74f?= =?iso-8859-1?Q?/yeh4XC4XwI2H3kooCWZCssaPsQQzYADkpEd8zo3OvE68zME/DOMQZOcXM?= =?iso-8859-1?Q?+r9xbAn1VEfi4FTtQ2+BQZdaQlmO4QDtK6I73Pkfi6qDycDeePJR0+9K5M?= =?iso-8859-1?Q?6qRih11yR/mWhb8IEvl4ILl5C7ZVyOIlZYsFycAMen3cufAQAuINFAaO8+?= =?iso-8859-1?Q?8ZjZLTHkKwpNKkcdzdYdFOatusLheqIzrEaKiskpB/S8IfVChX6mpqQpXJ?= =?iso-8859-1?Q?DBXAdvzYEE2HSZtd3B2Q7YYLPX6BUB187c/Gs23Mx6QXRifEOkCFhDy3ML?= =?iso-8859-1?Q?CrR5xLX/Z6V5pwgMQNBTY8ZhrD8Wt3Z3nyj+bS9tpQeTo1HQEiXZiTqIar?= =?iso-8859-1?Q?tw1bnaLtmewL+64a0x/DVU0KvS2TsUfN14Wlod0q2HztBy6agv4ahmMuB/?= =?iso-8859-1?Q?fkdzakTCmY5/4IhiumwbZE/1iCrw65CmKweyaZ8llNZc1r5H417vgRI+HD?= =?iso-8859-1?Q?VtsDab2JRjOkB9ngXzCNtiPKMrU81rDuBDUO/n8s6nHzlVnmKmRSxt7gl7?= =?iso-8859-1?Q?mfGUjsG95YwQnyOBjAxAw4P9E2/3UvByBSK2OzrI/IsEw2HjiBRifGavWP?= =?iso-8859-1?Q?/o2tw3kTyjj/gIYslFdWfCMiDTsatR6IdC5X/7ij9Gi7mIZ6qekRkanADx?= =?iso-8859-1?Q?EgLYqubNu95xsi06XaP1V/ZUFETy0vfyZFWwamXyeF0zNypz6s+I5EaVCU?= =?iso-8859-1?Q?DH8JS3r4nOq0xSuEKKwuywkLHS4FBKDCnDofn/4viPfCF2d08n9NS4eQIJ?= =?iso-8859-1?Q?EX5GQBnNODO3AdamosOOwf5TmA032eH8p4+4wE4EaUx5fOQm3DlJXbCrIP?= =?iso-8859-1?Q?LfDgXfehsQ=3D=3D?= Content-Type: multipart/mixed; boundary="_008_GV0P278MB0605BCB387BB4AD1CAAE6E5585B5AGV0P278MB0605CHEP_" MIME-Version: 1.0 X-Auto-Response-Suppress: DR, OOF, AutoReply X-OriginatorOrg: dnext.io X-MS-Exchange-CrossTenant-AuthAs: Internal X-MS-Exchange-CrossTenant-AuthSource: GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM X-MS-Exchange-CrossTenant-Network-Message-Id: c27014e8-7e2d-42fe-3158-08de41f62189 X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Dec 2025 07:37:31.3476 (UTC) X-MS-Exchange-CrossTenant-fromentityheader: Hosted X-MS-Exchange-CrossTenant-id: 6d921f92-f4ce-4ce0-acfa-926878510780 X-MS-Exchange-CrossTenant-mailboxtype: HOSTED X-MS-Exchange-CrossTenant-userprincipalname: rdr6oK9gDkCPPAfmhqMB+HECwA6KeMr9XG27N6Ln/21DmmbcxEHtgKUNuPoIBi5FfCssyzWQSH7XuSx2750wJj+yHsfzMnFig9uh9UF4irc= X-MS-Exchange-Transport-CrossTenantHeadersStamped: GVAP278MB0022 

@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User queries the 'usa-weather' dataset expecting county-level weather data for US states but only receives state-level data.",
+    "solution": "County-level weather data is not available in the 'usa-weather' dataset. Instead, a 'district' column has been added to the dataset view, which contains district codes representing subdivisions within each state (e.g., 'AL.10' for a district in Alabama). Users can reference district maps for each state at https://data.nass.usda.gov/Charts_and_Maps/Crops_County/boundary_maps/indexgif.php by clicking on a state to see district numbers and boundaries. To get more granular data, query the 'district' column in the dataset rather than expecting county-level data.",
+    "keywords": [
+      "county-level data",
+      "district codes",
+      "usa-weather dataset",
+      "weather data granularity",
+      "district maps",
+      "state subdivisions",
+      "query district column"
+    ],
+    "category": "Feature Explanation"
+  }
+}

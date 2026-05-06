@@ -1,0 +1,5 @@
+**Problem**: The customer lost their Excel add-in from the menu bar and is seeking assistance to recover it.
+
+**Context**: The customer is an external user (Grains Trader) from Customer Organization. The issue involves the Excel add-in related to the DNEXT product. The customer is available for support at any time.
+
+**Solution**: The Support Agent proposed a quick Teams call to discuss the issue further. The customer confirmed their availability for the call, indicating readiness to troubleshoot the problem directly. It is recommended to check the add-in settings and ensure it is enabled in Excel.

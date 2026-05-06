@@ -1,0 +1,37 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext; Nicolas Chaperon
+Date: 2025-11-11 03:47:06.614000+00:00
+Subject: Urgent, Tradeflow problem
+Message-ID: ZR0P278MB07732807DA73DD9C5513102E98CFA@ZR0P278MB0773.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Experiencing some issues with the tradeflow, not sure if you guys are aware already ?
+
+It seems double counting, for example : May 2020 ARG SBO, the dataset has 621kmt and tradeflow displays 1242.
+
+I have this issue with the following Origin / Product combination in the dnexr-vegoils tradematrix :
+
+ARG SBO from March 2018
+
+ARG SFO no problem though
+
+BRA SBO from as far as my tradeflow display i.e. Oct 2014
+
+UKR RSO, SBO, SFO from Jan 2017 to April 2022
+
+ 
+
+This one is quite urgent, thanks !
+
+ 
+
+ 
+
+
+
+

@@ -1,0 +1,5 @@
+**Problem**: The customer needed access to a specific Dropbox folder named DNEXT_RESEARCH.
+
+**Context**: The user is an external user from a Customer Organization requesting access to a shared folder in Dropbox. The request was initiated through the Customer Support channel.
+
+**Solution**: The Support Agent added the customer to the Dropbox team and the folder, pending approval from a Dropbox admin. The approval was confirmed by another Team Member, indicating that the customer should now have access to the files. It is recommended to ensure all necessary permissions are granted promptly to avoid access delays in the future.

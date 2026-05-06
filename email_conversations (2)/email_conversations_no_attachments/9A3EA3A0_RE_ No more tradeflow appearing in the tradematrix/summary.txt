@@ -1,0 +1,5 @@
+**Problem**: The Customer reported that no tradeflow was appearing in the tradematrix section of the application.
+
+**Context**: The User is an internal employee of Customer Organization using a feature of the Service Provider's software. The issue was raised during a routine check of the application functionality.
+
+**Solution**: The Support Agent investigated the issue and confirmed that it should be resolved. The Customer was informed that the tradeflow would now appear correctly in the tradematrix section. It is recommended to monitor the feature for any future discrepancies.

@@ -1,0 +1,17 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext
+Date: 2025-04-14 12:30:47.746000+00:00
+Subject: Not Receiving 2FA Code for Platform Login (Dnexr/stage)
+Message-ID: ZR0P278MB05051B7F00513A49AB5AB7278AB32@ZR0P278MB0505.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+I’m not getting the 2FA code for dnexr / stage. 
+
+ 
+
+Louis

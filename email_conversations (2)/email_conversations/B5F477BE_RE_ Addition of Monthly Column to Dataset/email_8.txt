@@ -1,0 +1,38 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Support Dnext
+Date: 2025-08-05 14:29:30.817000+00:00
+Subject: Addition of Monthly Column to Dataset
+Message-ID: ZR3P278MB13533D27EC8AAFF4E7E6BF70F622A@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Customer Support Team,
+
+ 
+
+Verbio client is asking whether it is possible either to:
+
+*	Add a column with the monthly data
+*	Or, create a new dataset with monthly data
+
+Whichever is easiest for you.
+
+ 
+
+verbio-2dc32584-b3f3-4850-bec7-2ddb0e383be4
+
+https://verbio.dnext.io/datasets/verbio-2dc32584-b3f3-4850-bec7-2ddb0e383be4/general
+
+ 
+
+Do you think we may do this, please?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 

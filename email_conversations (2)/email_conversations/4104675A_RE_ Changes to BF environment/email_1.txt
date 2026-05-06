@@ -1,0 +1,133 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Pablo Figueroa; Nader Ltaief; Nour Meddeb; Support Dnext; Benoit Baliguet
+Date: 2025-02-24 10:08:20.712000+00:00
+Subject: RE: Changes to BF environment
+Message-ID: GV0P278MB1320CFA2E8AC5BC8897A146EF8C02@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717C7AD96411C916A780A98EBC12@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+ 
+
+All is good besides 2 points 
+
+3.	               Add Black sea dashboards:
+
+list is the following.
+
+ 
+
+ 
+
+Can you please provide the list ?
+
+ 
+
+And 
+
+6.	Change the name of the "Meat" Category to "Feed & Livestock" 
+
+These ones are shared across all the environment so if a change is gonna be made its gonna be across all clients platforms and for this point we need to check  with @Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Monday, February 24, 2025 7:30
+To: Nader Ltaief <nader.ltaief@dnext.io>; Nour Meddeb <nour.meddeb@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Changes to BF environment
+
+ 
+
+Hi guys, not sure who should be doing this but putting all in copy so you are aware.
+
+ 
+
+is it possible to make this changes before today 10pm? sorry for so short notice.
+
+ 
+
+ 
+
+Changes to the BF environment:
+
+ 
+
+1.	change the name of "Crop Statistics" to "EuroStats Estimates"
+
+
+
+ 
+
+2.	TAXUD Dashboard should be in the "Inspections" section
+
+
+
+ 
+
+ 
+
+ 
+
+3.	Add Black sea dashboards:
+
+list is the following.
+
+ 
+
+ 
+
+4.	Is it possible to delete the category "EU Black Fryers"? it was created for the Dnexr environment but here is redundant as it contains dashboards that are already present inside other categories.
+
+
+
+ 
+
+ 
+
+5.	Inside the "Meat" category we have the "Production" Dasboard. can we change the name to "Meat Production". otherwise it can be confusing as we have also crop production.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.	Change the name of the "Meat" Category to "Feed & Livestock" 
+
+ 
+
+
+
+ 
+
+ 
+
+ 

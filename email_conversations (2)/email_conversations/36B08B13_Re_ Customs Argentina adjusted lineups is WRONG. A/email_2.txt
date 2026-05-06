@@ -1,0 +1,67 @@
+From: Léonard Berney </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=71D79A297AE14390A5EA2CEF3E9FE344-4E657CA0-3C>
+To: Khalil Mekki; Jebrane Ben Salem; Guillaume Goudy; Support Dnext; Dnext Customs
+Date: 2026-01-15 10:49:50.237000+00:00
+Subject: RE: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all
+Message-ID: GV0P278MB033882810F6A3C9D3D090C59E78CA@GV0P278MB0338.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB03170BB8E4CB8C23AC012473F58CA@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+I have no idea what this dataprep is about. Who is the owner of this?
+________________________________
+
+De : Khalil Mekki <khalil.mekki@dnext.io>
+Envoyé : jeudi 15 janvier 2026 10:36
+À : Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Dnext Customs <Customs@dnext.io>
+Objet : Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+Hello,
+I have checked both customs and lineups data do not have those numbers. There is a SQL dataprep that is combining both customs and lineups to get the customs lineups adjusted data, and I have already shared the dataprep with @Léonard Berney <mailto:leonard.berney@dnext.io>  and have got no response from him.
+This is the dataprep link: https://dnexr.dnext.io/data-prep/dnexr-arg-crt-pre/edit/preparation
+
+Sent from Outlook for Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Sent: Wednesday, January 14, 2026 8:01:41 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>; Léonard Berney <leonard.berney@dnext.io>; Dnext Customs <Customs@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>
+Subject: Re: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+@Léonard Berney <mailto:leonard.berney@dnext.io> , @Khalil Mekki <mailto:khalil.mekki@dnext.io>  and @Dnext Customs <mailto:Customs@dnext.io>  can u check this please ? 
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 14 January 2026 00:45
+To: Support Dnext <support@dnext.io>
+Subject: Customs Argentina adjusted lineups is WRONG. All the quantities are put into Saudi and Yemen...and it does not make sense at all 
+ 
+
+
+
+ 
+
+GUILLAUME GOUDY
+
+CEO & CO-FOUNDER
+
+                                                                                                     guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> 
+
++41 79 85174 59 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+    info@dnext.io <mailto:info@dnext.io>  | Tel. +41 22 732 53 72 | www.dnext.io <http://www.dnext.io/>  
+
+ 
+
+ 
+
+ 

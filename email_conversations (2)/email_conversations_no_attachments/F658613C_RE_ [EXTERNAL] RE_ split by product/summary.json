@@ -1,0 +1,20 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to view data split by product in a TradeMatrix aggregation view, specifically to see product data by month combined across all origins and destinations.",
+    "solution": "To split data by product in the TradeMatrix aggregation view: 1) Click on the “Columns” button in the interface. 2) Uncheck the boxes for “Destination Group” and “Destination” to remove those splits. 3) Drag and drop the “Product” field into the Row field area, placing it above the “Crop Year” field to achieve the desired layout showing product by month with totals. This configuration allows viewing product data aggregated across all origins and destinations.",
+    "keywords": [
+      "TradeMatrix",
+      "split by product",
+      "aggregation view",
+      "columns button",
+      "product field",
+      "row field",
+      "data layout",
+      "product by month",
+      "remove destination",
+      "data visualization"
+    ],
+    "category": "How-to Guide"
+  }
+}

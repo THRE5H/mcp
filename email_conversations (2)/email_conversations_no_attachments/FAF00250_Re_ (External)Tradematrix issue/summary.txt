@@ -1,0 +1,5 @@
+**Problem**: The customer was experiencing an issue with the trade matrix feature and reached out for assistance.
+
+**Context**: The user is an external user from a Customer Organization seeking support from a Support Agent at a Service Provider. The issue pertains to the trade matrix feature, which is likely part of a trading or analytics platform.
+
+**Solution**: The Support Agent acknowledged the customer's issue and offered assistance. The conversation indicates that the customer appreciated the help, but no specific resolution or actions taken to resolve the issue were detailed in the exchange. It is recommended that the customer follow up if further assistance is needed.

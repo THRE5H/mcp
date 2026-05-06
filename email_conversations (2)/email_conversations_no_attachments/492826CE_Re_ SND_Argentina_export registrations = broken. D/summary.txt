@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the export registrations for Argentina were not displaying data, and the last recorded corn data was from November.
+
+**Context**: The user is an external user (CEO & Co-Founder) from Customer Organization. The issue pertains to the data display functionality of a service related to export registrations, specifically for corn data.
+
+**Solution**: The Support Team investigated and resolved the issue related to the Export License. They found that the corn data not updating was due to how the crop year is calculated in the data pipeline. The calculations were confirmed to be correct, and the team will further verify if the season calculations remain unchanged.

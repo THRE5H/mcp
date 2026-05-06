@@ -1,0 +1,23 @@
+From: Chebbi Abir <abir.chebbi@hesge.ch>
+To: Support Dnext
+Date: 2025-02-06 15:34:43.624000+00:00
+Subject: Support - API access +docmentation - TradeMatrix loading issue
+Message-ID: GV0P278MB0210A7B9FAD62ED2B1680A6092F62@GV0P278MB0210.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+I am encountering two issues on the Dnext platform:
+
+
+*	
+	API Access: I currently do not have the API option available in my account. And could you please provide documentation on how to use the API for downloading data?
+*	
+	TradeMatrix Loading Issue: The TradeMatrix is stuck in a continuous loading loop, preventing access to necessary data.
+
+
+Thanks in advance.
+
+Best regards,
+Abir Chebbi

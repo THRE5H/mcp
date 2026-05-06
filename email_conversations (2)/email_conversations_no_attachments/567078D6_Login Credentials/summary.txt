@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with accessing a platform using provided login credentials and was instructed to change their password upon first login.
+
+**Context**: The user is an external user from Customer Organization attempting to access a service provided by Service Provider. The email contains specific login credentials and instructions for changing the password.
+
+**Solution**: The customer was provided with the login URL and credentials to access the platform. They were advised to change their password after the first login by following specific steps. No issues were reported regarding the access process.

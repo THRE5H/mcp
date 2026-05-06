@@ -1,0 +1,92 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext
+Date: 2025-03-14 11:52:40.277000+00:00
+Subject: RE: can you share rsm tradeflow forecast with sinofarm please 
+Message-ID: GV0P278MB132068EF65D174585591E57AF8D22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320F460BB64E2D51EC41836F8D22@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+All good forecast are shared , just when you publish the latest forecast it will be synchronized and it will show on their environment as well
+
+ 
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Friday, March 14, 2025 10:44
+To: Bastien Lambert <bastien.lambert@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: can you share rsm tradeflow forecast with sinofarm please 
+
+ 
+
+Hello , 
+
+ 
+
+Forecast is already shared 
+
+
+ 
+
+But on their environment the forecast does not have as much data as the one on dnexr(no 2025 data) , ticket created for the dev team to check why there is a discrepancy an 
+
+https://dnext.atlassian.net/browse/DNP-3929 <https://dnext.atlassian.net/browse/DNP-3929>  
+
+I will let you know as soon as its fixed
+
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> > 
+Sent: Friday, March 14, 2025 9:54
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: can you share rsm tradeflow forecast with sinofarm please 
+
+ 
+
+ 
+
+ 
+
+Envoyé à partir de Outlook pour iOS <https://aka.ms/o0ukef> 

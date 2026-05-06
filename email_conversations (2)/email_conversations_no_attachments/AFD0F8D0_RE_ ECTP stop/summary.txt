@@ -1,0 +1,5 @@
+**Problem**: The customer requested to cut access for users on the last day of the ECTP service and asked if there were any additional actions required beyond removing them from the distribution list.
+
+**Context**: The user is an internal user from the Customer Organization, managing the ECTP service. The request was made to the Support Team of the Service Provider to ensure proper access termination.
+
+**Solution**: The Support Team confirmed that access to the environment was successfully terminated and that the environment was no longer active. It is recommended to ensure all relevant access points are reviewed during service termination to prevent unauthorized access in the future.

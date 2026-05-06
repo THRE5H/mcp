@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the US grains inspections dataset was not reflecting the latest report and requested an update when it became available.
+
+**Context**: The user is an external user from a Customer Organization inquiring about a dataset related to US grain inspections provided by a Service Provider. The issue stemmed from an inability to access updates due to problems with the source's download servers.
+
+**Solution**: The Service Provider resolved the issue by updating the dataset after the source's servers were restored. The customer was notified that the latest data was now available, and it was recommended to monitor the dataset regularly for updates.

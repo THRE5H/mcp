@@ -1,0 +1,142 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-10-30 12:29:45.167000+00:00
+Subject: RE: PDQ Spread 2026
+Message-ID: ZR3P278MB13531C60D60B996BB8226703F6FBA@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB13200D63042CE7459122D880F8FBA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Thank you Saber
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, October 30, 2025 12:13 PM
+To: Enea Albertoli <enea.albertoli@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Bastien Lambert <bastien.lambert@dnext.io>
+Subject: RE: PDQ Spread 2026
+
+ 
+
+Hello Enea,
+
+ 
+
+It turns out it provides but the script was running statically on a defined period , I have adjusted it and refreshed the dashboard . Should be good now.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > 
+Sent: Thursday, October 30, 2025 9:29
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: RE: PDQ Spread 2026
+
+ 
+
+Hello Saber,
+
+ 
+
+Does the source not provide data after 12-2025 or does the dataset does not scrap it?
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, October 29, 2025 4:12 PM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: RE: PDQ Spread 2026
+
+ 
+
+Hello Enea,
+
+ 
+
+The Year is based on the delivery_period_start field and the data only goes as far as 2025 december.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> > 
+Sent: Wednesday, October 29, 2025 15:21
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: PDQ Spread 2026
+
+ 
+
+Hello,
+
+ 
+
+I would kindly like to ask, whether it is possible to add 2026 to the drop-down list, please?
+
+ 
+
+https://dnexr.dnext.io/dashboard/grains_oilseeds/GnO%20Economics/Canada/8114775a-c209-4eba-b3c5-6741ff9442b1
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

@@ -1,0 +1,15 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users encounter a 500 server error when trying to access datasets via a web browser or API.",
+    "solution": "If the 500 server error occurs while accessing datasets through a web browser, clear the browser cache and try accessing the datasets again. If the error occurs while using the API, re-authenticate the API session and retry the request.",
+    "keywords": [
+      "500 server error",
+      "dataset access error",
+      "browser cache clearing",
+      "API re-authentication",
+      "server error resolution"
+    ],
+    "category": "Error Resolution"
+  }
+}

@@ -1,0 +1,5 @@
+**Problem**: The Customer requested the removal of outdated sharing on the client side, as it is providing incorrect data related to forecasts. They also noted that while the dataset is up to date, it does not comply with contract clauses.
+
+**Context**: The User is from the Customer Organization and is addressing issues related to the Service Provider's data sharing feature, specifically the tradematrix. The situation involves clients relying on outdated information, which could impact their decision-making.
+
+**Solution**: The Support Agent acknowledged the request and proposed a review of the sharing settings to remove the outdated data. They confirmed that the dataset would be assessed for compliance with contract clauses, and recommended regular updates to ensure data accuracy and adherence to agreements.

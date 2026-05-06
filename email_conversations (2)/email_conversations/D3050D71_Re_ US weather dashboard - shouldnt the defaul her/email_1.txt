@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Lucas Rosa
+Date: 2025-03-11 18:31:13.225000+00:00
+Subject: Re: US weather dashboard - shouldnt the defaul here in theseason filter be 2025?
+Message-ID: ZR3P278MB1226915B3A74C2037388B126F5D12@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB07171D985FF3A6CE7514A937EBD12@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: out-VwW8A6T4.jpeg
+
+================================================================================
+
+Fixed
+
+
+Envoyé à partir de Outlook pour Android <https://aka.ms/AAb9ysg> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: Tuesday, March 11, 2025 6:25:04 PM
+To: Support Dnext <support@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>
+Subject: US weather dashboard - shouldnt the defaul here in theseason filter be 2025? 
+ 
+shouldnt the defaul here in theseason filter be 2025?
+
+

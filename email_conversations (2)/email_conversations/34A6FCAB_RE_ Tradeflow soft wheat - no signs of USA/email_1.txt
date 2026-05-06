@@ -1,0 +1,280 @@
+From: Cornette Etienne <e.cornette@saftco.ch>
+To: Saber Khalfallah; Sami Jaballah
+Date: 2025-01-30 10:12:07.909000+00:00
+Subject: RE: Tradeflow soft wheat - no signs of USA
+Message-ID: 6251f5d2e41c48a4901a0e15fe2daad7@saftco.ch
+In-Reply-To: GV0P278MB13204EF86E553C90CAA6A347F8E92@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Bonjour Saber,
+
+ 
+
+Je suis disponible de suite.
+
+ 
+
+Etienne 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Thursday, January 30, 2025 9:44 AM
+To: Cornette Etienne <e.cornette@saftco.ch>; Sami Jaballah <sami.jaballah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Tradeflow soft wheat - no signs of USA
+
+ 
+
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+******************************************************************************************
+
+Bonjour Etienne
+
+ 
+
+Merci pour votre retour.
+
+ 
+
+Il s'agissait d'un bug dans l'addin, qui a maintenant été corrigé. 
+
+ 
+
+Quand seriez-vous disponible pour un rapide appel Teams afin d'installer la version corrigée ?
+
+ 
+
+Merci pour votre patience et votre compréhension.
+
+ 
+
+Bien cordialement,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.dnext.io&umid=A5E14B51-2CE8-D006-BF78-2008862F39E0&auth=520ccf831d5834d4305f730a6d98145484532275-6c9ba3d57b521a69b25c9cef5ba7b316541134e4 <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io%2f&umid=A5E14B51-2CE8-D006-BF78-2008862F39E0&auth=520ccf831d5834d4305f730a6d98145484532275-274a8ae6f8a539e6e4bda2b02264000275f95c7c> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> > 
+Sent: Wednesday, January 29, 2025 13:19
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Tradeflow soft wheat - no signs of USA
+
+ 
+
+Salam Aleikom Saber,
+
+ 
+
+Merci, j’ai re dl les données sur le blé et maintenant j’ai les USA.
+
+ 
+
+J’ai le même problmee sur le blé tendre que sur le mais.
+
+ 
+
+Dans la plateforme par exemple, les exports Argentine sont de 12.846 MMT (j’ai bien refresh la base de données avant)
+
+Tandis que sur la base de données via EXCEL, j’ai 13.486 MMT.
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Wednesday, January 29, 2025 12:46 PM
+To: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> >; Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Tradeflow soft wheat - no signs of USA
+
+ 
+
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+******************************************************************************************
+
+Bonjour Étienne,
+
+ 
+
+Le problème est maintenant résolu pour le trade flow du blé tendre, vous devriez pouvoir trouver les États-Unis.
+
+ 
+
+Concernant le trade flow du corn, nous sommes en train d’analyser la raison de la divergence.
+
+ 
+
+Merci pour votre patience, nous vous tiendrons informé.
+
+ 
+
+Cordialement,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.dnext.io&umid=A5E14B51-2CE8-D006-BF78-2008862F39E0&auth=520ccf831d5834d4305f730a6d98145484532275-6c9ba3d57b521a69b25c9cef5ba7b316541134e4 <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io%2f&umid=A5E14B51-2CE8-D006-BF78-2008862F39E0&auth=520ccf831d5834d4305f730a6d98145484532275-274a8ae6f8a539e6e4bda2b02264000275f95c7c> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> > 
+Sent: Wednesday, January 29, 2025 12:39
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Tradeflow soft wheat - no signs of USA
+
+ 
+
+Hello Sami,
+
+ 
+
+Further to my issue below, I’ve got a discrepancy between TF platform with Excell Add in and what’s in the TradeMatrix dashboard.
+
+ 
+
+For instance here is brazil from the dashboard: 24/25 CORN at 41.573
+
+ 
+
+
+
+ 
+
+And here is what I get with the Excel add in : 
+
+ 
+
+
+
+ 
+
+ 
+
+Thank you for your help,
+
+Etienne 
+
+ 
+
+ 
+
+From: Cornette Etienne 
+Sent: Tuesday, January 28, 2025 6:30 PM
+To: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Tradeflow soft wheat - no signs of USA
+
+ 
+
+Bonjour Sami,
+
+ 
+
+Je viens de relancer une requête pour les TF en incluant toutes les origines de blé tendre, par défaut.
+
+ 
+
+Cependant, lorsque je lance la requête, je n’ai pas les Etats Unis dans le fichier.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Best regards,
+
+ 
+
+Etienne Cornette
+
+Grains Trader
+
+==============
+
+SAFTCO SA 
+
+Rue du Mont-Blanc 3,
+
+1201 GENEVA – CH
+
+
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.

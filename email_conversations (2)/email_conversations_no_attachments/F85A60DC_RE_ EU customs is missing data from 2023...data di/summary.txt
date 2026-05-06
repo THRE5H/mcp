@@ -1,0 +1,5 @@
+**Problem**: The customer reported that EU customs data from 2023 was missing and requested information on when it would be fixed.
+
+**Context**: The customer is an external user from the Customer Organization using a data platform provided by the Service Provider. The issue arose after a mapping reapplication intended to fix a separate problem, which inadvertently deleted 3 million rows of data.
+
+**Solution**: The Support Team reverted the dataset to its previous version to restore the missing data. The dashboard was confirmed to be refreshing, and the Support Team will continue to investigate potential bugs related to the new columns added to the platform. It is recommended to monitor the system for similar issues in the future.

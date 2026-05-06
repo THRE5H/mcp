@@ -1,0 +1,5 @@
+**Problem**: The user requested access to the Graincorp environment but did not have the necessary credentials.
+
+**Context**: The user is a Data Scientist from Customer Organization seeking access to a specific environment related to their work. The request was made to the Customer Support team of the same organization.
+
+**Solution**: The support agent provided the user with the necessary credentials, including the username and password, to access the Graincorp environment. It is recommended that the user securely store these credentials and follow any organizational guidelines for password management to prevent future access issues.

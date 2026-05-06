@@ -1,0 +1,5 @@
+**Problem**: The customer reported experiencing intermittent errors while using the vessel tracking feature, specifically receiving an "Error fetching vessel data" message during multiple searches.
+
+**Context**: The user is an external user from the Customer Organization utilizing the vessel tracking service provided by the Service Provider. The issue appears to occur sporadically, impacting the user's ability to retrieve vessel data consistently.
+
+**Solution**: A Jira ticket was created for the development team to investigate the reported bug. The customer was informed of the ticket's creation, and further updates will be provided as the issue is addressed. It is recommended that the user monitor the situation and report any additional occurrences.

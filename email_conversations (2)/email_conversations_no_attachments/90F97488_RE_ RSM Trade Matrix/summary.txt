@@ -1,0 +1,5 @@
+**Problem**: The customer reported that they could not view or edit data after September 2025 in the RSM Trade Matrix and noted that the data was not updating properly, particularly for the first months of 2025.
+
+**Context**: The customer is an external user of the RSM Trade Matrix feature provided by a Service Provider. The issue involves data visualization and editing capabilities, with specific reference to settings that should allow access to data until 2026.
+
+**Solution**: The Support Agent identified that a forecast not updated since May, which lacked a unit column, was causing the refresh issue. After addressing this, the customer confirmed they could now edit forecasts, but some data updates were still missing. It was recommended to ensure all datasets are properly updated and named to avoid confusion.

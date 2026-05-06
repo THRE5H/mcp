@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User cannot download crop progress data (safrinha corn planting for all available years) from the platform.",
+    "solution": "To download the crop progress data: 1) Navigate to the Dashboards Module. 2) Go to the Crop Tab, locate Brazil, expand it, and select Crop Progress. 3) Choose the IMEA report. 4) Hover over the matrix, click the three dots menu, and select Export Data. 5) Choose the 'Underlying Data' option and click Export. Additionally, raw data can be downloaded from the Datasets Module using provided dataset links for Corn Harvesting, Corn Planting, Soybean Harvesting, and Soybean Planting.",
+    "keywords": [
+      "crop progress data",
+      "safrinha corn planting",
+      "download data",
+      "Dashboards Module",
+      "Crop Tab",
+      "IMEA report",
+      "export data",
+      "underlying data",
+      "datasets module",
+      "corn planting dataset",
+      "raw data download"
+    ],
+    "category": "How-to Guide"
+  }
+}

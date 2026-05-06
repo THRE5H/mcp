@@ -1,0 +1,362 @@
+From: Alessandra Carruthers <acarruthers@dvtglobal.com>
+To: John Stansfield; Mohamed Elasfoury
+Date: 2025-12-16 16:08:02.804000+00:00
+Subject: RE: [External] Re: New TRADE MATRIX download option
+Message-ID: BLAPR03MB5475C4A384AB581D807028D4B6AAA@BLAPR03MB5475.namprd03.prod.outlook.com
+In-Reply-To: GV0P278MB06056FB83B86DD7300CC746B85AAA@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi John, thank you for your message. I don’t want to overcomplicate things at this stage. I am not looking for the allocation of where the monthly surplus or deficit sits, but simply to be able to correctly see your monthly exports and imports forecast by country, which results on your estimated surplus/(deficit) by month (trade flow balance). Unfortunately, the data currently available at the platform doesn’t show the balance of the trade flow correctly, as previously explained, therefore I cannot know which country is wrongly reflecting your current forecast.
+
+ 
+
+May I suggest a simple solution which I believe would fix the problem? If all the exports/imports data which are still a forecast would be reported in the platform with an UNALLOCATED counterparty, as exemplified below, using some numbers currently reported in your platform for a few countries  - i.e. all exports forecast would be allocated to a “new partner/destination) here named “Unallocated” and all imports would also be allocated to a “new origin” also called “unallocated” -  I would be able to see all your exports/imports forecast by month and by country and from there calculate the monthly surplus/deficit of your estimated trade flow. This solution could also be applied to the whites trade flow.
+
+ 
+
+
+
+ 
+
+What do you think?
+
+ 
+
+Thanks again.
+
+Alessandra
+
+ 
+
+ 
+
+From: John Stansfield <john.stansfield@dnext.io> 
+Sent: 16 December 2025 11:33
+To: Alessandra Carruthers <acarruthers@dvtglobal.com>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io>; Support Dnext <support@dnext.io>; Samy Deramchi <sderamchi@dvtglobal.com>; Camila Baldin <camila.baldin@dnext.io>
+Subject: Re: [External] Re: New TRADE MATRIX download option
+
+ 
+
+Alessandra - the basic issue is that we dont currently have the allocation of where the surpluses sit when not in CS Brazil. For example we may have overallocated Centrals to FSU. We need to see where the balance of the surplus sits. Sent from
+
+Alessandra - the basic issue is that we dont currently have the allocation of where the surpluses sit when not in CS Brazil. For example we may have overallocated Centrals to FSU.  
+
+ 
+
+We need to see where the balance of the surplus sits.
+
+ 
+
+Sent from Outlook for Android <https://urldefense.com/v3/__https:/aka.ms/AAb9ysg__;!!It2OShG9ERY!0dajmet4WIbyCmZrN5FQ6KA4PTJTw4vp0CQapNNtc-kF6HuNb3qUxTAWKIF0Q8-duN04d4EkV3P08hEAAa3WdVpF78FSkSyW$> 
+
+________________________________
+
+From: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Sent: Tuesday, December 16, 2025 11:14:06 AM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: RE: [External] Re: New TRADE MATRIX download option 
+
+ 
+
+Thank you, Mohamed. However, I believe there is also something wrong with either the data in the excel file I received this morning or with how I am calculating your surplus/deficit based on that data (currently assuming only ICELAND as the allocation of any surplus/deficit). I say that because I understand the correct raw trade flow is as follows (reported both at the pdf weekly report sent yesterday and at the sugar dashboard in the platform).
+
+ 
+
+   
+
+ 
+
+As you can see, it doesn’t match with the raw trade I get from the data in the Excel file sent this morning, assuming only ICELAND as the allocation for any surplus/deficit:
+
+
+
+ 
+
+ 
+
+Thanks again for your help!
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> > 
+Sent: 16 December 2025 10:58
+To: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: Re: [External] Re: New TRADE MATRIX download option
+
+ 
+
+Good morning Alessandra, Thank you for your answer. There seems to be a platform related issue causing this difference (between the file you received and the trade matrix on your environment). We have reported the issue to our development team,
+
+Good morning Alessandra, 
+
+ 
+
+Thank you for your answer. There seems to be a platform related issue causing this difference (between the file you received and the trade matrix on your environment). We have reported the issue to our development team, and they are working on a fix
+
+ 
+
+The Excel that you receive every morning contains the correct trade flow data
+
+ 
+
+We will get back to you as soon as the issue is fixed, thank you in advance for your patience 
+
+ 
+
+Best regards, 
+
+Mohamed
+
+________________________________
+
+From: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Sent: Tuesday, December 16, 2025 10:59 AM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: RE: [External] Re: New TRADE MATRIX download option 
+
+ 
+
+Good morning, Mohamed. Unfortunately, the issue has not been resolved. See below.
+
+ 
+
+Data downloaded from the file received by email this morning…
+
+
+
+ 
+
+… which results on the following balance for the raw trade-flow:
+
+
+
+ 
+
+Unfortunately, it still doesn’t match with what is reported in the platform trade matrix, with even bigger differences now, as shown below:
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+Thanks for checking again.
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Sent: 15 December 2025 16:45
+To: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: Re: [External] Re: New TRADE MATRIX download option
+
+ 
+
+Dear Alessandra, I hope you are well You're welcome, regarding the issue with the excel we've sent and the trade matrix not having the same surplus/deficit in Iceland we have fixed the issue The Tradematrix values should be exactly the same
+
+Dear Alessandra, 
+
+ 
+
+I hope you are well
+
+ 
+
+You're welcome, regarding the issue with the excel we've sent and the trade matrix not having the same surplus/deficit in Iceland we have fixed the issue
+
+ 
+
+The Tradematrix values should be exactly the same as the values in the file we will be sending every morning (please let us know if this is not the case on your environment)
+
+ 
+
+Please give us some time to get back to you on the other points you mentioned
+
+ 
+
+Best regards, 
+
+Mohamed
+
+________________________________
+
+From: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Sent: Friday, December 12, 2025 1:52 PM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: RE: [External] Re: New TRADE MATRIX download option
+
+ 
+
+Dear Mohamed,
+
+ 
+
+Thank you very much! I confirm having received the message with the link to download the excel file which is exactly what was I was looking for. Perfect, thanks again!
+
+ 
+
+Now I need some more help to get the balance of your trade flows correctly, please.
+
+ 
+
+Based on that downloaded data, I can see the following bottom lines (estimated surplus/(deficits) for your Raws trade flows, assuming you always allocate to ICELAND your estimated surplus/deficit (PLEASE LET ME KNOW IF YOU EVER USE A DIFFERENT ASSUMPTION TO ALLOCATE YOUR SURPLUS/DEFICIT).
+
+ 
+
+
+
+ 
+
+ 
+
+As you can see, it matches with the below screenshot of the section of your RAW trade matrix from your platform, highlighting the allocation to ICELAND (ISL) where you allocate the surplus/deficit, except for Dec/25 and Feb/26.
+
+ 
+
+
+
+ 
+
+ 
+
+That is because the data downloaded from the file you sent me this morning indeed shows a different allocation to ICELAND (ISL) to the ones shown in your RAW trade matrix in your platform for Dec/25 and Feb/26, as you can see below:
+
+ 
+
+
+
+ 
+
+ 
+
+Having said that, when I look at the quarterly trade flows in your platform – see below, they are showing other different numbers, which don’t match with what is allocated to ICELAND (i.e. your surplus/deficit) in your raw trade matrix mentioned above. Curiously, the Q1/26 surplus of my calculations from the downloaded data you sent me this morning matches with the below number. But all the others are completely different, both to my calculations from downloaded data this morning and to your raw trade matrix.
+
+ 
+
+
+
+ 
+
+ 
+
+Could you please check and make the necessary corrections to the data you will send me daily to download from the platform so I can read the balance of your trade flows correctly (Surplus/deficit), please?
+
+ 
+
+Once we fix the Raws, I will need your help to understand how I can see your monthly estimated surplus/deficit for your Whites (refined/100s/150s) trade flows, because now all I can see from the downloaded data is a perfectly balanced whites trade flow. Perhaps you want to start sharing the excel files with detailed information for each country’s estimates which support the trade flows you report in your platform (below).
+
+ 
+
+
+
+ 
+
+Many thanks for your assistance. And have a lovely weekend!
+
+ 
+
+Kind regards,
+
+Alessandra
+
+ 
+
+ 
+
+From: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Sent: 12 December 2025 09:41
+To: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >; Camila Baldin <camila.baldin@dnext.io <mailto:camila.baldin@dnext.io> >
+Subject: [External] Re: New TRADE MATRIX download option
+
+ 
+
+Hello Alessandra, I hope you are doing well Thank you for the feedback. We have setup a process to send you a daily email in the morning with an excel file in the format you described (It includes the data from the 4 trade matrices, the actuals
+
+Hello Alessandra, 
+
+ 
+
+I hope you are doing well 
+
+ 
+
+Thank you for the feedback. We have setup a process to send you a daily email in the morning with an excel file in the format you described (It includes the data from the 4 trade matrices, the actuals and the forecasts). The first email should have arrived. Please let us know if this solution works for you and if you have any feedback so that we adjust on our side
+
+ 
+
+Best regards, 
+
+Mohamed
+
+________________________________
+
+From: Alessandra Carruthers <acarruthers@dvtglobal.com <mailto:acarruthers@dvtglobal.com> >
+Sent: Thursday, December 11, 2025 7:17 PM
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io <mailto:mohamed.elasfoury@dnext.io> >
+Cc: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; John Stansfield <john.stansfield@dnext.io <mailto:john.stansfield@dnext.io> >; Samy Deramchi <sderamchi@dvtglobal.com <mailto:sderamchi@dvtglobal.com> >
+Subject: New TRADE MATRIX download option
+
+ 
+
+Hello Mohamed, I hope you are well.
+
+ 
+
+Would it be possible to create a new DOWNLOAD option for the TRADE MATRIX where we would combine the FORECAST data (Sugar Forecast Automated) with the OBSERVED data (history data/actuals) for all sugars (discriminated by quality), in the same format which we currently get when we download the FORECAST (sample below)?
+
+ 
+
+I am aware we currently have the option to download the Trade Matrixes of each sugar quality (product) separately which combine the observed (history data) and forecast data, but I would also like to have them all in one single file and in the simple format shown below (current FORECAST), if possible.
+
+ 
+
+In summary, I would like you to add a new button next to FORECAST under TRADEMATRIX to read ACTUALS+FORECAST which would allow us to download all the history data plus the forecast of all products on a monthly basis, in the same format I am currently downloading only the FORECAST.
+
+ 
+
+Sample of FORECAST download:
+
+
+
+ 
+
+Many thanks for your consideration.
+
+ 
+
+Kind regards,
+
+Alessandra
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message.
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message.
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message.
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message. 
+
+________________________________
+
+NOTICE and DISCLAIMER: This message and any attachments (the “message”) is for the intended recipient(s) only and may contain confidential, legally privileged, or proprietary information. No confidentiality or privilege is waived or lost due to any transmission errors. If you are not the intended recipient, please notify the sender by return email and delete all copies of this message; any subsequent disclosure, distribution or use of the contents of this message is prohibited. This message may be subject to retention, monitoring, and produced to third-parties in accordance with applicable law, rules, and regulations. Unless otherwise expressly stated, this message does not constitute advice or an offer, invitation or solicitation to buy or sell any financial instrument. DV Group and its affiliates act as principal only and do not hold themselves out as agent, broker, or fiduciary to third parties. The contents of this message reflect the views of the individual author; DV Group and its affiliates will not bear responsibility for any losses or damages arising out of the use of, reliance upon, or receipt of this message. 

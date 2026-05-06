@@ -1,0 +1,112 @@
+From: Enea Albertoli </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=88F4D4CC706F4260B790638BBF1B1EB9-49E24751-08>
+To: Jebrane Ben Salem; Support Dnext
+Date: 2025-03-25 11:18:01.142000+00:00
+Subject: RE: Black Sea - Precipitation - Panel View
+Message-ID: ZR3P278MB1353B579BE8E530D203FB8C5F6A72@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB13535F7F4EEC6170CF440439F6A72@ZR3P278MB1353.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Jebrane,
+
+ 
+
+Thank you very much for the explanation!
+
+ 
+
+However, when we select “Latest ECMWF”, should we not automatically shift to the latest 00Z or 12Z data?
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> > 
+Sent: Tuesday, March 25, 2025 11:04 AM
+To: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: Re: Black Sea - Precipitation - Panel View
+
+ 
+
+Hi Enea,
+
+This is not an issue. The ECMWF publishes complete data at 00Z and 12Z, as mentioned in their documentation:
+
+https://github.com/ecmwf/ecmwf-opendata
+
+
+
+It’s normal to have missing values at 06Z and 18Z.
+
+Let me know if you need further clarification!
+
+Best,
+Jebrane
+
+ 
+
+________________________________
+
+From: Enea Albertoli <enea.albertoli@dnext.io <mailto:enea.albertoli@dnext.io> >
+Sent: 25 March 2025 09:43
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: RE: Black Sea - Precipitation - Panel View 
+
+ 
+
+PS
+
+ 
+
+Pablo pointed out that by changing to “00” instead of “latest” ECMW, the display goes back to normal.
+
+ 
+
+
+
+ 
+
+From: Enea Albertoli 
+Sent: Tuesday, March 25, 2025 9:38 AM
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Black Sea - Precipitation - Panel View
+
+ 
+
+Hello,
+
+ 
+
+I hope that this email find the support team well!
+
+ 
+
+A client just noted that we have an error in the viewing of this weather dashboard: when we filter on Ukraine, to the top right the whole region appears. Would it be possible to fix this error, please? I also observe that no data is displayed on the top right.
+
+ 
+
+Furthermore, might there be a way to zoom a bit more on Ukraine also on the other panels, please?
+
+ 
+
+
+
+ 
+
+Best,
+
+ 
+
+Enea

@@ -1,0 +1,140 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Khalil Mekki; Saber Khalfallah; Guillaume Goudy; Pablo Figueroa
+Date: 2025-02-05 12:29:34.911000+00:00
+Subject: Re: combined feed grain trade flow (china)
+Message-ID: GVAP278MB02468EE2E8F94477C817D0C994F72@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZRAP278MB0317C64FC7813517D43BACBBF5F72@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+I would say on dnexr and shared with them so that it can also be used in dnexr and shared with other clients
+They have access to all countries
+Best,
+Asfoury
+________________________________
+
+From: Khalil Mekki <khalil.mekki@dnext.io>
+Sent: Wednesday, February 5, 2025 12:27:45 PM
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Farouk Jaziri <farouk.djaziri@dnext.io>
+Subject: Re: combined feed grain trade flow (china) 
+ 
+Hello,
+Concerning the creation of the TF, should it be done on dnexr then shared with them? Should it be created directly on their environment? What countries do they have access to ( to include them as exporters in the TF) ?
+Waiting for your response,
+Best,
+Khalil. 
+
+________________________________
+
+From: Khalil Mekki <khalil.mekki@dnext.io>
+Sent: Wednesday, February 5, 2025 10:04 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Farouk Jaziri <farouk.djaziri@dnext.io>
+Subject: Re: combined feed grain trade flow (china) 
+ 
+Hello,
+@Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  could you please give me access to the client's environment so I can create the TF.
+Thanks,
+Khalil
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Monday, February 3, 2025 4:23 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io>; Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Farouk Jaziri <farouk.djaziri@dnext.io>
+Subject: RE: combined feed grain trade flow (china) 
+ 
+
+Hello 
+
+He is interested in these commodities : 
+
+Grain Sorghum, Oats, Corn, Rye, Barley, and DDGS.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io> 
+Sent: Monday, February 3, 2025 10:55
+To: Mohamed Elasfoury <mohamed.elasfoury@dnext.io>; Khalil Mekki <khalil.mekki@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>
+Cc: Support Dnext <support@dnext.io>; Farouk Jaziri <farouk.djaziri@dnext.io>
+Subject: FW: combined feed grain trade flow (china)
+
+ 
+
+This is for TF team. Let me know if you have any questions. 
+
+He means you need to create a TF with corn, ddgs, sorghum...you need to ask him which commodity he wants to add? Wheat and Barley are tricky as we do not have a TF split for feed and milling. Pablo, any idea?
+
+ 
+
+gg
+
+ 
+
+From: Bucciarelli, Rafael <Rafael.Bucciarelli@mlp.com <mailto:Rafael.Bucciarelli@mlp.com> > 
+Sent: Friday, 31 January 2025 21:40
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: combined feed grain trade flow (china)
+
+ 
+
+Hi, 
+
+ 
+
+Could you guys put together a data set that is the combined feed grain trade flow?
+
+ 
+
+Looking to see what all feed grain into China looks like. 
+
+ 
+
+Thanks, 
+
+Rafael
+
+ 
+
+######################################################################
+
+The information contained in this communication is confidential and
+
+may contain information that is privileged or exempt from disclosure
+
+under applicable law. If you are not a named addressee, please notify
+
+the sender immediately and delete this email from your system.
+
+If you have received this communication, and are not a named
+
+recipient, you are hereby notified that any dissemination,
+
+distribution or copying of this communication is strictly prohibited.
+
+######################################################################

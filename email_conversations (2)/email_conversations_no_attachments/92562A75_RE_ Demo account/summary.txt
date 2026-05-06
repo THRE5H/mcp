@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a demo account for a partner organization, Qube, and asked for a guided introduction rather than allowing them to explore the account independently.
+
+**Context**: The user is an internal user from Customer Organization requesting assistance from a Support Agent at Service Provider. The demo account is intended for the commodities sector, specifically grains and oilseeds.
+
+**Solution**: The Support Agent confirmed the request and asked for clarification on the specific commodities of interest to tailor the demo environment. The customer later specified that representative dashboards for grains and oilseeds should be included in the setup. The issue is in progress, pending the completion of the demo account setup.

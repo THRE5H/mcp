@@ -1,0 +1,13 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-04-24 13:45:39.167000+00:00
+Subject: AGD Freight Rates Sharing Problem
+Message-ID: GVAP278MB02469163250E2FB8C706AC4394852@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi, 
+
+AGD have reported that the latest freight rates they can see on their environment is the 4th of April, on DNEXR the latest is yesterday, so it seems that there is a sharing bug or a problem with the contract . Could you have a look? Thanks
+
+Asfoury

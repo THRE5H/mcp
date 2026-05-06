@@ -1,0 +1,5 @@
+**Problem**: The customer requested the removal of a dashboard created for a potential client that never signed, as it is no longer needed.
+
+**Context**: The user is an external user from the Customer Organization. The issue involves a dashboard related to the Sugar Supply in Demand, which was initially created for a potential client, Coca Cola. The dashboard is part of a larger project that includes multiple products awaiting approval.
+
+**Solution**: The Support Agent confirmed the request to remove the unnecessary dashboard. It is recommended to regularly review and update dashboards to ensure they align with current client needs and project statuses.

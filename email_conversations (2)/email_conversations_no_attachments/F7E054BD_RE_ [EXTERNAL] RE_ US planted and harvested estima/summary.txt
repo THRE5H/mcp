@@ -1,0 +1,5 @@
+**Problem**: The customer requested historical USDA acreage estimates for corn, soybeans, wheat, and cotton from 2000 to 2024, noting that cotton data was not previously included in the dataset.
+
+**Context**: The customer is an external user from a Customer Organization seeking data from a dataset provided by a Service Provider. The dataset currently includes only corn, soybeans, and wheat, and the customer expressed a need for cotton data due to its absence in previous requests.
+
+**Solution**: The Support Agent confirmed that cotton data has been added to the existing dataset, which now includes June, March, and final acreage estimates from 2000 onwards. The dataset code remains the same for access. The customer was advised to reach out for any further inquiries.

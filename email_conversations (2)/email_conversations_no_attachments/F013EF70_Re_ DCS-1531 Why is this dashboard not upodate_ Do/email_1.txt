@@ -1,0 +1,58 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Guillaume Goudy; Support Dnext; Rifaeddine Hammemi
+Date: 2025-07-22 16:24:10.512000+00:00
+Subject: Re: DCS-1531 Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg
+Message-ID: ZR3P278MB122603488CD2D8ACC5255C6AF55CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB021101ED98AE46ACF00ED642985CA@GV0P278MB0211.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+There was an issue with the dashboard used to check data recency.
+From now on, @Rifaeddine Hammemi <mailto:rifa.hammemi@dnext.io>  will be responsible for monitoring this dashboard and ensuring it stays up to date.
+
+Jebrane.
+________________________________
+
+From: Guillaume Goudy <guillaume.goudy@dnext.io>
+Sent: 22 July 2025 16:20
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: DCS-1531 Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg 
+ 
+
+Why it was not detected? Recency should have shown that something was not right is not it?
+
+gg
+
+ 
+
+From: iheb.mhamdi <jira@dnext.atlassian.net> 
+Sent: Tuesday, 22 July 2025 16:03
+To: Guillaume Goudy <guillaume.goudy@dnext.io>
+Subject: DCS-1531 Why is this dashboard not upodate? Do not understand how we can miss it? we have plenty of tools and nobody are using them? tks gg
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+iheb.mhamdi commented:
+
+Hello all, 
+There was a mapping problem, it's being updated.
+
+thanks, 
+Iheb
+
+________________________________
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1531?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjRkZjA1OTRjMTg4M2Y0NDkwMzdkZTg0MTY0MzVmN2Y3YzQxZjYxZWVlMzRhNmFjMWVlMDczNmRmYmVkOTIzNDAiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAwMDkiLCJpc3N1ZSI6IkRDUy0xNTMxIn0sImV4cCI6MTc1NTYxMjE5MiwiaWF0IjoxNzUzMTkyOTkyfQ.YWsyET3FNJmramuKJYmd27316vytvlKtPIH4XfjkFpc&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1531/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjBjZThlYmI4YTk1ZWU4ZTE5YzAzODcxOWJkODgyZTIwMDQ5YzhmNDIzYjdmNjQ2NGU3ZGEzNzM3YmQzMTY1YzQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNWVmMWIyN2M2MGQzYzgwYWM5ZjZlNjExIiwiaXNzdWUiOiJEQ1MtMTUzMSJ9LCJleHAiOjE3NTU2MTIxOTIsImlhdCI6MTc1MzE5Mjk5Mn0.uLhDDZwyfMxTByrM5qVkLTCYEJAhdfWHDNyL8I2c9vo> 
+
+This is shared with guillaume goudy, Lucas Rosa Olavio et iheb.mhamdi.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Envoyé le 22 juillet 2025 16:03:12 CEST 
+
+

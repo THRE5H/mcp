@@ -1,0 +1,5 @@
+**Problem**: The user from Freepoint is unable to download the sbssbm tradeflow file, reporting that the file is truncated to November 25.
+
+**Context**: The issue involves an external user from Freepoint experiencing difficulties with a data download feature of the service provided by the Customer Organization. The problem was raised to the Customer Support team for assistance.
+
+**Solution**: The Support Agent tested the download and confirmed that it worked correctly, retrieving the complete file. The Support Agent requested additional details from the user to further investigate the issue. It is recommended that the user checks their download process or network conditions.

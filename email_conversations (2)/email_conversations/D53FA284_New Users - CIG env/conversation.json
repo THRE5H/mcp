@@ -1,0 +1,24 @@
+{
+  "emails": [
+    {
+      "subject": "New Users - CIG env",
+      "from": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL",
+      "from_name": "Sami Jaballah",
+      "to": "Support Dnext",
+      "cc": "Saber Khalfallah; Elfi Middelbeek",
+      "received_time": "2025-05-02 08:05:37.907000+00:00",
+      "sent_time": "2025-05-02 08:05:35+00:00",
+      "body_text": "Hello,\r\n\r\n \r\n\r\nPlease add these users to the environment:\r\n\r\ncig.dnext.io\r\n\r\n \r\n\r\nAndrea Valerio avalerio@continentalindustries.com <mailto:avalerio@continentalindustries.com> \r\n\r\n \r\n\r\nAndres Santacruz asantacruz@continentalindustries.com <mailto:asantacruz@continentalindustries.com> \r\n\r\n \r\n\r\nSyed Ahmed sahmed@continentalindustries.com <mailto:sahmed@continentalindustries.com> \r\n\r\n \r\n\r\nIf the environment has been already validated by Elfi, you can send the profiles to the users.\r\n\r\n \r\n\r\nMany thanks\r\n\r\nSami\r\n\r\n \r\n\r\n \r\n",
+      "body_html": "<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta name=Generator content=\"Microsoft Word 15 (filtered medium)\"><style><!--\r\n/* Font Definitions */\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;}\r\n@font-face\r\n\t{font-family:Aptos;}\r\n/* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tmso-fareast-language:EN-US;}\r\na:link, span.MsoHyperlink\r\n\t{mso-style-priority:99;\r\n\tcolor:#467886;\r\n\ttext-decoration:underline;}\r\nspan.EmailStyle17\r\n\t{mso-style-type:personal-compose;\r\n\tfont-family:\"Aptos\",sans-serif;\r\n\tcolor:windowtext;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tfont-size:11.0pt;\r\n\tmso-ligatures:none;\r\n\tmso-fareast-language:EN-US;}\r\n@page WordSection1\r\n\t{size:612.0pt 792.0pt;\r\n\tmargin:70.85pt 70.85pt 70.85pt 70.85pt;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n--></style><!--[if gte mso 9]><xml>\r\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\" />\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n<o:shapelayout v:ext=\"edit\">\r\n<o:idmap v:ext=\"edit\" data=\"1\" />\r\n</o:shapelayout></xml><![endif]--></head><body lang=FR-CH link=\"#467886\" vlink=\"#96607D\" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>Hello,<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US>Please add these users to the environment:<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>cig.dnext.io<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Andrea Valerio <a href=\"mailto:avalerio@continentalindustries.com\">avalerio@continentalindustries.com</a><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal>Andres Santacruz <span lang=EN-US><a href=\"mailto:asantacruz@continentalindustries.com\"><span lang=FR-CH>asantacruz@continentalindustries.com</span></a></span><o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Syed Ahmed <a href=\"mailto:sahmed@continentalindustries.com\">sahmed@continentalindustries.com</a><o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US>If the environment has been already validated by Elfi, you can send the profiles to the users.<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=EN-US>Many thanks<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US>Sami</span><span lang=DE-CH style='mso-fareast-language:FR-CH'><o:p></o:p></span></p><p class=MsoNormal><span lang=DE-CH><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span lang=DE-CH><o:p>&nbsp;</o:p></span></p></div></body></html>",
+      "conversation_id": "D53FA284FB344CBCA0014519838274EE",
+      "entry_id": "000000009E3298A6443E984393DE69BAE1D39B3A07008F4B4B7A024B9B439BA456836AE1DD4900000000010C00008F4B4B7A024B9B439BA456836AE1DD490002A6031EE00000",
+      "size": 42676,
+      "has_attachments": false,
+      "attachments": [],
+      "message_id": "GVAP278MB06774340FCF6B7C5D6264A4E888D2@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM",
+      "in_reply_to": null,
+      "references": null
+    }
+  ],
+  "subject": "New Users - CIG env"
+}

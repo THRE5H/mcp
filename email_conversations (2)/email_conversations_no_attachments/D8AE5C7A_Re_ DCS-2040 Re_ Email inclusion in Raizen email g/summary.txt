@@ -1,0 +1,5 @@
+**Problem**: The customer requested to be included in the Raizen email group.
+
+**Context**: The user is an external user from Customer Organization seeking assistance from the Service Provider. The issue involved email group inclusion, which is a feature of the Service Provider's communication platform.
+
+**Solution**: The Support Agent confirmed that the request was completed successfully. The customer was added to the email group as requested, ensuring they receive relevant communications moving forward. It is recommended to verify group memberships regularly to avoid missing important updates.

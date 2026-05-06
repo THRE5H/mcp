@@ -1,0 +1,54 @@
+From: Iheb Mhamdi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=548BB78402EC4093A35B1EC0EFC0589E-A6040AA1-AF>
+To: Nicolas Chaperon; Benoit Baliguet
+Date: 2025-10-03 00:15:58.987000+00:00
+Subject: Re: Follow up on 'Location Filter Value Problem' email
+Message-ID: GV0P278MB0321F61830FFF74D6F7BF27D9DE7A@GV0P278MB0321.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB136651919FABA9C709C66E16E6E7A@GV0P278MB1366.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png, image_2.png, image_3.png
+
+================================================================================
+
+Hello Nicolas,
+Still facing the same problem, when I change to REGION the NATIONAL_REGION are not appearing and it goes both ways, and I have both hierarchies in my dataset, is there a way to disable the filtering ?
+Tried to leave it empty and save on that configuration but it gets back to the default configuration (as shown in screenshot 2 and 3)
+I checked another dataset where I have the same methodology (multiple hierarchies) and it seems that the filter value is not applied (screenshot 4)
+
+
+
+
+
+
+
+
+
+Dataset Without Filter Value:
+
+________________________________
+
+From: Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Sent: Thursday, October 2, 2025 11:07 PM
+To: Iheb Mhamdi <iheb.mhamdi@dnext.io>; Benoit Baliguet <benoit.baliguet@dnext.io>
+Cc: Customer Success <customer.success@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Re: Follow up on 'Location Filter Value Problem' email 
+ 
+Hello,
+
+Issue was elsewhere as you supposed. I've created a ticket for this: https://dnext.atlassian.net/browse/DNP-5707 <https://dnext.atlassian.net/browse/DNP-5707> .
+
+In the meantime you can now update the structure of your dataset correctly and change the hierarchy/level_name of the fields as you want, this should unstuck you. Btw in term of flow if you encounter an issue, raise a ticket to support instead, so we can follow-up in JIRA.
+
+
+
+
+________________________________
+
+From: Iheb Mhamdi <iheb.mhamdi@dnext.io>
+Sent: Thursday, October 02, 2025 22:28
+To: Benoit Baliguet <benoit.baliguet@dnext.io>; Nicolas Chaperon <nicolas.chaperon@dnext.io>
+Cc: Customer Success <customer.success@dnext.io>; Lucas Rosa <lucas.rosa@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: Follow up on 'Location Filter Value Problem' email 
+
+Hello @Benoit Baliguet <mailto:benoit.baliguet@dnext.io>  and @Nicolas Chaperon <mailto:nicolas.chaperon@dnext.io> ,
+The issue might be other than that also. Even when I tried to keep only ARG and deleted the other region names in the input file, I was still unable to map the country.
+Thanks,
+Iheb

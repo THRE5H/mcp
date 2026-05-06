@@ -1,0 +1,110 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Saurabh Arora; Support Dnext; Nassim Sekhsoukh
+Date: 2025-08-26 09:22:02.347000+00:00
+Subject: RE: Issue in Dnext portal Login
+Message-ID: GV0P278MB13209EC9CBF57166A384BB41F839A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: DX1PPFEEC67B8130BB683A24E98AC974B4AD839A@DX1PPFEEC67B813.AREP273.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saurabh and Nassim
+
+ 
+
+Thank you for reaching out.
+
+ 
+
+@Nassim Sekhsoukh <mailto:Nassim.Sekhsoukh@al-ghurair.com>  Please make sure you are logging in to this url : https://alghurair.dnext.io/login
+
+if you are still encounter issues logging in please clear your browser cache and re try again 
+
+lastly check if you have any VPN that is open , close it then retry again.
+
+Please let me know how it goes I will be glad to assist you further if you still have difficulties logging in.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saurabh Arora <Saurabh.Arora@al-ghurair.com> 
+Sent: Tuesday, August 26, 2025 8:35
+To: Support Dnext <support@dnext.io>
+Cc: Nassim Sekhsoukh <Nassim.Sekhsoukh@al-ghurair.com>
+Subject: Issue in Dnext portal Login
+
+ 
+
+Hi Team,
+
+ 
+
+Could you please check the access for below mentioned email id. as while trying to login, it’s giving error as “Access Denied”. 
+
+ 
+
+nassim.sekhsoukh@al-ghurair.com <mailto:nassim.sekhsoukh@al-ghurair.com> 
+
+ 
+
+Thanks and Regards
+
+Saurabh Arora
+
+​​​​
+
+Specialist ‑ Research, Trading & Resources
+
+Al Ghurair Foods
+​
+
+	
+M 
+
++971 56 4159599
+
+	
+		
+	
+E 
+
+Saurabh.Arora@al-ghurair.com <mailto:Saurabh.Arora@al-ghurair.com> 
+
+	
+
+
+	
+al-ghurair.com <https://www.al-ghurair.com/en> 
+
+	
+2025 Top Employer in the United Arab Emirates
+
+	
+​The information contained in this communication is intended solely for the use of the individual, or entity to whom it is addressed to, and 
+others authorized to receive it. If you are not the intended recipient, any copying, distribution or use of this email or its attachments, or of the
+information contained therein, is strictly prohibited. The company accepts no liability for any damages caused by any virus if transmitted by this 
+email. Any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the company.
+
+	
+
+ 

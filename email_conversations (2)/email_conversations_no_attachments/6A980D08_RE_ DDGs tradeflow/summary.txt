@@ -1,0 +1,5 @@
+**Problem**: The customer requested confirmation on the status of the tradeflow for DDGS and why it had not been shared with the partner yet.
+
+**Context**: The user is an internal team member from the Customer Organization reaching out to the Customer Support team regarding a feature in the Service Provider's system. The issue involves an updated tradeflow that is not being shared with the Partner Company due to a problem with the sharing module.
+
+**Solution**: The Customer Support team confirmed that the tradeflow is updated but identified a bug in the sharing module. The development team is addressing the issue, and the Support Agent will contact the partner directly once the tradeflow is accessible in their environment. It is recommended to monitor the sharing module for future updates.

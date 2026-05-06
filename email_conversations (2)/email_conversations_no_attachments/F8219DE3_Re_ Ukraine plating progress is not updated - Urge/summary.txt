@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the progress for Ukraine plating was not updated in the system, which required urgent attention.
+
+**Context**: The user is an external user from Customer Organization seeking support from the Service Provider. The issue pertains to the progress tracking feature within the service's dashboard.
+
+**Solution**: The Support Agent confirmed that the dashboard was updated shortly after the customer's inquiry. The issue was resolved, and the customer was informed of the update. It is recommended to regularly check for updates to avoid similar delays in the future.

@@ -1,0 +1,5 @@
+**Problem**: The customer requested the setup of a demo environment for vegoils/corn for the INpasa platform for the following week, but there were no available demo environments.
+
+**Context**: The customer is an external user from the Customer Organization seeking a demo environment from the Service Provider. The support team indicated that new demo environments (demo5 and demo6) had not yet been created by the development team.
+
+**Solution**: The support team confirmed that a demo environment was eventually set up and requested the customer to provide a list of users for access. It is recommended that the customer communicate early for demo environment needs to ensure timely availability.

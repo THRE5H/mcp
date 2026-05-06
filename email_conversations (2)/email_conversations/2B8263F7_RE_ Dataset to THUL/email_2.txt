@@ -1,0 +1,19 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Support Dnext
+Date: 2025-03-14 14:55:16.957000+00:00
+Subject: Dataset to THUL
+Message-ID: GVAP278MB0151C97968D7C196EDD0E9CE98D22@GVAP278MB0151.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Support,
+
+ 
+
+Can you share with THUL this dataset please ?
+
+https://dnexr.dnext.io/workflows/6adc47c1-08fe-4d37-ba03-3671eb255013/edit/loading
+
+ 
+
+Thank you

@@ -1,0 +1,5 @@
+**Problem**: The customer requested to add an email address (Yuri.Souza2@raizen.com) to the DL-Raizen distribution list.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance from the Support Team of Service Provider. The request was made following a previous email where another user asked to include the same email address in a meeting invitation.
+
+**Solution**: The Support Agent confirmed that the requested amendment to the DL-Raizen was completed. It is recommended to verify distribution list changes periodically to ensure all necessary contacts are included.

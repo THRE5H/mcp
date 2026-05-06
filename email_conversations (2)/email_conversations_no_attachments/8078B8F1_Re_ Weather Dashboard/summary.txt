@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with the Weather Dashboard, unsure if it was a bug or a refresh problem.
+
+**Context**: The user is an external user of the Service Provider's Weather Dashboard feature. The issue arose while the user was attempting to change the starting month for the dashboard.
+
+**Solution**: The Support Agent identified that the issue was related to changing the starting month and confirmed it would be resolved shortly. It is recommended that users ensure they refresh the dashboard after making changes to avoid similar confusion in the future.

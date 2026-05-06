@@ -1,0 +1,22 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-02 21:13:11.822000+00:00
+Subject: Re: brazil precip dashboard: date filter here starts in aug 2023
+Message-ID: ZR3P278MB1226FFA0EC4EB8B06E4FBF7DF5CE2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0717E2697FAE846545E6AA78EBCE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, Outlook-hk5b0mps.png
+
+================================================================================
+
+solved
+
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 02 March 2025 19:17
+To: Support Dnext <support@dnext.io>
+Cc: Lucas Rosa <lucas.rosa@dnext.io>; Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: brazil precip dashboard: date filter here starts in aug 2023 
+ 
+ 

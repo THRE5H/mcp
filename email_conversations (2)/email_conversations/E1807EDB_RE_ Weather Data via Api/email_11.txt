@@ -1,0 +1,79 @@
+From: Cornette Etienne <e.cornette@saftco.ch>
+To: Saber Khalfallah
+Date: 2025-02-03 11:12:50.268000+00:00
+Subject: Re: Weather Data via Api 
+Message-ID: AM9PR07MB7874ECB4ED82310EA615D92088F52@AM9PR07MB7874.eurprd07.prod.outlook.com
+In-Reply-To: GV0P278MB132034BE831A487D43A9BC04F8F52@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+Hope you had a good weekend.
+Clear thank you for the update.
+
+I also have a question about the freight matrix. 
+Is it possible to have access to data ? And if yes do you store it ? I would like to check some freight evolution on some routes.
+
+Thank you,
+Étienne 
+
+Sent from Outlook for iOS <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2faka.ms%2fo0ukef&umid=AB158021-2D3A-1E06-8F49-B31B622D1061&auth=5307f442576035634cf5e89b9ab5c8b2ebe65e73-cc8f690172ef35a958bf547e45261a5ffaf1886e> 
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: Monday, February 3, 2025 11:00:53 AM
+To: Etienne Cornette <e.cornette@saftco.ch>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>; Pablo Figueroa <pablo.figueroa@dnext.io>; Support Dnext <support@dnext.io>
+Subject: Weather Data via Api 
+ 
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma.
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma.
+
+******************************************************************************************
+
+
+
+
+Hello Etienne,
+
+I hope you are doing well.
+
+Concerning your request to fetch the Weather Data via the API , I wanted to let you know that we are working on it, and we will let you know as soon as it’s ready
+
+ 
+
+If you have any other questions or concerns, please let us know
+
+ 
+
+Best regards ,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=www.dnext.io&umid=AB158021-2D3A-1E06-8F49-B31B622D1061&auth=5307f442576035634cf5e89b9ab5c8b2ebe65e73-75b2aaf36b34231988ecd16810b16f6d9c472974 <https://ddei5-0-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=http%3a%2f%2fwww.dnext.io%2f&umid=AB158021-2D3A-1E06-8F49-B31B622D1061&auth=5307f442576035634cf5e89b9ab5c8b2ebe65e73-43e54d9615c8bd64809312eaa57731379a036d6d> 
+
+ 
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.

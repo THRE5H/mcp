@@ -1,0 +1,154 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Oscar Shi; Rifaeddine Hammemi
+Date: 2025-05-22 22:55:30.947000+00:00
+Subject: Re: Login Credentials
+Message-ID: ZR3P278MB12264478396D7690F83B9B09F599A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: BY3PR08MB7027C957E2F7184D262D7CD2CF99A@BY3PR08MB7027.namprd08.prod.outlook.com
+Attachments: Download a tradeMatrix.pdf, Download a dataset.pdf
+
+================================================================================
+
+Hello Oscar,
+Happy to hear that you’ve successfully logged in!
+You can use the same username and password to access our APIs. Below is an example of how to retrieve your API token (you’ll just need to replace the placeholder with your actual password):
+import json
+import requests
+
+# Login to API and get token
+def connect(email, pwd, env):
+    '''
+    email: email used to connect to your dnext environment
+    pwd: password
+    env: name of your enviroment, first part in your dnext URL before the dot
+    ENV.dnext.io -> env = 'ENV'
+    '''
+    # Login to API and get token
+    url = f'https://api.dnext.io/v1.0/auth/custom-login?org={env}'
+   
+    payload = json.dumps({
+        'email': f'{email}',
+        'password': f'{pwd}',
+        'organization': f'{env}'
+    })
+
+    headers = {
+        'Content-Type': 'application/json'
+    }
+
+    response = requests.post(url, headers=headers, data=payload)
+    token = response.json()['token']
+    return token
+   
+token = connect('oshi@valentassetmgmt.com', 'Password', 'vam')
+print(token)
+You’ll also find in the two attached PDFs instructions on how to download a dataset or Tradeflow using the API.
+If you'd prefer a quick walkthrough, our customer support team is available to schedule a call and guide you through using the API and extracting data from datasets or Tradeflows.
+Let me know if you’d like to set that up!
+Best regards,
+Jebrane
+
+
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com>
+Sent: 22 May 2025 21:56
+To: Rifaeddine Hammemi <rifa.hammemi@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: Login Credentials 
+ 
+Thank you very much Rifa! I confirm that I was able to log in!
+
+I'd like to try accessing your data via your API well. Could you provide with credentials for that as well?
+
+Thank you again,
+Oscar
+________________________________
+
+From: Rifaeddine Hammemi <rifa.hammemi@dnext.io>
+Sent: Thursday, May 22, 2025 9:11 AM
+To: Oscar Shi <oshi@valentassetmgmt.com>
+Cc: Support Dnext <support@dnext.io>
+Subject: Login Credentials 
+ 
+
+Hello Oscar,
+
+ 
+
+Hope you are doing well.
+
+ 
+
+You may access our platform through this URL: https://vam.dnext.io/ <https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fvam.dnext.io%2f&c=E,1,nP-CjAlUh3BB20Ve4sDXoWrzL_TbWtKc_vmEhkktN-GOSDmrc73tOGTYDgbXgTyI2_XQ38mCVzN-s6M4m9a_4eN7hYzY_16VfPyaOZKtzdYXfjrvU5m1&typo=1> 
+
+
+Using these credentials:
+
+ 
+
+Email: oshi@valentassetmgmt.com
+
+Password : U91Vqr5hR4BE
+
+ 
+
+ Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+ First, put your credentials to the login page and press Log in.
+
+After that, go to your profile
+
+ 
+
+
+
+ 
+
+Press “change my password”:
+
+ 
+
+
+
+ 
+
+And follow the instructions: 
+
+ 
+
+
+
+ 
+
+Best Regards
+
+
+Rifa Hammami
+
+Customer Support
+
+                                                                                                     rifa.hammemi@dnext.io
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <https://linkprotect.cudasvc.com/url?a=http%3a%2f%2fwww.dnext.io%2f&c=E,1,eMkx13hjcf4hOjKQQvvPJw8OlcwpmklsC5_JaTBWoul_gbLhXimFHnuaSkLLNOLCtUc9Yl8q5LMINrJHjzlDAJhoiUQQ6sp56ic_OYsxjk1k&typo=1> 
+
+
+
+
+Disclaimer
+
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

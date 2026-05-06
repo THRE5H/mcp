@@ -1,0 +1,141 @@
+From: Sami Jaballah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=3365154EB7ED4B5E8C72E1E15F04001F-SAMI.JABALL>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-10-15 12:09:14.714000+00:00
+Subject: RE: Setup New client: CFP
+Message-ID: GVAP278MB067784206E5009685D33861F88E8A@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB132015B2060C992E82F95BF4F8E8A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber,
+
+ 
+
+All Ok, you can send the profiles.
+
+ 
+
+Thanks
+
+Sami
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: mercredi, 15 octobre 2025 12:46
+To: Sami Jaballah <sami.jaballah@dnext.io>; Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: RE: Setup New client: CFP
+
+ 
+
+Hello Sami,
+
+ 
+
+Environment is set up and users are created.
+
+ 
+
+Please confirm validation and I will send them
+
+ 
+
+Thanks
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io <mailto:sami.jaballah@dnext.io> > 
+Sent: Wednesday, October 15, 2025 9:49
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: RE: Setup New client: CFP
+
+ 
+
+Hello,
+
+ 
+
+Hera are the users to be created in cfp environment:
+
+ 
+
+Maxime
+
+Florentin
+
+m.florentin@cfp.energy <mailto:m.florentin@cfp.energy> 
+
+Ronald
+
+Van der Graaf
+
+r.vandergraaf@cfp.energy <mailto:r.vandergraaf@cfp.energy> 
+
+Jelle
+
+Van Velzen
+
+j.vanvelzen@cfp.energy <mailto:j.vanvelzen@cfp.energy> 
+
+ 
+
+Please do not send them before validation.
+
+ 
+
+Sami
+
+ 
+
+From: Sami Jaballah 
+Sent: mercredi, 15 octobre 2025 07:36
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Subject: Setup New client: CFP
+
+ 
+
+Hello,
+
+ 
+
+Please set-up the contract for the new environment: CFP.dnext.io
+
+*	Client name: CFP Energy - UK
+*	Same access as QUADRA (Soybeans and Vegoils)
+*	Contract start: 01.10.2025
+*	Contract End: 30.09.2026
+
+ 
+
+The list of users will be sent later.
+
+ 
+
+Many thanks
+
+Sami
+
+ 

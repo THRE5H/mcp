@@ -1,0 +1,20 @@
+From: Mohamed Elasfoury </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=DFB9C34772854B0498DEFE9367BF0E1C-MOHAMED.ELA>
+To: Support Dnext
+Date: 2025-04-29 15:30:59.412000+00:00
+Subject: Freight Module "Batches" now filters broken
+Message-ID: GVAP278MB02464444B170F492E36BF32594802@GVAP278MB0246.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi, 
+
+Pacificor contacted us on whatsapp, I think he had some saved "batches" in the freight module that he lost (now called filters), and he is unable to create or use them, can you check what the issue is and forward to dev if it's indeed a bug? 
+
+
+Message:
+
+
+
+Thanks,
+Asfoury

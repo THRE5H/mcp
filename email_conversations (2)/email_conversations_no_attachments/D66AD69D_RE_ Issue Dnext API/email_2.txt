@@ -1,0 +1,468 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Etienne Cornette
+Date: 2025-03-25 12:14:34.546000+00:00
+Subject: RE: Issue Dnext API 
+Message-ID: GV0P278MB13205BD4F3C6FA221BD5D480F8A72@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: 2e7b7f9495f0487199504ea286fc0b48@saftco.ch
+
+================================================================================
+
+Hello Etienne ,
+
+when would you be available for a quick teams call so we can see this together ?
+
+ 
+
+Best regards 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch> 
+Sent: Tuesday, March 25, 2025 12:09
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: RE: Issue Dnext API 
+
+ 
+
+Hello Saber,
+
+ 
+
+Thanks much. 
+
+Unfortunately, I still encounter the same error. 
+
+ 
+
+Etienne 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> > 
+Sent: Tuesday, March 25, 2025 9:46 AM
+To: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: Issue Dnext API 
+
+ 
+
+*************************************Mail_Externe*********************************
+
+* Soyez prudent lorsque vous ouvrez des liens, des pièces jointes et lorsque vous êtes invité à entrer des mots de passe ou des informations confidentielles. Signalez tout e-mail suspect à l'équipe service desk ou transmettez-le à l’adresse : itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+* Be careful when opening links, attachments, and when prompted to enter passwords or confidential information. Report any suspicious emails to the service desk team or forward them to: itsecurity@ocpgroup.ma <mailto:itsecurity@ocpgroup.ma> .
+
+******************************************************************************************
+
+Hello Etienne,
+
+ 
+
+I hope you're doing well.
+
+ 
+
+It appears that the password you entered in the script is incorrect. Below is the correct password:
+
+ 
+
+API Authentication Password: jgyH6564jijliuhçà_mkkjh
+
+ 
+
+Please replace the current password in the script with this one, and everything should work as expected.
+
+ 
+
+Let me know how it goes.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Cornette Etienne <e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> > 
+Sent: Monday, March 24, 2025 19:18
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Issue Dnext API 
+
+ 
+
+Hello Saber,
+
+ 
+
+Hope all good. For some reason, I continue to struggle to connect to API  : 
+
+ 
+
+Code below: 
+
+ 
+
+ 
+
+# Load required libraries 
+
+library(httr) 
+
+library(jsonlite)
+
+library(readr)
+
+ 
+
+# Function to login to API and get token 
+
+connect <- function(email, pwd, env) { 
+
+  # email: email used to connect to your dnext environment 
+
+  # pwd: password 
+
+  # env: name of your environment, first part in your dnext URL before the dot 
+
+  # Example: ENV.dnext.io -> env = 'ENV' 
+
+  
+
+  # Construct the URL 
+
+  url <- paste0("https://api.dnext.io/v1.0/auth/custom-login?org= <https://api.dnext.io/v1.0/auth/custom-login?org=> ", env) 
+
+  
+
+  # Create the payload 
+
+  payload <- toJSON(list( 
+
+    email = email, 
+
+    password = pwd, 
+
+    organization = env 
+
+  ), auto_unbox = TRUE) 
+
+  
+
+  # Set the headers 
+
+  headers <- add_headers('Content-Type' = 'application/json') 
+
+  
+
+  # Send the POST request 
+
+  response <- POST(url, headers, body = payload) 
+
+  
+
+  # Parse the response and extract the token 
+
+  token <- content(response)$token 
+
+  return(token) 
+
+} 
+
+ 
+
+# Call the connect function with your credentials 
+
+token <- connect("e.cornette@saftco.ch <mailto:e.cornette@saftco.ch> ", "jgyH6564jijliuhC'C _mkkjh", "saftco") 
+
+token
+
+ 
+
+get_task_status <- function(task_id, token) {
+
+  my_headers <- add_headers(
+
+    Authorization = paste("Bearer", token),
+
+    `Content-Type` = "application/json"
+
+  )
+
+  
+
+  success <- FALSE
+
+  wait_time <- 2  # Initial wait time in seconds
+
+  max_wait_time <- 120  # Maximum wait time in seconds (e.g., 2 minutes)
+
+  
+
+  while (!success && wait_time <= max_wait_time) {
+
+    Sys.sleep(wait_time)  # Wait before checking status
+
+    
+
+    status_res <- GET(paste0('https://api.dnext.io/v1.0/tasks/', task_id), my_headers)
+
+    status_text <- content(status_res, as = "text")
+
+    print(paste("Task Status Response:", status_text))
+
+    
+
+    tryCatch({
+
+      status_json <- fromJSON(status_text)
+
+      print(paste("Task Status:", status_json$status))
+
+      
+
+      if (status_json$status == "SUCCEEDED") {
+
+        success <- TRUE
+
+      } else if (status_json$status == "FAILED") {
+
+        print("Task failed.")
+
+        break  # Exit the loop if the task has failed
+
+      }
+
+    }, error = function(e) {
+
+      print(paste("Error parsing task status:", e$message))
+
+    })
+
+    
+
+    if (!success) {
+
+      wait_time <- wait_time * 2  # Exponential backoff
+
+    }
+
+  }
+
+  
+
+  return(success)
+
+}
+
+ 
+
+# Function to download dataset
+
+download_dataset <- function(code, token) {
+
+  my_headers <- add_headers(
+
+    Authorization = paste("Bearer", token),
+
+    `Content-Type` = "application/json"
+
+  )
+
+  
+
+  dl_url <- paste0('https://api.dnext.io/v1.0/data/datasets/', code, '/download')
+
+  res <- POST(dl_url, my_headers)
+
+  
+
+  # Debug: Print the raw API response
+
+  print("Download request response:")
+
+  print(content(res, as = "text"))
+
+  
+
+  res_json <- fromJSON(content(res, as = "text"))
+
+  
+
+  if (is.null(res_json$task$id)) {
+
+    stop("Error: Task ID not found in the response.")
+
+  }
+
+  
+
+  task_id <- res_json$task$id
+
+  data_ready <- get_task_status(task_id, token)
+
+  
+
+  if (data_ready) {
+
+    if (!is.null(res_json$result$url)) {
+
+      data_url <- res_json$result$url
+
+      data_resp <- GET(data_url)
+
+      
+
+      # Debug: Print response status code
+
+      print(paste("Download response status code:", data_resp$status_code))
+
+      
+
+      if (data_resp$status_code == 200) {
+
+        df <- read_csv(content(data_resp, as = "raw"), locale = locale(encoding = "UTF-8"), show_col_types = FALSE)
+
+      } else {
+
+        stop("Error: Failed to download dataset.")
+
+      }
+
+    } else {
+
+      stop("Error: Data URL not found.")
+
+    }
+
+  } else {
+
+    print("Task did not succeed. Returning NULL.")
+
+    df <- NULL
+
+  }
+
+  
+
+  return(df)
+
+}
+
+ 
+
+# Example usage
+
+ 
+
+dataset_code <- "saftco-6a211b50-3b48-4e90-8f86-47e2e2b81909"  # Replace with your dataset code
+
+df <- download_dataset(dataset_code, token)
+
+ 
+
+# Debug: Print dataset preview if successful
+
+if (!is.null(df)) {
+
+  print("Dataset successfully downloaded:")
+
+  print(head(df))
+
+} else {
+
+  print("No dataset returned.")
+
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+Results : 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Best regards,
+
+ 
+
+Etienne Cornette
+
+Grains Trader
+
+==============
+
+SAFTCO SA 
+
+Rue du Mont-Blanc 3,
+
+1201 GENEVA – CH
+
+
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 
+
+------------------------------DISCLAIMER------------------------------------
+
+-Les informations contenues dans ce document sont de nature confidentielle et à l'usage exclusif des destinataires prévus.Si vous l'avez reçu par erreur, son utilisation sous quelque forme qu'elle soit est strictement interdite. Nous vous remercions dans ce cas de détruire le message et de prendre contact avec son expéditeur. L'intégrité des messages n'étant pas assurée sur Internet, le Groupe OCP ne saurait être tenu responsable si ce message s'avérait modifié ou falsifié.
+
+-The information contained in this message and any attachments hereto are confidential and intended solely for the addressee(s) intended. If you are not the intended addressee of this message, you are hereby notified thatyou have received this document in error. Any review, dissemination, distribution, or copying of this message is prohibited. Please delete it and inform the sender immediately. Thank you for your help. Messages are susceptible to alteration. OCP GROUP shall not be liable for the message if altered,changed or falsified.
+
+ 

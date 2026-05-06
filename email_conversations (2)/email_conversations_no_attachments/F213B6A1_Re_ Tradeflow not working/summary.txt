@@ -1,0 +1,5 @@
+**Problem**: The customer is experiencing recurring issues with the Tradeflow system, where validated data is incorrectly doubling quantities and remaining in the forecast state instead of being updated to official data. Additionally, selections in combo boxes are being erased unexpectedly.
+
+**Context**: The user is an external user from a Customer Organization using the Tradeflow feature of a Service Provider's platform. The issues seem to arise during data validation and selection processes, affecting the accuracy and reliability of the data displayed.
+
+**Solution**: The Support Team acknowledged the issues and confirmed that tickets have been created for the development team to address them in the next release. As a temporary workaround, the customer found that opening a new instance and starting a new Tradeflow resolves the data display problem. It is recommended to monitor updates from the development team for a permanent fix.

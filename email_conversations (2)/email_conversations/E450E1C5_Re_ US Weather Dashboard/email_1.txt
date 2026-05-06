@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext
+Date: 2025-03-18 09:28:54.556000+00:00
+Subject: Re: US Weather Dashboard
+Message-ID: ZR3P278MB12264C98EE536970ADB49BBAF5DE2@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071701EFA2AFE899C57D5AECEBDE2@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png, image_1.png
+
+================================================================================
+
+I can see 2025 select by default.
+
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 18 March 2025 02:36
+To: Support Dnext <support@dnext.io>
+Subject: US Weather Dashboard 
+ 
+Guys, here we are showing 2024 as default. there is no latest and no source
+
+
+
+

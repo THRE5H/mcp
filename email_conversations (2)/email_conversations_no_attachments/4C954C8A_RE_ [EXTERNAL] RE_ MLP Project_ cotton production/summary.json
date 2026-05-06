@@ -1,0 +1,21 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User needs a bi-weekly cotton production dataset for Pakistan extracted from PDF reports published on a public website, including specific values: Total Arrivals Punjab, Total Arrivals Sindh, and Total Arrivals Pakistan (all in bales). Additionally, the dataset requires regular updates to include new data as it becomes available.",
+    "solution": "A dataset was created and made available on the platform with a specific dataset code. The dataset extracts the required three values from the PDF reports published at https://www.pcga.org/arrival-reports/. Furthermore, the dataset was configured to run as a recurring weekly task to automatically update and add new data when available from the source, ensuring the dataset remains current without manual intervention.",
+    "keywords": [
+      "cotton production",
+      "dataset creation",
+      "Pakistan cotton data",
+      "bi-weekly statistics",
+      "PDF data extraction",
+      "Total Arrivals Punjab",
+      "Total Arrivals Sindh",
+      "Total Arrivals Pakistan",
+      "recurring update",
+      "weekly data refresh",
+      "automated dataset update"
+    ],
+    "category": "How-to Guide"
+  }
+}

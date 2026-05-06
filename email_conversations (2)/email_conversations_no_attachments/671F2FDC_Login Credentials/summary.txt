@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with logging into the platform and was provided with login credentials.
+
+**Context**: The user is an external user from Customer Organization attempting to access the platform provided by Service Provider. The email contains specific login instructions and a reminder to change the password upon first login.
+
+**Solution**: The Support Agent provided the user with the necessary login URL and credentials, along with step-by-step instructions to change the password after the initial login. It is recommended that the user follows the password change procedure to ensure account security.

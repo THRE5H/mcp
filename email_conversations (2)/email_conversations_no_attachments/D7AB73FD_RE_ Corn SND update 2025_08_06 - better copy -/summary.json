@@ -1,0 +1,25 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Email messages sent to a recipient address hosted on Office 365 are rejected with error 550 5.1.10 because the recipient address is unknown or does not exist on the destination domain.",
+    "solution": "To resolve the 550 5.1.10 RESOLVER.ADR.RecipientNotFound error in Office 365, follow these steps: 1) Verify that the recipient email address is correctly spelled and exists. 2) Resend the message by opening the non-delivery report in Outlook or Outlook on the web, delete and retype the full recipient address without selecting autocomplete suggestions, then send again. 3) Contact the recipient by other means to confirm the address and check if mail forwarding rules are correctly configured. 4) Clear the autocomplete cache for recipients in Outlook or Outlook on the web as described in the Microsoft article for error 5.1.10. 5) If you are the administrator of the recipient domain, ensure the recipient mailbox exists, has a valid Office 365 license, and that directory synchronization is working properly if using a hybrid environment. 6) Check mail flow rules and forwarding settings for any misconfigurations. 7) Verify that mail flow connectors and MX DNS records are correctly configured for the domain. For detailed guidance, consult the Microsoft support article at https://go.microsoft.com/fwlink/?LinkId=532972.",
+    "keywords": [
+      "Office 365",
+      "email delivery error",
+      "550 5.1.10",
+      "RESOLVER.ADR.RecipientNotFound",
+      "recipient address unknown",
+      "non-delivery report",
+      "NDR",
+      "mail flow",
+      "mailbox license",
+      "directory synchronization",
+      "mail forwarding",
+      "autocomplete cache",
+      "MX records",
+      "mail flow connectors",
+      "email troubleshooting"
+    ],
+    "category": "Error Resolution"
+  }
+}

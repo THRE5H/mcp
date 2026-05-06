@@ -1,0 +1,5 @@
+**Problem**: The customer is seeking county-level weather data in the US but is only receiving state-level data when executing their query. They need guidance on how to obtain the desired county-level realized and forecast data.
+
+**Context**: The user is an external user from a Customer Organization querying a weather database. They are using a specific SQL query to access data from a service provided by a Service Provider, but the results are limited to state-level information.
+
+**Solution**: The Support Agent informed the customer that county-level data is not available, but a new column named "district" has been added to the view, which includes district codes for each state. The customer was provided with a link to view district maps for better understanding and was encouraged to reach out for further assistance if needed.

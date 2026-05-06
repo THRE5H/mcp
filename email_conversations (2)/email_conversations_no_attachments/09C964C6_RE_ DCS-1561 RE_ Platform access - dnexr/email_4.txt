@@ -1,0 +1,118 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Jebrane Ben Salem; Elfi Middelbeek; Support Dnext
+Date: 2025-07-31 10:19:56.261000+00:00
+Subject: RE: DCS-1561 RE: Platform access - dnexr
+Message-ID: GV0P278MB1320FB4AAE3A6CB522E62D1EF827A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB12267CCDB9C341E521BD94BFF527A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello, 
+
+Demo cant download data , if he wants to download a tradematrix or a dataset I don’t think demo is gonna work
+
+
+
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: Thursday, July 31, 2025 10:11
+To: Elfi Middelbeek <elfi.middelbeek@dnext.io>; Support Dnext <support@dnext.io>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Subject: Re: DCS-1561 RE: Platform access - dnexr
+
+ 
+
+Hello Saber,
+
+ 
+
+I think we need to use a demo platform not Stage
+
+because in stage we have many other resources
+
+what do u think @Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  !?
+
+________________________________
+
+De : Elfi Middelbeek <elfi.middelbeek@dnext.io <mailto:elfi.middelbeek@dnext.io> >
+Envoyé : Thursday, July 31, 2025 10:09:11 AM
+À : Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Objet : RE: DCS-1561 RE: Platform access - dnexr 
+
+ 
+
+HI Saber,
+
+ 
+
+Just continuing from our chat on Teams – he needs access to the fertilizer dashboards, the urea trade matrix and any fertilizer datasets. 
+
+ 
+
+Thanks!
+
+ 
+
+All the best,
+
+ 
+
+Elfi
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> > 
+Sent: 31 July 2025 10:11
+To: Elfi Middelbeek <elfi.middelbeek@dnext.io <mailto:elfi.middelbeek@dnext.io> >
+Subject: DCS-1561 RE: Platform access - dnexr
+
+ 
+
+—-—-—-— 
+
+Reply above this line. 
+
+Saber Khalfallah commented:
+
+Hello,
+
+Could you please clarify exactly which resources he needs? If he only requires specific resources from DNEXR, we can share those directly on the stage. In that case, we can revoke his DNEXR access, as it currently grants access to all data without the ability to control or restrict access to individual resources.
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/33698/attachment/23018> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1561?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjBmZjdjMjMxYWRhN2E1ZGU2MjczNzhjZjY3MGMwMDg5OTVjYzNiOWFhNDRhMmVjODMyMjZkYzc0YWY5MWI2OTAiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAyMDQiLCJpc3N1ZSI6IkRDUy0xNTYxIn0sImV4cCI6MTc1NjM2ODY3MywiaWF0IjoxNzUzOTQ5NDczfQ.1jZ67SutTO9Qv-l1dX3_Qyp_bnyHKziTITu6XXTiAME&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-1561/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjcxZDE2NDMwMmI0MDEwOWQ2NGMxOWIzOTI3MjQxMGE2OWU1MjRkYjg5Y2VhNDc4YjIyZjI1ZjZiZDM1ODJmZWQiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiNzEyMDIwOjMyNWQ1ZWYyLWNmNjktNGYxMy1iOTUzLWRiNzVlOWM2ODFiZiIsImlzc3VlIjoiRENTLTE1NjEifSwiZXhwIjoxNzU2MzY4NjczLCJpYXQiOjE3NTM5NDk0NzN9.y3nJQX2Sq9N3CVIXrHxue8ePFu02oZULQrt3t3SGdqo> 
+
+This is shared with guillaume goudy, Sami Jaballah, and Elfi Middelbeek.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 31 July 2025 10:11:13 CEST 
+
+ <http://atlassian-trk.prd.msg.ss-inf.net/CI0/010101985f890ea6-d8e84d55-44d5-4527-8b37-f20a928afd05-000000/Y8tUbH0j6S1kmwzgvRDLH2YNXPSKo6OmkUj1N1EDCGw=416> 

@@ -1,0 +1,203 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Andrew Hyde
+Date: 2025-10-17 15:04:58.859000+00:00
+Subject: RE: DNEXT - Login Credentials
+Message-ID: GV0P278MB13206AD86479CEE24C3BCC9AF8F6A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: PAXPR02MB7912A50495488A52F3EB170EA0F6A@PAXPR02MB7912.eurprd02.prod.outlook.com
+Attachments: DCS-DNEXT API - Code Example - Download a dataset-.pdf, DCS-DNEXT API - Code Example - Authentication-1410.pdf, Excel+Add+in+User+Guide.pdf
+
+================================================================================
+
+Hello Andrew,
+
+ 
+
+Thanks for the quick response.
+
+ 
+
+You asked Pablo about US By class Wheat dataset access via the API 
+
+kindly find attached our API Documentation and below is the dataset code for the US Wheat by class on our platform . 
+
+dataset code : polarstar-1a841727-e30f-11ef-b5ba-0a72732f38e5
+
+we also have an excel add-in where you can directly fetch & upload to our platform directly via excel a quick user guide that contains installation instructions, and more details is attached as well.
+
+ 
+
+Please let me know if you have any questions or if you need anything else.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Andrew Hyde <andrew@polarstarfunds.com> 
+Sent: Friday, October 17, 2025 14:57
+To: Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: DNEXT - Login Credentials
+
+ 
+
+Hi Saber,
+
+Thanks for this. Yes, I can get on the platform.
+
+ 
+
+Best,
+
+ANDREW HYDE
+
+
+
+1st Floor | ICR House | Alphen Park | Main Road | Constantia| Cape Town | 7800
+
++27 21 110 5529 (direct) | +27 82 882 4643 (mobile)
+
+andrew@polarstarfunds.com <mailto:andrew@polarstarfunds.com>  | connect on LinkedIn <https://www.linkedin.com/in/andrew-hyde-7aa397192/>  | polarstarfunds.com <https://www.polarstarfunds.com/> 
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Friday, October 17, 2025 3:47 PM
+To: Andrew Hyde <andrew@polarstarfunds.com <mailto:andrew@polarstarfunds.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: DNEXT - Login Credentials 
+
+ 
+
+Hello Andrew,
+
+ 
+
+I hope this email finds you well.
+
+ 
+
+Just following to make sure you received the login information and were able to connect to the platform.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah 
+Sent: Thursday, October 16, 2025 12:18
+To: 'andrew@polarstarfunds.com' <andrew@polarstarfunds.com <mailto:andrew@polarstarfunds.com> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: DNEXT - Login Credentials
+
+ 
+
+Hello Andrew,
+
+ 
+
+Hope you are doing well.
+
+ 
+
+You may access our platform through this URL: https://polarstar.dnext.io/
+
+Using these credentials :
+
+  
+
+ Note: make sure to change your password upon your first login by following these steps:
+
+ 
+
+ First, put your credentials to the login page and press Log in.
+
+After that, go to your profile
+
+ 
+
+
+
+Press “change my password”:
+
+
+
+ 
+
+And follow the instructions: 
+
+ 
+
+
+
+ 
+
+Best Regards
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+ 
+
+Disclaimer
+
+The information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.
+
+This email has been scanned for viruses and malware, and may have been automatically archived by Mimecast Ltd, an innovator in Software as a Service (SaaS) for business. Providing a safer and more useful place for your human generated data. Specializing in; Security, archiving and compliance. To find out more Click Here <http://www.mimecast.com/products/> .

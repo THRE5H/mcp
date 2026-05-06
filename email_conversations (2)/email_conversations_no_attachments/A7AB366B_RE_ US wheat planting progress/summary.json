@@ -1,0 +1,17 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User cannot find published data for US wheat planting progress for the current autumn season in the graph.",
+    "solution": "To view the published data for the current autumn season, select the year filter value '20236' in the data interface. This will display the relevant data that was published before the system shutdown.",
+    "keywords": [
+      "US wheat planting progress",
+      "data not visible",
+      "year filter",
+      "20236",
+      "published data",
+      "graph",
+      "seasonal data selection"
+    ],
+    "category": "Platform Navigation"
+  }
+}

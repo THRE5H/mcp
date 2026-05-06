@@ -1,0 +1,24 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Support Dnext
+Date: 2025-09-24 11:33:01.250000+00:00
+Subject: Fw: ERA5 & weather data update
+Message-ID: ZR3P278MB1226E710038CE2934406F5DFF51CA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR1P278MB1171DC0C24600C5EF6F77E6E8B1CA@ZR1P278MB1171.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+
+________________________________
+
+From: Martin Keller
+Sent: 24 September 2025 11:31
+To: DNEXT_ANALYSTS <dnext-analysts@dnext.io>
+Subject: ERA5 & weather data update
+ 
+Hi All,
+
+FYI, we had an outage in the environment hosting the weather and satellite data pipelines last night. The issue has been fixed and all pipelines are running as normal again. Some pipeline runs, notably ERA5-Land, are still backfilling as of this moment, all data should be available again as usual within the next hour.
+
+Best regards,
+
+Martin 

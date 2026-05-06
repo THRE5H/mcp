@@ -1,0 +1,5 @@
+**Problem**: The customer needed confirmation regarding the creation of a user account for a new employee on the platform.
+
+**Context**: The user is an external user from Customer Organization. The issue involved the user account creation process on the Service Provider's platform, specifically related to onboarding a new employee.
+
+**Solution**: The Support Agent confirmed that a user account had been successfully created for the new employee and that login credentials were sent to their inbox. It is recommended that the user check their email for the credentials and reach out for further assistance if needed.

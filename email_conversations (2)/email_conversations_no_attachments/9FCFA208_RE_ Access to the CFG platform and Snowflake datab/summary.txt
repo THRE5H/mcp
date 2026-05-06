@@ -1,0 +1,5 @@
+**Problem**: The customer requested access to the CFG platform and Snowflake database for themselves and another user.
+
+**Context**: The user is a Data Analyst at a Customer Organization. The request was made to the Customer Support team of the Service Provider regarding access to specific platforms necessary for their work.
+
+**Solution**: The Support Agent confirmed that access was granted for both the CFG platform and Snowflake database. The customer and the other user were informed that their credentials would be sent via separate emails. It is recommended to ensure that access requests are submitted in advance to avoid delays in future projects.

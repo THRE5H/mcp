@@ -1,0 +1,5 @@
+**Problem**: The customer experienced a 500 server error when attempting to access datasets and requested assistance in resolving the issue.
+
+**Context**: The user is an external user from a Customer Organization, seeking help from a Service Provider's customer support team regarding a web application issue. The problem arose while accessing datasets, indicating a potential server-side issue.
+
+**Solution**: The support agent recommended clearing the browser cache, which ultimately resolved the issue for the customer. The customer confirmed that this action fixed the problem, suggesting that users experiencing similar issues may benefit from this troubleshooting step.

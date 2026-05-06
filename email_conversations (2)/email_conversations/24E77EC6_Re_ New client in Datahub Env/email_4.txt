@@ -1,0 +1,82 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Sami Jaballah; Support Dnext
+Date: 2026-01-13 12:34:28.572000+00:00
+Subject: RE: New client in Datahub Env
+Message-ID: GV0P278MB1320AB47770A633F56D9E6E0F88EA@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GVAP278MB067732DBB59BBEC992DE66A9888EA@GVAP278MB0677.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Sami,
+
+ 
+
+Just to be sure , the resources we are sharing are Tradematrices & S&D Dashboards (the DNEXR one I assume ?) ? if he is going to be using the API he can not download the data from the dashboards , perhaps the datasets behind those dashboards ? 
+
+ 
+
+Thanks in advance for your help.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Sami Jaballah <sami.jaballah@dnext.io> 
+Sent: Tuesday, January 13, 2026 9:55
+To: Support Dnext <support@dnext.io>
+Cc: Jebrane Ben Salem <jebrane.bensalem@dnext.io>
+Subject: New client in Datahub Env
+
+ 
+
+Hello,
+
+ 
+
+We have a new client -  for a test period of 3 months - Jump Systems (USA). He needs access to:
+
+*	Historical S&D Forecasts (Tradeflows + S&D dashboards): all commodities
+
+ 
+
+Needs 1 user: VDG@jumptrading.com <mailto:VDG@jumptrading.com>  (Data Engineering team) -> will access through APIs
+
+Please  do not send before validation
+
+ 
+
+Period: 15.01.2026 to 15.04.2026
+
+ 
+
+Many thanks
+
+Sami
+
+ 
+
+ 
+
+ 
+
+ 

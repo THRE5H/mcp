@@ -1,0 +1,88 @@
+From: Bastien Lambert </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=BF480A811C87445989BB1CEBAE380400-BASTIEN.LAM>
+To: Jebrane Ben Salem
+Date: 2025-08-14 10:42:36.389000+00:00
+Subject: RE: Looking for the updated Soybean Tradeflow matrix
+Message-ID: GV0P278MB0148E981D00F5D3E1D6432999835A@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: ZR3P278MB1226155F1E0354FF09AAC056F535A@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hi Jebrane, the right number is the one on dropbox. I had not published the tradeflow version. It is now done, so the trade matrix should be updated on their side too.
+
+ 
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io> 
+Sent: Thursday, August 14, 2025 11:35 AM
+To: Bastien Lambert <bastien.lambert@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: Looking for the updated Soybean Tradeflow matrix
+
+ 
+
+Kind reminder
+
+________________________________
+
+From: Jebrane Ben Salem <jebrane.bensalem@dnext.io <mailto:jebrane.bensalem@dnext.io> >
+Sent: 13 August 2025 23:10
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: Looking for the updated Soybean Tradeflow matrix 
+
+ 
+
+Hello Bastien, 
+
+ 
+
+Can you please Update the file in Dropbox.
+
+It contains the same value of the dashboard.
+
+ 
+
+
+
+________________________________
+
+From: Oscar Shi <oshi@valentassetmgmt.com <mailto:oshi@valentassetmgmt.com> >
+Sent: 13 August 2025 20:27
+To: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Cc: Neil Smaldon <nsmaldon@valentassetmgmt.com <mailto:nsmaldon@valentassetmgmt.com> >
+Subject: Looking for the updated Soybean Tradeflow matrix 
+
+ 
+
+Hi Support team,
+
+ 
+
+It seems the Oilseeds team has updated Brazil's July Soybean shipments, as seen in the SnD (first image below). However, the Tradeflow has not reflected this change (second image below) - I already clicked on Refresh data.
+
+ 
+
+Could you help double check? I'm hoping to see the changes in not only Brazil but across all origins & destinations.
+
+ 
+
+Thank you very much,
+
+Oscar
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+Disclaimer
+
+This communication may contain privileged or confidential information. If you are not the intended recipient (or have received this communication in error), we ask that you please notify us immediately and delete this communication. Please note that we do not waive confidentiality if you have received this communication in error. Any review as well as any unauthorized copying, disclosure, dissemination or distribution of this communication is strictly prohibited. Any views or opinions presented are solely those of the author and do not necessarily represent those of Valent Asset Management LLC or its affiliates. This is not an offer, or solicitation of any offer, to buy or sell any security, investment or other product. Alternative investments, including privately-offered investment vehicles, involve significant risks and, therefore, are not for everyone. There is no guarantee of trading performance and there are no assurances that profits will be achieved or that substantial losses will be avoided. 
+
+PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.

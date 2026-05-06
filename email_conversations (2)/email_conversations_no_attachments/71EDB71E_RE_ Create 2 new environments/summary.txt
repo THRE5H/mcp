@@ -1,0 +1,5 @@
+**Problem**: The customer requested the creation of two new environments, Quadra.dnext.io and Cta.dnext.io, for specific users. They also mentioned that onboarding would begin once the contract was signed.
+
+**Context**: The user is an external user from the Customer Organization requesting support from the Service Provider. The environments are intended for grains, oilseeds, and vegetable oils, with specific users identified for access.
+
+**Solution**: The Support Agent acknowledged the request and asked the customer to include the customer name in the code. They also suggested creating tickets in Jira for such requests. The onboarding process is set to proceed once the contract is finalized.

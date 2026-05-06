@@ -1,0 +1,16 @@
+From: Amine Saidi </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=142398F5439E4C67B1091F0CF3834B19-E93FE411-60>
+To: Support Dnext
+Date: 2025-03-03 10:27:51.421000+00:00
+Subject: Request to Delete Dataset
+Message-ID: ZRAP278MB031763EED548E673126C4D0E87C92@ZRAP278MB0317.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Dear Saber,
+I hope you’re doing well.
+Could you please delete the dataset with the following code?
+Dataset Code: dnexr-dnexr-fertdu-prod-capacity
+The dataset is missing a column, and I am recreating a new one to replace it. Let me know if you need any further details.
+Best regards,
+
+

@@ -1,0 +1,214 @@
+From: Aditya Jeripotula </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9D93E6B528294A2483DFDFBF7F14FFA5-2ABFC020-A4>
+To: Saber Khalfallah; Support Dnext
+Date: 2025-12-05 08:25:02.056000+00:00
+Subject: Re: Trial for Wilmar
+Message-ID: GVAP278MB015018C63E15A69C13BA475B98A7A@GVAP278MB0150.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB1320B05E8AA9D14C7B6351B5F8D9A@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello Saber/team
+
+Please check the following are not yet on the demo account:
+GnO Economics>Futures (I see there is Argentina here)
+Lineups>Asia South East>Indonesia & Malaysia (missing the Palm Oil titled pages)
+
+Kindly update the above.
+
+Regards,
+AJ
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io>
+Sent: 04 December 2025 00:11
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Trial for Wilmar 
+ 
+
+I have also added them to the vegoils distribution list , please let me know if they need to be added elsewhere.
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io> 
+Sent: Wednesday, December 3, 2025 18:09
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io>; Bastien Lambert <bastien.lambert@dnext.io>; Guillaume Goudy <guillaume.goudy@dnext.io>; Support Dnext <support@dnext.io>
+Subject: RE: Trial for Wilmar
+
+ 
+
+Hello Aditya,
+
+ 
+
+env is ready , 
+
+https://demo4.dnext.io 
+
+ 
+
+credentials are sent privately on teams.
+
+ 
+
+Please let me know if anything needs to be adjusted.
+
+Thanks 
+
+ 
+
+Best regards,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> > 
+Sent: Wednesday, December 3, 2025 16:54
+To: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: Re: Trial for Wilmar
+
+ 
+
+Thanks Bastien.
+
+ 
+
+For trial, we can give them the following dashboards:
+
+GnO Crop>Indonesia> Industry Peers and Palm Oil Stats
+
+GnO Crop>Malaysia> CPO Stats and MPOA vs MPOB
+
+GnO Economics>Futures
+
+GnO Economics>Indonesia>Margin Analysis and Palm Oil Exports Levy & Duty
+
+GnO Economics>Malaysia>Margin Analysis
+
+GnO Economics>India>Edible Oil Margins
+
+Customs>Southeast Asia>Indonesia & Malaysia
+
+Lineups>Asia South East>Indonesia & Malaysia
+
+SND>DNEXR>Vegoils
+
+SND>Indonesia>Biodiesel Stats
+
+SND>India>Vegoils Stats SEA
+
+SND>China>Palm Oil Stocks
+
+Weather>Malindo
+
+Trade Matrix>DNEXR-vegoils
+
+ 
+
+Reports on email until 18th Dec (2 weeks from today)
+
+ 
+
+Regards,
+
+AJ
+
+________________________________
+
+From: Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Sent: 03 December 2025 22:43
+To: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> >; Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: Trial for Wilmar 
+
+ 
+
+Hi Saber,
+
+ 
+
+Could you please help Aditya with the below  ?
+
+The idea is to give them access to one of the demo account.
+
+Ideally, would be good to give them access to only palm data or tease them with some other interesting stuff, but so they don’t get lost.
+
+@Aditya Jeripotula <mailto:aditya.jeripotula@dnext.io> , could you please guide @Saber Khalfallah <mailto:saber.khalfallah@dnext.io>  on what dashboard / tradeflow we want to make accessible in the demo.
+
+ 
+
+Thanks 
+
+ 
+
+From: Aditya Jeripotula <aditya.jeripotula@dnext.io <mailto:aditya.jeripotula@dnext.io> > 
+Sent: Wednesday, December 3, 2025 4:40 PM
+To: Guillaume Goudy <guillaume.goudy@dnext.io <mailto:guillaume.goudy@dnext.io> >; Bastien Lambert <bastien.lambert@dnext.io <mailto:bastien.lambert@dnext.io> >
+Subject: Trial for Wilmar
+
+ 
+
+Greetings of the day, GG & Bastien
+
+ 
+
+We have to start 2-weeks trial for Wilmar KL team to whom we did demo last week. 
+
+ 
+
+Below are the email ids
+
+Danielle.khorwanhooi@my.wilmar-intl.com <mailto:Danielle.khorwanhooi@my.wilmar-intl.com>  
+
+Farid.esran@my.wilmar-intl.com <mailto:Farid.esran@my.wilmar-intl.com>  
+
+ 
+
+Farid is senior operations executive and Danielle is Manager operations
+
+ 
+
+Kindly guide me on the above. 
+
+ 
+
+Regards,
+
+AJ

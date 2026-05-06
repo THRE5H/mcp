@@ -1,0 +1,23 @@
+From: Louis Olive </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=6FC2973B82AB486199C504934E45D6B2-5575315B-62>
+To: Support Dnext; Edouard Bueche
+Date: 2025-03-05 16:12:36.756000+00:00
+Subject: Dnexr Access
+Message-ID: GV0P278MB049952C21EAD4D22C60A12B68ACB2@GV0P278MB0499.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello,
+
+ 
+
+Apparently, @Edouard Bueche <mailto:edouard.bueche@dnext.io>  does not seem to have access to dnexr (only stage).
+
+Could you create some credentials for him ?
+
+ 
+
+Thank you 😊
+
+ 
+
+Louis

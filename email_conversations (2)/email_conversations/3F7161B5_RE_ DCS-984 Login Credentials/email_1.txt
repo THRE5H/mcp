@@ -1,0 +1,286 @@
+From: Mateo Stempels <mateo.stempels@graincorp.com.au>
+To: Pablo Figueroa; Saber Khalfallah
+Date: 2025-02-20 01:32:49.860000+00:00
+Subject: RE: DCS-984 Login Credentials
+Message-ID: SEYPR03MB7965086055F13F5755175D51ABC42@SEYPR03MB7965.apcprd03.prod.outlook.com
+In-Reply-To: GVAP278MB071251465588D76CC0CE12B7EBC52@GVAP278MB0712.CHEP278.PROD.OUTLOOK.COM
+Attachments: 29885_graincorp_email-animation_grains_02_bf343186.gif
+
+================================================================================
+
+Perfecto! Gracias por la data.
+
+ 
+
+Excelente 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io> 
+Sent: Thursday, 20 February 2025 10:59 AM
+To: Mateo Stempels <mateo.stempels@graincorp.com.au>; Saber Khalfallah <saber.khalfallah@dnext.io>
+Cc: Support Dnext <support@dnext.io>
+Subject: Re: DCS-984 Login Credentials
+
+ 
+
+This Message Is From an External Sender 
+
+Proceed with caution and report email if suspicious 
+
+	
+
+25/26 tenes las estimaciones en el tradeflow ya. china hice un cambio asi que vas a ver que una caida vs la estimacion previa.
+
+cualquier duda nos avisas.
+
+ 
+
+ 
+
+te paso un estimativo del usda para 25/26 que hice hace un par de semanas.
+
+ 
+
+esto mismo nos pregunto Alex Walsh hoy y le pase esto...porlas
+
+ 
+
+avisame si queres el excel te paso
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+by country details
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+________________________________
+
+From: Mateo Stempels <mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> >
+Sent: Thursday, February 20, 2025 12:36 AM
+To: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >; Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: RE: DCS-984 Login Credentials 
+
+ 
+
+Hola Pablo,
+
+ 
+
+Estoy trabajando en 25/26 global wheat SnD. En esta tengo todos los países que están reportados en USDA. Pero como ellos no producen data para el cultivo nuevo hasta dentro de unos meses quería saber si ustedes tenían disponible esa información.
+
+ 
+
+Del lado de Supply tengo todo completo ya que pude acceder a tu data. En caso de la demanda, tendrás algún estimativo de importaciones por región?
+
+ 
+
+Idealmente China, y países del SE Asiático que es donde normalmente vamos nosotros.
+
+ 
+
+Gracias!
+
+ 
+
+ 
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Sent: Thursday, 20 February 2025 10:05 AM
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >; Mateo Stempels <mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >
+Subject: Re: DCS-984 Login Credentials
+
+ 
+
+This Message Is From an External Sender
+
+Proceed with caution and report email if suspicious
+
+	
+
+Hola Mateo como estás?
+
+ 
+
+Tenemos informacion de algunos destinos. En el caso de trigo tengo el SND de Brazil, Turquia, India, Mexico y los principales exportadores e importadores de Europa.
+
+ 
+
+Por ahora no los tengo estructurados de la misma manera que los principales origenes pero es algo que podemos hacer con algo mas de tiempo.
+
+ 
+
+otra alternativa es usar USDA para algunos paises para los cuales no hay tanta informacion disponible.
+
+ 
+
+Estabas buscando alguno en particular?
+
+ 
+
+________________________________
+
+From: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Sent: Wednesday, February 19, 2025 11:37 PM
+To: Mateo Stempels <mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> >
+Cc: Support Dnext <support@dnext.io <mailto:support@dnext.io> >; Pablo Figueroa <pablo.figueroa@dnext.io <mailto:pablo.figueroa@dnext.io> >
+Subject: RE: DCS-984 Login Credentials
+
+ 
+
+Hello Mateo
+
+Thank you for reaching out to us !
+
+I’m adding @Pablo Figueroa <mailto:pablo.figueroa@dnext.io>  who will help you regarding your request for the data
+
+Best regards ,
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Mateo Stempels <mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> >
+Sent: Wednesday, February 19, 2025 23:27
+To: Saber Khalfallah <saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> >
+Subject: RE: DCS-984 Login Credentials
+
+ 
+
+Hi Saber,
+
+ 
+
+Im working on 25/26 global wheat SnD and I’m wondering if you also data from the demand side countries?
+
+ 
+
+I usually pull the production estimates from the exporters but maybe there is data for importers country and im missing it.
+
+ 
+
+Regards,
+
+Mateo
+
+ 
+
+Mateo Stempels
+
+Commercial Commodity Analyst
+
+
+E: mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> 
+
+
+
+ <https://www.graincorp.com.au/> 
+
+graincorp.com.au
+
+	
+		
+Level 20, Tower 2, International Towers, 200 Barangaroo Avenue Barangaroo 2000 NSW AUS
+
+	
+
+ 
+
+________________________________
+
+This email is intended for the designated recipient(s) only, and may be confidential, non-public, proprietary, protected by lawyer or attorney/client or other privilege. Unauthorised reading, distribution, copying or other use of this communication is prohibited and may be unlawful. Receipt by anyone other than the intended recipient(s) should not be deemed a waiver of any privilege or protection. If you are not the intended recipient or if you believe that you have received this email in error, please notify the sender immediately and delete all copies from your computer system without reading, saving, or using it in any manner. Although it has been checked for viruses and other malicious software ["malware"], we do not warrant, represent or guarantee in any way that this communication is free of malware or potentially damaging defects. All liability for any actual or alleged loss, damage, or injury arising out of or resulting in any way from the receipt, opening or use of this email is expressly disclaimed.
+
+ 
+
+ 
+
+From: Saber Khalfallah <jira@dnext.atlassian.net <mailto:jira@dnext.atlassian.net> >
+Sent: Wednesday, 19 February 2025 8:07 PM
+To: Mateo Stempels <mateo.stempels@graincorp.com.au <mailto:mateo.stempels@graincorp.com.au> >
+Subject: DCS-984 Login Credentials
+
+ 
+
+This Message Is From an External Sender
+
+Proceed with caution and report email if suspicious
+
+	
+
+—-—-—-—
+
+Reply above this line.
+
+Saber Khalfallah commented:
+
+Hello Mateo
+
+I hope this email finds you well
+
+You have now been added to the GrainCorp Distribution list
+
+If you have any questions or if you need any assistance , please don’t hesitate to reach out
+
+Best regards,
+
+Saber Khalfallah Customer Support
+
+saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+		
+
+ <https://dnext.atlassian.net/servicedesk/customer/request/27578/attachment/17054> | DNEXT INTELLIGENCE SA : Avenue Louis-Casaï 81 : CH-1216 Cointrin info@dnext.io <mailto:info@dnext.io>  : www.dnext.io <http://www.dnext.io/>  |
+
+View request <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-984?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6ImRkOTYzMzIzMTE2YzU3NDFiYjgxMjNiODFkZmE0OWNmNmY3NWZkZWZhODNiZGNkYzZmMDcyNjA0OWUzZDc4YzMiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoiMTAyNDEiLCJpc3N1ZSI6IkRDUy05ODQifSwiZXhwIjoxNzQyMzc1MTkxLCJpYXQiOjE3Mzk5NTU5OTF9.KqXhbs62TM7P-1m5C-1z4bogvHW7v5LxX2bfO5NYxV8&sda_source=notification-email>  · Turn off this request's notifications <https://dnext.atlassian.net/servicedesk/customer/portal/1/DCS-984/unsubscribe?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0Z3QiOiJhbm9ueW1vdXMtbGluayIsInFzaCI6IjU1NDUxMDZlZDBjZjdjNmQzM2RhZDVhNDNhMGI2YTkyZTNmMWQwNWE2OTQyMWNlMWVhMTM0YTM4YTU5NmU3OWIiLCJpc3MiOiJzZXJ2aWNlZGVzay1qd3QtdG9rZW4taXNzdWVyIiwiY29udGV4dCI6eyJ1c2VyIjoidWc6MDU4ZGYzZjItODhkMS00MjU0LWIwZTQtYTU4ZGViNDBhZTVjIiwiaXNzdWUiOiJEQ1MtOTg0In0sImV4cCI6MTc0MjM3NTE5MSwiaWF0IjoxNzM5OTU1OTkxfQ.J88bdVbvTTMvsTLDuawA6NFf2nET3xgBaJTOnQyNfN8> 
+
+This is shared with Saber Khalfallah and Mateo Stempels.
+
+Powered by Jira Service Management <https://www.atlassian.com/software/jira/service-desk/powered-by?utm_medium=jira-in-product&utm_source=jira_service_desk_email_footer&utm_content=dnext> 
+
+Sent on 19 February 2025 10:06:31 CET
+
+

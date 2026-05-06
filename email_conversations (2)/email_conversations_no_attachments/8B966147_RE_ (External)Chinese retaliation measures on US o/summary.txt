@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to send an email due to a message being blocked by a custom mail flow rule, as the recipient's email ID no longer existed.
+
+**Context**: The user is an external user from a Customer Organization attempting to communicate with a recipient at a Partner Company. The issue arose when the email was rejected due to organizational policies set by the Partner Company.
+
+**Solution**: The Support Team Member confirmed the request to delete the user from the system. It is recommended that the customer ensure recipient email addresses are valid and up-to-date to avoid similar issues in the future.

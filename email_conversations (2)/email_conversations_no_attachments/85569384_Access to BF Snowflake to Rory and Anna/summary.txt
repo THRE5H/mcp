@@ -1,0 +1,5 @@
+**Problem**: The Customer requested confirmation on whether two users from a Partner Company have access to the Snowflake service and inquired about the availability of installation documents for ODBC.
+
+**Context**: The Customer is an external user seeking assistance from a Support Agent regarding access permissions and installation instructions for a data service. The issue involves the Snowflake service and the ODBC installation process.
+
+**Solution**: The Support Agent was tasked with verifying access for the users and locating the necessary ODBC installation documents. Recommendations for future access checks and documentation availability were implied but not explicitly stated in the conversation.

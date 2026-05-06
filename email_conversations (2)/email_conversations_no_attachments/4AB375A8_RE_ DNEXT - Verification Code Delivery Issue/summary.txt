@@ -1,0 +1,5 @@
+**Problem**: The customer reported an issue with not receiving verification codes necessary for changing their password on the platform.
+
+**Context**: The user is an external user of the Service Provider's platform. The issue affected the delivery of verification codes, which is critical for password management. The Service Provider's support team was actively working on a resolution.
+
+**Solution**: The issue with the non-delivery of verification code emails was resolved by the Service Provider's team. Users were informed of the fix and encouraged to reach out to support for any further difficulties or questions. It is recommended that users monitor their email settings to ensure they receive important notifications.

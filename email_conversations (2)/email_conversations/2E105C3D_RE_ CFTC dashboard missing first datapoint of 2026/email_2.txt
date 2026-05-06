@@ -1,0 +1,22 @@
+From: Jebrane Ben Salem </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CBC5B196EFDC4AFE849E026DFE41DD1F-848DBB2D-C5>
+To: Pablo Figueroa; Support Dnext; Nader Ltaief
+Date: 2026-01-13 10:55:40.318000+00:00
+Subject: Re: CFTC dashboard missing first datapoint of 2026
+Message-ID: ZR3P278MB12261B830182DE44E0BAD593F58EA@ZR3P278MB1226.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB071761AF7B28607F2BA0123EEB8EA@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Adding @Nader Ltaief <mailto:nader.ltaief@dnext.io> 
+________________________________
+
+From: Pablo Figueroa <pablo.figueroa@dnext.io>
+Sent: 13 January 2026 08:54
+To: Support Dnext <support@dnext.io>
+Subject: CFTC dashboard missing first datapoint of 2026 
+ 
+Hi, can we check this one?
+
+thanks!
+

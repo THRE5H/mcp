@@ -1,0 +1,5 @@
+**Problem**: The User requested the creation of an account for the dnexr platform to work on a project after receiving initial login credentials for another environment.
+
+**Context**: The User is an external user from Customer Organization, needing access to the dnexr platform provided by Service Provider. The request followed the provision of login credentials for a different environment, indicating a transition to another project.
+
+**Solution**: The Support Agent responded by providing the User with new login credentials for the dnexr platform. The User was successfully set up with the necessary access to proceed with their project. It is recommended that Users verify their access needs before requesting credentials to streamline the process.

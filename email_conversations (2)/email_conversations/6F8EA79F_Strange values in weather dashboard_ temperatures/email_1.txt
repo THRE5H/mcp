@@ -1,0 +1,11 @@
+From: Pablo Figueroa </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=001157F490734A7686F372DCEB6A00A7-PABLO.FIGUE>
+To: Support Dnext; Martin Keller
+Date: 2025-11-19 17:56:56.362000+00:00
+Subject: Strange values in weather dashboard: temperatures in Iraq
+Message-ID: GV0P278MB0717D0615BFEF0BC011B1795EBD7A@GV0P278MB0717.CHEP278.PROD.OUTLOOK.COM
+Attachments: image.png
+
+================================================================================
+
+Hi it seems there is something weird here with this periodical lows in the temperatures. is it in the data or something going on with the dashboard calculations?
+

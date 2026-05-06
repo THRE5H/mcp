@@ -1,0 +1,57 @@
+From: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com>
+To: Support Dnext
+Date: 2025-03-05 16:42:47.186000+00:00
+Subject: RE: Weather Plot Average Issue
+Message-ID: BY5PR19MB3972346DB5A0242B1057E27B86CB2@BY5PR19MB3972.namprd19.prod.outlook.com
+In-Reply-To: IA0PR19MB8074EB6DB6D92887C2C659C9F8CB2@IA0PR19MB8074.namprd19.prod.outlook.com
+
+================================================================================
+
+Hello Guys,
+
+ 
+
+Is it possible to exclude this year data from the avg calculation?
+
+ 
+
+Regards,
+
+Marcelo Maciel
+
+ 
+
+From: Cox, David <David.Cox@jbssa.com> 
+Sent: Wednesday, March 5, 2025 7:40 AM
+To: Nogueira Maciel, Marcelo <Marcelo.Maciel@jbssa.com>
+Subject: Weather Plot Average Issue
+
+ 
+
+ 
+
+It looks to me like the black average line is including this year’s actual. That doesn’t make sense.
+
+ 
+
+
+
+ 
+
+David Cox
+
+Commodity Derivatives Trader | Risk Management
+
+David.Cox@jbssa.com <mailto:David.Cox@jbssa.com>  | jbsfoodsgroup.com <http://jbsfoodsgroup.com> 
+
+O: 970.506.7573
+
+1770 Promontory Circle | Greeley, CO 80634
+
+ 
+
+
+
+Disclaimer
+
+The information transmitted is intended only for the person or entity to which it is addressed and may contain confidential and/or privileged material. Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon this information by persons or entities other than the intended recipient is prohibited. If you received this in error, please contact the sender and delete the material from any computer. This email has been checked for viruses. However, JBS USA Food Company and its constituent companies cannot accept responsibility for loss or damages arising from use of this email or attachments and we recommend that you subject these to your virus checking procedures prior to use.

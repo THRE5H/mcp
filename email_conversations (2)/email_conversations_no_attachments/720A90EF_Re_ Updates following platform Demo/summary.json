@@ -1,0 +1,18 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "Users encounter an error in the Sugar Production > India dashboard when there is insufficient browser memory, causing visualization issues.",
+    "solution": "If the dashboard visualization error occurs due to insufficient memory, close some browser tabs to free up memory and then refresh the dashboard page. This will resolve the visualization issue.",
+    "keywords": [
+      "dashboard error",
+      "Sugar Production",
+      "India dashboard",
+      "visualization issue",
+      "insufficient memory",
+      "browser memory",
+      "refresh",
+      "close tabs"
+    ],
+    "category": "Error Resolution"
+  }
+}

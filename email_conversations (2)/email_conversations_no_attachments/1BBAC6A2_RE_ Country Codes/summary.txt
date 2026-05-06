@@ -1,0 +1,5 @@
+**Problem**: The customer reported that certain country codes exist but cannot be selected during the dataset mapping process.
+
+**Context**: The user is an external user from the Customer Organization seeking assistance from the Support Team of the Service Provider. The issue pertains to a dataset mapping feature, specifically regarding the selection of country codes.
+
+**Solution**: The Support Agent explained that the inability to select certain country codes is due to a filter applied during dataset creation, which restricts mapping to locations classified as "COUNTRY." The customer acknowledged the explanation and decided to consult with a colleague before making any changes to the dataset.

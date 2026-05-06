@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with login credentials to access the platform.
+
+**Context**: The user is an external user attempting to access a service provided by a Customer Organization. The issue involves login credentials for the platform.
+
+**Solution**: The Support Agent provided the user with the necessary login URL and credentials to access the platform. The user was able to log in successfully with the provided information. It is recommended to securely store login credentials to prevent future access issues.

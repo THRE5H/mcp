@@ -1,0 +1,5 @@
+**Problem**: The customer reported that the April WASDE estimates were not visible in the database, prompting a request for assistance from the IT team.
+
+**Context**: The user is an external customer inquiring about data availability in a database related to agricultural estimates. The product involved is the WASDE tables, and the issue arose shortly after the release of the latest report.
+
+**Solution**: The support team confirmed that the dataset was updated with the latest report data and matched the values. It is recommended for users to verify the dataset periodically to ensure they have the most current information.

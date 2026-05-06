@@ -1,0 +1,5 @@
+**Problem**: The customer requested a platform login for their account associated with the email address daniel.wyczolkowski@viserion.co.
+
+**Context**: The user is an external user seeking access to a platform provided by the Service Provider. The request was made via email, indicating a need for login credentials to access the service.
+
+**Solution**: The Support Agent confirmed the request and processed the login credentials for the user. The customer was advised to check their email for the login details and to follow best practices for password management to ensure account security.

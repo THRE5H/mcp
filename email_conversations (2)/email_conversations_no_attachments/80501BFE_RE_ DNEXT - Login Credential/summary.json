@@ -1,0 +1,23 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User changed password but cannot find fertilizer-related dashboards or data on the platform.",
+    "solution": "Fertilizer dashboards are located within the GnO Economics section of the platform. Fertilizer data can also be found in the LineUps dashboards (where WAF lineups are), in Customs, and in the urea balance section in SND. Additionally, there are tradematrix dashboards available for urea, DAP, and ammonia. Users can request a guided tour or demo session to learn how to navigate and use these features effectively.",
+    "keywords": [
+      "fertilizer dashboards",
+      "GnO Economics",
+      "LineUps",
+      "Customs",
+      "urea balance",
+      "SND",
+      "tradematrix",
+      "urea",
+      "DAP",
+      "ammonia",
+      "dashboard navigation",
+      "platform demo",
+      "password change"
+    ],
+    "category": "Platform Navigation"
+  }
+}

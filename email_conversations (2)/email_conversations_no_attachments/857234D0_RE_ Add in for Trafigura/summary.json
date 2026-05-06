@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to access a specific dataset in Excel using an add-in and replicate an SQL power query output within Excel.",
+    "solution": "To access the dataset \"dnexr-structured-uscensus-gno-usa-tf_customs-monthly\" in Excel, install the Excel add-in by downloading and running the installer from https://excel-addin.dnext.io/prod/setup.exe. After installation, use the add-in to connect to the dataset and replicate the SQL power query by applying the provided SQL code logic within the add-in's query interface or Power Query editor. The SQL query filters products by specific codes and maps product codes to product names, selecting relevant columns such as Country Partner, Trade Direction, Product, Quantity, and Date Reporter.",
+    "keywords": [
+      "Excel add-in",
+      "dataset access",
+      "SQL power query",
+      "dnexr-structured-uscensus-gno-usa-tf_customs-monthly",
+      "data extraction",
+      "product code mapping",
+      "query replication",
+      "installer download",
+      "Excel data integration"
+    ],
+    "category": "How-to Guide"
+  }
+}

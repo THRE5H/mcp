@@ -1,0 +1,14 @@
+From: John Stansfield </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=ADF99C30AB334415984CBF2F45D0C5A0-JOHN.STANSF>
+To: TradeFlow; Support Dnext
+Date: 2025-02-07 12:53:02.699000+00:00
+Subject: US Export data
+Message-ID: GV0P278MB060537C6F23B9E9B3FD9F9BF85F12@GV0P278MB0605.CHEP278.PROD.OUTLOOK.COM
+Attachments: image_2.png
+
+================================================================================
+
+Very small point but when i am going through the US export data and looking at the partner data I see we have 21 rows for Netherlands.   Any specific reason?  Is it linked to Netherlands Antilles?
+
+Is there a way yet to download this data onto excel?  When we build our sugar SNDs we consolidate the EU import/export data into a Total EU27 number.   Longer term I wonder whether there could be a way of automating the summation of the EU27 data.  
+
+

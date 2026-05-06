@@ -1,0 +1,5 @@
+**Problem**: The customer needed assistance with downloading data related to Argentina farmer selling directly from the platform.
+
+**Context**: The customer is an external user from a financial organization seeking data from a service provider's platform. The inquiry was initiated due to a lack of clarity on how to access the required datasets.
+
+**Solution**: The support team provided links to both daily and weekly datasets for Argentina farmer selling. Additionally, they informed the customer about an API for further data access and offered assistance with its documentation if needed. The customer confirmed receipt of the information and expressed gratitude.

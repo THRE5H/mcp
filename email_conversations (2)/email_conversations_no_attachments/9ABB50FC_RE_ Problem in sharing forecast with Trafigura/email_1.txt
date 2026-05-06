@@ -1,0 +1,79 @@
+From: Saber Khalfallah </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=EC49082C17FD4A35889594A9C7ADF53D-30DE44D7-0A>
+To: Bastien Lambert; Support Dnext; Dina Sirbu
+Date: 2025-03-06 13:37:30.607000+00:00
+Subject: RE: Problem in sharing forecast with Trafigura
+Message-ID: GV0P278MB1320C3ED379462CED62F66F1F8CA2@GV0P278MB1320.CHEP278.PROD.OUTLOOK.COM
+In-Reply-To: GV0P278MB0148F17DB207172D720EA1DE98CA2@GV0P278MB0148.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+Hello 
+
+ 
+
+@Dina Sirbu <mailto:Dina.Sirbu@trafigura.com> 
+
+ 
+
+We are sorry you had to encounter this issue 
+
+ 
+
+the TradeMatrix is now displaying the forecast correctly  
+
+
+
+
+
+
+if you have any questions or if you need further assistance please do not hesitate to reach out 
+
+ 
+
+Best regards,
+
+ 
+
+Saber Khalfallah
+
+Customer Support
+
+                                                                                                     saber.khalfallah@dnext.io <mailto:saber.khalfallah@dnext.io> 
+
+
+
+ 
+
+ 
+
+DNEXT INTELLIGENCE SA | Avenue Louis-Casaï 81 | CH-1216 Cointrin
+
+info@dnext.io <mailto:info@dnext.io>  | www.dnext.io <http://www.dnext.io/> 
+
+ 
+
+ 
+
+From: Bastien Lambert <bastien.lambert@dnext.io> 
+Sent: Thursday, March 6, 2025 12:13
+To: Support Dnext <support@dnext.io>
+Cc: Dina Sirbu <Dina.Sirbu@trafigura.com>
+Subject: Problem in sharing forecast with Trafigura
+
+ 
+
+Hi support,
+
+ 
+
+Dina (in CC) has a problem to access the forecast of the sbssbm tradeflow. Could you please make sure the forecast is being shared with Trafigura environment.
+
+ 
+
+Thanks
+
+ 
+
+ 
+
+

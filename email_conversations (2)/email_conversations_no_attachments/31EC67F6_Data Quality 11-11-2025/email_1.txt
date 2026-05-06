@@ -1,0 +1,21 @@
+From: Nader Ltaief </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=98D6AC533CBA4526B6D4693681DD77A5-9E65E365-37>
+To: Quentin Doublet; Louis Olive
+Date: 2025-11-11 16:37:02.866000+00:00
+Subject: Data Quality 11-11-2025
+Message-ID: GV0P278MB05145D14DB115AA1A6A0AD2CF0CFA@GV0P278MB0514.CHEP278.PROD.OUTLOOK.COM
+
+================================================================================
+
+France Prices:
+AGRIMER Livestock & Meat France CASH weekly:
+Script is based on python library xmltodict
+Which missing in the platform
+
+Spain Water level Dashboard:
+dnexr-mapa-water-reservoir 
+The source provides microsoft access file,
+So these needed to be installed in platform so the script could be scheduled  in the platform
+
+
+mdbtools , pyodbc
+

@@ -1,0 +1,5 @@
+**Problem**: The customer was unable to log into the Dnext portal, receiving an "Access Denied" error message when attempting to access their account.
+
+**Context**: The user is an external user from Customer Organization, seeking assistance with the Dnext portal. The issue arose while trying to log in, which was critical for their work.
+
+**Solution**: The Support Agent provided the correct login URL and suggested clearing the browser cache and disabling any active VPNs. The user confirmed that using the correct link resolved the issue, allowing successful access to the portal. It is recommended to always use the correct URL to avoid similar issues in the future.

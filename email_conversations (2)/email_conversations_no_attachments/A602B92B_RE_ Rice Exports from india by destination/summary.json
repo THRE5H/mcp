@@ -1,0 +1,19 @@
+{
+  "is_useful": true,
+  "summary": {
+    "problem": "User wants to view country-wise details of rice exports from India in a dataset on the platform.",
+    "solution": "Access the India export dataset via the provided platform link. To view country-wise details, use the filter option within the same report to filter data by country. This allows visualization of rice exports broken down by destination country. Refer to the platform's filtering tools to apply the country filter and analyze the data accordingly.",
+    "keywords": [
+      "dataset",
+      "rice exports",
+      "India",
+      "country-wise details",
+      "filter",
+      "data visualization",
+      "platform",
+      "export data",
+      "report filtering"
+    ],
+    "category": "How-to Guide"
+  }
+}

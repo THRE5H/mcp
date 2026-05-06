@@ -20,7 +20,48 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+# Useless folders for Railway deployment
 
+admin_dashboard/
+frontend/
+docs_md/
+email_conversations/
+email_conversations (2)/
+assets/
+scripts/
+.gradio/
+docker/
+
+# Development files
+
+COLLEAGUE_SETUP.md
+COPY_THESE_FILES.txt
+DEPLOYMENT.md
+DO_THIS_NOW.txt
+IMPLEMENTATION_SUMMARY.md
+INTEGRATION_TESTING.md
+MCP_FILES_TO_ADD.md
+MCP_IMPLEMENTATION_SUMMARY.md
+MCP_READY_TO_USE.md
+MCP_SERVER_GUIDE.md
+MCP_SERVER_READY.md
+MCP_SIMPLE_CHECKLIST.md
+PHASE_1_CHECKLIST.md
+PHASE_1_README.md
+PHASE_1_SETUP.md
+QUICK_REFERENCE.txt
+QUICK_START_VSCODE.md
+README.md
+SPLIT_INSTRUCTIONS.md
+YOUR_SETUP.md
+Download_tradeflow_data.py
+Download_tradeflow_data.zip
+docker-compose.yml
+start.sh
+validate_and_reindex.py
+test.py
+output/
+"""
 # Virtual Environment
 venv/
 env/

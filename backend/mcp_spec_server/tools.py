@@ -78,12 +78,19 @@ class QueryPlatformSupportingTool:
                 if metadata:
                     logger.info(f"[MCP Tool] Metadata: {metadata}")
 
-                # Check if backend returned an error message
-                if "suspended" in response_text.lower() or "error" in response_text.lower():
-                    logger.warning(f"[MCP Tool] Backend returned error: {response_text}")
+                normalized = response_text.strip().lower()
+                if not normalized or normalized == "no response content found from backend.":
+                    logger.warning("[MCP Tool] Backend returned no usable content")
                     return {
-                        "answer": "The backend service is not properly configured for MCP. Please ensure the backend is running with proper session management enabled."
+                        "answer": (
+                            "The backend did not return a usable answer. "
+                            "Please check the backend chat endpoint and session handling."
+                        )
                     }
+
+                if normalized.startswith("error parsing response:") or normalized.startswith("backend error:"):
+                    logger.warning(f"[MCP Tool] Backend returned an error payload: {response_text}")
+                    return {"answer": response_text}
 
                 return {"answer": response_text}
 

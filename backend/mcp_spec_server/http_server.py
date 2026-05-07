@@ -175,7 +175,27 @@ async def mcp_streamable_endpoint(request: Request):
         method = body.get("method")
         params = body.get("params", {})
         request_id = body.get("id")
-        if method == "tools/list":
+        if method == "initialize":
+            logger.info("[MCP HTTP] initialize requested")
+            response = {
+                "jsonrpc": "2.0",
+                "id": request_id,
+                "result": {
+                    "protocolVersion": body.get("params", {}).get("protocolVersion", "2024-11-05"),
+                    "serverInfo": {
+                        "name": "dnext-mcp-server",
+                        "version": "1.0.0",
+                    },
+                    "capabilities": {
+                        "tools": {},
+                    },
+                },
+            }
+            return JSONResponse(status_code=200, content=response)
+        elif method == "notifications/initialized":
+            logger.info("[MCP HTTP] notifications/initialized received")
+            return JSONResponse(status_code=200, content={"jsonrpc": "2.0", "id": request_id, "result": {}})
+        elif method == "tools/list":
             logger.info("[MCP HTTP] list_tools requested")
             response = {
                 "jsonrpc": "2.0",

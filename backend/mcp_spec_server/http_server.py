@@ -108,34 +108,49 @@ async def health_check():
     return {"status": "ok", "service": "dnext-mcp-server"}
 
 
-@app.post("/mcp")
+from fastapi import status
+from fastapi.responses import JSONResponse
+from fastapi.openapi.models import Response as OpenAPIResponse
+
+@app.post(
+    "/mcp",
+    summary="MCP Protocol Endpoint",
+    response_description="JSON-RPC 2.0 response for MCP protocol clients.",
+    responses={
+        200: {
+            "description": "JSON-RPC 2.0 response",
+            "content": {"application/json": {"example": {"jsonrpc": "2.0", "id": 1, "result": {}}}},
+        },
+        400: {"description": "Invalid request"},
+        500: {"description": "Internal server error"},
+    },
+)
 async def mcp_streamable_endpoint(request: Request):
     """
-    Streamable HTTP endpoint for MCP protocol.
-    Accepts JSON-RPC 2.0 requests and returns streaming responses.
+    Main MCP protocol endpoint for Inspector, agents, and protocol clients.
+    Accepts JSON-RPC 2.0 POST requests with methods 'tools/list' and 'tools/call'.
+    Returns JSON-RPC 2.0 responses. Use this endpoint for MCP protocol integration.
     """
     try:
-        # Log incoming request details
         content_type = request.headers.get("content-type", "unknown")
         logger.info(f"[MCP HTTP] Incoming request - Content-Type: {content_type}")
-        
-        # Read and parse JSON body
         try:
             body = await request.json()
-        except json.JSONDecodeError as e:
+        except Exception as e:
             logger.error(f"[MCP HTTP] JSON decode error: {str(e)}")
-            # Try reading raw body to debug
             raw_body = await request.body()
             logger.error(f"[MCP HTTP] Raw body: {raw_body[:200]}")
-            raise
-        
+            return JSONResponse(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                content={
+                    "jsonrpc": "2.0",
+                    "error": {"code": -32700, "message": "Parse error"},
+                },
+            )
         logger.info(f"[MCP HTTP] Request: {body.get('method', 'unknown')}")
-
         method = body.get("method")
         params = body.get("params", {})
         request_id = body.get("id")
-
-        # Handle list_tools
         if method == "tools/list":
             logger.info("[MCP HTTP] list_tools requested")
             response = {
@@ -155,28 +170,18 @@ async def mcp_streamable_endpoint(request: Request):
                     ]
                 },
             }
-            return StreamingResponse(
-                _generate_sse(json.dumps(response)), media_type="text/event-stream"
-            )
-
-        # Handle call_tool
+            return JSONResponse(status_code=200, content=response)
         elif method == "tools/call":
             tool_name = params.get("name")
             arguments = params.get("arguments", {})
-
             logger.info(f"[MCP HTTP] tool called: {tool_name}")
-
             if tool_name != TOOL_NAME:
                 error_response = {
                     "jsonrpc": "2.0",
                     "id": request_id,
                     "error": {"code": -32601, "message": f"Unknown tool: {tool_name}"},
                 }
-                return StreamingResponse(
-                    _generate_sse(json.dumps(error_response)), media_type="text/event-stream"
-                )
-
-            # Get query
+                return JSONResponse(status_code=400, content=error_response)
             query = arguments.get("query")
             if not query:
                 error_response = {
@@ -184,34 +189,24 @@ async def mcp_streamable_endpoint(request: Request):
                     "id": request_id,
                     "error": {"code": -32600, "message": "Missing 'query' parameter"},
                 }
-                return StreamingResponse(
-                    _generate_sse(json.dumps(error_response)), media_type="text/event-stream"
-                )
-
-            # Execute tool and stream response
-            async def stream_tool_response():
-                try:
-                    result = await query_tool.execute(query)
-                    logger.info(f"[MCP HTTP] Tool executed successfully")
-
-                    response = {
-                        "jsonrpc": "2.0",
-                        "id": request_id,
-                        "result": {"content": [{"type": "text", "text": json.dumps(result)}]},
-                    }
-                    yield f"data: {json.dumps(response)}\n\n"
-
-                except Exception as e:
-                    logger.error(f"[MCP HTTP] Tool error: {str(e)}")
-                    error_response = {
-                        "jsonrpc": "2.0",
-                        "id": request_id,
-                        "error": {"code": -32603, "message": str(e)},
-                    }
-                    yield f"data: {json.dumps(error_response)}\n\n"
-
-            return StreamingResponse(stream_tool_response(), media_type="text/event-stream")
-
+                return JSONResponse(status_code=400, content=error_response)
+            try:
+                result = await query_tool.execute(query)
+                logger.info(f"[MCP HTTP] Tool executed successfully")
+                response = {
+                    "jsonrpc": "2.0",
+                    "id": request_id,
+                    "result": {"content": [{"type": "text", "text": json.dumps(result)}]},
+                }
+                return JSONResponse(status_code=200, content=response)
+            except Exception as e:
+                logger.error(f"[MCP HTTP] Tool error: {str(e)}")
+                error_response = {
+                    "jsonrpc": "2.0",
+                    "id": request_id,
+                    "error": {"code": -32603, "message": str(e)},
+                }
+                return JSONResponse(status_code=500, content=error_response)
         else:
             logger.warning(f"[MCP HTTP] Unknown method: {method}")
             error_response = {
@@ -219,28 +214,14 @@ async def mcp_streamable_endpoint(request: Request):
                 "id": request_id,
                 "error": {"code": -32601, "message": f"Unknown method: {method}"},
             }
-            return StreamingResponse(
-                _generate_sse(json.dumps(error_response)), media_type="text/event-stream"
-            )
-
-    except json.JSONDecodeError:
-        logger.error("[MCP HTTP] Invalid JSON")
-        error_response = {
-            "jsonrpc": "2.0",
-            "error": {"code": -32700, "message": "Parse error"},
-        }
-        return StreamingResponse(
-            _generate_sse(json.dumps(error_response)), media_type="text/event-stream"
-        )
+            return JSONResponse(status_code=400, content=error_response)
     except Exception as e:
         logger.error(f"[MCP HTTP] Unexpected error: {str(e)}")
         error_response = {
             "jsonrpc": "2.0",
             "error": {"code": -32603, "message": "Internal error"},
         }
-        return StreamingResponse(
-            _generate_sse(json.dumps(error_response)), media_type="text/event-stream"
-        )
+        return JSONResponse(status_code=500, content=error_response)
 
 
 async def _generate_sse(message: str):

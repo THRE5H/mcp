@@ -4,8 +4,9 @@ import logging
 from typing import Any
 import asyncio
 
-from fastapi import FastAPI, Request, HTTPException, Body
-from fastapi.responses import StreamingResponse
+from fastapi import FastAPI, Request, HTTPException, Body, Response
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse, JSONResponse
 from pydantic import BaseModel
 import uvicorn
 
@@ -30,6 +31,13 @@ class ChatResponse(BaseModel):
 
 # Create FastAPI app
 app = FastAPI(title="DNEXT MCP Server", version="1.0.0")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["*"],
+)
 @app.post("/tools/send-message", response_model=ChatResponse)
 async def send_message(request: ChatRequest = Body(...)):
     """Send a message to the chatbot (REST endpoint)"""
@@ -109,8 +117,24 @@ async def health_check():
 
 
 from fastapi import status
-from fastapi.responses import JSONResponse
 from fastapi.openapi.models import Response as OpenAPIResponse
+
+
+@app.get("/mcp")
+async def mcp_endpoint_info():
+    """Helpful response for users or clients that probe /mcp with GET."""
+    return {
+        "service": "dnext-mcp-server",
+        "transport": "streamable-http",
+        "message": "Use POST /mcp with a JSON-RPC 2.0 body for MCP requests.",
+        "supported_methods": ["tools/list", "tools/call"],
+    }
+
+
+@app.options("/mcp", status_code=204)
+async def mcp_endpoint_options():
+    """Handle CORS preflight for browser-based MCP clients."""
+    return Response(status_code=204)
 
 @app.post(
     "/mcp",

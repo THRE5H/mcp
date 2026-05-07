@@ -3,6 +3,7 @@ import asyncio
 import json
 import logging
 from typing import Any, Dict
+
 import httpx
 
 from config import (
@@ -117,6 +118,7 @@ class QueryPlatformSupportingTool:
                 
                 # Try to parse as streaming response (Server-Sent Events)
                 full_response = ""
+                latest_response = ""
                 text_content = response.text
                 
                 logger.info(f"[MCP Tool] Raw response text: {text_content[:200]}")
@@ -126,11 +128,19 @@ class QueryPlatformSupportingTool:
                     if line.startswith("data:"):
                         try:
                             event_data = json.loads(line[5:].strip())
-                            if "content" in event_data:
+                            if event_data.get("type") == "response" and "content" in event_data:
+                                # The backend streams the full assistant message on each SSE event,
+                                # so keep the latest version instead of concatenating duplicates.
+                                latest_response = event_data["content"]
+                            elif "content" in event_data:
                                 full_response += event_data["content"]
                         except json.JSONDecodeError:
                             # Sometimes data is not JSON, just plain text
                             full_response += line[5:].strip()
+
+                if latest_response:
+                    logger.info(f"[MCP Tool] Parsed latest streaming response: {latest_response[:200]}")
+                    return latest_response
 
                 if full_response:
                     logger.info(f"[MCP Tool] Parsed streaming response: {full_response[:200]}")

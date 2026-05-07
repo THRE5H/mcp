@@ -33,7 +33,7 @@ class Config:
 
     # Server
     HOST = os.getenv("API_HOST", "0.0.0.0")
-    PORT = int(os.getenv("API_PORT", "8000"))
+    PORT = int(os.getenv("API_PORT", os.getenv("PORT", "8000")))
 
     # CORS
     CORS_ORIGINS = os.getenv("CORS_ORIGINS", "http://localhost:3000").split(",")

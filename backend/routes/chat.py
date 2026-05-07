@@ -15,8 +15,23 @@ from services.chat_service import ChatService
 logger = logging.getLogger(__name__)
 
 router = APIRouter()
-chat_service = ChatService()
+chat_service: ChatService | None = None
 TEMP_UPLOAD_DIR = Path(__file__).resolve().parent.parent / "data" / "temp_uploads"
+
+
+def get_chat_service() -> ChatService:
+    """Initialize the chat service lazily so health checks stay lightweight."""
+    global chat_service
+    if chat_service is None:
+        try:
+            chat_service = ChatService()
+        except Exception as exc:
+            logger.error("Chat service initialization failed", exc_info=True)
+            raise HTTPException(
+                status_code=503,
+                detail=f"Chat service is unavailable: {exc}",
+            ) from exc
+    return chat_service
 
 
 async def generate_sse_stream(
@@ -27,7 +42,8 @@ async def generate_sse_stream(
 ):
     """Generate Server-Sent Events stream for chat response"""
     try:
-        async for chunk in chat_service.stream_chat_response(message, session_id, files):
+        service = get_chat_service()
+        async for chunk in service.stream_chat_response(message, session_id, files):
             # Format as SSE
             yield f"data: {json.dumps(chunk)}\n\n"
     except Exception as e:
@@ -70,6 +86,7 @@ async def chat(request: ChatRequest):
     """
     try:
         logger.info(f"Processing chat request: {request.message[:50]}...")
+        get_chat_service()
         
         # Generate SSE stream
         return StreamingResponse(
@@ -85,6 +102,8 @@ async def chat(request: ChatRequest):
             }
         )
     
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"Error in chat endpoint: {e}", exc_info=True)
         raise HTTPException(
@@ -112,6 +131,7 @@ async def chat_with_files(
             )
         
         logger.info(f"Processing chat with files: {message[:50] if message else 'no text'}... ({len(files or [])} files)")
+        get_chat_service()
 
         # Save uploaded files to a stable temp directory before passing them to V1.
         file_paths = await save_uploaded_files(files or [])
@@ -132,6 +152,8 @@ async def chat_with_files(
             }
         )
     
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"Error in chat_with_files endpoint: {e}", exc_info=True)
         raise HTTPException(
@@ -143,7 +165,8 @@ async def chat_with_files(
 @router.get("/sessions/{session_id}")
 async def get_session(session_id: str):
     """Get session information"""
-    session = chat_service.sessions.get(session_id)
+    service = get_chat_service()
+    session = service.sessions.get(session_id)
     if not session:
         raise HTTPException(status_code=404, detail="Session not found")
     
@@ -157,7 +180,8 @@ async def get_session(session_id: str):
 @router.delete("/sessions/{session_id}")
 async def delete_session(session_id: str):
     """Clear a session"""
-    if chat_service.clear_session(session_id):
+    service = get_chat_service()
+    if service.clear_session(session_id):
         return {"message": f"Session {session_id} cleared"}
     else:
         raise HTTPException(status_code=404, detail="Session not found")

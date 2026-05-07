@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Server Configuration
-MCP_SERVER_HOST = os.getenv("MCP_SERVER_HOST", "::")
-MCP_SERVER_PORT = int(os.getenv("MCP_SERVER_PORT", os.getenv("PORT", "8001")))
+MCP_SERVER_HOST = os.getenv("MCP_SERVER_HOST", "0.0.0.0")
+MCP_SERVER_PORT = int(os.getenv("PORT", os.getenv("MCP_SERVER_PORT", "8001")))
 
 
 def _resolve_backend_url() -> str:

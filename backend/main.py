@@ -4,6 +4,7 @@ Provides REST API for chat functionality with streaming support
 """
 
 import logging
+import os
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,7 +12,6 @@ from dotenv import load_dotenv
 from config import Config
 
 # Set paths relative to the repository root so the API and UI share one data store.
-import os
 from pathlib import Path
 backend_dir = Path(__file__).resolve().parent
 project_root = backend_dir.parent
@@ -77,9 +77,11 @@ async def root():
 
 if __name__ == "__main__":
     import uvicorn
+
+    reload_enabled = os.getenv("UVICORN_RELOAD", "false").lower() == "true"
     uvicorn.run(
-        "main:app",
+        app if not reload_enabled else "main:app",
         host=Config.HOST,
         port=Config.PORT,
-        reload=True,
+        reload=reload_enabled,
     )

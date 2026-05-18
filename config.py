@@ -26,6 +26,14 @@ class Config:
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
+    # API metadata shared with the FastAPI backend
+    API_TITLE = os.getenv("API_TITLE", "DNEXT Support Chatbot API")
+    API_VERSION = os.getenv("API_VERSION", "2.0.0")
+    API_DESCRIPTION = os.getenv(
+        "API_DESCRIPTION",
+        "REST API for the DNEXT Support Chatbot",
+    )
+
     # Paths
     BASE_DIR = BASE_DIR
     DOCS_FOLDER = _resolve_path(os.getenv("DOCS_FOLDER", "docs_md"))
@@ -42,7 +50,13 @@ class Config:
 
     # Server
     SERVER_PORT = int(os.getenv("SERVER_PORT", "7860"))
-    SERVER_NAME = "0.0.0.0"
+    SERVER_NAME = os.getenv("SERVER_NAME", "0.0.0.0")
+    HOST = os.getenv("API_HOST", SERVER_NAME)
+    PORT = int(os.getenv("API_PORT", os.getenv("PORT", str(SERVER_PORT))))
+    CORS_ORIGINS = os.getenv("CORS_ORIGINS", "http://localhost:3000").split(",")
+    CORS_ALLOW_CREDENTIALS = True
+    CORS_ALLOW_METHODS = ["*"]
+    CORS_ALLOW_HEADERS = ["*"]
 
     # Chunking
     CHUNK_SIZE = 400

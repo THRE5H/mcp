@@ -3,6 +3,8 @@ RAG engine: document indexing, vector retrieval, and context formatting.
 """
 
 import logging
+import hashlib
+import json
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -20,23 +22,75 @@ logger = logging.getLogger(__name__)
 class RAGEngine:
     """Handles document loading, indexing, and semantic retrieval."""
 
+    INDEX_MANIFEST_NAME = "docs_manifest.json"
+
     def __init__(self):
         self.embedding_manager = EmbeddingManager(Config.EMBEDDING_MODEL)
         self.vector_store = VectorStore(Config.CHROMA_DB_PATH)
         self.doc_processor = DocumentProcessor()
         self.collection = None
 
+    @staticmethod
+    def _docs_path() -> Path:
+        docs_path = Path(Config.DOCS_FOLDER)
+        if not docs_path.is_absolute():
+            docs_path = Path(Config.BASE_DIR) / docs_path
+        return docs_path.resolve()
+
+    def _manifest_path(self) -> Path:
+        return Path(Config.CHROMA_DB_PATH) / self.INDEX_MANIFEST_NAME
+
+    def _current_docs_signature(self, docs_path: Path) -> str:
+        hasher = hashlib.sha256()
+        for doc_file in sorted(list(docs_path.glob("*.md")) + list(docs_path.glob("*.txt"))):
+            stat = doc_file.stat()
+            relative_name = doc_file.relative_to(docs_path).as_posix()
+            hasher.update(relative_name.encode("utf-8"))
+            hasher.update(str(stat.st_size).encode("utf-8"))
+            hasher.update(str(stat.st_mtime_ns).encode("utf-8"))
+        return hasher.hexdigest()
+
+    def _load_saved_signature(self) -> str | None:
+        manifest_path = self._manifest_path()
+        if not manifest_path.exists():
+            return None
+
+        try:
+            data = json.loads(manifest_path.read_text(encoding="utf-8"))
+            return data.get("docs_signature")
+        except Exception as exc:
+            logger.warning("Could not read docs manifest %s: %s", manifest_path, exc)
+            return None
+
+    def _save_signature(self, docs_signature: str, docs_path: Path, doc_count: int) -> None:
+        manifest_path = self._manifest_path()
+        manifest_path.parent.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "docs_signature": docs_signature,
+            "docs_path": str(docs_path),
+            "document_count": doc_count,
+        }
+        manifest_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
     def initialize(self):
         """Load an existing vector DB or rebuild it from the docs folder."""
         logger.info("Initializing vector database...")
+        docs_path = self._docs_path()
+        current_signature = self._current_docs_signature(docs_path)
         try:
             self.collection = self.vector_store.get_collection()
             count = self.collection.count()
-            if count > 0:
+            saved_signature = self._load_saved_signature()
+            if count > 0 and saved_signature == current_signature:
                 logger.info("Loaded existing vector database with %s chunks", count)
                 return
 
-            logger.info("Existing collection is empty, rebuilding from documents...")
+            if count > 0:
+                logger.info(
+                    "Docs changed or manifest missing, rebuilding vector database from documents..."
+                )
+            else:
+                logger.info("Existing collection is empty, rebuilding from documents...")
         except Exception as exc:
             logger.warning(
                 "Could not load existing database (%s), rebuilding from documents...",
@@ -51,10 +105,8 @@ class RAGEngine:
     def load_documents(self) -> Tuple[bool, str]:
         """Load all .md / .txt files from DOCS_FOLDER and index them."""
         try:
-            docs_path = Path(Config.DOCS_FOLDER)
-            if not docs_path.is_absolute():
-                docs_path = Path(Config.BASE_DIR) / docs_path
-            docs_path = docs_path.resolve()
+            docs_path = self._docs_path()
+            current_signature = self._current_docs_signature(docs_path)
 
             logger.info("Loading documents from %s...", docs_path)
 
@@ -128,6 +180,7 @@ class RAGEngine:
             logger.info("Created %s chunks, generating embeddings...", total_chunks)
             embeddings = self.embedding_manager.encode_batch(all_chunks)
             self.vector_store.add_documents(all_chunks, all_metadatas, embeddings)
+            self._save_signature(current_signature, docs_path, len(md_files))
 
             final_count = self.collection.count()
             message = f"Indexed {final_count} chunks from {len(md_files)} documents."
